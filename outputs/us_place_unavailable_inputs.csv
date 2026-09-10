@@ -1,0 +1,64 @@
+geoid,name,variable,estimate,moe
+0203000,"Anchorage municipality, Alaska",population,288976,NA
+0236400,"Juneau city and borough, Alaska",population,31794,NA
+0270540,"Sitka city and borough, Alaska",population,8368,NA
+0286380,"Wrangell city and borough, Alaska",population,2088,NA
+0667000,"San Francisco city, California",population,830235,NA
+0809280,"Broomfield city, Colorado",population,76304,NA
+0820000,"Denver city, Colorado",population,718877,NA
+1150000,"Washington city, District of Columbia",population,681294,NA
+1319000,"Columbus city, Georgia",population,203711,NA
+1321017,"Cusseta-Chattahoochee County unified government, Georgia",population,8887,NA
+1326156,"Echols County consolidated government, Georgia",population,3709,NA
+1332528,"Georgetown-Quitman County unified government, Georgia",population,2264,NA
+1349008,"Macon-Bibb County, Georgia",population,156578,NA
+2146027,"Lexington-Fayette urban county, Kentucky",population,323725,NA
+2255000,"New Orleans city, Louisiana",population,371853,NA
+2404000,"Baltimore city, Maryland",population,573243,NA
+2965000,"St. Louis city, Missouri",population,288512,NA
+3001675,"Anaconda-Deer Lodge County, Montana",population,9597,NA
+3209700,"Carson City, Nevada",population,58384,NA
+3651000,"New York city, New York",population,8483844,NA
+4260000,"Philadelphia city, Pennsylvania",population,1579706,NA
+4732742,"Hartsville/Trousdale County, Tennessee",population,11957,NA
+4744382,"Lynchburg, Moore County metropolitan government, Tennessee",population,6674,NA
+5101000,"Alexandria city, Virginia",population,156976,NA
+5103000,"Arlington CDP, Virginia",population,236254,NA
+5109816,"Bristol city, Virginia",population,16849,NA
+5111032,"Buena Vista city, Virginia",population,6593,NA
+5114968,"Charlottesville city, Virginia",population,45437,NA
+5116000,"Chesapeake city, Virginia",population,252583,NA
+5118448,"Colonial Heights city, Virginia",population,18352,NA
+5119728,"Covington city, Virginia",population,5680,NA
+5121344,"Danville city, Virginia",population,42214,NA
+5125808,"Emporia city, Virginia",population,5547,NA
+5126496,"Fairfax city, Virginia",population,25026,NA
+5127200,"Falls Church city, Virginia",population,14710,NA
+5129600,"Franklin city, Virginia",population,8250,NA
+5129744,"Fredericksburg city, Virginia",population,28873,NA
+5130208,"Galax city, Virginia",population,6726,NA
+5135000,"Hampton city, Virginia",population,137557,NA
+5135624,"Harrisonburg city, Virginia",population,51392,NA
+5138424,"Hopewell city, Virginia",population,22959,NA
+5145512,"Lexington city, Virginia",population,7525,NA
+5147672,"Lynchburg city, Virginia",population,79497,NA
+5148952,"Manassas city, Virginia",population,42976,NA
+5148968,"Manassas Park city, Virginia",population,16798,NA
+5149784,"Martinsville city, Virginia",population,13658,NA
+5156000,"Newport News city, Virginia",population,184216,NA
+5157000,"Norfolk city, Virginia",population,233596,NA
+5157688,"Norton city, Virginia",population,3577,NA
+5161832,"Petersburg city, Virginia",population,33537,NA
+5163768,"Poquoson city, Virginia",population,12639,NA
+5164000,"Portsmouth city, Virginia",population,97190,NA
+5165392,"Radford city, Virginia",population,16726,NA
+5167000,"Richmond city, Virginia",population,229359,NA
+5168000,"Roanoke city, Virginia",population,98355,NA
+5170000,"Salem city, Virginia",population,25618,NA
+5175216,"Staunton city, Virginia",population,25948,NA
+5176432,"Suffolk city, Virginia",population,98796,NA
+5182000,"Virginia Beach city, Virginia",population,456349,NA
+5183680,"Waynesboro city, Virginia",population,22841,NA
+5186160,"Williamsburg city, Virginia",population,15798,NA
+5186720,"Winchester city, Virginia",population,27913,NA
+7215193,"Cataño zona urbana, Puerto Rico",population,22467,NA

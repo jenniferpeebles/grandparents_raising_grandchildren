@@ -1,0 +1,37 @@
+metric,exclusion_reason,records,received
+caregiver_count,Retained,32038,32038
+caregiving_percent,Caregiver count MOE exceeds 50% of estimate,2069,32038
+caregiving_percent,Missing input or nonpositive denominator,9749,32038
+caregiving_percent,Percentage MOE exceeds 50% of estimate,13580,32038
+caregiving_percent,Retained,771,32038
+caregiving_percent,Unavailable MOE or zero percentage,5869,32038
+five_plus_years,Caregiver count MOE exceeds 50% of estimate,1011,32038
+five_plus_years,Missing input or nonpositive denominator,15618,32038
+five_plus_years,Percentage MOE exceeds 50% of estimate,10079,32038
+five_plus_years,Retained,593,32038
+five_plus_years,Unavailable MOE or zero percentage,4737,32038
+less_than_six_months,Caregiver count MOE exceeds 50% of estimate,46,32038
+less_than_six_months,Missing input or nonpositive denominator,15618,32038
+less_than_six_months,Percentage MOE exceeds 50% of estimate,3531,32038
+less_than_six_months,Retained,48,32038
+less_than_six_months,Unavailable MOE or zero percentage,12795,32038
+one_or_two_years,Caregiver count MOE exceeds 50% of estimate,183,32038
+one_or_two_years,Missing input or nonpositive denominator,15618,32038
+one_or_two_years,Percentage MOE exceeds 50% of estimate,5963,32038
+one_or_two_years,Retained,154,32038
+one_or_two_years,Unavailable MOE or zero percentage,10120,32038
+six_to_eleven_months,Caregiver count MOE exceeds 50% of estimate,58,32038
+six_to_eleven_months,Missing input or nonpositive denominator,15618,32038
+six_to_eleven_months,Percentage MOE exceeds 50% of estimate,3374,32038
+six_to_eleven_months,Retained,40,32038
+six_to_eleven_months,Unavailable MOE or zero percentage,12948,32038
+story_scale_caregiving_percent,Caregiver count MOE exceeds 50% of estimate,1083,32038
+story_scale_caregiving_percent,Denominator below story-scale threshold,25747,32038
+story_scale_caregiving_percent,Percentage MOE exceeds 50% of estimate,4016,32038
+story_scale_caregiving_percent,Retained,749,32038
+story_scale_caregiving_percent,Unavailable MOE or zero percentage,443,32038
+three_or_four_years,Caregiver count MOE exceeds 50% of estimate,139,32038
+three_or_four_years,Missing input or nonpositive denominator,15618,32038
+three_or_four_years,Percentage MOE exceeds 50% of estimate,5440,32038
+three_or_four_years,Retained,114,32038
+three_or_four_years,Unavailable MOE or zero percentage,10727,32038

@@ -1,0 +1,36 @@
+metric,reason,records,received
+pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate,57,675
+pct_responsible_exclusion,Missing input or nonpositive denominator,116,675
+pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate,390,675
+pct_responsible_exclusion,Retained,16,675
+pct_responsible_exclusion,Unavailable MOE or zero percentage,96,675
+percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate,27,675
+percent_responsible_grandparents_five_plus_years_exclusion,Missing input or nonpositive denominator,212,675
+percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate,280,675
+percent_responsible_grandparents_five_plus_years_exclusion,Retained,15,675
+percent_responsible_grandparents_five_plus_years_exclusion,Unavailable MOE or zero percentage,141,675
+percent_responsible_grandparents_less_than_six_months_exclusion,Caregiver count MOE exceeds 50% of estimate,2,675
+percent_responsible_grandparents_less_than_six_months_exclusion,Missing input or nonpositive denominator,212,675
+percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate,111,675
+percent_responsible_grandparents_less_than_six_months_exclusion,Retained,1,675
+percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage,349,675
+percent_responsible_grandparents_one_or_two_years_exclusion,Caregiver count MOE exceeds 50% of estimate,4,675
+percent_responsible_grandparents_one_or_two_years_exclusion,Missing input or nonpositive denominator,212,675
+percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate,190,675
+percent_responsible_grandparents_one_or_two_years_exclusion,Retained,2,675
+percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage,267,675
+percent_responsible_grandparents_six_to_eleven_months_exclusion,Caregiver count MOE exceeds 50% of estimate,2,675
+percent_responsible_grandparents_six_to_eleven_months_exclusion,Missing input or nonpositive denominator,212,675
+percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate,85,675
+percent_responsible_grandparents_six_to_eleven_months_exclusion,Retained,1,675
+percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage,375,675
+percent_responsible_grandparents_three_or_four_years_exclusion,Caregiver count MOE exceeds 50% of estimate,6,675
+percent_responsible_grandparents_three_or_four_years_exclusion,Missing input or nonpositive denominator,212,675
+percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate,147,675
+percent_responsible_grandparents_three_or_four_years_exclusion,Retained,2,675
+percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage,308,675
+story_scale_exclusion,Caregiver count MOE exceeds 50% of estimate,35,675
+story_scale_exclusion,Denominator below story-scale threshold,476,675
+story_scale_exclusion,Percentage MOE exceeds 50% of estimate,133,675
+story_scale_exclusion,Retained,16,675
+story_scale_exclusion,Unavailable MOE or zero percentage,15,675

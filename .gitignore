@@ -1,0 +1,26 @@
+.Rhistory
+.RData
+.Rproj.user/
+
+
+data_raw/
+
+.env
+Renviron
+.Renviron
+
+*.html
+
+outputs/*.html
+
+logs/
+
+# Unrelated local reporting note; not part of this public project.
+scripts/fbi_crime_report.txt
+*.pem
+*.key
+.env.*
+*.zip
+
+Thumbs.db
+.DS_Store

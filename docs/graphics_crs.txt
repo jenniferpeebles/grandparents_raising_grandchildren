@@ -1,0 +1,2 @@
+Static map: WGS 84 / Pseudo-Mercator (EPSG:3857).
+Datawrapper GeoJSON exported in WGS 84 (EPSG:4326). Verified after export.

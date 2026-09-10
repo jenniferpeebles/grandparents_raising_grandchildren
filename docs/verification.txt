@@ -1,0 +1,12 @@
+PASS: analytical and output verification
+state 51 unique geographies: values reconcile to cached sources; percentages and audit counts checked.
+county 159 unique geographies: values reconcile to cached sources; percentages and audit counts checked.
+place 675 unique geographies: values reconcile to cached sources; percentages and audit counts checked.
+us 1 unique geographies: values reconcile to cached sources; percentages and audit counts checked.
+PASS: graphics count selection, screened map values, 159-county join, PNG exports and WGS84 GeoJSON round-trip.
+PASS: national county coverage, Georgia reconciliation, precision screen and unshifted WGS84 export.
+PASS: 51-state/DC map values match direct state estimates; screened fills and WGS84 export reconcile.
+PASS: national county/place ranks, tied percentiles, deciles, exclusions, universe counts and Georgia positions.
+PASS: five duration denominators, additive counts, missing-input status, mismatches, zero denominators, missing MOE and rank cases.
+PASS: eligible rankings, required artifact paths, period labeling and deterministic brief rerun.
+No significance tests or editorial publication approval are implied.

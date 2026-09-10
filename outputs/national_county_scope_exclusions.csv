@@ -1,0 +1,625 @@
+geoid,name,variable,estimate,moe
+72001,"Adjuntas Municipio, Puerto Rico",coresident_grandparents_total,309,161
+72001,"Adjuntas Municipio, Puerto Rico",responsible_total,20,23
+72001,"Adjuntas Municipio, Puerto Rico",less_than_six_months,0,24
+72001,"Adjuntas Municipio, Puerto Rico",six_to_eleven_months,0,24
+72001,"Adjuntas Municipio, Puerto Rico",one_or_two_years,0,24
+72001,"Adjuntas Municipio, Puerto Rico",three_or_four_years,0,24
+72001,"Adjuntas Municipio, Puerto Rico",five_plus_years,20,23
+72001,"Adjuntas Municipio, Puerto Rico",not_responsible,289,162
+72003,"Aguada Municipio, Puerto Rico",coresident_grandparents_total,735,300
+72003,"Aguada Municipio, Puerto Rico",responsible_total,183,147
+72003,"Aguada Municipio, Puerto Rico",less_than_six_months,0,33
+72003,"Aguada Municipio, Puerto Rico",six_to_eleven_months,41,67
+72003,"Aguada Municipio, Puerto Rico",one_or_two_years,94,91
+72003,"Aguada Municipio, Puerto Rico",three_or_four_years,24,37
+72003,"Aguada Municipio, Puerto Rico",five_plus_years,24,38
+72003,"Aguada Municipio, Puerto Rico",not_responsible,552,255
+72005,"Aguadilla Municipio, Puerto Rico",coresident_grandparents_total,1011,300
+72005,"Aguadilla Municipio, Puerto Rico",responsible_total,275,128
+72005,"Aguadilla Municipio, Puerto Rico",less_than_six_months,32,51
+72005,"Aguadilla Municipio, Puerto Rico",six_to_eleven_months,49,81
+72005,"Aguadilla Municipio, Puerto Rico",one_or_two_years,48,56
+72005,"Aguadilla Municipio, Puerto Rico",three_or_four_years,96,77
+72005,"Aguadilla Municipio, Puerto Rico",five_plus_years,50,48
+72005,"Aguadilla Municipio, Puerto Rico",not_responsible,736,284
+72007,"Aguas Buenas Municipio, Puerto Rico",coresident_grandparents_total,478,227
+72007,"Aguas Buenas Municipio, Puerto Rico",responsible_total,143,119
+72007,"Aguas Buenas Municipio, Puerto Rico",less_than_six_months,108,122
+72007,"Aguas Buenas Municipio, Puerto Rico",six_to_eleven_months,0,29
+72007,"Aguas Buenas Municipio, Puerto Rico",one_or_two_years,19,29
+72007,"Aguas Buenas Municipio, Puerto Rico",three_or_four_years,0,29
+72007,"Aguas Buenas Municipio, Puerto Rico",five_plus_years,16,25
+72007,"Aguas Buenas Municipio, Puerto Rico",not_responsible,335,159
+72009,"Aibonito Municipio, Puerto Rico",coresident_grandparents_total,650,270
+72009,"Aibonito Municipio, Puerto Rico",responsible_total,263,205
+72009,"Aibonito Municipio, Puerto Rico",less_than_six_months,0,29
+72009,"Aibonito Municipio, Puerto Rico",six_to_eleven_months,0,29
+72009,"Aibonito Municipio, Puerto Rico",one_or_two_years,29,45
+72009,"Aibonito Municipio, Puerto Rico",three_or_four_years,136,178
+72009,"Aibonito Municipio, Puerto Rico",five_plus_years,98,75
+72009,"Aibonito Municipio, Puerto Rico",not_responsible,387,193
+72011,"Añasco Municipio, Puerto Rico",coresident_grandparents_total,237,137
+72011,"Añasco Municipio, Puerto Rico",responsible_total,137,102
+72011,"Añasco Municipio, Puerto Rico",less_than_six_months,70,87
+72011,"Añasco Municipio, Puerto Rico",six_to_eleven_months,0,29
+72011,"Añasco Municipio, Puerto Rico",one_or_two_years,0,29
+72011,"Añasco Municipio, Puerto Rico",three_or_four_years,12,19
+72011,"Añasco Municipio, Puerto Rico",five_plus_years,55,48
+72011,"Añasco Municipio, Puerto Rico",not_responsible,100,81
+72013,"Arecibo Municipio, Puerto Rico",coresident_grandparents_total,1136,266
+72013,"Arecibo Municipio, Puerto Rico",responsible_total,269,142
+72013,"Arecibo Municipio, Puerto Rico",less_than_six_months,73,85
+72013,"Arecibo Municipio, Puerto Rico",six_to_eleven_months,0,36
+72013,"Arecibo Municipio, Puerto Rico",one_or_two_years,54,60
+72013,"Arecibo Municipio, Puerto Rico",three_or_four_years,69,72
+72013,"Arecibo Municipio, Puerto Rico",five_plus_years,73,48
+72013,"Arecibo Municipio, Puerto Rico",not_responsible,867,249
+72015,"Arroyo Municipio, Puerto Rico",coresident_grandparents_total,289,146
+72015,"Arroyo Municipio, Puerto Rico",responsible_total,53,60
+72015,"Arroyo Municipio, Puerto Rico",less_than_six_months,32,51
+72015,"Arroyo Municipio, Puerto Rico",six_to_eleven_months,0,24
+72015,"Arroyo Municipio, Puerto Rico",one_or_two_years,0,24
+72015,"Arroyo Municipio, Puerto Rico",three_or_four_years,0,24
+72015,"Arroyo Municipio, Puerto Rico",five_plus_years,21,35
+72015,"Arroyo Municipio, Puerto Rico",not_responsible,236,117
+72017,"Barceloneta Municipio, Puerto Rico",coresident_grandparents_total,427,237
+72017,"Barceloneta Municipio, Puerto Rico",responsible_total,168,106
+72017,"Barceloneta Municipio, Puerto Rico",less_than_six_months,33,51
+72017,"Barceloneta Municipio, Puerto Rico",six_to_eleven_months,0,29
+72017,"Barceloneta Municipio, Puerto Rico",one_or_two_years,26,45
+72017,"Barceloneta Municipio, Puerto Rico",three_or_four_years,17,27
+72017,"Barceloneta Municipio, Puerto Rico",five_plus_years,92,80
+72017,"Barceloneta Municipio, Puerto Rico",not_responsible,259,155
+72019,"Barranquitas Municipio, Puerto Rico",coresident_grandparents_total,682,293
+72019,"Barranquitas Municipio, Puerto Rico",responsible_total,219,123
+72019,"Barranquitas Municipio, Puerto Rico",less_than_six_months,0,29
+72019,"Barranquitas Municipio, Puerto Rico",six_to_eleven_months,22,35
+72019,"Barranquitas Municipio, Puerto Rico",one_or_two_years,0,29
+72019,"Barranquitas Municipio, Puerto Rico",three_or_four_years,31,48
+72019,"Barranquitas Municipio, Puerto Rico",five_plus_years,166,111
+72019,"Barranquitas Municipio, Puerto Rico",not_responsible,463,216
+72021,"Bayamón Municipio, Puerto Rico",coresident_grandparents_total,3181,458
+72021,"Bayamón Municipio, Puerto Rico",responsible_total,1219,285
+72021,"Bayamón Municipio, Puerto Rico",less_than_six_months,77,63
+72021,"Bayamón Municipio, Puerto Rico",six_to_eleven_months,73,76
+72021,"Bayamón Municipio, Puerto Rico",one_or_two_years,236,125
+72021,"Bayamón Municipio, Puerto Rico",three_or_four_years,198,146
+72021,"Bayamón Municipio, Puerto Rico",five_plus_years,635,216
+72021,"Bayamón Municipio, Puerto Rico",not_responsible,1962,321
+72023,"Cabo Rojo Municipio, Puerto Rico",coresident_grandparents_total,1051,378
+72023,"Cabo Rojo Municipio, Puerto Rico",responsible_total,255,160
+72023,"Cabo Rojo Municipio, Puerto Rico",less_than_six_months,0,33
+72023,"Cabo Rojo Municipio, Puerto Rico",six_to_eleven_months,0,33
+72023,"Cabo Rojo Municipio, Puerto Rico",one_or_two_years,48,59
+72023,"Cabo Rojo Municipio, Puerto Rico",three_or_four_years,0,33
+72023,"Cabo Rojo Municipio, Puerto Rico",five_plus_years,207,154
+72023,"Cabo Rojo Municipio, Puerto Rico",not_responsible,796,349
+72025,"Caguas Municipio, Puerto Rico",coresident_grandparents_total,2178,489
+72025,"Caguas Municipio, Puerto Rico",responsible_total,690,274
+72025,"Caguas Municipio, Puerto Rico",less_than_six_months,0,36
+72025,"Caguas Municipio, Puerto Rico",six_to_eleven_months,20,23
+72025,"Caguas Municipio, Puerto Rico",one_or_two_years,117,89
+72025,"Caguas Municipio, Puerto Rico",three_or_four_years,65,64
+72025,"Caguas Municipio, Puerto Rico",five_plus_years,488,234
+72025,"Caguas Municipio, Puerto Rico",not_responsible,1488,385
+72027,"Camuy Municipio, Puerto Rico",coresident_grandparents_total,420,193
+72027,"Camuy Municipio, Puerto Rico",responsible_total,82,75
+72027,"Camuy Municipio, Puerto Rico",less_than_six_months,0,33
+72027,"Camuy Municipio, Puerto Rico",six_to_eleven_months,0,33
+72027,"Camuy Municipio, Puerto Rico",one_or_two_years,20,32
+72027,"Camuy Municipio, Puerto Rico",three_or_four_years,36,57
+72027,"Camuy Municipio, Puerto Rico",five_plus_years,26,40
+72027,"Camuy Municipio, Puerto Rico",not_responsible,338,179
+72029,"Canóvanas Municipio, Puerto Rico",coresident_grandparents_total,1003,320
+72029,"Canóvanas Municipio, Puerto Rico",responsible_total,327,138
+72029,"Canóvanas Municipio, Puerto Rico",less_than_six_months,25,23
+72029,"Canóvanas Municipio, Puerto Rico",six_to_eleven_months,0,33
+72029,"Canóvanas Municipio, Puerto Rico",one_or_two_years,51,58
+72029,"Canóvanas Municipio, Puerto Rico",three_or_four_years,0,33
+72029,"Canóvanas Municipio, Puerto Rico",five_plus_years,251,146
+72029,"Canóvanas Municipio, Puerto Rico",not_responsible,676,271
+72031,"Carolina Municipio, Puerto Rico",coresident_grandparents_total,3303,476
+72031,"Carolina Municipio, Puerto Rico",responsible_total,995,291
+72031,"Carolina Municipio, Puerto Rico",less_than_six_months,70,82
+72031,"Carolina Municipio, Puerto Rico",six_to_eleven_months,29,34
+72031,"Carolina Municipio, Puerto Rico",one_or_two_years,88,92
+72031,"Carolina Municipio, Puerto Rico",three_or_four_years,55,56
+72031,"Carolina Municipio, Puerto Rico",five_plus_years,753,283
+72031,"Carolina Municipio, Puerto Rico",not_responsible,2308,390
+72033,"Cataño Municipio, Puerto Rico",coresident_grandparents_total,323,148
+72033,"Cataño Municipio, Puerto Rico",responsible_total,149,101
+72033,"Cataño Municipio, Puerto Rico",less_than_six_months,81,90
+72033,"Cataño Municipio, Puerto Rico",six_to_eleven_months,0,29
+72033,"Cataño Municipio, Puerto Rico",one_or_two_years,16,26
+72033,"Cataño Municipio, Puerto Rico",three_or_four_years,26,30
+72033,"Cataño Municipio, Puerto Rico",five_plus_years,26,28
+72033,"Cataño Municipio, Puerto Rico",not_responsible,174,102
+72035,"Cayey Municipio, Puerto Rico",coresident_grandparents_total,860,244
+72035,"Cayey Municipio, Puerto Rico",responsible_total,511,220
+72035,"Cayey Municipio, Puerto Rico",less_than_six_months,18,22
+72035,"Cayey Municipio, Puerto Rico",six_to_eleven_months,0,33
+72035,"Cayey Municipio, Puerto Rico",one_or_two_years,172,126
+72035,"Cayey Municipio, Puerto Rico",three_or_four_years,156,141
+72035,"Cayey Municipio, Puerto Rico",five_plus_years,165,103
+72035,"Cayey Municipio, Puerto Rico",not_responsible,349,145
+72037,"Ceiba Municipio, Puerto Rico",coresident_grandparents_total,239,170
+72037,"Ceiba Municipio, Puerto Rico",responsible_total,60,66
+72037,"Ceiba Municipio, Puerto Rico",less_than_six_months,0,24
+72037,"Ceiba Municipio, Puerto Rico",six_to_eleven_months,0,24
+72037,"Ceiba Municipio, Puerto Rico",one_or_two_years,0,24
+72037,"Ceiba Municipio, Puerto Rico",three_or_four_years,0,24
+72037,"Ceiba Municipio, Puerto Rico",five_plus_years,60,66
+72037,"Ceiba Municipio, Puerto Rico",not_responsible,179,141
+72039,"Ciales Municipio, Puerto Rico",coresident_grandparents_total,210,140
+72039,"Ciales Municipio, Puerto Rico",responsible_total,138,125
+72039,"Ciales Municipio, Puerto Rico",less_than_six_months,0,24
+72039,"Ciales Municipio, Puerto Rico",six_to_eleven_months,11,19
+72039,"Ciales Municipio, Puerto Rico",one_or_two_years,0,24
+72039,"Ciales Municipio, Puerto Rico",three_or_four_years,63,98
+72039,"Ciales Municipio, Puerto Rico",five_plus_years,64,77
+72039,"Ciales Municipio, Puerto Rico",not_responsible,72,57
+72041,"Cidra Municipio, Puerto Rico",coresident_grandparents_total,1102,296
+72041,"Cidra Municipio, Puerto Rico",responsible_total,311,148
+72041,"Cidra Municipio, Puerto Rico",less_than_six_months,0,33
+72041,"Cidra Municipio, Puerto Rico",six_to_eleven_months,0,33
+72041,"Cidra Municipio, Puerto Rico",one_or_two_years,12,20
+72041,"Cidra Municipio, Puerto Rico",three_or_four_years,126,85
+72041,"Cidra Municipio, Puerto Rico",five_plus_years,173,103
+72041,"Cidra Municipio, Puerto Rico",not_responsible,791,246
+72043,"Coamo Municipio, Puerto Rico",coresident_grandparents_total,827,254
+72043,"Coamo Municipio, Puerto Rico",responsible_total,339,181
+72043,"Coamo Municipio, Puerto Rico",less_than_six_months,0,33
+72043,"Coamo Municipio, Puerto Rico",six_to_eleven_months,39,63
+72043,"Coamo Municipio, Puerto Rico",one_or_two_years,64,77
+72043,"Coamo Municipio, Puerto Rico",three_or_four_years,38,43
+72043,"Coamo Municipio, Puerto Rico",five_plus_years,198,152
+72043,"Coamo Municipio, Puerto Rico",not_responsible,488,195
+72045,"Comerío Municipio, Puerto Rico",coresident_grandparents_total,266,177
+72045,"Comerío Municipio, Puerto Rico",responsible_total,108,116
+72045,"Comerío Municipio, Puerto Rico",less_than_six_months,21,35
+72045,"Comerío Municipio, Puerto Rico",six_to_eleven_months,0,24
+72045,"Comerío Municipio, Puerto Rico",one_or_two_years,72,105
+72045,"Comerío Municipio, Puerto Rico",three_or_four_years,0,24
+72045,"Comerío Municipio, Puerto Rico",five_plus_years,15,24
+72045,"Comerío Municipio, Puerto Rico",not_responsible,158,131
+72047,"Corozal Municipio, Puerto Rico",coresident_grandparents_total,1218,414
+72047,"Corozal Municipio, Puerto Rico",responsible_total,347,201
+72047,"Corozal Municipio, Puerto Rico",less_than_six_months,65,96
+72047,"Corozal Municipio, Puerto Rico",six_to_eleven_months,41,69
+72047,"Corozal Municipio, Puerto Rico",one_or_two_years,54,86
+72047,"Corozal Municipio, Puerto Rico",three_or_four_years,15,25
+72047,"Corozal Municipio, Puerto Rico",five_plus_years,172,125
+72047,"Corozal Municipio, Puerto Rico",not_responsible,871,356
+72049,"Culebra Municipio, Puerto Rico",coresident_grandparents_total,35,27
+72049,"Culebra Municipio, Puerto Rico",responsible_total,8,12
+72049,"Culebra Municipio, Puerto Rico",less_than_six_months,0,15
+72049,"Culebra Municipio, Puerto Rico",six_to_eleven_months,0,15
+72049,"Culebra Municipio, Puerto Rico",one_or_two_years,8,12
+72049,"Culebra Municipio, Puerto Rico",three_or_four_years,0,15
+72049,"Culebra Municipio, Puerto Rico",five_plus_years,0,15
+72049,"Culebra Municipio, Puerto Rico",not_responsible,27,25
+72051,"Dorado Municipio, Puerto Rico",coresident_grandparents_total,595,251
+72051,"Dorado Municipio, Puerto Rico",responsible_total,281,153
+72051,"Dorado Municipio, Puerto Rico",less_than_six_months,56,54
+72051,"Dorado Municipio, Puerto Rico",six_to_eleven_months,23,37
+72051,"Dorado Municipio, Puerto Rico",one_or_two_years,82,95
+72051,"Dorado Municipio, Puerto Rico",three_or_four_years,22,36
+72051,"Dorado Municipio, Puerto Rico",five_plus_years,98,105
+72051,"Dorado Municipio, Puerto Rico",not_responsible,314,203
+72053,"Fajardo Municipio, Puerto Rico",coresident_grandparents_total,498,205
+72053,"Fajardo Municipio, Puerto Rico",responsible_total,147,85
+72053,"Fajardo Municipio, Puerto Rico",less_than_six_months,18,29
+72053,"Fajardo Municipio, Puerto Rico",six_to_eleven_months,8,12
+72053,"Fajardo Municipio, Puerto Rico",one_or_two_years,13,20
+72053,"Fajardo Municipio, Puerto Rico",three_or_four_years,29,33
+72053,"Fajardo Municipio, Puerto Rico",five_plus_years,79,73
+72053,"Fajardo Municipio, Puerto Rico",not_responsible,351,162
+72054,"Florida Municipio, Puerto Rico",coresident_grandparents_total,219,207
+72054,"Florida Municipio, Puerto Rico",responsible_total,133,152
+72054,"Florida Municipio, Puerto Rico",less_than_six_months,0,24
+72054,"Florida Municipio, Puerto Rico",six_to_eleven_months,0,24
+72054,"Florida Municipio, Puerto Rico",one_or_two_years,83,127
+72054,"Florida Municipio, Puerto Rico",three_or_four_years,50,84
+72054,"Florida Municipio, Puerto Rico",five_plus_years,0,24
+72054,"Florida Municipio, Puerto Rico",not_responsible,86,80
+72055,"Guánica Municipio, Puerto Rico",coresident_grandparents_total,243,129
+72055,"Guánica Municipio, Puerto Rico",responsible_total,105,70
+72055,"Guánica Municipio, Puerto Rico",less_than_six_months,0,24
+72055,"Guánica Municipio, Puerto Rico",six_to_eleven_months,0,24
+72055,"Guánica Municipio, Puerto Rico",one_or_two_years,16,25
+72055,"Guánica Municipio, Puerto Rico",three_or_four_years,8,13
+72055,"Guánica Municipio, Puerto Rico",five_plus_years,81,65
+72055,"Guánica Municipio, Puerto Rico",not_responsible,138,114
+72057,"Guayama Municipio, Puerto Rico",coresident_grandparents_total,536,224
+72057,"Guayama Municipio, Puerto Rico",responsible_total,155,96
+72057,"Guayama Municipio, Puerto Rico",less_than_six_months,31,50
+72057,"Guayama Municipio, Puerto Rico",six_to_eleven_months,0,33
+72057,"Guayama Municipio, Puerto Rico",one_or_two_years,40,49
+72057,"Guayama Municipio, Puerto Rico",three_or_four_years,24,41
+72057,"Guayama Municipio, Puerto Rico",five_plus_years,60,69
+72057,"Guayama Municipio, Puerto Rico",not_responsible,381,181
+72059,"Guayanilla Municipio, Puerto Rico",coresident_grandparents_total,419,180
+72059,"Guayanilla Municipio, Puerto Rico",responsible_total,169,112
+72059,"Guayanilla Municipio, Puerto Rico",less_than_six_months,0,24
+72059,"Guayanilla Municipio, Puerto Rico",six_to_eleven_months,0,24
+72059,"Guayanilla Municipio, Puerto Rico",one_or_two_years,44,53
+72059,"Guayanilla Municipio, Puerto Rico",three_or_four_years,0,24
+72059,"Guayanilla Municipio, Puerto Rico",five_plus_years,125,96
+72059,"Guayanilla Municipio, Puerto Rico",not_responsible,250,135
+72061,"Guaynabo Municipio, Puerto Rico",coresident_grandparents_total,1083,274
+72061,"Guaynabo Municipio, Puerto Rico",responsible_total,473,203
+72061,"Guaynabo Municipio, Puerto Rico",less_than_six_months,0,36
+72061,"Guaynabo Municipio, Puerto Rico",six_to_eleven_months,33,41
+72061,"Guaynabo Municipio, Puerto Rico",one_or_two_years,92,94
+72061,"Guaynabo Municipio, Puerto Rico",three_or_four_years,75,77
+72061,"Guaynabo Municipio, Puerto Rico",five_plus_years,273,158
+72061,"Guaynabo Municipio, Puerto Rico",not_responsible,610,203
+72063,"Gurabo Municipio, Puerto Rico",coresident_grandparents_total,737,314
+72063,"Gurabo Municipio, Puerto Rico",responsible_total,175,132
+72063,"Gurabo Municipio, Puerto Rico",less_than_six_months,12,19
+72063,"Gurabo Municipio, Puerto Rico",six_to_eleven_months,0,33
+72063,"Gurabo Municipio, Puerto Rico",one_or_two_years,0,33
+72063,"Gurabo Municipio, Puerto Rico",three_or_four_years,0,33
+72063,"Gurabo Municipio, Puerto Rico",five_plus_years,163,130
+72063,"Gurabo Municipio, Puerto Rico",not_responsible,562,275
+72065,"Hatillo Municipio, Puerto Rico",coresident_grandparents_total,1188,354
+72065,"Hatillo Municipio, Puerto Rico",responsible_total,291,189
+72065,"Hatillo Municipio, Puerto Rico",less_than_six_months,0,33
+72065,"Hatillo Municipio, Puerto Rico",six_to_eleven_months,0,33
+72065,"Hatillo Municipio, Puerto Rico",one_or_two_years,98,98
+72065,"Hatillo Municipio, Puerto Rico",three_or_four_years,35,58
+72065,"Hatillo Municipio, Puerto Rico",five_plus_years,158,149
+72065,"Hatillo Municipio, Puerto Rico",not_responsible,897,358
+72067,"Hormigueros Municipio, Puerto Rico",coresident_grandparents_total,345,172
+72067,"Hormigueros Municipio, Puerto Rico",responsible_total,146,113
+72067,"Hormigueros Municipio, Puerto Rico",less_than_six_months,24,38
+72067,"Hormigueros Municipio, Puerto Rico",six_to_eleven_months,7,13
+72067,"Hormigueros Municipio, Puerto Rico",one_or_two_years,46,56
+72067,"Hormigueros Municipio, Puerto Rico",three_or_four_years,5,7
+72067,"Hormigueros Municipio, Puerto Rico",five_plus_years,64,88
+72067,"Hormigueros Municipio, Puerto Rico",not_responsible,199,131
+72069,"Humacao Municipio, Puerto Rico",coresident_grandparents_total,1155,372
+72069,"Humacao Municipio, Puerto Rico",responsible_total,545,290
+72069,"Humacao Municipio, Puerto Rico",less_than_six_months,0,36
+72069,"Humacao Municipio, Puerto Rico",six_to_eleven_months,52,60
+72069,"Humacao Municipio, Puerto Rico",one_or_two_years,22,34
+72069,"Humacao Municipio, Puerto Rico",three_or_four_years,187,241
+72069,"Humacao Municipio, Puerto Rico",five_plus_years,284,179
+72069,"Humacao Municipio, Puerto Rico",not_responsible,610,243
+72071,"Isabela Municipio, Puerto Rico",coresident_grandparents_total,734,297
+72071,"Isabela Municipio, Puerto Rico",responsible_total,301,173
+72071,"Isabela Municipio, Puerto Rico",less_than_six_months,20,34
+72071,"Isabela Municipio, Puerto Rico",six_to_eleven_months,21,35
+72071,"Isabela Municipio, Puerto Rico",one_or_two_years,103,123
+72071,"Isabela Municipio, Puerto Rico",three_or_four_years,37,42
+72071,"Isabela Municipio, Puerto Rico",five_plus_years,120,102
+72071,"Isabela Municipio, Puerto Rico",not_responsible,433,229
+72073,"Jayuya Municipio, Puerto Rico",coresident_grandparents_total,470,252
+72073,"Jayuya Municipio, Puerto Rico",responsible_total,189,142
+72073,"Jayuya Municipio, Puerto Rico",less_than_six_months,31,35
+72073,"Jayuya Municipio, Puerto Rico",six_to_eleven_months,0,24
+72073,"Jayuya Municipio, Puerto Rico",one_or_two_years,36,58
+72073,"Jayuya Municipio, Puerto Rico",three_or_four_years,0,24
+72073,"Jayuya Municipio, Puerto Rico",five_plus_years,122,120
+72073,"Jayuya Municipio, Puerto Rico",not_responsible,281,216
+72075,"Juana Díaz Municipio, Puerto Rico",coresident_grandparents_total,1044,305
+72075,"Juana Díaz Municipio, Puerto Rico",responsible_total,214,122
+72075,"Juana Díaz Municipio, Puerto Rico",less_than_six_months,0,33
+72075,"Juana Díaz Municipio, Puerto Rico",six_to_eleven_months,0,33
+72075,"Juana Díaz Municipio, Puerto Rico",one_or_two_years,23,38
+72075,"Juana Díaz Municipio, Puerto Rico",three_or_four_years,99,83
+72075,"Juana Díaz Municipio, Puerto Rico",five_plus_years,92,79
+72075,"Juana Díaz Municipio, Puerto Rico",not_responsible,830,267
+72077,"Juncos Municipio, Puerto Rico",coresident_grandparents_total,964,357
+72077,"Juncos Municipio, Puerto Rico",responsible_total,461,276
+72077,"Juncos Municipio, Puerto Rico",less_than_six_months,0,33
+72077,"Juncos Municipio, Puerto Rico",six_to_eleven_months,19,30
+72077,"Juncos Municipio, Puerto Rico",one_or_two_years,102,156
+72077,"Juncos Municipio, Puerto Rico",three_or_four_years,56,67
+72077,"Juncos Municipio, Puerto Rico",five_plus_years,284,187
+72077,"Juncos Municipio, Puerto Rico",not_responsible,503,243
+72079,"Lajas Municipio, Puerto Rico",coresident_grandparents_total,562,234
+72079,"Lajas Municipio, Puerto Rico",responsible_total,170,121
+72079,"Lajas Municipio, Puerto Rico",less_than_six_months,66,103
+72079,"Lajas Municipio, Puerto Rico",six_to_eleven_months,0,29
+72079,"Lajas Municipio, Puerto Rico",one_or_two_years,0,29
+72079,"Lajas Municipio, Puerto Rico",three_or_four_years,15,24
+72079,"Lajas Municipio, Puerto Rico",five_plus_years,89,66
+72079,"Lajas Municipio, Puerto Rico",not_responsible,392,200
+72081,"Lares Municipio, Puerto Rico",coresident_grandparents_total,453,189
+72081,"Lares Municipio, Puerto Rico",responsible_total,146,109
+72081,"Lares Municipio, Puerto Rico",less_than_six_months,11,20
+72081,"Lares Municipio, Puerto Rico",six_to_eleven_months,0,29
+72081,"Lares Municipio, Puerto Rico",one_or_two_years,10,16
+72081,"Lares Municipio, Puerto Rico",three_or_four_years,57,76
+72081,"Lares Municipio, Puerto Rico",five_plus_years,68,69
+72081,"Lares Municipio, Puerto Rico",not_responsible,307,152
+72083,"Las Marías Municipio, Puerto Rico",coresident_grandparents_total,201,101
+72083,"Las Marías Municipio, Puerto Rico",responsible_total,6,10
+72083,"Las Marías Municipio, Puerto Rico",less_than_six_months,0,22
+72083,"Las Marías Municipio, Puerto Rico",six_to_eleven_months,0,22
+72083,"Las Marías Municipio, Puerto Rico",one_or_two_years,0,22
+72083,"Las Marías Municipio, Puerto Rico",three_or_four_years,0,22
+72083,"Las Marías Municipio, Puerto Rico",five_plus_years,6,10
+72083,"Las Marías Municipio, Puerto Rico",not_responsible,195,100
+72085,"Las Piedras Municipio, Puerto Rico",coresident_grandparents_total,698,326
+72085,"Las Piedras Municipio, Puerto Rico",responsible_total,295,236
+72085,"Las Piedras Municipio, Puerto Rico",less_than_six_months,0,33
+72085,"Las Piedras Municipio, Puerto Rico",six_to_eleven_months,41,66
+72085,"Las Piedras Municipio, Puerto Rico",one_or_two_years,0,33
+72085,"Las Piedras Municipio, Puerto Rico",three_or_four_years,0,33
+72085,"Las Piedras Municipio, Puerto Rico",five_plus_years,254,226
+72085,"Las Piedras Municipio, Puerto Rico",not_responsible,403,223
+72087,"Loíza Municipio, Puerto Rico",coresident_grandparents_total,819,224
+72087,"Loíza Municipio, Puerto Rico",responsible_total,215,110
+72087,"Loíza Municipio, Puerto Rico",less_than_six_months,0,29
+72087,"Loíza Municipio, Puerto Rico",six_to_eleven_months,0,29
+72087,"Loíza Municipio, Puerto Rico",one_or_two_years,0,29
+72087,"Loíza Municipio, Puerto Rico",three_or_four_years,38,43
+72087,"Loíza Municipio, Puerto Rico",five_plus_years,177,103
+72087,"Loíza Municipio, Puerto Rico",not_responsible,604,197
+72089,"Luquillo Municipio, Puerto Rico",coresident_grandparents_total,419,204
+72089,"Luquillo Municipio, Puerto Rico",responsible_total,135,115
+72089,"Luquillo Municipio, Puerto Rico",less_than_six_months,0,24
+72089,"Luquillo Municipio, Puerto Rico",six_to_eleven_months,39,61
+72089,"Luquillo Municipio, Puerto Rico",one_or_two_years,0,24
+72089,"Luquillo Municipio, Puerto Rico",three_or_four_years,0,24
+72089,"Luquillo Municipio, Puerto Rico",five_plus_years,96,94
+72089,"Luquillo Municipio, Puerto Rico",not_responsible,284,162
+72091,"Manatí Municipio, Puerto Rico",coresident_grandparents_total,522,193
+72091,"Manatí Municipio, Puerto Rico",responsible_total,267,148
+72091,"Manatí Municipio, Puerto Rico",less_than_six_months,27,42
+72091,"Manatí Municipio, Puerto Rico",six_to_eleven_months,0,33
+72091,"Manatí Municipio, Puerto Rico",one_or_two_years,26,30
+72091,"Manatí Municipio, Puerto Rico",three_or_four_years,81,66
+72091,"Manatí Municipio, Puerto Rico",five_plus_years,133,115
+72091,"Manatí Municipio, Puerto Rico",not_responsible,255,122
+72093,"Maricao Municipio, Puerto Rico",coresident_grandparents_total,111,83
+72093,"Maricao Municipio, Puerto Rico",responsible_total,26,41
+72093,"Maricao Municipio, Puerto Rico",less_than_six_months,0,15
+72093,"Maricao Municipio, Puerto Rico",six_to_eleven_months,0,15
+72093,"Maricao Municipio, Puerto Rico",one_or_two_years,0,15
+72093,"Maricao Municipio, Puerto Rico",three_or_four_years,0,15
+72093,"Maricao Municipio, Puerto Rico",five_plus_years,26,41
+72093,"Maricao Municipio, Puerto Rico",not_responsible,85,72
+72095,"Maunabo Municipio, Puerto Rico",coresident_grandparents_total,332,177
+72095,"Maunabo Municipio, Puerto Rico",responsible_total,173,130
+72095,"Maunabo Municipio, Puerto Rico",less_than_six_months,0,24
+72095,"Maunabo Municipio, Puerto Rico",six_to_eleven_months,30,49
+72095,"Maunabo Municipio, Puerto Rico",one_or_two_years,53,87
+72095,"Maunabo Municipio, Puerto Rico",three_or_four_years,0,24
+72095,"Maunabo Municipio, Puerto Rico",five_plus_years,90,85
+72095,"Maunabo Municipio, Puerto Rico",not_responsible,159,122
+72097,"Mayagüez Municipio, Puerto Rico",coresident_grandparents_total,919,330
+72097,"Mayagüez Municipio, Puerto Rico",responsible_total,337,170
+72097,"Mayagüez Municipio, Puerto Rico",less_than_six_months,0,36
+72097,"Mayagüez Municipio, Puerto Rico",six_to_eleven_months,87,132
+72097,"Mayagüez Municipio, Puerto Rico",one_or_two_years,39,45
+72097,"Mayagüez Municipio, Puerto Rico",three_or_four_years,23,20
+72097,"Mayagüez Municipio, Puerto Rico",five_plus_years,188,106
+72097,"Mayagüez Municipio, Puerto Rico",not_responsible,582,253
+72099,"Moca Municipio, Puerto Rico",coresident_grandparents_total,275,148
+72099,"Moca Municipio, Puerto Rico",responsible_total,7,12
+72099,"Moca Municipio, Puerto Rico",less_than_six_months,0,33
+72099,"Moca Municipio, Puerto Rico",six_to_eleven_months,0,33
+72099,"Moca Municipio, Puerto Rico",one_or_two_years,0,33
+72099,"Moca Municipio, Puerto Rico",three_or_four_years,7,12
+72099,"Moca Municipio, Puerto Rico",five_plus_years,0,33
+72099,"Moca Municipio, Puerto Rico",not_responsible,268,144
+72101,"Morovis Municipio, Puerto Rico",coresident_grandparents_total,274,155
+72101,"Morovis Municipio, Puerto Rico",responsible_total,110,95
+72101,"Morovis Municipio, Puerto Rico",less_than_six_months,27,42
+72101,"Morovis Municipio, Puerto Rico",six_to_eleven_months,0,29
+72101,"Morovis Municipio, Puerto Rico",one_or_two_years,48,72
+72101,"Morovis Municipio, Puerto Rico",three_or_four_years,0,29
+72101,"Morovis Municipio, Puerto Rico",five_plus_years,35,45
+72101,"Morovis Municipio, Puerto Rico",not_responsible,164,126
+72103,"Naguabo Municipio, Puerto Rico",coresident_grandparents_total,535,231
+72103,"Naguabo Municipio, Puerto Rico",responsible_total,231,145
+72103,"Naguabo Municipio, Puerto Rico",less_than_six_months,48,79
+72103,"Naguabo Municipio, Puerto Rico",six_to_eleven_months,0,29
+72103,"Naguabo Municipio, Puerto Rico",one_or_two_years,72,123
+72103,"Naguabo Municipio, Puerto Rico",three_or_four_years,0,29
+72103,"Naguabo Municipio, Puerto Rico",five_plus_years,111,122
+72103,"Naguabo Municipio, Puerto Rico",not_responsible,304,197
+72105,"Naranjito Municipio, Puerto Rico",coresident_grandparents_total,764,309
+72105,"Naranjito Municipio, Puerto Rico",responsible_total,282,183
+72105,"Naranjito Municipio, Puerto Rico",less_than_six_months,0,29
+72105,"Naranjito Municipio, Puerto Rico",six_to_eleven_months,0,29
+72105,"Naranjito Municipio, Puerto Rico",one_or_two_years,77,122
+72105,"Naranjito Municipio, Puerto Rico",three_or_four_years,35,56
+72105,"Naranjito Municipio, Puerto Rico",five_plus_years,170,123
+72105,"Naranjito Municipio, Puerto Rico",not_responsible,482,242
+72107,"Orocovis Municipio, Puerto Rico",coresident_grandparents_total,444,169
+72107,"Orocovis Municipio, Puerto Rico",responsible_total,197,131
+72107,"Orocovis Municipio, Puerto Rico",less_than_six_months,22,35
+72107,"Orocovis Municipio, Puerto Rico",six_to_eleven_months,0,29
+72107,"Orocovis Municipio, Puerto Rico",one_or_two_years,0,29
+72107,"Orocovis Municipio, Puerto Rico",three_or_four_years,10,16
+72107,"Orocovis Municipio, Puerto Rico",five_plus_years,165,127
+72107,"Orocovis Municipio, Puerto Rico",not_responsible,247,102
+72109,"Patillas Municipio, Puerto Rico",coresident_grandparents_total,444,177
+72109,"Patillas Municipio, Puerto Rico",responsible_total,206,108
+72109,"Patillas Municipio, Puerto Rico",less_than_six_months,77,100
+72109,"Patillas Municipio, Puerto Rico",six_to_eleven_months,0,24
+72109,"Patillas Municipio, Puerto Rico",one_or_two_years,13,21
+72109,"Patillas Municipio, Puerto Rico",three_or_four_years,31,52
+72109,"Patillas Municipio, Puerto Rico",five_plus_years,85,58
+72109,"Patillas Municipio, Puerto Rico",not_responsible,238,130
+72111,"Peñuelas Municipio, Puerto Rico",coresident_grandparents_total,413,197
+72111,"Peñuelas Municipio, Puerto Rico",responsible_total,96,64
+72111,"Peñuelas Municipio, Puerto Rico",less_than_six_months,6,10
+72111,"Peñuelas Municipio, Puerto Rico",six_to_eleven_months,0,24
+72111,"Peñuelas Municipio, Puerto Rico",one_or_two_years,19,32
+72111,"Peñuelas Municipio, Puerto Rico",three_or_four_years,0,24
+72111,"Peñuelas Municipio, Puerto Rico",five_plus_years,71,54
+72111,"Peñuelas Municipio, Puerto Rico",not_responsible,317,190
+72113,"Ponce Municipio, Puerto Rico",coresident_grandparents_total,2712,494
+72113,"Ponce Municipio, Puerto Rico",responsible_total,671,263
+72113,"Ponce Municipio, Puerto Rico",less_than_six_months,121,118
+72113,"Ponce Municipio, Puerto Rico",six_to_eleven_months,27,34
+72113,"Ponce Municipio, Puerto Rico",one_or_two_years,109,94
+72113,"Ponce Municipio, Puerto Rico",three_or_four_years,81,79
+72113,"Ponce Municipio, Puerto Rico",five_plus_years,333,159
+72113,"Ponce Municipio, Puerto Rico",not_responsible,2041,394
+72115,"Quebradillas Municipio, Puerto Rico",coresident_grandparents_total,383,184
+72115,"Quebradillas Municipio, Puerto Rico",responsible_total,200,158
+72115,"Quebradillas Municipio, Puerto Rico",less_than_six_months,63,101
+72115,"Quebradillas Municipio, Puerto Rico",six_to_eleven_months,0,29
+72115,"Quebradillas Municipio, Puerto Rico",one_or_two_years,110,117
+72115,"Quebradillas Municipio, Puerto Rico",three_or_four_years,0,29
+72115,"Quebradillas Municipio, Puerto Rico",five_plus_years,27,44
+72115,"Quebradillas Municipio, Puerto Rico",not_responsible,183,128
+72117,"Rincón Municipio, Puerto Rico",coresident_grandparents_total,212,137
+72117,"Rincón Municipio, Puerto Rico",responsible_total,146,99
+72117,"Rincón Municipio, Puerto Rico",less_than_six_months,72,109
+72117,"Rincón Municipio, Puerto Rico",six_to_eleven_months,0,24
+72117,"Rincón Municipio, Puerto Rico",one_or_two_years,0,24
+72117,"Rincón Municipio, Puerto Rico",three_or_four_years,30,46
+72117,"Rincón Municipio, Puerto Rico",five_plus_years,44,52
+72117,"Rincón Municipio, Puerto Rico",not_responsible,66,93
+72119,"Río Grande Municipio, Puerto Rico",coresident_grandparents_total,1212,384
+72119,"Río Grande Municipio, Puerto Rico",responsible_total,616,274
+72119,"Río Grande Municipio, Puerto Rico",less_than_six_months,0,33
+72119,"Río Grande Municipio, Puerto Rico",six_to_eleven_months,53,84
+72119,"Río Grande Municipio, Puerto Rico",one_or_two_years,118,98
+72119,"Río Grande Municipio, Puerto Rico",three_or_four_years,91,70
+72119,"Río Grande Municipio, Puerto Rico",five_plus_years,354,204
+72119,"Río Grande Municipio, Puerto Rico",not_responsible,596,223
+72121,"Sabana Grande Municipio, Puerto Rico",coresident_grandparents_total,610,218
+72121,"Sabana Grande Municipio, Puerto Rico",responsible_total,200,105
+72121,"Sabana Grande Municipio, Puerto Rico",less_than_six_months,0,29
+72121,"Sabana Grande Municipio, Puerto Rico",six_to_eleven_months,0,29
+72121,"Sabana Grande Municipio, Puerto Rico",one_or_two_years,47,60
+72121,"Sabana Grande Municipio, Puerto Rico",three_or_four_years,20,33
+72121,"Sabana Grande Municipio, Puerto Rico",five_plus_years,133,73
+72121,"Sabana Grande Municipio, Puerto Rico",not_responsible,410,195
+72123,"Salinas Municipio, Puerto Rico",coresident_grandparents_total,540,202
+72123,"Salinas Municipio, Puerto Rico",responsible_total,189,90
+72123,"Salinas Municipio, Puerto Rico",less_than_six_months,0,29
+72123,"Salinas Municipio, Puerto Rico",six_to_eleven_months,35,37
+72123,"Salinas Municipio, Puerto Rico",one_or_two_years,36,39
+72123,"Salinas Municipio, Puerto Rico",three_or_four_years,20,33
+72123,"Salinas Municipio, Puerto Rico",five_plus_years,98,72
+72123,"Salinas Municipio, Puerto Rico",not_responsible,351,189
+72125,"San Germán Municipio, Puerto Rico",coresident_grandparents_total,777,293
+72125,"San Germán Municipio, Puerto Rico",responsible_total,280,175
+72125,"San Germán Municipio, Puerto Rico",less_than_six_months,102,121
+72125,"San Germán Municipio, Puerto Rico",six_to_eleven_months,0,33
+72125,"San Germán Municipio, Puerto Rico",one_or_two_years,0,33
+72125,"San Germán Municipio, Puerto Rico",three_or_four_years,24,39
+72125,"San Germán Municipio, Puerto Rico",five_plus_years,154,126
+72125,"San Germán Municipio, Puerto Rico",not_responsible,497,232
+72127,"San Juan Municipio, Puerto Rico",coresident_grandparents_total,4735,695
+72127,"San Juan Municipio, Puerto Rico",responsible_total,1634,384
+72127,"San Juan Municipio, Puerto Rico",less_than_six_months,82,68
+72127,"San Juan Municipio, Puerto Rico",six_to_eleven_months,75,60
+72127,"San Juan Municipio, Puerto Rico",one_or_two_years,288,151
+72127,"San Juan Municipio, Puerto Rico",three_or_four_years,164,104
+72127,"San Juan Municipio, Puerto Rico",five_plus_years,1025,276
+72127,"San Juan Municipio, Puerto Rico",not_responsible,3101,492
+72129,"San Lorenzo Municipio, Puerto Rico",coresident_grandparents_total,1123,392
+72129,"San Lorenzo Municipio, Puerto Rico",responsible_total,445,235
+72129,"San Lorenzo Municipio, Puerto Rico",less_than_six_months,47,76
+72129,"San Lorenzo Municipio, Puerto Rico",six_to_eleven_months,0,33
+72129,"San Lorenzo Municipio, Puerto Rico",one_or_two_years,0,33
+72129,"San Lorenzo Municipio, Puerto Rico",three_or_four_years,0,33
+72129,"San Lorenzo Municipio, Puerto Rico",five_plus_years,398,220
+72129,"San Lorenzo Municipio, Puerto Rico",not_responsible,678,288
+72131,"San Sebastián Municipio, Puerto Rico",coresident_grandparents_total,803,282
+72131,"San Sebastián Municipio, Puerto Rico",responsible_total,344,201
+72131,"San Sebastián Municipio, Puerto Rico",less_than_six_months,69,80
+72131,"San Sebastián Municipio, Puerto Rico",six_to_eleven_months,0,33
+72131,"San Sebastián Municipio, Puerto Rico",one_or_two_years,115,129
+72131,"San Sebastián Municipio, Puerto Rico",three_or_four_years,63,70
+72131,"San Sebastián Municipio, Puerto Rico",five_plus_years,97,102
+72131,"San Sebastián Municipio, Puerto Rico",not_responsible,459,223
+72133,"Santa Isabel Municipio, Puerto Rico",coresident_grandparents_total,269,203
+72133,"Santa Isabel Municipio, Puerto Rico",responsible_total,73,82
+72133,"Santa Isabel Municipio, Puerto Rico",less_than_six_months,0,24
+72133,"Santa Isabel Municipio, Puerto Rico",six_to_eleven_months,27,46
+72133,"Santa Isabel Municipio, Puerto Rico",one_or_two_years,0,24
+72133,"Santa Isabel Municipio, Puerto Rico",three_or_four_years,0,24
+72133,"Santa Isabel Municipio, Puerto Rico",five_plus_years,46,70
+72133,"Santa Isabel Municipio, Puerto Rico",not_responsible,196,151
+72135,"Toa Alta Municipio, Puerto Rico",coresident_grandparents_total,1445,378
+72135,"Toa Alta Municipio, Puerto Rico",responsible_total,435,227
+72135,"Toa Alta Municipio, Puerto Rico",less_than_six_months,25,40
+72135,"Toa Alta Municipio, Puerto Rico",six_to_eleven_months,29,45
+72135,"Toa Alta Municipio, Puerto Rico",one_or_two_years,90,66
+72135,"Toa Alta Municipio, Puerto Rico",three_or_four_years,20,33
+72135,"Toa Alta Municipio, Puerto Rico",five_plus_years,271,189
+72135,"Toa Alta Municipio, Puerto Rico",not_responsible,1010,308
+72137,"Toa Baja Municipio, Puerto Rico",coresident_grandparents_total,1982,402
+72137,"Toa Baja Municipio, Puerto Rico",responsible_total,1095,303
+72137,"Toa Baja Municipio, Puerto Rico",less_than_six_months,95,77
+72137,"Toa Baja Municipio, Puerto Rico",six_to_eleven_months,133,101
+72137,"Toa Baja Municipio, Puerto Rico",one_or_two_years,181,113
+72137,"Toa Baja Municipio, Puerto Rico",three_or_four_years,90,77
+72137,"Toa Baja Municipio, Puerto Rico",five_plus_years,596,234
+72137,"Toa Baja Municipio, Puerto Rico",not_responsible,887,237
+72139,"Trujillo Alto Municipio, Puerto Rico",coresident_grandparents_total,1058,270
+72139,"Trujillo Alto Municipio, Puerto Rico",responsible_total,506,176
+72139,"Trujillo Alto Municipio, Puerto Rico",less_than_six_months,74,86
+72139,"Trujillo Alto Municipio, Puerto Rico",six_to_eleven_months,17,27
+72139,"Trujillo Alto Municipio, Puerto Rico",one_or_two_years,106,97
+72139,"Trujillo Alto Municipio, Puerto Rico",three_or_four_years,69,89
+72139,"Trujillo Alto Municipio, Puerto Rico",five_plus_years,240,121
+72139,"Trujillo Alto Municipio, Puerto Rico",not_responsible,552,205
+72141,"Utuado Municipio, Puerto Rico",coresident_grandparents_total,460,196
+72141,"Utuado Municipio, Puerto Rico",responsible_total,110,81
+72141,"Utuado Municipio, Puerto Rico",less_than_six_months,9,14
+72141,"Utuado Municipio, Puerto Rico",six_to_eleven_months,0,29
+72141,"Utuado Municipio, Puerto Rico",one_or_two_years,13,20
+72141,"Utuado Municipio, Puerto Rico",three_or_four_years,0,29
+72141,"Utuado Municipio, Puerto Rico",five_plus_years,88,78
+72141,"Utuado Municipio, Puerto Rico",not_responsible,350,167
+72143,"Vega Alta Municipio, Puerto Rico",coresident_grandparents_total,729,268
+72143,"Vega Alta Municipio, Puerto Rico",responsible_total,255,164
+72143,"Vega Alta Municipio, Puerto Rico",less_than_six_months,0,33
+72143,"Vega Alta Municipio, Puerto Rico",six_to_eleven_months,0,33
+72143,"Vega Alta Municipio, Puerto Rico",one_or_two_years,0,33
+72143,"Vega Alta Municipio, Puerto Rico",three_or_four_years,21,33
+72143,"Vega Alta Municipio, Puerto Rico",five_plus_years,234,162
+72143,"Vega Alta Municipio, Puerto Rico",not_responsible,474,210
+72145,"Vega Baja Municipio, Puerto Rico",coresident_grandparents_total,943,287
+72145,"Vega Baja Municipio, Puerto Rico",responsible_total,290,134
+72145,"Vega Baja Municipio, Puerto Rico",less_than_six_months,0,36
+72145,"Vega Baja Municipio, Puerto Rico",six_to_eleven_months,55,77
+72145,"Vega Baja Municipio, Puerto Rico",one_or_two_years,108,98
+72145,"Vega Baja Municipio, Puerto Rico",three_or_four_years,16,25
+72145,"Vega Baja Municipio, Puerto Rico",five_plus_years,111,94
+72145,"Vega Baja Municipio, Puerto Rico",not_responsible,653,259
+72147,"Vieques Municipio, Puerto Rico",coresident_grandparents_total,104,98
+72147,"Vieques Municipio, Puerto Rico",responsible_total,57,89
+72147,"Vieques Municipio, Puerto Rico",less_than_six_months,0,22
+72147,"Vieques Municipio, Puerto Rico",six_to_eleven_months,0,22
+72147,"Vieques Municipio, Puerto Rico",one_or_two_years,0,22
+72147,"Vieques Municipio, Puerto Rico",three_or_four_years,0,22
+72147,"Vieques Municipio, Puerto Rico",five_plus_years,57,89
+72147,"Vieques Municipio, Puerto Rico",not_responsible,47,45
+72149,"Villalba Municipio, Puerto Rico",coresident_grandparents_total,494,220
+72149,"Villalba Municipio, Puerto Rico",responsible_total,106,68
+72149,"Villalba Municipio, Puerto Rico",less_than_six_months,0,29
+72149,"Villalba Municipio, Puerto Rico",six_to_eleven_months,0,29
+72149,"Villalba Municipio, Puerto Rico",one_or_two_years,0,29
+72149,"Villalba Municipio, Puerto Rico",three_or_four_years,40,42
+72149,"Villalba Municipio, Puerto Rico",five_plus_years,66,53
+72149,"Villalba Municipio, Puerto Rico",not_responsible,388,213
+72151,"Yabucoa Municipio, Puerto Rico",coresident_grandparents_total,693,212
+72151,"Yabucoa Municipio, Puerto Rico",responsible_total,316,128
+72151,"Yabucoa Municipio, Puerto Rico",less_than_six_months,39,38
+72151,"Yabucoa Municipio, Puerto Rico",six_to_eleven_months,17,21
+72151,"Yabucoa Municipio, Puerto Rico",one_or_two_years,71,66
+72151,"Yabucoa Municipio, Puerto Rico",three_or_four_years,22,35
+72151,"Yabucoa Municipio, Puerto Rico",five_plus_years,167,115
+72151,"Yabucoa Municipio, Puerto Rico",not_responsible,377,160
+72153,"Yauco Municipio, Puerto Rico",coresident_grandparents_total,494,187
+72153,"Yauco Municipio, Puerto Rico",responsible_total,92,56
+72153,"Yauco Municipio, Puerto Rico",less_than_six_months,0,33
+72153,"Yauco Municipio, Puerto Rico",six_to_eleven_months,0,33
+72153,"Yauco Municipio, Puerto Rico",one_or_two_years,16,27
+72153,"Yauco Municipio, Puerto Rico",three_or_four_years,23,26
+72153,"Yauco Municipio, Puerto Rico",five_plus_years,53,43
+72153,"Yauco Municipio, Puerto Rico",not_responsible,402,172

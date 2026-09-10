@@ -1,0 +1,2 @@
+boundary_year,resolution,retrieved_utc,source,input_rows,joined_rows,unmatched,static_crs,static_epsg,export_crs,export_epsg
+2024,"1:500,000 cartographic boundaries",2026-09-07 21:46:56 UTC,https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_13_county_500k.zip,159,159,0,WGS 84 / Pseudo-Mercator,3857,WGS 84,4326

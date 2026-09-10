@@ -1,0 +1,32 @@
+metric,exclusion_reason,records,received
+caregiver_count,Retained,3144,3144
+caregiving_percent,Caregiver count MOE exceeds 50% of estimate,730,3144
+caregiving_percent,Missing input or nonpositive denominator,38,3144
+caregiving_percent,Percentage MOE exceeds 50% of estimate,782,3144
+caregiving_percent,Retained,1531,3144
+caregiving_percent,Unavailable MOE or zero percentage,63,3144
+five_plus_years,Caregiver count MOE exceeds 50% of estimate,407,3144
+five_plus_years,Missing input or nonpositive denominator,101,3144
+five_plus_years,Percentage MOE exceeds 50% of estimate,1169,3144
+five_plus_years,Retained,1337,3144
+five_plus_years,Unavailable MOE or zero percentage,130,3144
+less_than_six_months,Caregiver count MOE exceeds 50% of estimate,18,3144
+less_than_six_months,Missing input or nonpositive denominator,101,3144
+less_than_six_months,Percentage MOE exceeds 50% of estimate,1911,3144
+less_than_six_months,Retained,132,3144
+less_than_six_months,Unavailable MOE or zero percentage,982,3144
+one_or_two_years,Caregiver count MOE exceeds 50% of estimate,58,3144
+one_or_two_years,Missing input or nonpositive denominator,101,3144
+one_or_two_years,Percentage MOE exceeds 50% of estimate,2078,3144
+one_or_two_years,Retained,420,3144
+one_or_two_years,Unavailable MOE or zero percentage,487,3144
+six_to_eleven_months,Caregiver count MOE exceeds 50% of estimate,7,3144
+six_to_eleven_months,Missing input or nonpositive denominator,101,3144
+six_to_eleven_months,Percentage MOE exceeds 50% of estimate,1885,3144
+six_to_eleven_months,Retained,119,3144
+six_to_eleven_months,Unavailable MOE or zero percentage,1032,3144
+three_or_four_years,Caregiver count MOE exceeds 50% of estimate,33,3144
+three_or_four_years,Missing input or nonpositive denominator,101,3144
+three_or_four_years,Percentage MOE exceeds 50% of estimate,2089,3144
+three_or_four_years,Retained,354,3144
+three_or_four_years,Unavailable MOE or zero percentage,567,3144

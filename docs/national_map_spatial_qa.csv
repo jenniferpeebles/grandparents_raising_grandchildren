@@ -1,0 +1,2 @@
+boundary_year,boundary_retrieved_utc,source,counties,states_and_dc,colored,gray,unmatched,static_crs,static_epsg,export_epsg
+2024,2026-09-07 21:47:05 UTC,https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip,3144,51,1531,1613,0,WGS 84 / Pseudo-Mercator,3857,4326

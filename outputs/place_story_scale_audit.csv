@@ -1,0 +1,676 @@
+geoid,name,story_scale_exclusion
+1311560,"Brunswick city, Georgia",Retained
+1319112,"Commerce city, Georgia",Retained
+1344340,"LaGrange city, Georgia",Retained
+1338964,"Hinesville city, Georgia",Retained
+1301052,"Albany city, Georgia",Retained
+1319000,"Columbus city, Georgia",Retained
+1304000,"Atlanta city, Georgia",Retained
+1369000,"Savannah city, Georgia",Retained
+1373704,"Stockbridge city, Georgia",Retained
+1349008,"Macon-Bibb County, Georgia",Retained
+1373784,"Stonecrest city, Georgia",Retained
+1304204,"Augusta-Richmond County consolidated government (balance), Georgia",Retained
+1380508,"Warner Robins city, Georgia",Retained
+1372122,"South Fulton city, Georgia",Retained
+1349756,"Marietta city, Georgia",Retained
+1348288,"Mableton city, Georgia",Retained
+1300184,"Abbeville city, Georgia",Denominator below story-scale threshold
+1300408,"Acworth city, Georgia",Percentage MOE exceeds 50% of estimate
+1300436,"Adairsville city, Georgia",Percentage MOE exceeds 50% of estimate
+1300576,"Adel city, Georgia",Percentage MOE exceeds 50% of estimate
+1300660,"Adrian city, Georgia",Denominator below story-scale threshold
+1300828,"Ailey city, Georgia",Denominator below story-scale threshold
+1300996,"Alamo town, Georgia",Denominator below story-scale threshold
+1301024,"Alapaha town, Georgia",Denominator below story-scale threshold
+1301248,"Aldora town, Georgia",Denominator below story-scale threshold
+1301472,"Allenhurst city, Georgia",Denominator below story-scale threshold
+1301500,"Allentown city, Georgia",Denominator below story-scale threshold
+1301612,"Alma city, Georgia",Denominator below story-scale threshold
+1301696,"Alpharetta city, Georgia",Percentage MOE exceeds 50% of estimate
+1301808,"Alston town, Georgia",Denominator below story-scale threshold
+1301948,"Alto town, Georgia",Denominator below story-scale threshold
+1302060,"Ambrose city, Georgia",Denominator below story-scale threshold
+1302116,"Americus city, Georgia",Percentage MOE exceeds 50% of estimate
+1302256,"Andersonville city, Georgia",Denominator below story-scale threshold
+1302364,"Antioch CDP, Georgia",Denominator below story-scale threshold
+1302536,"Appling CDP, Georgia",Denominator below story-scale threshold
+1302564,"Arabi town, Georgia",Denominator below story-scale threshold
+1302592,"Aragon city, Georgia",Denominator below story-scale threshold
+1302648,"Arcade city, Georgia",Denominator below story-scale threshold
+1302844,"Argyle town, Georgia",Denominator below story-scale threshold
+1302928,"Arlington city, Georgia",Denominator below story-scale threshold
+1303124,"Arnoldsville city, Georgia",Denominator below story-scale threshold
+1303236,"Ashburn city, Georgia",Denominator below story-scale threshold
+1303440,"Athens-Clarke County unified government (balance), Georgia",Caregiver count MOE exceeds 50% of estimate
+1304084,"Attapulgus city, Georgia",Denominator below story-scale threshold
+1304140,"Auburn city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1304252,"Austell city, Georgia",Percentage MOE exceeds 50% of estimate
+1304392,"Avalon town, Georgia",Denominator below story-scale threshold
+1304448,"Avera city, Georgia",Denominator below story-scale threshold
+1304644,"Avondale Estates city, Georgia",Denominator below story-scale threshold
+1304700,"Axson CDP, Georgia",Denominator below story-scale threshold
+1304840,"Baconton city, Georgia",Denominator below story-scale threshold
+1304896,"Bainbridge city, Georgia",Percentage MOE exceeds 50% of estimate
+1304980,"Baldwin city, Georgia",Unavailable MOE or zero percentage
+1305036,"Ball Ground city, Georgia",Denominator below story-scale threshold
+1305344,"Barnesville city, Georgia",Denominator below story-scale threshold
+1305680,"Bartow town, Georgia",Denominator below story-scale threshold
+1305708,"Barwick city, Georgia",Denominator below story-scale threshold
+1306016,"Baxley city, Georgia",Denominator below story-scale threshold
+1306688,"Bellville city, Georgia",Denominator below story-scale threshold
+1306884,"Belvedere Park CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1306968,"Bemiss CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1307248,"Berkeley Lake city, Georgia",Denominator below story-scale threshold
+1307304,"Berlin city, Georgia",Denominator below story-scale threshold
+1307380,"Berry College CDP, Georgia",Denominator below story-scale threshold
+1307612,"Bethlehem town, Georgia",Denominator below story-scale threshold
+1307640,"Between town, Georgia",Denominator below story-scale threshold
+1308200,"Bishop town, Georgia",Denominator below story-scale threshold
+1308284,"Blackshear city, Georgia",Denominator below story-scale threshold
+1308480,"Blairsville city, Georgia",Denominator below story-scale threshold
+1308536,"Blakely city, Georgia",Denominator below story-scale threshold
+1308844,"Bloomingdale city, Georgia",Denominator below story-scale threshold
+1308928,"Blue Ridge city, Georgia",Denominator below story-scale threshold
+1308956,"Bluffton town, Georgia",Denominator below story-scale threshold
+1309040,"Blythe city, Georgia",Denominator below story-scale threshold
+1309068,"Bogart town, Georgia",Denominator below story-scale threshold
+1309152,"Bolingbroke CDP, Georgia",Denominator below story-scale threshold
+1309272,"Bonanza CDP, Georgia",Denominator below story-scale threshold
+1309460,"Boston city, Georgia",Denominator below story-scale threshold
+1309488,"Bostwick city, Georgia",Denominator below story-scale threshold
+1309544,"Bowdon city, Georgia",Denominator below story-scale threshold
+1309656,"Bowersville town, Georgia",Denominator below story-scale threshold
+1309712,"Bowman city, Georgia",Denominator below story-scale threshold
+1309768,"Box Springs CDP, Georgia",Denominator below story-scale threshold
+1309852,"Boykin CDP, Georgia",Denominator below story-scale threshold
+1310076,"Braselton town, Georgia",Percentage MOE exceeds 50% of estimate
+1310104,"Braswell town, Georgia",Denominator below story-scale threshold
+1310132,"Bremen city, Georgia",Denominator below story-scale threshold
+1310608,"Brinson town, Georgia",Denominator below story-scale threshold
+1310664,"Bristol CDP, Georgia",Denominator below story-scale threshold
+1310860,"Bronwood town, Georgia",Denominator below story-scale threshold
+1310944,"Brookhaven city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1311000,"Brooklet city, Georgia",Denominator below story-scale threshold
+1311056,"Brooks town, Georgia",Denominator below story-scale threshold
+1311504,"Broxton city, Georgia",Denominator below story-scale threshold
+1311616,"Buchanan city, Georgia",Percentage MOE exceeds 50% of estimate
+1311626,"Buckhead CDP, Georgia",Unavailable MOE or zero percentage
+1311672,"Buckhead town, Georgia",Denominator below story-scale threshold
+1311728,"Buena Vista city, Georgia",Denominator below story-scale threshold
+1311784,"Buford city, Georgia",Percentage MOE exceeds 50% of estimate
+1312120,"Butler city, Georgia",Denominator below story-scale threshold
+1312232,"Byromville town, Georgia",Denominator below story-scale threshold
+1312260,"Byron city, Georgia",Percentage MOE exceeds 50% of estimate
+1312344,"Cadwell town, Georgia",Denominator below story-scale threshold
+1312400,"Cairo city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1312456,"Calhoun city, Georgia",Percentage MOE exceeds 50% of estimate
+1312484,"Calvary CDP, Georgia",Denominator below story-scale threshold
+1312512,"Camak town, Georgia",Denominator below story-scale threshold
+1312624,"Camilla city, Georgia",Percentage MOE exceeds 50% of estimate
+1312834,"Candler-McAfee CDP, Georgia",Caregiver count MOE exceeds 50% of estimate
+1312932,"Canon city, Georgia",Denominator below story-scale threshold
+1312960,"Canoochee CDP, Georgia",Denominator below story-scale threshold
+1312988,"Canton city, Georgia",Percentage MOE exceeds 50% of estimate
+1313184,"Carl town, Georgia",Denominator below story-scale threshold
+1313212,"Carlton city, Georgia",Denominator below story-scale threshold
+1313352,"Carnesville city, Georgia",Denominator below story-scale threshold
+1313492,"Carrollton city, Georgia",Percentage MOE exceeds 50% of estimate
+1313688,"Cartersville city, Georgia",Percentage MOE exceeds 50% of estimate
+1314024,"Cataula CDP, Georgia",Denominator below story-scale threshold
+1314108,"Cave Spring city, Georgia",Denominator below story-scale threshold
+1314192,"Cecil city, Georgia",Denominator below story-scale threshold
+1314472,"Cedar Springs CDP, Georgia",Denominator below story-scale threshold
+1314500,"Cedartown city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1314920,"Centerville city, Georgia",Unavailable MOE or zero percentage
+1315026,"Centralhatchee town, Georgia",Denominator below story-scale threshold
+1315172,"Chamblee city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1315508,"Chatsworth city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1315552,"Chattahoochee Hills city, Georgia",Denominator below story-scale threshold
+1315585,"Chattanooga Valley CDP, Georgia",Unavailable MOE or zero percentage
+1315648,"Chauncey city, Georgia",Denominator below story-scale threshold
+1315844,"Cherry Log CDP, Georgia",Denominator below story-scale threshold
+1315900,"Chester town, Georgia",Denominator below story-scale threshold
+1315984,"Chickamauga city, Georgia",Percentage MOE exceeds 50% of estimate
+1316460,"Clarkesville city, Georgia",Denominator below story-scale threshold
+1316544,"Clarkston city, Georgia",Percentage MOE exceeds 50% of estimate
+1316600,"Claxton city, Georgia",Denominator below story-scale threshold
+1316656,"Clayton city, Georgia",Denominator below story-scale threshold
+1316796,"Clermont town, Georgia",Denominator below story-scale threshold
+1316824,"Cleveland city, Georgia",Denominator below story-scale threshold
+1316908,"Climax city, Georgia",Denominator below story-scale threshold
+1317132,"Clyattville CDP, Georgia",Denominator below story-scale threshold
+1317272,"Cobbtown city, Georgia",Denominator below story-scale threshold
+1317328,"Cochran city, Georgia",Denominator below story-scale threshold
+1317468,"Cogdell CDP, Georgia",Denominator below story-scale threshold
+1317496,"Cohutta city, Georgia",Denominator below story-scale threshold
+1317552,"Colbert city, Georgia",Denominator below story-scale threshold
+1317580,"Coleman CDP, Georgia",Denominator below story-scale threshold
+1317776,"College Park city, Georgia",Percentage MOE exceeds 50% of estimate
+1317832,"Collins city, Georgia",Denominator below story-scale threshold
+1318000,"Colquitt city, Georgia",Denominator below story-scale threshold
+1319084,"Comer city, Georgia",Denominator below story-scale threshold
+1319168,"Concord city, Georgia",Denominator below story-scale threshold
+1319280,"Conley CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1319336,"Conyers city, Georgia",Percentage MOE exceeds 50% of estimate
+1319392,"Coolidge city, Georgia",Denominator below story-scale threshold
+1319616,"Cordele city, Georgia",Percentage MOE exceeds 50% of estimate
+1319728,"Cornelia city, Georgia",Percentage MOE exceeds 50% of estimate
+1319830,"Country Club Estates CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1320064,"Covington city, Georgia",Percentage MOE exceeds 50% of estimate
+1320288,"Crawford city, Georgia",Denominator below story-scale threshold
+1320316,"Crawfordville city, Georgia",Denominator below story-scale threshold
+1320372,"Crescent CDP, Georgia",Denominator below story-scale threshold
+1320550,"Crooked Creek CDP, Georgia",Denominator below story-scale threshold
+1320848,"Culloden city, Georgia",Denominator below story-scale threshold
+1320932,"Cumming city, Georgia",Denominator below story-scale threshold
+1321017,"Cusseta-Chattahoochee County unified government, Georgia",Caregiver count MOE exceeds 50% of estimate
+1321072,"Cuthbert city, Georgia",Denominator below story-scale threshold
+1321184,"Dacula city, Georgia",Percentage MOE exceeds 50% of estimate
+1321240,"Dahlonega city, Georgia",Denominator below story-scale threshold
+1321268,"Daisy city, Georgia",Denominator below story-scale threshold
+1321324,"Dallas city, Georgia",Percentage MOE exceeds 50% of estimate
+1321380,"Dalton city, Georgia",Percentage MOE exceeds 50% of estimate
+1321436,"Damascus city, Georgia",Denominator below story-scale threshold
+1321632,"Danielsville city, Georgia",Denominator below story-scale threshold
+1321688,"Danville town, Georgia",Denominator below story-scale threshold
+1321716,"Darien city, Georgia",Denominator below story-scale threshold
+1321744,"Dasher town, Georgia",Denominator below story-scale threshold
+1321800,"Davisboro city, Georgia",Denominator below story-scale threshold
+1321912,"Dawson city, Georgia",Unavailable MOE or zero percentage
+1321940,"Dawsonville city, Georgia",Denominator below story-scale threshold
+1322024,"Dearing town, Georgia",Denominator below story-scale threshold
+1322052,"Decatur city, Georgia",Unavailable MOE or zero percentage
+1322080,"Deenwood CDP, Georgia",Denominator below story-scale threshold
+1322108,"Deepstep town, Georgia",Denominator below story-scale threshold
+1322304,"Demorest city, Georgia",Denominator below story-scale threshold
+1322388,"Denton city, Georgia",Denominator below story-scale threshold
+1322472,"De Soto city, Georgia",Denominator below story-scale threshold
+1322724,"Dewy Rose CDP, Georgia",Denominator below story-scale threshold
+1322752,"Dexter town, Georgia",Denominator below story-scale threshold
+1322976,"Dillard city, Georgia",Denominator below story-scale threshold
+1323060,"Dixie CDP, Georgia",Denominator below story-scale threshold
+1323144,"Dixie Union CDP, Georgia",Denominator below story-scale threshold
+1323200,"Dock Junction CDP, Georgia",Caregiver count MOE exceeds 50% of estimate
+1323284,"Doerun city, Georgia",Denominator below story-scale threshold
+1323368,"Donalsonville city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1323480,"Dooling town, Georgia",Denominator below story-scale threshold
+1323536,"Doraville city, Georgia",Percentage MOE exceeds 50% of estimate
+1323872,"Douglas city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1323900,"Douglasville city, Georgia",Percentage MOE exceeds 50% of estimate
+1324264,"Druid Hills CDP, Georgia",Denominator below story-scale threshold
+1324376,"Dublin city, Georgia",Percentage MOE exceeds 50% of estimate
+1324488,"Dudley city, Georgia",Denominator below story-scale threshold
+1324600,"Duluth city, Georgia",Percentage MOE exceeds 50% of estimate
+1324768,"Dunwoody city, Georgia",Percentage MOE exceeds 50% of estimate
+1324796,"Du Pont town, Georgia",Denominator below story-scale threshold
+1324876,"Dutch Island CDP, Georgia",Denominator below story-scale threshold
+1324964,"Eagle Grove CDP, Georgia",Denominator below story-scale threshold
+1325300,"East Dublin city, Georgia",Denominator below story-scale threshold
+1325356,"East Ellijay city, Georgia",Denominator below story-scale threshold
+1325440,"East Griffin CDP, Georgia",Denominator below story-scale threshold
+1325552,"Eastman city, Georgia",Percentage MOE exceeds 50% of estimate
+1325692,"East Newnan CDP, Georgia",Denominator below story-scale threshold
+1325720,"East Point city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1326084,"Eatonton city, Georgia",Denominator below story-scale threshold
+1326156,"Echols County consolidated government, Georgia",Percentage MOE exceeds 50% of estimate
+1326224,"Edge Hill city, Georgia",Denominator below story-scale threshold
+1326448,"Edison city, Georgia",Denominator below story-scale threshold
+1326616,"Elberton city, Georgia",Denominator below story-scale threshold
+1326980,"Ellaville city, Georgia",Denominator below story-scale threshold
+1327008,"Ellenton town, Georgia",Denominator below story-scale threshold
+1327064,"Ellerslie CDP, Georgia",Denominator below story-scale threshold
+1327092,"Ellijay city, Georgia",Denominator below story-scale threshold
+1327344,"Emerson city, Georgia",Denominator below story-scale threshold
+1327512,"Empire CDP, Georgia",Denominator below story-scale threshold
+1327596,"Enigma town, Georgia",Denominator below story-scale threshold
+1327708,"Ephesus city, Georgia",Denominator below story-scale threshold
+1327736,"Epworth CDP, Georgia",Denominator below story-scale threshold
+1327932,"Eton city, Georgia",Denominator below story-scale threshold
+1327988,"Euharlee city, Georgia",Unavailable MOE or zero percentage
+1328016,"Eulonia CDP, Georgia",Denominator below story-scale threshold
+1328044,"Evans CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1328100,"Everett CDP, Georgia",Denominator below story-scale threshold
+1328296,"Experiment CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1328324,"Faceville CDP, Georgia",Denominator below story-scale threshold
+1328380,"Fairburn city, Georgia",Percentage MOE exceeds 50% of estimate
+1328440,"Fairfield Plantation CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1328492,"Fairmount city, Georgia",Denominator below story-scale threshold
+1328520,"Fair Oaks CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1328548,"Fairplay CDP, Georgia",Denominator below story-scale threshold
+1328632,"Fairview CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1328744,"Fargo city, Georgia",Denominator below story-scale threshold
+1328968,"Fayetteville city, Georgia",Percentage MOE exceeds 50% of estimate
+1329528,"Fitzgerald city, Georgia",Percentage MOE exceeds 50% of estimate
+1330088,"Flemington city, Georgia",Percentage MOE exceeds 50% of estimate
+1330312,"Flovilla city, Georgia",Denominator below story-scale threshold
+1330340,"Flowery Branch city, Georgia",Unavailable MOE or zero percentage
+1330424,"Folkston city, Georgia",Percentage MOE exceeds 50% of estimate
+1330536,"Forest Park city, Georgia",Percentage MOE exceeds 50% of estimate
+1330732,"Forsyth city, Georgia",Denominator below story-scale threshold
+1330816,"Fort Gaines city, Georgia",Denominator below story-scale threshold
+1330956,"Fort Oglethorpe city, Georgia",Percentage MOE exceeds 50% of estimate
+1331068,"Fort Stewart CDP, Georgia",Denominator below story-scale threshold
+1331096,"Fort Valley city, Georgia",Percentage MOE exceeds 50% of estimate
+1331292,"Franklin city, Georgia",Denominator below story-scale threshold
+1331320,"Franklin Springs city, Georgia",Denominator below story-scale threshold
+1331684,"Funston city, Georgia",Denominator below story-scale threshold
+1331908,"Gainesville city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1332048,"Garden City city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1332132,"Gardi CDP, Georgia",Denominator below story-scale threshold
+1332188,"Garfield city, Georgia",Denominator below story-scale threshold
+1332384,"Gay town, Georgia",Denominator below story-scale threshold
+1332412,"Geneva town, Georgia",Denominator below story-scale threshold
+1332482,"Georgetown CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1332528,"Georgetown-Quitman County unified government, Georgia",Percentage MOE exceeds 50% of estimate
+1332748,"Gibson city, Georgia",Denominator below story-scale threshold
+1332860,"Gillsville city, Georgia",Denominator below story-scale threshold
+1332916,"Girard town, Georgia",Denominator below story-scale threshold
+1333280,"Glenn CDP, Georgia",Denominator below story-scale threshold
+1333336,"Glennville city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1333392,"Glenwood city, Georgia",Denominator below story-scale threshold
+1333672,"Godfrey CDP, Georgia",Denominator below story-scale threshold
+1333896,"Good Hope city, Georgia",Denominator below story-scale threshold
+1333980,"Gordon city, Georgia",Denominator below story-scale threshold
+1334176,"Gough CDP, Georgia",Denominator below story-scale threshold
+1334260,"Graham city, Georgia",Denominator below story-scale threshold
+1334428,"Grantville city, Georgia",Denominator below story-scale threshold
+1334512,"Gray city, Georgia",Denominator below story-scale threshold
+1334596,"Grayson city, Georgia",Unavailable MOE or zero percentage
+1334876,"Greensboro city, Georgia",Percentage MOE exceeds 50% of estimate
+1335016,"Greenville city, Georgia",Denominator below story-scale threshold
+1335240,"Gresham Park CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1335324,"Griffin city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1335716,"Grovetown city, Georgia",Percentage MOE exceeds 50% of estimate
+1335800,"Gumbranch city, Georgia",Denominator below story-scale threshold
+1335814,"Gumlog CDP, Georgia",Denominator below story-scale threshold
+1335884,"Guyton city, Georgia",Denominator below story-scale threshold
+1336024,"Hagan city, Georgia",Denominator below story-scale threshold
+1336052,"Hahira city, Georgia",Denominator below story-scale threshold
+1336220,"Hamilton city, Georgia",Denominator below story-scale threshold
+1336276,"Hampton city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1336416,"Hannahs Mill CDP, Georgia",Denominator below story-scale threshold
+1336472,"Hapeville city, Georgia",Denominator below story-scale threshold
+1336528,"Haralson town, Georgia",Denominator below story-scale threshold
+1336668,"Hardwick CDP, Georgia",Denominator below story-scale threshold
+1336696,"Harlem city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1336920,"Harrison town, Georgia",Denominator below story-scale threshold
+1337144,"Hartwell city, Georgia",Percentage MOE exceeds 50% of estimate
+1337396,"Hawkinsville city, Georgia",Unavailable MOE or zero percentage
+1337564,"Hazlehurst city, Georgia",Percentage MOE exceeds 50% of estimate
+1337788,"Helen city, Georgia",Denominator below story-scale threshold
+1337910,"Henderson CDP, Georgia",Denominator below story-scale threshold
+1338040,"Hephzibah city, Georgia",Percentage MOE exceeds 50% of estimate
+1338105,"Heron Bay CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1338124,"Hiawassee city, Georgia",Denominator below story-scale threshold
+1338292,"Hickox CDP, Georgia",Denominator below story-scale threshold
+1338348,"Higgston town, Georgia",Denominator below story-scale threshold
+1338866,"Hilltop CDP, Georgia",Denominator below story-scale threshold
+1338920,"Hiltonia town, Georgia",Denominator below story-scale threshold
+1339076,"Hiram city, Georgia",Percentage MOE exceeds 50% of estimate
+1339216,"Hoboken city, Georgia",Denominator below story-scale threshold
+1339244,"Hogansville city, Georgia",Denominator below story-scale threshold
+1339524,"Holly Springs city, Georgia",Percentage MOE exceeds 50% of estimate
+1339692,"Homeland city, Georgia",Denominator below story-scale threshold
+1339720,"Homer town, Georgia",Denominator below story-scale threshold
+1339748,"Homerville city, Georgia",Percentage MOE exceeds 50% of estimate
+1340028,"Hortense CDP, Georgia",Denominator below story-scale threshold
+1340056,"Hoschton city, Georgia",Percentage MOE exceeds 50% of estimate
+1340196,"Howard CDP, Georgia",Denominator below story-scale threshold
+1340532,"Hull city, Georgia",Denominator below story-scale threshold
+1340812,"Ideal city, Georgia",Denominator below story-scale threshold
+1340840,"Ila city, Georgia",Denominator below story-scale threshold
+1341036,"Indian Springs CDP, Georgia",Denominator below story-scale threshold
+1341344,"Iron City town, Georgia",Denominator below story-scale threshold
+1341347,"Irondale CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1341400,"Irwinton city, Georgia",Denominator below story-scale threshold
+1341484,"Isle of Hope CDP, Georgia",Denominator below story-scale threshold
+1341540,"Ivey city, Georgia",Denominator below story-scale threshold
+1341596,"Jackson city, Georgia",Percentage MOE exceeds 50% of estimate
+1341708,"Jacksonville city, Georgia",Denominator below story-scale threshold
+1341792,"Jakin city, Georgia",Denominator below story-scale threshold
+1341932,"Jasper city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1341988,"Jefferson city, Georgia",Percentage MOE exceeds 50% of estimate
+1342100,"Jeffersonville city, Georgia",Denominator below story-scale threshold
+1342128,"Jekyll Island CDP, Georgia",Denominator below story-scale threshold
+1342156,"Jenkinsburg city, Georgia",Denominator below story-scale threshold
+1342184,"Jersey city, Georgia",Denominator below story-scale threshold
+1342268,"Jesup city, Georgia",Percentage MOE exceeds 50% of estimate
+1342425,"Johns Creek city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1342604,"Jonesboro city, Georgia",Denominator below story-scale threshold
+1342772,"Juliette CDP, Georgia",Denominator below story-scale threshold
+1342800,"Junction City town, Georgia",Denominator below story-scale threshold
+1343192,"Kennesaw city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1343210,"Kennesaw State University CDP, Georgia",Denominator below story-scale threshold
+1343360,"Keysville city, Georgia",Denominator below story-scale threshold
+1343580,"Kings Bay Base CDP, Georgia",Denominator below story-scale threshold
+1343640,"Kingsland city, Georgia",Percentage MOE exceeds 50% of estimate
+1343668,"Kingston city, Georgia",Denominator below story-scale threshold
+1343892,"Kite city, Georgia",Denominator below story-scale threshold
+1344060,"Knoxville CDP, Georgia",Denominator below story-scale threshold
+1344312,"LaFayette city, Georgia",Percentage MOE exceeds 50% of estimate
+1344508,"Lake City city, Georgia",Percentage MOE exceeds 50% of estimate
+1344592,"Lakeland city, Georgia",Percentage MOE exceeds 50% of estimate
+1344704,"Lake Park city, Georgia",Denominator below story-scale threshold
+1344900,"Lakeview CDP, Georgia",Denominator below story-scale threshold
+1344956,"Lakeview Estates CDP, Georgia",Denominator below story-scale threshold
+1345460,"Lavonia city, Georgia",Denominator below story-scale threshold
+1345488,"Lawrenceville city, Georgia",Percentage MOE exceeds 50% of estimate
+1345600,"Leary city, Georgia",Denominator below story-scale threshold
+1345768,"Leesburg city, Georgia",Denominator below story-scale threshold
+1345936,"Lenox town, Georgia",Denominator below story-scale threshold
+1346020,"Leslie city, Georgia",Denominator below story-scale threshold
+1346188,"Lexington city, Georgia",Denominator below story-scale threshold
+1346356,"Lilburn city, Georgia",Percentage MOE exceeds 50% of estimate
+1346384,"Lilly city, Georgia",Denominator below story-scale threshold
+1346524,"Lincoln Park CDP, Georgia",Denominator below story-scale threshold
+1346552,"Lincolnton city, Georgia",Denominator below story-scale threshold
+1346580,"Lindale CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1346832,"Lithia Springs CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1346860,"Lithonia city, Georgia",Denominator below story-scale threshold
+1347140,"Locust Grove city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1347196,"Loganville city, Georgia",Percentage MOE exceeds 50% of estimate
+1347252,"Lone Oak town, Georgia",Denominator below story-scale threshold
+1347336,"Lookout Mountain city, Georgia",Denominator below story-scale threshold
+1347560,"Louisville city, Georgia",Denominator below story-scale threshold
+1347616,"Lovejoy city, Georgia",Percentage MOE exceeds 50% of estimate
+1347784,"Ludowici city, Georgia",Denominator below story-scale threshold
+1347896,"Lula city, Georgia",Denominator below story-scale threshold
+1347952,"Lumber City city, Georgia",Denominator below story-scale threshold
+1347980,"Lumpkin city, Georgia",Denominator below story-scale threshold
+1348008,"Luthersville city, Georgia",Denominator below story-scale threshold
+1348092,"Lyerly town, Georgia",Denominator below story-scale threshold
+1348232,"Lyons city, Georgia",Percentage MOE exceeds 50% of estimate
+1348428,"McCaysville city, Georgia",Denominator below story-scale threshold
+1348624,"McDonough city, Georgia",Percentage MOE exceeds 50% of estimate
+1348848,"McIntyre town, Georgia",Denominator below story-scale threshold
+1349100,"McRae-Helena city, Georgia",Percentage MOE exceeds 50% of estimate
+1349196,"Madison city, Georgia",Denominator below story-scale threshold
+1349504,"Manassas city, Georgia",Denominator below story-scale threshold
+1349532,"Manchester city, Georgia",Percentage MOE exceeds 50% of estimate
+1349588,"Manor CDP, Georgia",Denominator below story-scale threshold
+1349616,"Mansfield city, Georgia",Denominator below story-scale threshold
+1349924,"Marshallville city, Georgia",Denominator below story-scale threshold
+1350008,"Martin town, Georgia",Denominator below story-scale threshold
+1350036,"Martinez CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1350176,"Matthews CDP, Georgia",Denominator below story-scale threshold
+1350260,"Maxeys town, Georgia",Denominator below story-scale threshold
+1350484,"Maysville town, Georgia",Denominator below story-scale threshold
+1350596,"Meansville city, Georgia",Denominator below story-scale threshold
+1350680,"Meigs city, Georgia",Denominator below story-scale threshold
+1350820,"Mendes CDP, Georgia",Denominator below story-scale threshold
+1350848,"Menlo city, Georgia",Denominator below story-scale threshold
+1350960,"Mershon CDP, Georgia",Denominator below story-scale threshold
+1351072,"Metter city, Georgia",Denominator below story-scale threshold
+1351240,"Midville city, Georgia",Denominator below story-scale threshold
+1351352,"Midway city, Georgia",Denominator below story-scale threshold
+1351408,"Milan city, Georgia",Denominator below story-scale threshold
+1351492,"Milledgeville city, Georgia",Percentage MOE exceeds 50% of estimate
+1351520,"Millen city, Georgia",Denominator below story-scale threshold
+1351576,"Millwood CDP, Georgia",Denominator below story-scale threshold
+1351604,"Milner city, Georgia",Denominator below story-scale threshold
+1351660,"Milstead CDP, Georgia",Denominator below story-scale threshold
+1351670,"Milton city, Georgia",Percentage MOE exceeds 50% of estimate
+1351744,"Mineral Bluff CDP, Georgia",Denominator below story-scale threshold
+1351968,"Mitchell town, Georgia",Denominator below story-scale threshold
+1352108,"Molena city, Georgia",Denominator below story-scale threshold
+1352192,"Monroe city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1352304,"Montezuma city, Georgia",Percentage MOE exceeds 50% of estimate
+1352332,"Montgomery CDP, Georgia",Denominator below story-scale threshold
+1352416,"Monticello city, Georgia",Percentage MOE exceeds 50% of estimate
+1352500,"Montrose town, Georgia",Denominator below story-scale threshold
+1352556,"Moody AFB CDP, Georgia",Denominator below story-scale threshold
+1352668,"Moreland town, Georgia",Denominator below story-scale threshold
+1352696,"Morgan city, Georgia",Denominator below story-scale threshold
+1352724,"Morganton city, Georgia",Denominator below story-scale threshold
+1353004,"Morrow city, Georgia",Percentage MOE exceeds 50% of estimate
+1353032,"Morven city, Georgia",Denominator below story-scale threshold
+1353060,"Moultrie city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1353116,"Mountain City town, Georgia",Denominator below story-scale threshold
+1353172,"Mountain Park city, Georgia",Denominator below story-scale threshold
+1353186,"Mountain Park CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1353284,"Mount Airy town, Georgia",Denominator below story-scale threshold
+1353508,"Mount Vernon city, Georgia",Denominator below story-scale threshold
+1353620,"Mount Zion city, Georgia",Denominator below story-scale threshold
+1354012,"Musella CDP, Georgia",Denominator below story-scale threshold
+1354124,"Nahunta city, Georgia",Denominator below story-scale threshold
+1354264,"Nashville city, Georgia",Percentage MOE exceeds 50% of estimate
+1354404,"Naylor CDP, Georgia",Denominator below story-scale threshold
+1354572,"Nelson city, Georgia",Denominator below story-scale threshold
+1354656,"Newborn town, Georgia",Denominator below story-scale threshold
+1354768,"New England CDP, Georgia",Denominator below story-scale threshold
+1354992,"Newington town, Georgia",Denominator below story-scale threshold
+1355020,"Newnan city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1355244,"Newton city, Georgia",Denominator below story-scale threshold
+1355440,"Nicholls city, Georgia",Denominator below story-scale threshold
+1355468,"Nicholson city, Georgia",Percentage MOE exceeds 50% of estimate
+1355776,"Norcross city, Georgia",Percentage MOE exceeds 50% of estimate
+1355860,"Norman Park city, Georgia",Denominator below story-scale threshold
+1355944,"Norristown CDP, Georgia",Denominator below story-scale threshold
+1356112,"North Decatur CDP, Georgia",Unavailable MOE or zero percentage
+1356168,"North Druid Hills CDP, Georgia",Denominator below story-scale threshold
+1356308,"North High Shoals town, Georgia",Denominator below story-scale threshold
+1356560,"Norwood city, Georgia",Denominator below story-scale threshold
+1356644,"Nunez city, Georgia",Denominator below story-scale threshold
+1357232,"Oak Park town, Georgia",Denominator below story-scale threshold
+1357260,"Oakwood city, Georgia",Percentage MOE exceeds 50% of estimate
+1357372,"Ochlocknee town, Georgia",Denominator below story-scale threshold
+1357428,"Ocilla city, Georgia",Percentage MOE exceeds 50% of estimate
+1357456,"Oconee city, Georgia",Denominator below story-scale threshold
+1357540,"Odum city, Georgia",Denominator below story-scale threshold
+1357568,"Offerman city, Georgia",Denominator below story-scale threshold
+1357736,"Oglethorpe city, Georgia",Denominator below story-scale threshold
+1357876,"Ohoopee CDP, Georgia",Denominator below story-scale threshold
+1358100,"Oliver city, Georgia",Denominator below story-scale threshold
+1358184,"Omega city, Georgia",Unavailable MOE or zero percentage
+1358296,"Orchard Hill town, Georgia",Denominator below story-scale threshold
+1358744,"Oxford city, Georgia",Denominator below story-scale threshold
+1358884,"Palmetto city, Georgia",Percentage MOE exceeds 50% of estimate
+1359080,"Panthersville CDP, Georgia",Denominator below story-scale threshold
+1359416,"Parrott town, Georgia",Denominator below story-scale threshold
+1359500,"Patterson city, Georgia",Denominator below story-scale threshold
+1359556,"Pavo city, Georgia",Denominator below story-scale threshold
+1359724,"Peachtree City city, Georgia",Percentage MOE exceeds 50% of estimate
+1359735,"Peachtree Corners city, Georgia",Percentage MOE exceeds 50% of estimate
+1359808,"Pearson city, Georgia",Denominator below story-scale threshold
+1359976,"Pelham city, Georgia",Denominator below story-scale threshold
+1360004,"Pembroke city, Georgia",Denominator below story-scale threshold
+1360032,"Pendergrass town, Georgia",Denominator below story-scale threshold
+1360312,"Perkins CDP, Georgia",Denominator below story-scale threshold
+1360340,"Perry city, Georgia",Percentage MOE exceeds 50% of estimate
+1360508,"Phillipsburg CDP, Georgia",Denominator below story-scale threshold
+1360984,"Pinehurst city, Georgia",Denominator below story-scale threshold
+1361040,"Pine Lake city, Georgia",Denominator below story-scale threshold
+1361124,"Pine Mountain town, Georgia",Denominator below story-scale threshold
+1361320,"Pineview town, Georgia",Denominator below story-scale threshold
+1361376,"Piney Grove CDP, Georgia",Denominator below story-scale threshold
+1361544,"Pitts city, Georgia",Denominator below story-scale threshold
+1361628,"Plains city, Georgia",Denominator below story-scale threshold
+1361684,"Plainville city, Georgia",Denominator below story-scale threshold
+1362104,"Pooler city, Georgia",Percentage MOE exceeds 50% of estimate
+1362216,"Portal town, Georgia",Denominator below story-scale threshold
+1362244,"Porterdale city, Georgia",Denominator below story-scale threshold
+1362328,"Port Wentworth city, Georgia",Percentage MOE exceeds 50% of estimate
+1362496,"Poulan city, Georgia",Denominator below story-scale threshold
+1362524,"Powder Springs city, Georgia",Percentage MOE exceeds 50% of estimate
+1363000,"Pulaski town, Georgia",Denominator below story-scale threshold
+1363084,"Putney CDP, Georgia",Denominator below story-scale threshold
+1363224,"Quitman city, Georgia",Denominator below story-scale threshold
+1363560,"Ranger CDP, Georgia",Denominator below story-scale threshold
+1363588,"Raoul CDP, Georgia",Denominator below story-scale threshold
+1363728,"Ray City city, Georgia",Denominator below story-scale threshold
+1363756,"Rayle town, Georgia",Denominator below story-scale threshold
+1363840,"Rebecca town, Georgia",Denominator below story-scale threshold
+1363952,"Redan CDP, Georgia",Caregiver count MOE exceeds 50% of estimate
+1364288,"Reed Creek CDP, Georgia",Denominator below story-scale threshold
+1364372,"Register town, Georgia",Denominator below story-scale threshold
+1364512,"Reidsville city, Georgia",Denominator below story-scale threshold
+1364596,"Remerton city, Georgia",Denominator below story-scale threshold
+1364680,"Rentz city, Georgia",Denominator below story-scale threshold
+1364736,"Resaca town, Georgia",Denominator below story-scale threshold
+1364792,"Rest Haven town, Georgia",Denominator below story-scale threshold
+1364876,"Reynolds city, Georgia",Denominator below story-scale threshold
+1364932,"Rhine town, Georgia",Denominator below story-scale threshold
+1364960,"Riceboro city, Georgia",Denominator below story-scale threshold
+1365016,"Richland city, Georgia",Denominator below story-scale threshold
+1365044,"Richmond Hill city, Georgia",Percentage MOE exceeds 50% of estimate
+1365156,"Riddleville town, Georgia",Denominator below story-scale threshold
+1365296,"Rincon city, Georgia",Percentage MOE exceeds 50% of estimate
+1365324,"Ringgold city, Georgia",Denominator below story-scale threshold
+1365464,"Riverdale city, Georgia",Percentage MOE exceeds 50% of estimate
+1365856,"Roberta city, Georgia",Denominator below story-scale threshold
+1365968,"Robins AFB CDP, Georgia",Denominator below story-scale threshold
+1366024,"Rochelle city, Georgia",Denominator below story-scale threshold
+1366220,"Rockingham CDP, Georgia",Denominator below story-scale threshold
+1366276,"Rockmart city, Georgia",Percentage MOE exceeds 50% of estimate
+1366304,"Rock Spring CDP, Georgia",Denominator below story-scale threshold
+1366444,"Rocky Ford town, Georgia",Denominator below story-scale threshold
+1366668,"Rome city, Georgia",Percentage MOE exceeds 50% of estimate
+1366696,"Roopville town, Georgia",Denominator below story-scale threshold
+1367256,"Rossville city, Georgia",Denominator below story-scale threshold
+1367284,"Roswell city, Georgia",Percentage MOE exceeds 50% of estimate
+1367452,"Royston city, Georgia",Denominator below story-scale threshold
+1367676,"Russell CDP, Georgia",Denominator below story-scale threshold
+1367760,"Rutledge city, Georgia",Denominator below story-scale threshold
+1367984,"St. Marys city, Georgia",Percentage MOE exceeds 50% of estimate
+1368040,"St. Simons CDP, Georgia",Denominator below story-scale threshold
+1368096,"Sale City city, Georgia",Denominator below story-scale threshold
+1368129,"Salem CDP, Georgia",Denominator below story-scale threshold
+1368208,"Sandersville city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1368516,"Sandy Springs city, Georgia",Percentage MOE exceeds 50% of estimate
+1368600,"Santa Claus city, Georgia",Denominator below story-scale threshold
+1368740,"Sardis city, Georgia",Denominator below story-scale threshold
+1368796,"Sasser town, Georgia",Denominator below story-scale threshold
+1368805,"Satilla CDP, Georgia",Denominator below story-scale threshold
+1368880,"Sautee-Nacoochee CDP, Georgia",Denominator below story-scale threshold
+1369336,"Scotland city, Georgia",Denominator below story-scale threshold
+1369392,"Scottdale CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1369448,"Screven city, Georgia",Denominator below story-scale threshold
+1369672,"Senoia city, Georgia",Denominator below story-scale threshold
+1369728,"Seville CDP, Georgia",Denominator below story-scale threshold
+1369784,"Shady Dale town, Georgia",Denominator below story-scale threshold
+1369868,"Shannon CDP, Georgia",Denominator below story-scale threshold
+1369896,"Sharon city, Georgia",Denominator below story-scale threshold
+1369980,"Sharpsburg town, Georgia",Denominator below story-scale threshold
+1370120,"Shellman city, Georgia",Denominator below story-scale threshold
+1370428,"Shiloh city, Georgia",Denominator below story-scale threshold
+1370932,"Siloam town, Georgia",Denominator below story-scale threshold
+1371184,"Skidaway Island CDP, Georgia",Denominator below story-scale threshold
+1371282,"Sky Valley city, Georgia",Denominator below story-scale threshold
+1371296,"Smarr CDP, Georgia",Denominator below story-scale threshold
+1371464,"Smithville city, Georgia",Denominator below story-scale threshold
+1371492,"Smyrna city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1371604,"Snellville city, Georgia",Percentage MOE exceeds 50% of estimate
+1371660,"Social Circle city, Georgia",Percentage MOE exceeds 50% of estimate
+1371772,"Soperton city, Georgia",Denominator below story-scale threshold
+1372556,"Sparks town, Georgia",Denominator below story-scale threshold
+1372584,"Sparta city, Georgia",Denominator below story-scale threshold
+1372780,"Springfield city, Georgia",Denominator below story-scale threshold
+1373004,"Stapleton city, Georgia",Denominator below story-scale threshold
+1373256,"Statesboro city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1373312,"Statham city, Georgia",Denominator below story-scale threshold
+1373452,"Sterling CDP, Georgia",Denominator below story-scale threshold
+1373620,"Stillmore city, Georgia",Denominator below story-scale threshold
+1373760,"Stockton CDP, Georgia",Denominator below story-scale threshold
+1373816,"Stone Mountain city, Georgia",Percentage MOE exceeds 50% of estimate
+1374180,"Sugar Hill city, Georgia",Percentage MOE exceeds 50% of estimate
+1374348,"Summertown city, Georgia",Denominator below story-scale threshold
+1374376,"Summerville city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1374432,"Sumner town, Georgia",Denominator below story-scale threshold
+1374572,"Sunny Side CDP, Georgia",Denominator below story-scale threshold
+1374628,"Sunnyside CDP, Georgia",Denominator below story-scale threshold
+1374768,"Sunset Village CDP, Georgia",Denominator below story-scale threshold
+1374852,"Surrency town, Georgia",Denominator below story-scale threshold
+1374936,"Suwanee city, Georgia",Percentage MOE exceeds 50% of estimate
+1374964,"Swainsboro city, Georgia",Percentage MOE exceeds 50% of estimate
+1375104,"Sycamore city, Georgia",Denominator below story-scale threshold
+1375160,"Sylvania city, Georgia",Denominator below story-scale threshold
+1375188,"Sylvester city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1375239,"Talahi Island CDP, Georgia",Denominator below story-scale threshold
+1375244,"Talbotton city, Georgia",Denominator below story-scale threshold
+1375272,"Talking Rock town, Georgia",Denominator below story-scale threshold
+1375300,"Tallapoosa city, Georgia",Denominator below story-scale threshold
+1375328,"Tallulah Falls town, Georgia",Denominator below story-scale threshold
+1375412,"Talmo town, Georgia",Denominator below story-scale threshold
+1375496,"Tarrytown town, Georgia",Denominator below story-scale threshold
+1375580,"Tate City CDP, Georgia",Denominator below story-scale threshold
+1375664,"Taylorsville town, Georgia",Denominator below story-scale threshold
+1375692,"Tazewell CDP, Georgia",Denominator below story-scale threshold
+1375832,"Temple city, Georgia",Percentage MOE exceeds 50% of estimate
+1375888,"Tennille city, Georgia",Denominator below story-scale threshold
+1376112,"The Rock CDP, Georgia",Denominator below story-scale threshold
+1376168,"Thomaston city, Georgia",Percentage MOE exceeds 50% of estimate
+1376224,"Thomasville city, Georgia",Percentage MOE exceeds 50% of estimate
+1376280,"Thomson city, Georgia",Percentage MOE exceeds 50% of estimate
+1376364,"Thunderbolt town, Georgia",Denominator below story-scale threshold
+1376476,"Tifton city, Georgia",Percentage MOE exceeds 50% of estimate
+1376504,"Tiger town, Georgia",Denominator below story-scale threshold
+1376532,"Tignall town, Georgia",Denominator below story-scale threshold
+1376756,"Toccoa city, Georgia",Percentage MOE exceeds 50% of estimate
+1376952,"Toomsboro city, Georgia",Denominator below story-scale threshold
+1377372,"Trenton city, Georgia",Denominator below story-scale threshold
+1377540,"Trion town, Georgia",Denominator below story-scale threshold
+1377652,"Tucker city, Georgia",Percentage MOE exceeds 50% of estimate
+1377736,"Tunnel Hill city, Georgia",Denominator below story-scale threshold
+1377764,"Turin town, Georgia",Denominator below story-scale threshold
+1377988,"Twin City city, Georgia",Denominator below story-scale threshold
+1378036,"Tybee Island city, Georgia",Denominator below story-scale threshold
+1378044,"Tyrone town, Georgia",Unavailable MOE or zero percentage
+1378100,"Ty Ty city, Georgia",Denominator below story-scale threshold
+1378156,"Unadilla city, Georgia",Denominator below story-scale threshold
+1378324,"Union City city, Georgia",Percentage MOE exceeds 50% of estimate
+1378380,"Union Point city, Georgia",Percentage MOE exceeds 50% of estimate
+1378464,"Unionville CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1378744,"Uvalda city, Georgia",Denominator below story-scale threshold
+1378800,"Valdosta city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1378996,"Varnell city, Georgia",Denominator below story-scale threshold
+1379164,"Vernonburg town, Georgia",Denominator below story-scale threshold
+1379388,"Vidalia city, Georgia",Percentage MOE exceeds 50% of estimate
+1379416,"Vidette city, Georgia",Denominator below story-scale threshold
+1379444,"Vienna city, Georgia",Percentage MOE exceeds 50% of estimate
+1379528,"Villa Rica city, Georgia",Percentage MOE exceeds 50% of estimate
+1379612,"Vinings CDP, Georgia",Percentage MOE exceeds 50% of estimate
+1379808,"Waco city, Georgia",Denominator below story-scale threshold
+1379864,"Wadley city, Georgia",Denominator below story-scale threshold
+1379948,"Waleska city, Georgia",Denominator below story-scale threshold
+1380228,"Walnut Grove city, Georgia",Denominator below story-scale threshold
+1380256,"Walthourville city, Georgia",Percentage MOE exceeds 50% of estimate
+1380368,"Waresboro CDP, Georgia",Denominator below story-scale threshold
+1380480,"Warm Springs city, Georgia",Denominator below story-scale threshold
+1380592,"Warrenton city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1380648,"Warthen CDP, Georgia",Denominator below story-scale threshold
+1380676,"Warwick city, Georgia",Denominator below story-scale threshold
+1380704,"Washington city, Georgia",Percentage MOE exceeds 50% of estimate
+1380788,"Watkinsville city, Georgia",Denominator below story-scale threshold
+1380816,"Waverly CDP, Georgia",Denominator below story-scale threshold
+1380844,"Waverly Hall town, Georgia",Denominator below story-scale threshold
+1380956,"Waycross city, Georgia",Caregiver count MOE exceeds 50% of estimate
+1380984,"Waynesboro city, Georgia",Denominator below story-scale threshold
+1381012,"Waynesville CDP, Georgia",Unavailable MOE or zero percentage
+1381128,"Webster County unified government, Georgia",Denominator below story-scale threshold
+1381208,"Wenona CDP, Georgia",Denominator below story-scale threshold
+1381488,"West Brow CDP, Georgia",Denominator below story-scale threshold
+1382132,"West Point city, Georgia",Percentage MOE exceeds 50% of estimate
+1382412,"Whigham city, Georgia",Denominator below story-scale threshold
+1382468,"White city, Georgia",Denominator below story-scale threshold
+1382636,"Whitemarsh Island CDP, Georgia",Denominator below story-scale threshold
+1382692,"White Plains city, Georgia",Denominator below story-scale threshold
+1382720,"Whitesburg city, Georgia",Denominator below story-scale threshold
+1382916,"Wildwood CDP, Georgia",Denominator below story-scale threshold
+1382972,"Willacoochee city, Georgia",Denominator below story-scale threshold
+1383084,"Williamson city, Georgia",Denominator below story-scale threshold
+1383168,"Wilmington Island CDP, Georgia",Denominator below story-scale threshold
+1383420,"Winder city, Georgia",Percentage MOE exceeds 50% of estimate
+1383728,"Winterville city, Georgia",Denominator below story-scale threshold
+1383868,"Woodbine city, Georgia",Denominator below story-scale threshold
+1383896,"Woodbury city, Georgia",Denominator below story-scale threshold
+1383952,"Woodland city, Georgia",Denominator below story-scale threshold
+1384176,"Woodstock city, Georgia",Unavailable MOE or zero percentage
+1384260,"Woodville city, Georgia",Denominator below story-scale threshold
+1384288,"Woolsey town, Georgia",Denominator below story-scale threshold
+1384456,"Wrens city, Georgia",Denominator below story-scale threshold
+1384512,"Wrightsville city, Georgia",Denominator below story-scale threshold
+1384708,"Yatesville town, Georgia",Denominator below story-scale threshold
+1384832,"Yonah CDP, Georgia",Denominator below story-scale threshold
+1384960,"Young Harris city, Georgia",Denominator below story-scale threshold
+1385128,"Zebulon city, Georgia",Denominator below story-scale threshold

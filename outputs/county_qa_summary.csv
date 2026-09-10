@@ -1,0 +1,23 @@
+metric,reason,records,received
+pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate,43,159
+pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate,43,159
+pct_responsible_exclusion,Retained,73,159
+percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate,22,159
+percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate,70,159
+percent_responsible_grandparents_five_plus_years_exclusion,Retained,62,159
+percent_responsible_grandparents_five_plus_years_exclusion,Unavailable MOE or zero percentage,5,159
+percent_responsible_grandparents_less_than_six_months_exclusion,Caregiver count MOE exceeds 50% of estimate,1,159
+percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate,103,159
+percent_responsible_grandparents_less_than_six_months_exclusion,Retained,5,159
+percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage,50,159
+percent_responsible_grandparents_one_or_two_years_exclusion,Caregiver count MOE exceeds 50% of estimate,4,159
+percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate,109,159
+percent_responsible_grandparents_one_or_two_years_exclusion,Retained,21,159
+percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage,25,159
+percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate,87,159
+percent_responsible_grandparents_six_to_eleven_months_exclusion,Retained,3,159
+percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage,69,159
+percent_responsible_grandparents_three_or_four_years_exclusion,Caregiver count MOE exceeds 50% of estimate,3,159
+percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate,122,159
+percent_responsible_grandparents_three_or_four_years_exclusion,Retained,12,159
+percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage,22,159

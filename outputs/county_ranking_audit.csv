@@ -1,0 +1,955 @@
+geoid,name,metric,reason
+13251,"Screven County, Georgia",pct_responsible_exclusion,Retained
+13251,"Screven County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13251,"Screven County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13251,"Screven County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13251,"Screven County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13251,"Screven County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13303,"Washington County, Georgia",pct_responsible_exclusion,Retained
+13303,"Washington County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13303,"Washington County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13303,"Washington County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13303,"Washington County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13303,"Washington County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13131,"Grady County, Georgia",pct_responsible_exclusion,Retained
+13131,"Grady County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13131,"Grady County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13131,"Grady County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13131,"Grady County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13131,"Grady County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13033,"Burke County, Georgia",pct_responsible_exclusion,Retained
+13033,"Burke County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13033,"Burke County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13033,"Burke County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13033,"Burke County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13033,"Burke County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13191,"McIntosh County, Georgia",pct_responsible_exclusion,Retained
+13191,"McIntosh County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13191,"McIntosh County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13191,"McIntosh County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13191,"McIntosh County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13191,"McIntosh County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13145,"Harris County, Georgia",pct_responsible_exclusion,Retained
+13145,"Harris County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13145,"Harris County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13145,"Harris County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13145,"Harris County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13145,"Harris County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13263,"Talbot County, Georgia",pct_responsible_exclusion,Retained
+13263,"Talbot County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13263,"Talbot County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13263,"Talbot County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13263,"Talbot County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13263,"Talbot County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13177,"Lee County, Georgia",pct_responsible_exclusion,Retained
+13177,"Lee County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13177,"Lee County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13177,"Lee County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13177,"Lee County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13177,"Lee County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13267,"Tattnall County, Georgia",pct_responsible_exclusion,Retained
+13267,"Tattnall County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13267,"Tattnall County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13267,"Tattnall County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13267,"Tattnall County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13267,"Tattnall County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13195,"Madison County, Georgia",pct_responsible_exclusion,Retained
+13195,"Madison County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13195,"Madison County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13195,"Madison County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13195,"Madison County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13195,"Madison County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13209,"Montgomery County, Georgia",pct_responsible_exclusion,Retained
+13209,"Montgomery County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13209,"Montgomery County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13209,"Montgomery County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13209,"Montgomery County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13209,"Montgomery County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13103,"Effingham County, Georgia",pct_responsible_exclusion,Retained
+13103,"Effingham County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13103,"Effingham County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13103,"Effingham County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13103,"Effingham County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13103,"Effingham County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13031,"Bulloch County, Georgia",pct_responsible_exclusion,Retained
+13031,"Bulloch County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13031,"Bulloch County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13031,"Bulloch County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13031,"Bulloch County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13031,"Bulloch County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13291,"Union County, Georgia",pct_responsible_exclusion,Retained
+13291,"Union County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13291,"Union County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13291,"Union County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13291,"Union County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13291,"Union County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13279,"Toombs County, Georgia",pct_responsible_exclusion,Retained
+13279,"Toombs County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13279,"Toombs County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13279,"Toombs County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13279,"Toombs County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13279,"Toombs County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13095,"Dougherty County, Georgia",pct_responsible_exclusion,Retained
+13095,"Dougherty County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13095,"Dougherty County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13095,"Dougherty County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13095,"Dougherty County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13095,"Dougherty County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13299,"Ware County, Georgia",pct_responsible_exclusion,Retained
+13299,"Ware County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13299,"Ware County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13299,"Ware County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13299,"Ware County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13299,"Ware County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13069,"Coffee County, Georgia",pct_responsible_exclusion,Retained
+13069,"Coffee County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13069,"Coffee County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13069,"Coffee County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13069,"Coffee County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13069,"Coffee County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13127,"Glynn County, Georgia",pct_responsible_exclusion,Retained
+13127,"Glynn County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13127,"Glynn County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13127,"Glynn County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13127,"Glynn County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13127,"Glynn County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13001,"Appling County, Georgia",pct_responsible_exclusion,Retained
+13001,"Appling County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13001,"Appling County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13001,"Appling County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13001,"Appling County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13001,"Appling County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13055,"Chattooga County, Georgia",pct_responsible_exclusion,Retained
+13055,"Chattooga County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13055,"Chattooga County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13055,"Chattooga County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13055,"Chattooga County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13055,"Chattooga County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13285,"Troup County, Georgia",pct_responsible_exclusion,Retained
+13285,"Troup County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13285,"Troup County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13285,"Troup County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13285,"Troup County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13285,"Troup County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13199,"Meriwether County, Georgia",pct_responsible_exclusion,Retained
+13199,"Meriwether County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13199,"Meriwether County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13199,"Meriwether County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13199,"Meriwether County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13199,"Meriwether County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13295,"Walker County, Georgia",pct_responsible_exclusion,Retained
+13295,"Walker County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13295,"Walker County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13295,"Walker County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13295,"Walker County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13295,"Walker County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13017,"Ben Hill County, Georgia",pct_responsible_exclusion,Retained
+13017,"Ben Hill County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13017,"Ben Hill County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13017,"Ben Hill County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13017,"Ben Hill County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13017,"Ben Hill County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13213,"Murray County, Georgia",pct_responsible_exclusion,Retained
+13213,"Murray County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13213,"Murray County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13213,"Murray County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13213,"Murray County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13213,"Murray County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13179,"Liberty County, Georgia",pct_responsible_exclusion,Retained
+13179,"Liberty County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13179,"Liberty County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13179,"Liberty County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13179,"Liberty County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13179,"Liberty County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13047,"Catoosa County, Georgia",pct_responsible_exclusion,Retained
+13047,"Catoosa County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13047,"Catoosa County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13047,"Catoosa County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13047,"Catoosa County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13047,"Catoosa County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13215,"Muscogee County, Georgia",pct_responsible_exclusion,Retained
+13215,"Muscogee County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13215,"Muscogee County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13215,"Muscogee County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13215,"Muscogee County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13215,"Muscogee County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13077,"Coweta County, Georgia",pct_responsible_exclusion,Retained
+13077,"Coweta County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13077,"Coweta County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13077,"Coweta County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13077,"Coweta County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13077,"Coweta County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13233,"Polk County, Georgia",pct_responsible_exclusion,Retained
+13233,"Polk County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13233,"Polk County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13233,"Polk County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13233,"Polk County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13233,"Polk County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13137,"Habersham County, Georgia",pct_responsible_exclusion,Retained
+13137,"Habersham County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13137,"Habersham County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13137,"Habersham County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13137,"Habersham County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13137,"Habersham County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13051,"Chatham County, Georgia",pct_responsible_exclusion,Retained
+13051,"Chatham County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13051,"Chatham County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13051,"Chatham County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13051,"Chatham County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13051,"Chatham County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13255,"Spalding County, Georgia",pct_responsible_exclusion,Retained
+13255,"Spalding County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13255,"Spalding County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13255,"Spalding County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13255,"Spalding County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13255,"Spalding County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13261,"Sumter County, Georgia",pct_responsible_exclusion,Retained
+13261,"Sumter County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13261,"Sumter County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13261,"Sumter County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13261,"Sumter County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13261,"Sumter County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13313,"Whitfield County, Georgia",pct_responsible_exclusion,Retained
+13313,"Whitfield County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13313,"Whitfield County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13313,"Whitfield County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13313,"Whitfield County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13313,"Whitfield County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13129,"Gordon County, Georgia",pct_responsible_exclusion,Retained
+13129,"Gordon County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13129,"Gordon County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13129,"Gordon County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13129,"Gordon County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13129,"Gordon County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13021,"Bibb County, Georgia",pct_responsible_exclusion,Retained
+13021,"Bibb County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13021,"Bibb County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13021,"Bibb County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13021,"Bibb County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13021,"Bibb County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13277,"Tift County, Georgia",pct_responsible_exclusion,Retained
+13277,"Tift County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13277,"Tift County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13277,"Tift County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13277,"Tift County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13277,"Tift County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13071,"Colquitt County, Georgia",pct_responsible_exclusion,Retained
+13071,"Colquitt County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13071,"Colquitt County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13071,"Colquitt County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13071,"Colquitt County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13071,"Colquitt County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13245,"Richmond County, Georgia",pct_responsible_exclusion,Retained
+13245,"Richmond County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13245,"Richmond County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13245,"Richmond County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13245,"Richmond County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13245,"Richmond County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13029,"Bryan County, Georgia",pct_responsible_exclusion,Retained
+13029,"Bryan County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13029,"Bryan County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13029,"Bryan County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13029,"Bryan County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13029,"Bryan County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13035,"Butts County, Georgia",pct_responsible_exclusion,Retained
+13035,"Butts County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13035,"Butts County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13035,"Butts County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13035,"Butts County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13035,"Butts County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13187,"Lumpkin County, Georgia",pct_responsible_exclusion,Retained
+13187,"Lumpkin County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13187,"Lumpkin County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13187,"Lumpkin County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13187,"Lumpkin County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13187,"Lumpkin County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13257,"Stephens County, Georgia",pct_responsible_exclusion,Retained
+13257,"Stephens County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13257,"Stephens County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13257,"Stephens County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13257,"Stephens County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13257,"Stephens County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13063,"Clayton County, Georgia",pct_responsible_exclusion,Retained
+13063,"Clayton County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Retained
+13063,"Clayton County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13063,"Clayton County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13063,"Clayton County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13063,"Clayton County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13115,"Floyd County, Georgia",pct_responsible_exclusion,Retained
+13115,"Floyd County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13115,"Floyd County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13115,"Floyd County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13115,"Floyd County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13115,"Floyd County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13297,"Walton County, Georgia",pct_responsible_exclusion,Retained
+13297,"Walton County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13297,"Walton County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13297,"Walton County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13297,"Walton County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13297,"Walton County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13149,"Heard County, Georgia",pct_responsible_exclusion,Retained
+13149,"Heard County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13149,"Heard County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13149,"Heard County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13149,"Heard County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13149,"Heard County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13107,"Emanuel County, Georgia",pct_responsible_exclusion,Retained
+13107,"Emanuel County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13107,"Emanuel County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13107,"Emanuel County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13107,"Emanuel County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13107,"Emanuel County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13275,"Thomas County, Georgia",pct_responsible_exclusion,Retained
+13275,"Thomas County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13275,"Thomas County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13275,"Thomas County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13275,"Thomas County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13275,"Thomas County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13175,"Laurens County, Georgia",pct_responsible_exclusion,Retained
+13175,"Laurens County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13175,"Laurens County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13175,"Laurens County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13175,"Laurens County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13175,"Laurens County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13185,"Lowndes County, Georgia",pct_responsible_exclusion,Retained
+13185,"Lowndes County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13185,"Lowndes County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13185,"Lowndes County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13185,"Lowndes County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13185,"Lowndes County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13207,"Monroe County, Georgia",pct_responsible_exclusion,Retained
+13207,"Monroe County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13207,"Monroe County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13207,"Monroe County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13207,"Monroe County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13207,"Monroe County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13153,"Houston County, Georgia",pct_responsible_exclusion,Retained
+13153,"Houston County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13153,"Houston County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13153,"Houston County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13153,"Houston County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13153,"Houston County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13157,"Jackson County, Georgia",pct_responsible_exclusion,Retained
+13157,"Jackson County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13157,"Jackson County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13157,"Jackson County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13157,"Jackson County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13157,"Jackson County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13089,"DeKalb County, Georgia",pct_responsible_exclusion,Retained
+13089,"DeKalb County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Retained
+13089,"DeKalb County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Retained
+13089,"DeKalb County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13089,"DeKalb County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13089,"DeKalb County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13015,"Bartow County, Georgia",pct_responsible_exclusion,Retained
+13015,"Bartow County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13015,"Bartow County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13015,"Bartow County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13015,"Bartow County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13015,"Bartow County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13121,"Fulton County, Georgia",pct_responsible_exclusion,Retained
+13121,"Fulton County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Retained
+13121,"Fulton County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Retained
+13121,"Fulton County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13121,"Fulton County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13121,"Fulton County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13247,"Rockdale County, Georgia",pct_responsible_exclusion,Retained
+13247,"Rockdale County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13247,"Rockdale County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13247,"Rockdale County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13247,"Rockdale County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13247,"Rockdale County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13045,"Carroll County, Georgia",pct_responsible_exclusion,Retained
+13045,"Carroll County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13045,"Carroll County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13045,"Carroll County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13045,"Carroll County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13045,"Carroll County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13217,"Newton County, Georgia",pct_responsible_exclusion,Retained
+13217,"Newton County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13217,"Newton County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13217,"Newton County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13217,"Newton County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13217,"Newton County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13223,"Paulding County, Georgia",pct_responsible_exclusion,Retained
+13223,"Paulding County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13223,"Paulding County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13223,"Paulding County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13223,"Paulding County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13223,"Paulding County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13151,"Henry County, Georgia",pct_responsible_exclusion,Retained
+13151,"Henry County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Retained
+13151,"Henry County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13151,"Henry County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13151,"Henry County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13151,"Henry County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13139,"Hall County, Georgia",pct_responsible_exclusion,Retained
+13139,"Hall County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13139,"Hall County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13139,"Hall County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13139,"Hall County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13139,"Hall County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13097,"Douglas County, Georgia",pct_responsible_exclusion,Retained
+13097,"Douglas County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13097,"Douglas County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13097,"Douglas County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13097,"Douglas County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13097,"Douglas County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13067,"Cobb County, Georgia",pct_responsible_exclusion,Retained
+13067,"Cobb County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13067,"Cobb County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13067,"Cobb County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13067,"Cobb County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13067,"Cobb County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13135,"Gwinnett County, Georgia",pct_responsible_exclusion,Retained
+13135,"Gwinnett County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Retained
+13135,"Gwinnett County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Retained
+13135,"Gwinnett County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13135,"Gwinnett County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Retained
+13135,"Gwinnett County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13073,"Columbia County, Georgia",pct_responsible_exclusion,Retained
+13073,"Columbia County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13073,"Columbia County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13073,"Columbia County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13073,"Columbia County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13073,"Columbia County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13057,"Cherokee County, Georgia",pct_responsible_exclusion,Retained
+13057,"Cherokee County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13057,"Cherokee County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13057,"Cherokee County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13057,"Cherokee County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13057,"Cherokee County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13113,"Fayette County, Georgia",pct_responsible_exclusion,Retained
+13113,"Fayette County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13113,"Fayette County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13113,"Fayette County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13113,"Fayette County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13113,"Fayette County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13117,"Forsyth County, Georgia",pct_responsible_exclusion,Retained
+13117,"Forsyth County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13117,"Forsyth County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13117,"Forsyth County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13117,"Forsyth County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13117,"Forsyth County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13013,"Barrow County, Georgia",pct_responsible_exclusion,Retained
+13013,"Barrow County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13013,"Barrow County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13013,"Barrow County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Retained
+13013,"Barrow County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13013,"Barrow County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Retained
+13003,"Atkinson County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13003,"Atkinson County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13003,"Atkinson County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13003,"Atkinson County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13003,"Atkinson County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13003,"Atkinson County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13005,"Bacon County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13005,"Bacon County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13005,"Bacon County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13005,"Bacon County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13005,"Bacon County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13005,"Bacon County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13007,"Baker County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13007,"Baker County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13007,"Baker County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13007,"Baker County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13007,"Baker County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13007,"Baker County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Unavailable MOE or zero percentage
+13009,"Baldwin County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13009,"Baldwin County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13009,"Baldwin County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13009,"Baldwin County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13009,"Baldwin County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13009,"Baldwin County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13011,"Banks County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13011,"Banks County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13011,"Banks County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13011,"Banks County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13011,"Banks County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13011,"Banks County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13019,"Berrien County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13019,"Berrien County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13019,"Berrien County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13019,"Berrien County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13019,"Berrien County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13019,"Berrien County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13023,"Bleckley County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13023,"Bleckley County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13023,"Bleckley County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13023,"Bleckley County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13023,"Bleckley County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13023,"Bleckley County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13025,"Brantley County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13025,"Brantley County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13025,"Brantley County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13025,"Brantley County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13025,"Brantley County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13025,"Brantley County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13027,"Brooks County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13027,"Brooks County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13027,"Brooks County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13027,"Brooks County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13027,"Brooks County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13027,"Brooks County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13037,"Calhoun County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13037,"Calhoun County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13037,"Calhoun County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13037,"Calhoun County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13037,"Calhoun County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13037,"Calhoun County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13039,"Camden County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13039,"Camden County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13039,"Camden County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13039,"Camden County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13039,"Camden County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13039,"Camden County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13043,"Candler County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13043,"Candler County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13043,"Candler County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13043,"Candler County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13043,"Candler County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13043,"Candler County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13049,"Charlton County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13049,"Charlton County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13049,"Charlton County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13049,"Charlton County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13049,"Charlton County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13049,"Charlton County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13053,"Chattahoochee County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13053,"Chattahoochee County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13053,"Chattahoochee County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13053,"Chattahoochee County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13053,"Chattahoochee County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13053,"Chattahoochee County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13059,"Clarke County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13059,"Clarke County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13059,"Clarke County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13059,"Clarke County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13059,"Clarke County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13059,"Clarke County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13061,"Clay County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13061,"Clay County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13061,"Clay County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13061,"Clay County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13061,"Clay County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13061,"Clay County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13065,"Clinch County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13065,"Clinch County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13065,"Clinch County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13065,"Clinch County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13065,"Clinch County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13065,"Clinch County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13075,"Cook County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13075,"Cook County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13075,"Cook County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13075,"Cook County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13075,"Cook County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13075,"Cook County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13079,"Crawford County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13079,"Crawford County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13079,"Crawford County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13079,"Crawford County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13079,"Crawford County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13079,"Crawford County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13081,"Crisp County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13081,"Crisp County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13081,"Crisp County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13081,"Crisp County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13081,"Crisp County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13081,"Crisp County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13083,"Dade County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13083,"Dade County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13083,"Dade County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13083,"Dade County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13083,"Dade County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13083,"Dade County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13085,"Dawson County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13085,"Dawson County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13085,"Dawson County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13085,"Dawson County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13085,"Dawson County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13085,"Dawson County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13087,"Decatur County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13087,"Decatur County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13087,"Decatur County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13087,"Decatur County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13087,"Decatur County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13087,"Decatur County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13091,"Dodge County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13091,"Dodge County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13091,"Dodge County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13091,"Dodge County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13091,"Dodge County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13091,"Dodge County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13093,"Dooly County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13093,"Dooly County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13093,"Dooly County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13093,"Dooly County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13093,"Dooly County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13093,"Dooly County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13099,"Early County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13099,"Early County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13099,"Early County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13099,"Early County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13099,"Early County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13099,"Early County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13101,"Echols County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13101,"Echols County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13101,"Echols County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13101,"Echols County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13101,"Echols County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13101,"Echols County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Unavailable MOE or zero percentage
+13105,"Elbert County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13105,"Elbert County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13105,"Elbert County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13105,"Elbert County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13105,"Elbert County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13105,"Elbert County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13109,"Evans County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13109,"Evans County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13109,"Evans County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13109,"Evans County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13109,"Evans County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13109,"Evans County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13111,"Fannin County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13111,"Fannin County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13111,"Fannin County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13111,"Fannin County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13111,"Fannin County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13111,"Fannin County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13119,"Franklin County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13119,"Franklin County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13119,"Franklin County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13119,"Franklin County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13119,"Franklin County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13119,"Franklin County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13123,"Gilmer County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13123,"Gilmer County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13123,"Gilmer County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13123,"Gilmer County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13123,"Gilmer County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13123,"Gilmer County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13125,"Glascock County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13125,"Glascock County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13125,"Glascock County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13125,"Glascock County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13125,"Glascock County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13125,"Glascock County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13133,"Greene County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13133,"Greene County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13133,"Greene County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13133,"Greene County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13133,"Greene County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13133,"Greene County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13141,"Hancock County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13141,"Hancock County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13141,"Hancock County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13141,"Hancock County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13141,"Hancock County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13141,"Hancock County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13143,"Haralson County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13143,"Haralson County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13143,"Haralson County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13143,"Haralson County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13143,"Haralson County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13143,"Haralson County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13147,"Hart County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13147,"Hart County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13147,"Hart County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13147,"Hart County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13147,"Hart County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13147,"Hart County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13155,"Irwin County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13155,"Irwin County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13155,"Irwin County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13155,"Irwin County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13155,"Irwin County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13155,"Irwin County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13159,"Jasper County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13159,"Jasper County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13159,"Jasper County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13159,"Jasper County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13159,"Jasper County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13159,"Jasper County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13161,"Jeff Davis County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13161,"Jeff Davis County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13161,"Jeff Davis County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13161,"Jeff Davis County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13161,"Jeff Davis County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13161,"Jeff Davis County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13163,"Jefferson County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13163,"Jefferson County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13163,"Jefferson County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13163,"Jefferson County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13163,"Jefferson County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13163,"Jefferson County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13165,"Jenkins County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13165,"Jenkins County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13165,"Jenkins County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13165,"Jenkins County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13165,"Jenkins County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13165,"Jenkins County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13167,"Johnson County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13167,"Johnson County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13167,"Johnson County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13167,"Johnson County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13167,"Johnson County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13167,"Johnson County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13169,"Jones County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13169,"Jones County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13169,"Jones County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13169,"Jones County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13169,"Jones County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13169,"Jones County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13171,"Lamar County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13171,"Lamar County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13171,"Lamar County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13171,"Lamar County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13171,"Lamar County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13171,"Lamar County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13173,"Lanier County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13173,"Lanier County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13173,"Lanier County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13173,"Lanier County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13173,"Lanier County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13173,"Lanier County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13181,"Lincoln County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13181,"Lincoln County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13181,"Lincoln County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13181,"Lincoln County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13181,"Lincoln County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13181,"Lincoln County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13183,"Long County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13183,"Long County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13183,"Long County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13183,"Long County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13183,"Long County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13183,"Long County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13189,"McDuffie County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13189,"McDuffie County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13189,"McDuffie County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13189,"McDuffie County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13189,"McDuffie County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13189,"McDuffie County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13193,"Macon County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13193,"Macon County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13193,"Macon County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13193,"Macon County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13193,"Macon County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13193,"Macon County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13197,"Marion County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13197,"Marion County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13197,"Marion County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13197,"Marion County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13197,"Marion County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13197,"Marion County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13201,"Miller County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13201,"Miller County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13201,"Miller County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13201,"Miller County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13201,"Miller County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13201,"Miller County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13205,"Mitchell County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13205,"Mitchell County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13205,"Mitchell County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13205,"Mitchell County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13205,"Mitchell County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13205,"Mitchell County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13211,"Morgan County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13211,"Morgan County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13211,"Morgan County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13211,"Morgan County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13211,"Morgan County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13211,"Morgan County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13219,"Oconee County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13219,"Oconee County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13219,"Oconee County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13219,"Oconee County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13219,"Oconee County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13219,"Oconee County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13221,"Oglethorpe County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13221,"Oglethorpe County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13221,"Oglethorpe County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13221,"Oglethorpe County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13221,"Oglethorpe County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13221,"Oglethorpe County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13225,"Peach County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13225,"Peach County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Caregiver count MOE exceeds 50% of estimate
+13225,"Peach County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13225,"Peach County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13225,"Peach County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13225,"Peach County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13227,"Pickens County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13227,"Pickens County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13227,"Pickens County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13227,"Pickens County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13227,"Pickens County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13227,"Pickens County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13229,"Pierce County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13229,"Pierce County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13229,"Pierce County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13229,"Pierce County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13229,"Pierce County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13229,"Pierce County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13231,"Pike County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13231,"Pike County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13231,"Pike County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13231,"Pike County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13231,"Pike County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13231,"Pike County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13235,"Pulaski County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13235,"Pulaski County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13235,"Pulaski County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13235,"Pulaski County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13235,"Pulaski County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13235,"Pulaski County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13237,"Putnam County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13237,"Putnam County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13237,"Putnam County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13237,"Putnam County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13237,"Putnam County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13237,"Putnam County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13239,"Quitman County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13239,"Quitman County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13239,"Quitman County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13239,"Quitman County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13239,"Quitman County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13239,"Quitman County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13241,"Rabun County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13241,"Rabun County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13241,"Rabun County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13241,"Rabun County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13241,"Rabun County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13241,"Rabun County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13243,"Randolph County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13243,"Randolph County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13243,"Randolph County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13243,"Randolph County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13243,"Randolph County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13243,"Randolph County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13249,"Schley County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13249,"Schley County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13249,"Schley County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13249,"Schley County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13249,"Schley County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13249,"Schley County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13253,"Seminole County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13253,"Seminole County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13253,"Seminole County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13253,"Seminole County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13253,"Seminole County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13253,"Seminole County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13259,"Stewart County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13259,"Stewart County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13259,"Stewart County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13259,"Stewart County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13259,"Stewart County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13259,"Stewart County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Unavailable MOE or zero percentage
+13265,"Taliaferro County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13265,"Taliaferro County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13265,"Taliaferro County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13265,"Taliaferro County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13265,"Taliaferro County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13265,"Taliaferro County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13269,"Taylor County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13269,"Taylor County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13269,"Taylor County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13269,"Taylor County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13269,"Taylor County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13269,"Taylor County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13271,"Telfair County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13271,"Telfair County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13271,"Telfair County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13271,"Telfair County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13271,"Telfair County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13271,"Telfair County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13273,"Terrell County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13273,"Terrell County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13273,"Terrell County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13273,"Terrell County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13273,"Terrell County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13273,"Terrell County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13281,"Towns County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13281,"Towns County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13281,"Towns County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13281,"Towns County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13281,"Towns County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13281,"Towns County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13283,"Treutlen County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13283,"Treutlen County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13283,"Treutlen County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13283,"Treutlen County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13283,"Treutlen County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13283,"Treutlen County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13287,"Turner County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13287,"Turner County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13287,"Turner County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13287,"Turner County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13287,"Turner County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13287,"Turner County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13289,"Twiggs County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13289,"Twiggs County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13289,"Twiggs County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13289,"Twiggs County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13289,"Twiggs County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13289,"Twiggs County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13293,"Upson County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13293,"Upson County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13293,"Upson County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13293,"Upson County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13293,"Upson County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13293,"Upson County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13301,"Warren County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13301,"Warren County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13301,"Warren County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13301,"Warren County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13301,"Warren County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13301,"Warren County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13305,"Wayne County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13305,"Wayne County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13305,"Wayne County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13305,"Wayne County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13305,"Wayne County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13305,"Wayne County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13307,"Webster County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13307,"Webster County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13307,"Webster County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13307,"Webster County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13307,"Webster County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13307,"Webster County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Unavailable MOE or zero percentage
+13309,"Wheeler County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13309,"Wheeler County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13309,"Wheeler County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13309,"Wheeler County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13309,"Wheeler County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13309,"Wheeler County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Unavailable MOE or zero percentage
+13311,"White County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13311,"White County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13311,"White County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13311,"White County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Unavailable MOE or zero percentage
+13311,"White County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13311,"White County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13315,"Wilcox County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13315,"Wilcox County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13315,"Wilcox County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13315,"Wilcox County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13315,"Wilcox County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13315,"Wilcox County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13317,"Wilkes County, Georgia",pct_responsible_exclusion,Percentage MOE exceeds 50% of estimate
+13317,"Wilkes County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Unavailable MOE or zero percentage
+13317,"Wilkes County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Percentage MOE exceeds 50% of estimate
+13317,"Wilkes County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13317,"Wilkes County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Unavailable MOE or zero percentage
+13317,"Wilkes County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Percentage MOE exceeds 50% of estimate
+13319,"Wilkinson County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13319,"Wilkinson County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13319,"Wilkinson County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13319,"Wilkinson County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13319,"Wilkinson County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13319,"Wilkinson County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate
+13321,"Worth County, Georgia",pct_responsible_exclusion,Caregiver count MOE exceeds 50% of estimate
+13321,"Worth County, Georgia",percent_responsible_grandparents_less_than_six_months_exclusion,Percentage MOE exceeds 50% of estimate
+13321,"Worth County, Georgia",percent_responsible_grandparents_six_to_eleven_months_exclusion,Unavailable MOE or zero percentage
+13321,"Worth County, Georgia",percent_responsible_grandparents_one_or_two_years_exclusion,Percentage MOE exceeds 50% of estimate
+13321,"Worth County, Georgia",percent_responsible_grandparents_three_or_four_years_exclusion,Percentage MOE exceeds 50% of estimate
+13321,"Worth County, Georgia",percent_responsible_grandparents_five_plus_years_exclusion,Caregiver count MOE exceeds 50% of estimate

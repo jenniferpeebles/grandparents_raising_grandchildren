@@ -1,0 +1,5 @@
+geoid,name,estimate_responsible_total,pct_responsible,geography_note,county_geoid,county_name,county_responsible_total,county_pct_responsible
+1319000,"Columbus city, Georgia",2052,46.52006347766947,Census place or balance; not interchangeable with the full county. See docs/methodology.md.,13215,"Muscogee County, Georgia",2052,46.52006347766947
+1349008,"Macon-Bibb County, Georgia",1048,40.889582520483806,Census place or balance; not interchangeable with the full county. See docs/methodology.md.,13021,"Bibb County, Georgia",1048,40.889582520483806
+1304204,"Augusta-Richmond County consolidated government (balance), Georgia",1973,39.0461112210568,Census place or balance; not interchangeable with the full county. See docs/methodology.md.,13245,"Richmond County, Georgia",2037,39.075388451947056
+1303440,"Athens-Clarke County unified government (balance), Georgia",251,16.319895968790636,Census place or balance; not interchangeable with the full county. See docs/methodology.md.,13059,"Clarke County, Georgia",269,16.928886091881687

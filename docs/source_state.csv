@@ -1,0 +1,2 @@
+geography,year,period,survey,retrieved_utc,source,variables,raw_md5
+state,2024,2020-2024,acs5,2026-09-07 21:46:43 UTC,https://api.census.gov/data/2024/acs/acs5,B10050_002;B10050_003;B10050_004;B10050_005;B10050_006;B10050_007;B10050_008;B10050_009,47572d00bd2848add64375df694a9e8e

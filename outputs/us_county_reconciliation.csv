@@ -1,0 +1,3223 @@
+geoid,name,duration_sum,duration_difference,duration_reconciliation_status,coresident_components_sum,coresident_difference,coresident_reconciliation_status
+01001,"Autauga County, Alabama",542,0,Pass,1242,0,Pass
+01003,"Baldwin County, Alabama",1520,0,Pass,4604,0,Pass
+01005,"Barbour County, Alabama",373,0,Pass,671,0,Pass
+01007,"Bibb County, Alabama",296,0,Pass,573,0,Pass
+01009,"Blount County, Alabama",603,0,Pass,1776,0,Pass
+01011,"Bullock County, Alabama",84,0,Pass,194,0,Pass
+01013,"Butler County, Alabama",358,0,Pass,539,0,Pass
+01015,"Calhoun County, Alabama",1084,0,Pass,2468,0,Pass
+01017,"Chambers County, Alabama",783,0,Pass,1529,0,Pass
+01019,"Cherokee County, Alabama",125,0,Pass,538,0,Pass
+01021,"Chilton County, Alabama",546,0,Pass,1140,0,Pass
+01023,"Choctaw County, Alabama",159,0,Pass,302,0,Pass
+01025,"Clarke County, Alabama",436,0,Pass,793,0,Pass
+01027,"Clay County, Alabama",160,0,Pass,285,0,Pass
+01029,"Cleburne County, Alabama",182,0,Pass,476,0,Pass
+01031,"Coffee County, Alabama",456,0,Pass,1206,0,Pass
+01033,"Colbert County, Alabama",453,0,Pass,898,0,Pass
+01035,"Conecuh County, Alabama",119,0,Pass,260,0,Pass
+01037,"Coosa County, Alabama",20,0,Pass,117,0,Pass
+01039,"Covington County, Alabama",635,0,Pass,1145,0,Pass
+01041,"Crenshaw County, Alabama",220,0,Pass,479,0,Pass
+01043,"Cullman County, Alabama",1425,0,Pass,2285,0,Pass
+01045,"Dale County, Alabama",620,0,Pass,1178,0,Pass
+01047,"Dallas County, Alabama",647,0,Pass,819,0,Pass
+01049,"DeKalb County, Alabama",764,0,Pass,2054,0,Pass
+01051,"Elmore County, Alabama",758,0,Pass,1966,0,Pass
+01053,"Escambia County, Alabama",481,0,Pass,851,0,Pass
+01055,"Etowah County, Alabama",1157,0,Pass,2560,0,Pass
+01057,"Fayette County, Alabama",401,0,Pass,487,0,Pass
+01059,"Franklin County, Alabama",195,0,Pass,506,0,Pass
+01061,"Geneva County, Alabama",334,0,Pass,606,0,Pass
+01063,"Greene County, Alabama",172,0,Pass,290,0,Pass
+01065,"Hale County, Alabama",290,0,Pass,394,0,Pass
+01067,"Henry County, Alabama",244,0,Pass,351,0,Pass
+01069,"Houston County, Alabama",1282,0,Pass,2739,0,Pass
+01071,"Jackson County, Alabama",562,0,Pass,1194,0,Pass
+01073,"Jefferson County, Alabama",7326,0,Pass,15007,0,Pass
+01075,"Lamar County, Alabama",282,0,Pass,359,0,Pass
+01077,"Lauderdale County, Alabama",1680,0,Pass,2466,0,Pass
+01079,"Lawrence County, Alabama",450,0,Pass,817,0,Pass
+01081,"Lee County, Alabama",1071,0,Pass,2491,0,Pass
+01083,"Limestone County, Alabama",998,0,Pass,1544,0,Pass
+01085,"Lowndes County, Alabama",151,0,Pass,245,0,Pass
+01087,"Macon County, Alabama",209,0,Pass,450,0,Pass
+01089,"Madison County, Alabama",2201,0,Pass,6100,0,Pass
+01091,"Marengo County, Alabama",299,0,Pass,502,0,Pass
+01093,"Marion County, Alabama",148,0,Pass,456,0,Pass
+01095,"Marshall County, Alabama",825,0,Pass,1923,0,Pass
+01097,"Mobile County, Alabama",5358,0,Pass,10656,0,Pass
+01099,"Monroe County, Alabama",301,0,Pass,464,0,Pass
+01101,"Montgomery County, Alabama",2318,0,Pass,4926,0,Pass
+01103,"Morgan County, Alabama",897,0,Pass,2437,0,Pass
+01105,"Perry County, Alabama",172,0,Pass,279,0,Pass
+01107,"Pickens County, Alabama",219,0,Pass,415,0,Pass
+01109,"Pike County, Alabama",272,0,Pass,561,0,Pass
+01111,"Randolph County, Alabama",252,0,Pass,396,0,Pass
+01113,"Russell County, Alabama",696,0,Pass,1272,0,Pass
+01115,"St. Clair County, Alabama",991,0,Pass,2388,0,Pass
+01117,"Shelby County, Alabama",2023,0,Pass,5001,0,Pass
+01119,"Sumter County, Alabama",195,0,Pass,429,0,Pass
+01121,"Talladega County, Alabama",739,0,Pass,1906,0,Pass
+01123,"Tallapoosa County, Alabama",448,0,Pass,1197,0,Pass
+01125,"Tuscaloosa County, Alabama",2268,0,Pass,3867,0,Pass
+01127,"Walker County, Alabama",890,0,Pass,1547,0,Pass
+01129,"Washington County, Alabama",166,0,Pass,285,0,Pass
+01131,"Wilcox County, Alabama",142,0,Pass,293,0,Pass
+01133,"Winston County, Alabama",504,0,Pass,750,0,Pass
+02013,"Aleutians East Borough, Alaska",34,0,Pass,67,0,Pass
+02016,"Aleutians West Census Area, Alaska",23,0,Pass,143,0,Pass
+02020,"Anchorage Municipality, Alaska",1312,0,Pass,5659,0,Pass
+02050,"Bethel Census Area, Alaska",747,0,Pass,1235,0,Pass
+02060,"Bristol Bay Borough, Alaska",8,0,Pass,15,0,Pass
+02063,"Chugach Census Area, Alaska",8,0,Pass,13,0,Pass
+02066,"Copper River Census Area, Alaska",28,0,Pass,67,0,Pass
+02068,"Denali Borough, Alaska",3,0,Pass,9,0,Pass
+02070,"Dillingham Census Area, Alaska",116,0,Pass,279,0,Pass
+02090,"Fairbanks North Star Borough, Alaska",415,0,Pass,1154,0,Pass
+02100,"Haines Borough, Alaska",0,0,Pass,2,0,Pass
+02105,"Hoonah-Angoon Census Area, Alaska",21,0,Pass,42,0,Pass
+02110,"Juneau City and Borough, Alaska",334,0,Pass,782,0,Pass
+02122,"Kenai Peninsula Borough, Alaska",421,0,Pass,992,0,Pass
+02130,"Ketchikan Gateway Borough, Alaska",152,0,Pass,223,0,Pass
+02150,"Kodiak Island Borough, Alaska",96,0,Pass,453,0,Pass
+02158,"Kusilvak Census Area, Alaska",409,0,Pass,630,0,Pass
+02164,"Lake and Peninsula Borough, Alaska",13,0,Pass,19,0,Pass
+02170,"Matanuska-Susitna Borough, Alaska",826,0,Pass,2194,0,Pass
+02180,"Nome Census Area, Alaska",290,0,Pass,633,0,Pass
+02185,"North Slope Borough, Alaska",201,0,Pass,309,0,Pass
+02188,"Northwest Arctic Borough, Alaska",255,0,Pass,532,0,Pass
+02195,"Petersburg Borough, Alaska",20,0,Pass,47,0,Pass
+02198,"Prince of Wales-Hyder Census Area, Alaska",87,0,Pass,160,0,Pass
+02220,"Sitka City and Borough, Alaska",40,0,Pass,209,0,Pass
+02230,"Skagway Municipality, Alaska",2,0,Pass,10,0,Pass
+02240,"Southeast Fairbanks Census Area, Alaska",120,0,Pass,210,0,Pass
+02275,"Wrangell City and Borough, Alaska",41,0,Pass,60,0,Pass
+02282,"Yakutat City and Borough, Alaska",9,0,Pass,11,0,Pass
+02290,"Yukon-Koyukuk Census Area, Alaska",164,0,Pass,187,0,Pass
+04001,"Apache County, Arizona",1284,0,Pass,3227,0,Pass
+04003,"Cochise County, Arizona",1022,0,Pass,2506,0,Pass
+04005,"Coconino County, Arizona",1514,0,Pass,3531,0,Pass
+04007,"Gila County, Arizona",521,0,Pass,1042,0,Pass
+04009,"Graham County, Arizona",404,0,Pass,1294,0,Pass
+04011,"Greenlee County, Arizona",109,0,Pass,390,0,Pass
+04012,"La Paz County, Arizona",223,0,Pass,423,0,Pass
+04013,"Maricopa County, Arizona",24748,0,Pass,94867,0,Pass
+04015,"Mohave County, Arizona",1343,0,Pass,4252,0,Pass
+04017,"Navajo County, Arizona",2777,0,Pass,5116,0,Pass
+04019,"Pima County, Arizona",6337,0,Pass,19324,0,Pass
+04021,"Pinal County, Arizona",3573,0,Pass,11283,0,Pass
+04023,"Santa Cruz County, Arizona",440,0,Pass,1528,0,Pass
+04025,"Yavapai County, Arizona",1276,0,Pass,4198,0,Pass
+04027,"Yuma County, Arizona",1975,0,Pass,5693,0,Pass
+05001,"Arkansas County, Arkansas",335,0,Pass,544,0,Pass
+05003,"Ashley County, Arkansas",66,0,Pass,295,0,Pass
+05005,"Baxter County, Arkansas",272,0,Pass,684,0,Pass
+05007,"Benton County, Arkansas",2104,0,Pass,5477,0,Pass
+05009,"Boone County, Arkansas",728,0,Pass,1256,0,Pass
+05011,"Bradley County, Arkansas",261,0,Pass,340,0,Pass
+05013,"Calhoun County, Arkansas",162,0,Pass,201,0,Pass
+05015,"Carroll County, Arkansas",274,0,Pass,529,0,Pass
+05017,"Chicot County, Arkansas",281,0,Pass,322,0,Pass
+05019,"Clark County, Arkansas",189,0,Pass,323,0,Pass
+05021,"Clay County, Arkansas",298,0,Pass,533,0,Pass
+05023,"Cleburne County, Arkansas",395,0,Pass,702,0,Pass
+05025,"Cleveland County, Arkansas",80,0,Pass,166,0,Pass
+05027,"Columbia County, Arkansas",288,0,Pass,572,0,Pass
+05029,"Conway County, Arkansas",390,0,Pass,526,0,Pass
+05031,"Craighead County, Arkansas",976,0,Pass,2039,0,Pass
+05033,"Crawford County, Arkansas",531,0,Pass,1430,0,Pass
+05035,"Crittenden County, Arkansas",705,0,Pass,1375,0,Pass
+05037,"Cross County, Arkansas",341,0,Pass,713,0,Pass
+05039,"Dallas County, Arkansas",76,0,Pass,105,0,Pass
+05041,"Desha County, Arkansas",212,0,Pass,347,0,Pass
+05043,"Drew County, Arkansas",351,0,Pass,472,0,Pass
+05045,"Faulkner County, Arkansas",1061,0,Pass,2012,0,Pass
+05047,"Franklin County, Arkansas",274,0,Pass,415,0,Pass
+05049,"Fulton County, Arkansas",148,0,Pass,457,0,Pass
+05051,"Garland County, Arkansas",1352,0,Pass,2467,0,Pass
+05053,"Grant County, Arkansas",179,0,Pass,415,0,Pass
+05055,"Greene County, Arkansas",321,0,Pass,906,0,Pass
+05057,"Hempstead County, Arkansas",317,0,Pass,681,0,Pass
+05059,"Hot Spring County, Arkansas",415,0,Pass,798,0,Pass
+05061,"Howard County, Arkansas",225,0,Pass,384,0,Pass
+05063,"Independence County, Arkansas",293,0,Pass,912,0,Pass
+05065,"Izard County, Arkansas",217,0,Pass,538,0,Pass
+05067,"Jackson County, Arkansas",286,0,Pass,446,0,Pass
+05069,"Jefferson County, Arkansas",690,0,Pass,1764,0,Pass
+05071,"Johnson County, Arkansas",253,0,Pass,541,0,Pass
+05073,"Lafayette County, Arkansas",227,0,Pass,257,0,Pass
+05075,"Lawrence County, Arkansas",196,0,Pass,369,0,Pass
+05077,"Lee County, Arkansas",135,0,Pass,254,0,Pass
+05079,"Lincoln County, Arkansas",67,0,Pass,111,0,Pass
+05081,"Little River County, Arkansas",125,0,Pass,214,0,Pass
+05083,"Logan County, Arkansas",456,0,Pass,849,0,Pass
+05085,"Lonoke County, Arkansas",750,0,Pass,1888,0,Pass
+05087,"Madison County, Arkansas",319,0,Pass,544,0,Pass
+05089,"Marion County, Arkansas",452,0,Pass,541,0,Pass
+05091,"Miller County, Arkansas",723,0,Pass,1376,0,Pass
+05093,"Mississippi County, Arkansas",793,0,Pass,1400,0,Pass
+05095,"Monroe County, Arkansas",64,0,Pass,107,0,Pass
+05097,"Montgomery County, Arkansas",70,0,Pass,132,0,Pass
+05099,"Nevada County, Arkansas",97,0,Pass,300,0,Pass
+05101,"Newton County, Arkansas",83,0,Pass,146,0,Pass
+05103,"Ouachita County, Arkansas",621,0,Pass,852,0,Pass
+05105,"Perry County, Arkansas",192,0,Pass,339,0,Pass
+05107,"Phillips County, Arkansas",362,0,Pass,603,0,Pass
+05109,"Pike County, Arkansas",179,0,Pass,271,0,Pass
+05111,"Poinsett County, Arkansas",311,0,Pass,557,0,Pass
+05113,"Polk County, Arkansas",128,0,Pass,331,0,Pass
+05115,"Pope County, Arkansas",639,0,Pass,1680,0,Pass
+05117,"Prairie County, Arkansas",149,0,Pass,218,0,Pass
+05119,"Pulaski County, Arkansas",3294,0,Pass,7364,0,Pass
+05121,"Randolph County, Arkansas",390,0,Pass,783,0,Pass
+05123,"St. Francis County, Arkansas",169,0,Pass,419,0,Pass
+05125,"Saline County, Arkansas",981,0,Pass,2584,0,Pass
+05127,"Scott County, Arkansas",80,0,Pass,127,0,Pass
+05129,"Searcy County, Arkansas",64,0,Pass,132,0,Pass
+05131,"Sebastian County, Arkansas",965,0,Pass,2703,0,Pass
+05133,"Sevier County, Arkansas",105,0,Pass,363,0,Pass
+05135,"Sharp County, Arkansas",235,0,Pass,464,0,Pass
+05137,"Stone County, Arkansas",149,0,Pass,402,0,Pass
+05139,"Union County, Arkansas",276,0,Pass,546,0,Pass
+05141,"Van Buren County, Arkansas",269,0,Pass,335,0,Pass
+05143,"Washington County, Arkansas",1474,0,Pass,4071,0,Pass
+05145,"White County, Arkansas",803,0,Pass,2014,0,Pass
+05147,"Woodruff County, Arkansas",48,0,Pass,76,0,Pass
+05149,"Yell County, Arkansas",88,0,Pass,468,0,Pass
+06001,"Alameda County, California",7363,0,Pass,41593,0,Pass
+06003,"Alpine County, California",18,0,Pass,61,0,Pass
+06005,"Amador County, California",461,0,Pass,912,0,Pass
+06007,"Butte County, California",856,0,Pass,3246,0,Pass
+06009,"Calaveras County, California",102,0,Pass,1021,0,Pass
+06011,"Colusa County, California",139,0,Pass,656,0,Pass
+06013,"Contra Costa County, California",5812,0,Pass,30594,0,Pass
+06015,"Del Norte County, California",350,0,Pass,856,0,Pass
+06017,"El Dorado County, California",1000,0,Pass,3569,0,Pass
+06019,"Fresno County, California",6989,0,Pass,29784,0,Pass
+06021,"Glenn County, California",157,0,Pass,745,0,Pass
+06023,"Humboldt County, California",203,0,Pass,1436,0,Pass
+06025,"Imperial County, California",2826,0,Pass,7337,0,Pass
+06027,"Inyo County, California",219,0,Pass,307,0,Pass
+06029,"Kern County, California",7017,0,Pass,24531,0,Pass
+06031,"Kings County, California",1093,0,Pass,3997,0,Pass
+06033,"Lake County, California",707,0,Pass,1545,0,Pass
+06035,"Lassen County, California",244,0,Pass,468,0,Pass
+06037,"Los Angeles County, California",55265,0,Pass,297828,0,Pass
+06039,"Madera County, California",1169,0,Pass,5564,0,Pass
+06041,"Marin County, California",829,0,Pass,2782,0,Pass
+06043,"Mariposa County, California",149,0,Pass,480,0,Pass
+06045,"Mendocino County, California",607,0,Pass,1776,0,Pass
+06047,"Merced County, California",1941,0,Pass,8887,0,Pass
+06049,"Modoc County, California",48,0,Pass,169,0,Pass
+06051,"Mono County, California",4,0,Pass,15,0,Pass
+06053,"Monterey County, California",1633,0,Pass,13047,0,Pass
+06055,"Napa County, California",225,0,Pass,2383,0,Pass
+06057,"Nevada County, California",579,0,Pass,1654,0,Pass
+06059,"Orange County, California",12647,0,Pass,80164,0,Pass
+06061,"Placer County, California",1800,0,Pass,7343,0,Pass
+06063,"Plumas County, California",265,0,Pass,476,0,Pass
+06065,"Riverside County, California",15440,0,Pass,86744,0,Pass
+06067,"Sacramento County, California",8778,0,Pass,41054,0,Pass
+06069,"San Benito County, California",305,0,Pass,2213,0,Pass
+06071,"San Bernardino County, California",15150,0,Pass,77046,0,Pass
+06073,"San Diego County, California",16310,0,Pass,71666,0,Pass
+06075,"San Francisco County, California",1667,0,Pass,11107,0,Pass
+06077,"San Joaquin County, California",4652,0,Pass,28480,0,Pass
+06079,"San Luis Obispo County, California",1069,0,Pass,4453,0,Pass
+06081,"San Mateo County, California",3487,0,Pass,16169,0,Pass
+06083,"Santa Barbara County, California",1601,0,Pass,10603,0,Pass
+06085,"Santa Clara County, California",6267,0,Pass,43861,0,Pass
+06087,"Santa Cruz County, California",904,0,Pass,4368,0,Pass
+06089,"Shasta County, California",1151,0,Pass,2714,0,Pass
+06091,"Sierra County, California",0,0,Pass,0,0,Pass
+06093,"Siskiyou County, California",455,0,Pass,804,0,Pass
+06095,"Solano County, California",3180,0,Pass,13255,0,Pass
+06097,"Sonoma County, California",1760,0,Pass,8026,0,Pass
+06099,"Stanislaus County, California",3526,0,Pass,16605,0,Pass
+06101,"Sutter County, California",781,0,Pass,3813,0,Pass
+06103,"Tehama County, California",1040,0,Pass,2111,0,Pass
+06105,"Trinity County, California",142,0,Pass,266,0,Pass
+06107,"Tulare County, California",4296,0,Pass,18444,0,Pass
+06109,"Tuolumne County, California",225,0,Pass,805,0,Pass
+06111,"Ventura County, California",3672,0,Pass,22541,0,Pass
+06113,"Yolo County, California",768,0,Pass,3223,0,Pass
+06115,"Yuba County, California",456,0,Pass,2101,0,Pass
+08001,"Adams County, Colorado",3608,0,Pass,13486,0,Pass
+08003,"Alamosa County, Colorado",52,0,Pass,208,0,Pass
+08005,"Arapahoe County, Colorado",2767,0,Pass,11902,0,Pass
+08007,"Archuleta County, Colorado",17,0,Pass,130,0,Pass
+08009,"Baca County, Colorado",31,0,Pass,32,0,Pass
+08011,"Bent County, Colorado",99,0,Pass,99,0,Pass
+08013,"Boulder County, Colorado",658,0,Pass,2769,0,Pass
+08014,"Broomfield County, Colorado",104,0,Pass,824,0,Pass
+08015,"Chaffee County, Colorado",32,0,Pass,124,0,Pass
+08017,"Cheyenne County, Colorado",21,0,Pass,26,0,Pass
+08019,"Clear Creek County, Colorado",0,0,Pass,3,0,Pass
+08021,"Conejos County, Colorado",200,0,Pass,313,0,Pass
+08023,"Costilla County, Colorado",62,0,Pass,69,0,Pass
+08025,"Crowley County, Colorado",32,0,Pass,86,0,Pass
+08027,"Custer County, Colorado",0,0,Pass,51,0,Pass
+08029,"Delta County, Colorado",191,0,Pass,514,0,Pass
+08031,"Denver County, Colorado",3595,0,Pass,9720,0,Pass
+08033,"Dolores County, Colorado",0,0,Pass,0,0,Pass
+08035,"Douglas County, Colorado",1098,0,Pass,5053,0,Pass
+08037,"Eagle County, Colorado",193,0,Pass,580,0,Pass
+08039,"Elbert County, Colorado",72,0,Pass,380,0,Pass
+08041,"El Paso County, Colorado",4916,0,Pass,13475,0,Pass
+08043,"Fremont County, Colorado",442,0,Pass,703,0,Pass
+08045,"Garfield County, Colorado",387,0,Pass,1295,0,Pass
+08047,"Gilpin County, Colorado",0,0,Pass,54,0,Pass
+08049,"Grand County, Colorado",50,0,Pass,100,0,Pass
+08051,"Gunnison County, Colorado",21,0,Pass,81,0,Pass
+08053,"Hinsdale County, Colorado",0,0,Pass,0,0,Pass
+08055,"Huerfano County, Colorado",127,0,Pass,167,0,Pass
+08057,"Jackson County, Colorado",47,0,Pass,61,0,Pass
+08059,"Jefferson County, Colorado",2513,0,Pass,8582,0,Pass
+08061,"Kiowa County, Colorado",12,0,Pass,27,0,Pass
+08063,"Kit Carson County, Colorado",14,0,Pass,40,0,Pass
+08065,"Lake County, Colorado",29,0,Pass,42,0,Pass
+08067,"La Plata County, Colorado",447,0,Pass,712,0,Pass
+08069,"Larimer County, Colorado",1593,0,Pass,3911,0,Pass
+08071,"Las Animas County, Colorado",157,0,Pass,335,0,Pass
+08073,"Lincoln County, Colorado",13,0,Pass,95,0,Pass
+08075,"Logan County, Colorado",300,0,Pass,494,0,Pass
+08077,"Mesa County, Colorado",1036,0,Pass,2887,0,Pass
+08079,"Mineral County, Colorado",0,0,Pass,7,0,Pass
+08081,"Moffat County, Colorado",172,0,Pass,343,0,Pass
+08083,"Montezuma County, Colorado",173,0,Pass,363,0,Pass
+08085,"Montrose County, Colorado",163,0,Pass,548,0,Pass
+08087,"Morgan County, Colorado",335,0,Pass,867,0,Pass
+08089,"Otero County, Colorado",147,0,Pass,279,0,Pass
+08091,"Ouray County, Colorado",17,0,Pass,27,0,Pass
+08093,"Park County, Colorado",138,0,Pass,171,0,Pass
+08095,"Phillips County, Colorado",0,0,Pass,11,0,Pass
+08097,"Pitkin County, Colorado",9,0,Pass,27,0,Pass
+08099,"Prowers County, Colorado",209,0,Pass,293,0,Pass
+08101,"Pueblo County, Colorado",1756,0,Pass,3806,0,Pass
+08103,"Rio Blanco County, Colorado",9,0,Pass,31,0,Pass
+08105,"Rio Grande County, Colorado",34,0,Pass,148,0,Pass
+08107,"Routt County, Colorado",29,0,Pass,39,0,Pass
+08109,"Saguache County, Colorado",63,0,Pass,134,0,Pass
+08111,"San Juan County, Colorado",7,0,Pass,7,0,Pass
+08113,"San Miguel County, Colorado",0,0,Pass,0,0,Pass
+08115,"Sedgwick County, Colorado",26,0,Pass,62,0,Pass
+08117,"Summit County, Colorado",136,0,Pass,219,0,Pass
+08119,"Teller County, Colorado",221,0,Pass,452,0,Pass
+08121,"Washington County, Colorado",68,0,Pass,81,0,Pass
+08123,"Weld County, Colorado",2376,0,Pass,6706,0,Pass
+08125,"Yuma County, Colorado",10,0,Pass,127,0,Pass
+09110,"Capitol Planning Region, Connecticut",3799,0,Pass,14556,0,Pass
+09120,"Greater Bridgeport Planning Region, Connecticut",1566,0,Pass,6147,0,Pass
+09130,"Lower Connecticut River Valley Planning Region, Connecticut",462,0,Pass,1745,0,Pass
+09140,"Naugatuck Valley Planning Region, Connecticut",2872,0,Pass,9800,0,Pass
+09150,"Northeastern Connecticut Planning Region, Connecticut",488,0,Pass,1806,0,Pass
+09160,"Northwest Hills Planning Region, Connecticut",605,0,Pass,1549,0,Pass
+09170,"South Central Connecticut Planning Region, Connecticut",2893,0,Pass,9550,0,Pass
+09180,"Southeastern Connecticut Planning Region, Connecticut",762,0,Pass,3425,0,Pass
+09190,"Western Connecticut Planning Region, Connecticut",2215,0,Pass,10369,0,Pass
+10001,"Kent County, Delaware",2099,0,Pass,4920,0,Pass
+10003,"New Castle County, Delaware",3955,0,Pass,12899,0,Pass
+10005,"Sussex County, Delaware",1979,0,Pass,5060,0,Pass
+11001,"District of Columbia, District of Columbia",2984,0,Pass,9019,0,Pass
+12001,"Alachua County, Florida",1270,0,Pass,3166,0,Pass
+12003,"Baker County, Florida",365,0,Pass,541,0,Pass
+12005,"Bay County, Florida",2289,0,Pass,4086,0,Pass
+12007,"Bradford County, Florida",236,0,Pass,778,0,Pass
+12009,"Brevard County, Florida",3815,0,Pass,12033,0,Pass
+12011,"Broward County, Florida",10051,0,Pass,45845,0,Pass
+12013,"Calhoun County, Florida",172,0,Pass,327,0,Pass
+12015,"Charlotte County, Florida",1297,0,Pass,3219,0,Pass
+12017,"Citrus County, Florida",1142,0,Pass,3100,0,Pass
+12019,"Clay County, Florida",1739,0,Pass,5511,0,Pass
+12021,"Collier County, Florida",1614,0,Pass,5914,0,Pass
+12023,"Columbia County, Florida",1046,0,Pass,2697,0,Pass
+12027,"DeSoto County, Florida",563,0,Pass,912,0,Pass
+12029,"Dixie County, Florida",275,0,Pass,505,0,Pass
+12031,"Duval County, Florida",6852,0,Pass,18631,0,Pass
+12033,"Escambia County, Florida",2745,0,Pass,5955,0,Pass
+12035,"Flagler County, Florida",567,0,Pass,2502,0,Pass
+12037,"Franklin County, Florida",153,0,Pass,205,0,Pass
+12039,"Gadsden County, Florida",271,0,Pass,1005,0,Pass
+12041,"Gilchrist County, Florida",194,0,Pass,473,0,Pass
+12043,"Glades County, Florida",88,0,Pass,185,0,Pass
+12045,"Gulf County, Florida",147,0,Pass,459,0,Pass
+12047,"Hamilton County, Florida",190,0,Pass,369,0,Pass
+12049,"Hardee County, Florida",407,0,Pass,738,0,Pass
+12051,"Hendry County, Florida",674,0,Pass,1138,0,Pass
+12053,"Hernando County, Florida",1648,0,Pass,5214,0,Pass
+12055,"Highlands County, Florida",1066,0,Pass,2026,0,Pass
+12057,"Hillsborough County, Florida",10581,0,Pass,33732,0,Pass
+12059,"Holmes County, Florida",413,0,Pass,505,0,Pass
+12061,"Indian River County, Florida",1219,0,Pass,3393,0,Pass
+12063,"Jackson County, Florida",473,0,Pass,935,0,Pass
+12065,"Jefferson County, Florida",97,0,Pass,347,0,Pass
+12067,"Lafayette County, Florida",78,0,Pass,191,0,Pass
+12069,"Lake County, Florida",2443,0,Pass,9335,0,Pass
+12071,"Lee County, Florida",4070,0,Pass,14436,0,Pass
+12073,"Leon County, Florida",1303,0,Pass,3521,0,Pass
+12075,"Levy County, Florida",513,0,Pass,1096,0,Pass
+12077,"Liberty County, Florida",100,0,Pass,165,0,Pass
+12079,"Madison County, Florida",274,0,Pass,444,0,Pass
+12081,"Manatee County, Florida",2924,0,Pass,8208,0,Pass
+12083,"Marion County, Florida",1765,0,Pass,8140,0,Pass
+12085,"Martin County, Florida",758,0,Pass,1888,0,Pass
+12086,"Miami-Dade County, Florida",13194,0,Pass,80811,0,Pass
+12087,"Monroe County, Florida",103,0,Pass,759,0,Pass
+12089,"Nassau County, Florida",656,0,Pass,2256,0,Pass
+12091,"Okaloosa County, Florida",1518,0,Pass,4369,0,Pass
+12093,"Okeechobee County, Florida",741,0,Pass,1329,0,Pass
+12095,"Orange County, Florida",7767,0,Pass,33673,0,Pass
+12097,"Osceola County, Florida",2457,0,Pass,11600,0,Pass
+12099,"Palm Beach County, Florida",8653,0,Pass,29699,0,Pass
+12101,"Pasco County, Florida",3345,0,Pass,13087,0,Pass
+12103,"Pinellas County, Florida",4910,0,Pass,14978,0,Pass
+12105,"Polk County, Florida",5526,0,Pass,19775,0,Pass
+12107,"Putnam County, Florida",840,0,Pass,1879,0,Pass
+12109,"St. Johns County, Florida",1498,0,Pass,5910,0,Pass
+12111,"St. Lucie County, Florida",2234,0,Pass,9365,0,Pass
+12113,"Santa Rosa County, Florida",1968,0,Pass,4836,0,Pass
+12115,"Sarasota County, Florida",1265,0,Pass,5694,0,Pass
+12117,"Seminole County, Florida",2240,0,Pass,8657,0,Pass
+12119,"Sumter County, Florida",367,0,Pass,1054,0,Pass
+12121,"Suwannee County, Florida",455,0,Pass,1113,0,Pass
+12123,"Taylor County, Florida",232,0,Pass,529,0,Pass
+12125,"Union County, Florida",156,0,Pass,343,0,Pass
+12127,"Volusia County, Florida",3707,0,Pass,9522,0,Pass
+12129,"Wakulla County, Florida",162,0,Pass,978,0,Pass
+12131,"Walton County, Florida",628,0,Pass,1149,0,Pass
+12133,"Washington County, Florida",92,0,Pass,252,0,Pass
+13001,"Appling County, Georgia",250,0,Pass,511,0,Pass
+13003,"Atkinson County, Georgia",94,0,Pass,232,0,Pass
+13005,"Bacon County, Georgia",35,0,Pass,126,0,Pass
+13007,"Baker County, Georgia",27,0,Pass,92,0,Pass
+13009,"Baldwin County, Georgia",298,0,Pass,646,0,Pass
+13011,"Banks County, Georgia",233,0,Pass,658,0,Pass
+13013,"Barrow County, Georgia",385,0,Pass,2034,0,Pass
+13015,"Bartow County, Georgia",1447,0,Pass,4363,0,Pass
+13017,"Ben Hill County, Georgia",184,0,Pass,384,0,Pass
+13019,"Berrien County, Georgia",300,0,Pass,499,0,Pass
+13021,"Bibb County, Georgia",1048,0,Pass,2563,0,Pass
+13023,"Bleckley County, Georgia",205,0,Pass,217,0,Pass
+13025,"Brantley County, Georgia",491,0,Pass,742,0,Pass
+13027,"Brooks County, Georgia",227,0,Pass,429,0,Pass
+13029,"Bryan County, Georgia",318,0,Pass,818,0,Pass
+13031,"Bulloch County, Georgia",1046,0,Pass,2009,0,Pass
+13033,"Burke County, Georgia",500,0,Pass,798,0,Pass
+13035,"Butts County, Georgia",254,0,Pass,655,0,Pass
+13037,"Calhoun County, Georgia",8,0,Pass,63,0,Pass
+13039,"Camden County, Georgia",312,0,Pass,1145,0,Pass
+13043,"Candler County, Georgia",117,0,Pass,135,0,Pass
+13045,"Carroll County, Georgia",1097,0,Pass,3475,0,Pass
+13047,"Catoosa County, Georgia",798,0,Pass,1687,0,Pass
+13049,"Charlton County, Georgia",137,0,Pass,404,0,Pass
+13051,"Chatham County, Georgia",2176,0,Pass,5025,0,Pass
+13053,"Chattahoochee County, Georgia",87,0,Pass,228,0,Pass
+13055,"Chattooga County, Georgia",463,0,Pass,948,0,Pass
+13057,"Cherokee County, Georgia",995,0,Pass,4587,0,Pass
+13059,"Clarke County, Georgia",269,0,Pass,1589,0,Pass
+13061,"Clay County, Georgia",36,0,Pass,127,0,Pass
+13063,"Clayton County, Georgia",3318,0,Pass,8836,0,Pass
+13065,"Clinch County, Georgia",46,0,Pass,161,0,Pass
+13067,"Cobb County, Georgia",3775,0,Pass,14569,0,Pass
+13069,"Coffee County, Georgia",613,0,Pass,1227,0,Pass
+13071,"Colquitt County, Georgia",469,0,Pass,1186,0,Pass
+13073,"Columbia County, Georgia",962,0,Pass,4213,0,Pass
+13075,"Cook County, Georgia",191,0,Pass,426,0,Pass
+13077,"Coweta County, Georgia",1744,0,Pass,3760,0,Pass
+13079,"Crawford County, Georgia",115,0,Pass,347,0,Pass
+13081,"Crisp County, Georgia",252,0,Pass,556,0,Pass
+13083,"Dade County, Georgia",242,0,Pass,431,0,Pass
+13085,"Dawson County, Georgia",175,0,Pass,551,0,Pass
+13087,"Decatur County, Georgia",259,0,Pass,1093,0,Pass
+13089,"DeKalb County, Georgia",5526,0,Pass,16072,0,Pass
+13091,"Dodge County, Georgia",179,0,Pass,902,0,Pass
+13093,"Dooly County, Georgia",57,0,Pass,276,0,Pass
+13095,"Dougherty County, Georgia",855,0,Pass,1686,0,Pass
+13097,"Douglas County, Georgia",1495,0,Pass,5233,0,Pass
+13099,"Early County, Georgia",111,0,Pass,218,0,Pass
+13101,"Echols County, Georgia",162,0,Pass,162,0,Pass
+13103,"Effingham County, Georgia",772,0,Pass,1472,0,Pass
+13105,"Elbert County, Georgia",162,0,Pass,305,0,Pass
+13107,"Emanuel County, Georgia",193,0,Pass,537,0,Pass
+13109,"Evans County, Georgia",22,0,Pass,211,0,Pass
+13111,"Fannin County, Georgia",220,0,Pass,690,0,Pass
+13113,"Fayette County, Georgia",553,0,Pass,2563,0,Pass
+13115,"Floyd County, Georgia",973,0,Pass,2629,0,Pass
+13117,"Forsyth County, Georgia",983,0,Pass,4880,0,Pass
+13119,"Franklin County, Georgia",301,0,Pass,736,0,Pass
+13121,"Fulton County, Georgia",5388,0,Pass,16976,0,Pass
+13123,"Gilmer County, Georgia",351,0,Pass,748,0,Pass
+13125,"Glascock County, Georgia",69,0,Pass,130,0,Pass
+13127,"Glynn County, Georgia",838,0,Pass,1690,0,Pass
+13129,"Gordon County, Georgia",520,0,Pass,1261,0,Pass
+13131,"Grady County, Georgia",496,0,Pass,746,0,Pass
+13133,"Greene County, Georgia",171,0,Pass,576,0,Pass
+13135,"Gwinnett County, Georgia",6214,0,Pass,26392,0,Pass
+13137,"Habersham County, Georgia",525,0,Pass,1194,0,Pass
+13139,"Hall County, Georgia",1680,0,Pass,5659,0,Pass
+13141,"Hancock County, Georgia",140,0,Pass,225,0,Pass
+13143,"Haralson County, Georgia",288,0,Pass,726,0,Pass
+13145,"Harris County, Georgia",480,0,Pass,841,0,Pass
+13147,"Hart County, Georgia",165,0,Pass,627,0,Pass
+13149,"Heard County, Georgia",230,0,Pass,639,0,Pass
+13151,"Henry County, Georgia",2267,0,Pass,7623,0,Pass
+13153,"Houston County, Georgia",1344,0,Pass,3825,0,Pass
+13155,"Irwin County, Georgia",93,0,Pass,172,0,Pass
+13157,"Jackson County, Georgia",741,0,Pass,2132,0,Pass
+13159,"Jasper County, Georgia",113,0,Pass,372,0,Pass
+13161,"Jeff Davis County, Georgia",144,0,Pass,517,0,Pass
+13163,"Jefferson County, Georgia",306,0,Pass,521,0,Pass
+13165,"Jenkins County, Georgia",102,0,Pass,229,0,Pass
+13167,"Johnson County, Georgia",65,0,Pass,142,0,Pass
+13169,"Jones County, Georgia",281,0,Pass,994,0,Pass
+13171,"Lamar County, Georgia",135,0,Pass,264,0,Pass
+13173,"Lanier County, Georgia",223,0,Pass,332,0,Pass
+13175,"Laurens County, Georgia",364,0,Pass,1021,0,Pass
+13177,"Lee County, Georgia",616,0,Pass,1093,0,Pass
+13179,"Liberty County, Georgia",679,0,Pass,1426,0,Pass
+13181,"Lincoln County, Georgia",109,0,Pass,197,0,Pass
+13183,"Long County, Georgia",330,0,Pass,492,0,Pass
+13185,"Lowndes County, Georgia",664,0,Pass,1870,0,Pass
+13187,"Lumpkin County, Georgia",293,0,Pass,756,0,Pass
+13189,"McDuffie County, Georgia",232,0,Pass,401,0,Pass
+13191,"McIntosh County, Georgia",312,0,Pass,500,0,Pass
+13193,"Macon County, Georgia",242,0,Pass,478,0,Pass
+13195,"Madison County, Georgia",482,0,Pass,892,0,Pass
+13197,"Marion County, Georgia",85,0,Pass,157,0,Pass
+13199,"Meriwether County, Georgia",393,0,Pass,814,0,Pass
+13201,"Miller County, Georgia",32,0,Pass,128,0,Pass
+13205,"Mitchell County, Georgia",229,0,Pass,495,0,Pass
+13207,"Monroe County, Georgia",293,0,Pass,830,0,Pass
+13209,"Montgomery County, Georgia",195,0,Pass,363,0,Pass
+13211,"Morgan County, Georgia",195,0,Pass,584,0,Pass
+13213,"Murray County, Georgia",642,0,Pass,1348,0,Pass
+13215,"Muscogee County, Georgia",2052,0,Pass,4411,0,Pass
+13217,"Newton County, Georgia",923,0,Pass,3043,0,Pass
+13219,"Oconee County, Georgia",127,0,Pass,514,0,Pass
+13221,"Oglethorpe County, Georgia",68,0,Pass,386,0,Pass
+13223,"Paulding County, Georgia",1575,0,Pass,5227,0,Pass
+13225,"Peach County, Georgia",473,0,Pass,718,0,Pass
+13227,"Pickens County, Georgia",313,0,Pass,939,0,Pass
+13229,"Pierce County, Georgia",136,0,Pass,335,0,Pass
+13231,"Pike County, Georgia",226,0,Pass,510,0,Pass
+13233,"Polk County, Georgia",648,0,Pass,1466,0,Pass
+13235,"Pulaski County, Georgia",87,0,Pass,279,0,Pass
+13237,"Putnam County, Georgia",228,0,Pass,438,0,Pass
+13239,"Quitman County, Georgia",42,0,Pass,147,0,Pass
+13241,"Rabun County, Georgia",112,0,Pass,430,0,Pass
+13243,"Randolph County, Georgia",110,0,Pass,180,0,Pass
+13245,"Richmond County, Georgia",2037,0,Pass,5213,0,Pass
+13247,"Rockdale County, Georgia",926,0,Pass,2928,0,Pass
+13249,"Schley County, Georgia",105,0,Pass,149,0,Pass
+13251,"Screven County, Georgia",242,0,Pass,321,0,Pass
+13253,"Seminole County, Georgia",259,0,Pass,392,0,Pass
+13255,"Spalding County, Georgia",957,0,Pass,2252,0,Pass
+13257,"Stephens County, Georgia",272,0,Pass,722,0,Pass
+13259,"Stewart County, Georgia",13,0,Pass,88,0,Pass
+13261,"Sumter County, Georgia",272,0,Pass,647,0,Pass
+13263,"Talbot County, Georgia",160,0,Pass,281,0,Pass
+13265,"Taliaferro County, Georgia",7,0,Pass,101,0,Pass
+13267,"Tattnall County, Georgia",352,0,Pass,637,0,Pass
+13269,"Taylor County, Georgia",56,0,Pass,80,0,Pass
+13271,"Telfair County, Georgia",91,0,Pass,453,0,Pass
+13273,"Terrell County, Georgia",53,0,Pass,215,0,Pass
+13275,"Thomas County, Georgia",467,0,Pass,1301,0,Pass
+13277,"Tift County, Georgia",296,0,Pass,747,0,Pass
+13279,"Toombs County, Georgia",494,0,Pass,964,0,Pass
+13281,"Towns County, Georgia",264,0,Pass,499,0,Pass
+13283,"Treutlen County, Georgia",94,0,Pass,136,0,Pass
+13285,"Troup County, Georgia",784,0,Pass,1610,0,Pass
+13287,"Turner County, Georgia",74,0,Pass,266,0,Pass
+13289,"Twiggs County, Georgia",73,0,Pass,432,0,Pass
+13291,"Union County, Georgia",379,0,Pass,739,0,Pass
+13293,"Upson County, Georgia",182,0,Pass,636,0,Pass
+13295,"Walker County, Georgia",1090,0,Pass,2266,0,Pass
+13297,"Walton County, Georgia",1033,0,Pass,2831,0,Pass
+13299,"Ware County, Georgia",384,0,Pass,764,0,Pass
+13301,"Warren County, Georgia",127,0,Pass,190,0,Pass
+13303,"Washington County, Georgia",588,0,Pass,801,0,Pass
+13305,"Wayne County, Georgia",278,0,Pass,571,0,Pass
+13307,"Webster County, Georgia",6,0,Pass,24,0,Pass
+13309,"Wheeler County, Georgia",89,0,Pass,123,0,Pass
+13311,"White County, Georgia",314,0,Pass,851,0,Pass
+13313,"Whitfield County, Georgia",906,0,Pass,2195,0,Pass
+13315,"Wilcox County, Georgia",94,0,Pass,235,0,Pass
+13317,"Wilkes County, Georgia",148,0,Pass,324,0,Pass
+13319,"Wilkinson County, Georgia",125,0,Pass,234,0,Pass
+13321,"Worth County, Georgia",351,0,Pass,652,0,Pass
+15001,"Hawaii County, Hawaii",2062,0,Pass,7259,0,Pass
+15003,"Honolulu County, Hawaii",6295,0,Pass,34548,0,Pass
+15005,"Kalawao County, Hawaii",0,0,Pass,0,0,Pass
+15007,"Kauai County, Hawaii",702,0,Pass,3182,0,Pass
+15009,"Maui County, Hawaii",1373,0,Pass,7318,0,Pass
+16001,"Ada County, Idaho",2429,0,Pass,6274,0,Pass
+16003,"Adams County, Idaho",44,0,Pass,90,0,Pass
+16005,"Bannock County, Idaho",651,0,Pass,1668,0,Pass
+16007,"Bear Lake County, Idaho",38,0,Pass,113,0,Pass
+16009,"Benewah County, Idaho",120,0,Pass,243,0,Pass
+16011,"Bingham County, Idaho",341,0,Pass,1294,0,Pass
+16013,"Blaine County, Idaho",111,0,Pass,303,0,Pass
+16015,"Boise County, Idaho",161,0,Pass,221,0,Pass
+16017,"Bonner County, Idaho",320,0,Pass,735,0,Pass
+16019,"Bonneville County, Idaho",1128,0,Pass,2647,0,Pass
+16021,"Boundary County, Idaho",9,0,Pass,177,0,Pass
+16023,"Butte County, Idaho",17,0,Pass,37,0,Pass
+16025,"Camas County, Idaho",8,0,Pass,100,0,Pass
+16027,"Canyon County, Idaho",1362,0,Pass,5883,0,Pass
+16029,"Caribou County, Idaho",4,0,Pass,42,0,Pass
+16031,"Cassia County, Idaho",117,0,Pass,421,0,Pass
+16033,"Clark County, Idaho",0,0,Pass,16,0,Pass
+16035,"Clearwater County, Idaho",40,0,Pass,159,0,Pass
+16037,"Custer County, Idaho",6,0,Pass,6,0,Pass
+16039,"Elmore County, Idaho",326,0,Pass,591,0,Pass
+16041,"Franklin County, Idaho",20,0,Pass,112,0,Pass
+16043,"Fremont County, Idaho",41,0,Pass,306,0,Pass
+16045,"Gem County, Idaho",91,0,Pass,333,0,Pass
+16047,"Gooding County, Idaho",55,0,Pass,365,0,Pass
+16049,"Idaho County, Idaho",110,0,Pass,242,0,Pass
+16051,"Jefferson County, Idaho",167,0,Pass,968,0,Pass
+16053,"Jerome County, Idaho",226,0,Pass,714,0,Pass
+16055,"Kootenai County, Idaho",931,0,Pass,2433,0,Pass
+16057,"Latah County, Idaho",101,0,Pass,274,0,Pass
+16059,"Lemhi County, Idaho",54,0,Pass,308,0,Pass
+16061,"Lewis County, Idaho",11,0,Pass,44,0,Pass
+16063,"Lincoln County, Idaho",48,0,Pass,113,0,Pass
+16065,"Madison County, Idaho",56,0,Pass,432,0,Pass
+16067,"Minidoka County, Idaho",115,0,Pass,382,0,Pass
+16069,"Nez Perce County, Idaho",151,0,Pass,645,0,Pass
+16071,"Oneida County, Idaho",38,0,Pass,55,0,Pass
+16073,"Owyhee County, Idaho",95,0,Pass,384,0,Pass
+16075,"Payette County, Idaho",194,0,Pass,670,0,Pass
+16077,"Power County, Idaho",39,0,Pass,74,0,Pass
+16079,"Shoshone County, Idaho",133,0,Pass,255,0,Pass
+16081,"Teton County, Idaho",42,0,Pass,146,0,Pass
+16083,"Twin Falls County, Idaho",785,0,Pass,1811,0,Pass
+16085,"Valley County, Idaho",31,0,Pass,197,0,Pass
+16087,"Washington County, Idaho",92,0,Pass,302,0,Pass
+17001,"Adams County, Illinois",465,0,Pass,987,0,Pass
+17003,"Alexander County, Illinois",32,0,Pass,119,0,Pass
+17005,"Bond County, Illinois",76,0,Pass,236,0,Pass
+17007,"Boone County, Illinois",533,0,Pass,936,0,Pass
+17009,"Brown County, Illinois",0,0,Pass,24,0,Pass
+17011,"Bureau County, Illinois",207,0,Pass,462,0,Pass
+17013,"Calhoun County, Illinois",16,0,Pass,66,0,Pass
+17015,"Carroll County, Illinois",22,0,Pass,65,0,Pass
+17017,"Cass County, Illinois",73,0,Pass,139,0,Pass
+17019,"Champaign County, Illinois",657,0,Pass,1564,0,Pass
+17021,"Christian County, Illinois",208,0,Pass,468,0,Pass
+17023,"Clark County, Illinois",106,0,Pass,184,0,Pass
+17025,"Clay County, Illinois",100,0,Pass,158,0,Pass
+17027,"Clinton County, Illinois",296,0,Pass,470,0,Pass
+17029,"Coles County, Illinois",257,0,Pass,438,0,Pass
+17031,"Cook County, Illinois",25475,0,Pass,106829,0,Pass
+17033,"Crawford County, Illinois",75,0,Pass,138,0,Pass
+17035,"Cumberland County, Illinois",55,0,Pass,167,0,Pass
+17037,"DeKalb County, Illinois",458,0,Pass,1044,0,Pass
+17039,"De Witt County, Illinois",66,0,Pass,207,0,Pass
+17041,"Douglas County, Illinois",66,0,Pass,304,0,Pass
+17043,"DuPage County, Illinois",2935,0,Pass,15078,0,Pass
+17045,"Edgar County, Illinois",110,0,Pass,231,0,Pass
+17047,"Edwards County, Illinois",104,0,Pass,194,0,Pass
+17049,"Effingham County, Illinois",398,0,Pass,561,0,Pass
+17051,"Fayette County, Illinois",171,0,Pass,263,0,Pass
+17053,"Ford County, Illinois",141,0,Pass,162,0,Pass
+17055,"Franklin County, Illinois",403,0,Pass,748,0,Pass
+17057,"Fulton County, Illinois",124,0,Pass,336,0,Pass
+17059,"Gallatin County, Illinois",57,0,Pass,190,0,Pass
+17061,"Greene County, Illinois",102,0,Pass,195,0,Pass
+17063,"Grundy County, Illinois",345,0,Pass,911,0,Pass
+17065,"Hamilton County, Illinois",9,0,Pass,66,0,Pass
+17067,"Hancock County, Illinois",77,0,Pass,182,0,Pass
+17069,"Hardin County, Illinois",0,0,Pass,67,0,Pass
+17071,"Henderson County, Illinois",43,0,Pass,144,0,Pass
+17073,"Henry County, Illinois",296,0,Pass,693,0,Pass
+17075,"Iroquois County, Illinois",210,0,Pass,382,0,Pass
+17077,"Jackson County, Illinois",239,0,Pass,508,0,Pass
+17079,"Jasper County, Illinois",41,0,Pass,41,0,Pass
+17081,"Jefferson County, Illinois",265,0,Pass,675,0,Pass
+17083,"Jersey County, Illinois",118,0,Pass,317,0,Pass
+17085,"Jo Daviess County, Illinois",15,0,Pass,80,0,Pass
+17087,"Johnson County, Illinois",92,0,Pass,134,0,Pass
+17089,"Kane County, Illinois",2104,0,Pass,10289,0,Pass
+17091,"Kankakee County, Illinois",709,0,Pass,1593,0,Pass
+17093,"Kendall County, Illinois",715,0,Pass,2766,0,Pass
+17095,"Knox County, Illinois",335,0,Pass,520,0,Pass
+17097,"Lake County, Illinois",2890,0,Pass,13444,0,Pass
+17099,"LaSalle County, Illinois",564,0,Pass,1458,0,Pass
+17101,"Lawrence County, Illinois",137,0,Pass,318,0,Pass
+17103,"Lee County, Illinois",133,0,Pass,343,0,Pass
+17105,"Livingston County, Illinois",208,0,Pass,372,0,Pass
+17107,"Logan County, Illinois",124,0,Pass,230,0,Pass
+17109,"McDonough County, Illinois",41,0,Pass,269,0,Pass
+17111,"McHenry County, Illinois",1037,0,Pass,4882,0,Pass
+17113,"McLean County, Illinois",568,0,Pass,1789,0,Pass
+17115,"Macon County, Illinois",744,0,Pass,1453,0,Pass
+17117,"Macoupin County, Illinois",316,0,Pass,574,0,Pass
+17119,"Madison County, Illinois",1481,0,Pass,3733,0,Pass
+17121,"Marion County, Illinois",355,0,Pass,722,0,Pass
+17123,"Marshall County, Illinois",91,0,Pass,210,0,Pass
+17125,"Mason County, Illinois",82,0,Pass,168,0,Pass
+17127,"Massac County, Illinois",143,0,Pass,294,0,Pass
+17129,"Menard County, Illinois",182,0,Pass,371,0,Pass
+17131,"Mercer County, Illinois",76,0,Pass,162,0,Pass
+17133,"Monroe County, Illinois",213,0,Pass,585,0,Pass
+17135,"Montgomery County, Illinois",145,0,Pass,367,0,Pass
+17137,"Morgan County, Illinois",455,0,Pass,717,0,Pass
+17139,"Moultrie County, Illinois",29,0,Pass,61,0,Pass
+17141,"Ogle County, Illinois",225,0,Pass,563,0,Pass
+17143,"Peoria County, Illinois",954,0,Pass,2050,0,Pass
+17145,"Perry County, Illinois",162,0,Pass,294,0,Pass
+17147,"Piatt County, Illinois",71,0,Pass,155,0,Pass
+17149,"Pike County, Illinois",60,0,Pass,170,0,Pass
+17151,"Pope County, Illinois",81,0,Pass,125,0,Pass
+17153,"Pulaski County, Illinois",49,0,Pass,113,0,Pass
+17155,"Putnam County, Illinois",23,0,Pass,51,0,Pass
+17157,"Randolph County, Illinois",138,0,Pass,260,0,Pass
+17159,"Richland County, Illinois",77,0,Pass,180,0,Pass
+17161,"Rock Island County, Illinois",949,0,Pass,2473,0,Pass
+17163,"St. Clair County, Illinois",1823,0,Pass,4376,0,Pass
+17165,"Saline County, Illinois",198,0,Pass,396,0,Pass
+17167,"Sangamon County, Illinois",1567,0,Pass,2687,0,Pass
+17169,"Schuyler County, Illinois",10,0,Pass,31,0,Pass
+17171,"Scott County, Illinois",118,0,Pass,144,0,Pass
+17173,"Shelby County, Illinois",112,0,Pass,445,0,Pass
+17175,"Stark County, Illinois",30,0,Pass,75,0,Pass
+17177,"Stephenson County, Illinois",134,0,Pass,412,0,Pass
+17179,"Tazewell County, Illinois",638,0,Pass,1212,0,Pass
+17181,"Union County, Illinois",145,0,Pass,319,0,Pass
+17183,"Vermilion County, Illinois",796,0,Pass,1550,0,Pass
+17185,"Wabash County, Illinois",87,0,Pass,125,0,Pass
+17187,"Warren County, Illinois",116,0,Pass,253,0,Pass
+17189,"Washington County, Illinois",67,0,Pass,186,0,Pass
+17191,"Wayne County, Illinois",46,0,Pass,106,0,Pass
+17193,"White County, Illinois",125,0,Pass,224,0,Pass
+17195,"Whiteside County, Illinois",577,0,Pass,892,0,Pass
+17197,"Will County, Illinois",4070,0,Pass,16776,0,Pass
+17199,"Williamson County, Illinois",448,0,Pass,972,0,Pass
+17201,"Winnebago County, Illinois",1781,0,Pass,5527,0,Pass
+17203,"Woodford County, Illinois",90,0,Pass,310,0,Pass
+18001,"Adams County, Indiana",339,0,Pass,549,0,Pass
+18003,"Allen County, Indiana",2100,0,Pass,5739,0,Pass
+18005,"Bartholomew County, Indiana",455,0,Pass,1527,0,Pass
+18007,"Benton County, Indiana",72,0,Pass,152,0,Pass
+18009,"Blackford County, Indiana",75,0,Pass,353,0,Pass
+18011,"Boone County, Indiana",355,0,Pass,866,0,Pass
+18013,"Brown County, Indiana",112,0,Pass,285,0,Pass
+18015,"Carroll County, Indiana",129,0,Pass,201,0,Pass
+18017,"Cass County, Indiana",587,0,Pass,854,0,Pass
+18019,"Clark County, Indiana",829,0,Pass,1969,0,Pass
+18021,"Clay County, Indiana",103,0,Pass,410,0,Pass
+18023,"Clinton County, Indiana",100,0,Pass,472,0,Pass
+18025,"Crawford County, Indiana",23,0,Pass,74,0,Pass
+18027,"Daviess County, Indiana",290,0,Pass,696,0,Pass
+18029,"Dearborn County, Indiana",328,0,Pass,597,0,Pass
+18031,"Decatur County, Indiana",137,0,Pass,388,0,Pass
+18033,"DeKalb County, Indiana",423,0,Pass,799,0,Pass
+18035,"Delaware County, Indiana",1081,0,Pass,1736,0,Pass
+18037,"Dubois County, Indiana",203,0,Pass,500,0,Pass
+18039,"Elkhart County, Indiana",1551,0,Pass,4350,0,Pass
+18041,"Fayette County, Indiana",367,0,Pass,668,0,Pass
+18043,"Floyd County, Indiana",411,0,Pass,1217,0,Pass
+18045,"Fountain County, Indiana",50,0,Pass,139,0,Pass
+18047,"Franklin County, Indiana",295,0,Pass,647,0,Pass
+18049,"Fulton County, Indiana",139,0,Pass,367,0,Pass
+18051,"Gibson County, Indiana",238,0,Pass,547,0,Pass
+18053,"Grant County, Indiana",618,0,Pass,1559,0,Pass
+18055,"Greene County, Indiana",305,0,Pass,746,0,Pass
+18057,"Hamilton County, Indiana",876,0,Pass,3840,0,Pass
+18059,"Hancock County, Indiana",422,0,Pass,1322,0,Pass
+18061,"Harrison County, Indiana",517,0,Pass,891,0,Pass
+18063,"Hendricks County, Indiana",1173,0,Pass,3282,0,Pass
+18065,"Henry County, Indiana",514,0,Pass,1105,0,Pass
+18067,"Howard County, Indiana",551,0,Pass,1638,0,Pass
+18069,"Huntington County, Indiana",281,0,Pass,696,0,Pass
+18071,"Jackson County, Indiana",379,0,Pass,855,0,Pass
+18073,"Jasper County, Indiana",308,0,Pass,698,0,Pass
+18075,"Jay County, Indiana",301,0,Pass,527,0,Pass
+18077,"Jefferson County, Indiana",532,0,Pass,882,0,Pass
+18079,"Jennings County, Indiana",296,0,Pass,531,0,Pass
+18081,"Johnson County, Indiana",618,0,Pass,2004,0,Pass
+18083,"Knox County, Indiana",391,0,Pass,613,0,Pass
+18085,"Kosciusko County, Indiana",578,0,Pass,1297,0,Pass
+18087,"LaGrange County, Indiana",245,0,Pass,686,0,Pass
+18089,"Lake County, Indiana",3884,0,Pass,10872,0,Pass
+18091,"LaPorte County, Indiana",675,0,Pass,1989,0,Pass
+18093,"Lawrence County, Indiana",309,0,Pass,736,0,Pass
+18095,"Madison County, Indiana",1175,0,Pass,2473,0,Pass
+18097,"Marion County, Indiana",6655,0,Pass,17105,0,Pass
+18099,"Marshall County, Indiana",311,0,Pass,742,0,Pass
+18101,"Martin County, Indiana",147,0,Pass,284,0,Pass
+18103,"Miami County, Indiana",217,0,Pass,397,0,Pass
+18105,"Monroe County, Indiana",698,0,Pass,1497,0,Pass
+18107,"Montgomery County, Indiana",385,0,Pass,790,0,Pass
+18109,"Morgan County, Indiana",899,0,Pass,1789,0,Pass
+18111,"Newton County, Indiana",302,0,Pass,378,0,Pass
+18113,"Noble County, Indiana",347,0,Pass,731,0,Pass
+18115,"Ohio County, Indiana",35,0,Pass,52,0,Pass
+18117,"Orange County, Indiana",108,0,Pass,350,0,Pass
+18119,"Owen County, Indiana",316,0,Pass,613,0,Pass
+18121,"Parke County, Indiana",182,0,Pass,276,0,Pass
+18123,"Perry County, Indiana",199,0,Pass,306,0,Pass
+18125,"Pike County, Indiana",92,0,Pass,185,0,Pass
+18127,"Porter County, Indiana",978,0,Pass,3134,0,Pass
+18129,"Posey County, Indiana",313,0,Pass,421,0,Pass
+18131,"Pulaski County, Indiana",116,0,Pass,216,0,Pass
+18133,"Putnam County, Indiana",454,0,Pass,779,0,Pass
+18135,"Randolph County, Indiana",361,0,Pass,541,0,Pass
+18137,"Ripley County, Indiana",250,0,Pass,629,0,Pass
+18139,"Rush County, Indiana",77,0,Pass,180,0,Pass
+18141,"St. Joseph County, Indiana",1646,0,Pass,4051,0,Pass
+18143,"Scott County, Indiana",504,0,Pass,766,0,Pass
+18145,"Shelby County, Indiana",655,0,Pass,1105,0,Pass
+18147,"Spencer County, Indiana",245,0,Pass,465,0,Pass
+18149,"Starke County, Indiana",296,0,Pass,677,0,Pass
+18151,"Steuben County, Indiana",288,0,Pass,601,0,Pass
+18153,"Sullivan County, Indiana",178,0,Pass,286,0,Pass
+18155,"Switzerland County, Indiana",95,0,Pass,217,0,Pass
+18157,"Tippecanoe County, Indiana",891,0,Pass,1921,0,Pass
+18159,"Tipton County, Indiana",93,0,Pass,165,0,Pass
+18161,"Union County, Indiana",63,0,Pass,87,0,Pass
+18163,"Vanderburgh County, Indiana",1363,0,Pass,2775,0,Pass
+18165,"Vermillion County, Indiana",98,0,Pass,370,0,Pass
+18167,"Vigo County, Indiana",769,0,Pass,1743,0,Pass
+18169,"Wabash County, Indiana",144,0,Pass,422,0,Pass
+18171,"Warren County, Indiana",65,0,Pass,146,0,Pass
+18173,"Warrick County, Indiana",267,0,Pass,610,0,Pass
+18175,"Washington County, Indiana",298,0,Pass,679,0,Pass
+18177,"Wayne County, Indiana",603,0,Pass,1284,0,Pass
+18179,"Wells County, Indiana",144,0,Pass,479,0,Pass
+18181,"White County, Indiana",84,0,Pass,298,0,Pass
+18183,"Whitley County, Indiana",140,0,Pass,712,0,Pass
+19001,"Adair County, Iowa",72,0,Pass,154,0,Pass
+19003,"Adams County, Iowa",7,0,Pass,20,0,Pass
+19005,"Allamakee County, Iowa",0,0,Pass,80,0,Pass
+19007,"Appanoose County, Iowa",67,0,Pass,164,0,Pass
+19009,"Audubon County, Iowa",16,0,Pass,17,0,Pass
+19011,"Benton County, Iowa",194,0,Pass,359,0,Pass
+19013,"Black Hawk County, Iowa",644,0,Pass,1455,0,Pass
+19015,"Boone County, Iowa",43,0,Pass,251,0,Pass
+19017,"Bremer County, Iowa",45,0,Pass,206,0,Pass
+19019,"Buchanan County, Iowa",76,0,Pass,232,0,Pass
+19021,"Buena Vista County, Iowa",99,0,Pass,385,0,Pass
+19023,"Butler County, Iowa",108,0,Pass,155,0,Pass
+19025,"Calhoun County, Iowa",14,0,Pass,44,0,Pass
+19027,"Carroll County, Iowa",74,0,Pass,139,0,Pass
+19029,"Cass County, Iowa",8,0,Pass,69,0,Pass
+19031,"Cedar County, Iowa",155,0,Pass,315,0,Pass
+19033,"Cerro Gordo County, Iowa",86,0,Pass,247,0,Pass
+19035,"Cherokee County, Iowa",21,0,Pass,56,0,Pass
+19037,"Chickasaw County, Iowa",2,0,Pass,26,0,Pass
+19039,"Clarke County, Iowa",25,0,Pass,73,0,Pass
+19041,"Clay County, Iowa",55,0,Pass,86,0,Pass
+19043,"Clayton County, Iowa",31,0,Pass,124,0,Pass
+19045,"Clinton County, Iowa",251,0,Pass,628,0,Pass
+19047,"Crawford County, Iowa",24,0,Pass,208,0,Pass
+19049,"Dallas County, Iowa",160,0,Pass,600,0,Pass
+19051,"Davis County, Iowa",35,0,Pass,84,0,Pass
+19053,"Decatur County, Iowa",51,0,Pass,107,0,Pass
+19055,"Delaware County, Iowa",72,0,Pass,149,0,Pass
+19057,"Des Moines County, Iowa",176,0,Pass,396,0,Pass
+19059,"Dickinson County, Iowa",100,0,Pass,145,0,Pass
+19061,"Dubuque County, Iowa",298,0,Pass,985,0,Pass
+19063,"Emmet County, Iowa",109,0,Pass,109,0,Pass
+19065,"Fayette County, Iowa",67,0,Pass,191,0,Pass
+19067,"Floyd County, Iowa",15,0,Pass,200,0,Pass
+19069,"Franklin County, Iowa",18,0,Pass,47,0,Pass
+19071,"Fremont County, Iowa",48,0,Pass,99,0,Pass
+19073,"Greene County, Iowa",17,0,Pass,46,0,Pass
+19075,"Grundy County, Iowa",12,0,Pass,81,0,Pass
+19077,"Guthrie County, Iowa",11,0,Pass,50,0,Pass
+19079,"Hamilton County, Iowa",76,0,Pass,147,0,Pass
+19081,"Hancock County, Iowa",39,0,Pass,99,0,Pass
+19083,"Hardin County, Iowa",27,0,Pass,92,0,Pass
+19085,"Harrison County, Iowa",29,0,Pass,93,0,Pass
+19087,"Henry County, Iowa",93,0,Pass,187,0,Pass
+19089,"Howard County, Iowa",13,0,Pass,105,0,Pass
+19091,"Humboldt County, Iowa",48,0,Pass,98,0,Pass
+19093,"Ida County, Iowa",67,0,Pass,120,0,Pass
+19095,"Iowa County, Iowa",38,0,Pass,173,0,Pass
+19097,"Jackson County, Iowa",90,0,Pass,201,0,Pass
+19099,"Jasper County, Iowa",129,0,Pass,398,0,Pass
+19101,"Jefferson County, Iowa",25,0,Pass,86,0,Pass
+19103,"Johnson County, Iowa",335,0,Pass,939,0,Pass
+19105,"Jones County, Iowa",22,0,Pass,177,0,Pass
+19107,"Keokuk County, Iowa",75,0,Pass,144,0,Pass
+19109,"Kossuth County, Iowa",30,0,Pass,50,0,Pass
+19111,"Lee County, Iowa",221,0,Pass,361,0,Pass
+19113,"Linn County, Iowa",1045,0,Pass,2684,0,Pass
+19115,"Louisa County, Iowa",65,0,Pass,158,0,Pass
+19117,"Lucas County, Iowa",57,0,Pass,85,0,Pass
+19119,"Lyon County, Iowa",24,0,Pass,57,0,Pass
+19121,"Madison County, Iowa",30,0,Pass,165,0,Pass
+19123,"Mahaska County, Iowa",26,0,Pass,156,0,Pass
+19125,"Marion County, Iowa",22,0,Pass,270,0,Pass
+19127,"Marshall County, Iowa",211,0,Pass,540,0,Pass
+19129,"Mills County, Iowa",15,0,Pass,37,0,Pass
+19131,"Mitchell County, Iowa",49,0,Pass,225,0,Pass
+19133,"Monona County, Iowa",32,0,Pass,130,0,Pass
+19135,"Monroe County, Iowa",41,0,Pass,97,0,Pass
+19137,"Montgomery County, Iowa",13,0,Pass,119,0,Pass
+19139,"Muscatine County, Iowa",338,0,Pass,1087,0,Pass
+19141,"O'Brien County, Iowa",31,0,Pass,125,0,Pass
+19143,"Osceola County, Iowa",64,0,Pass,78,0,Pass
+19145,"Page County, Iowa",161,0,Pass,236,0,Pass
+19147,"Palo Alto County, Iowa",20,0,Pass,52,0,Pass
+19149,"Plymouth County, Iowa",61,0,Pass,172,0,Pass
+19151,"Pocahontas County, Iowa",12,0,Pass,30,0,Pass
+19153,"Polk County, Iowa",2233,0,Pass,5754,0,Pass
+19155,"Pottawattamie County, Iowa",723,0,Pass,1638,0,Pass
+19157,"Poweshiek County, Iowa",23,0,Pass,105,0,Pass
+19159,"Ringgold County, Iowa",24,0,Pass,50,0,Pass
+19161,"Sac County, Iowa",39,0,Pass,53,0,Pass
+19163,"Scott County, Iowa",754,0,Pass,1804,0,Pass
+19165,"Shelby County, Iowa",24,0,Pass,65,0,Pass
+19167,"Sioux County, Iowa",41,0,Pass,258,0,Pass
+19169,"Story County, Iowa",222,0,Pass,682,0,Pass
+19171,"Tama County, Iowa",146,0,Pass,286,0,Pass
+19173,"Taylor County, Iowa",8,0,Pass,48,0,Pass
+19175,"Union County, Iowa",10,0,Pass,49,0,Pass
+19177,"Van Buren County, Iowa",26,0,Pass,38,0,Pass
+19179,"Wapello County, Iowa",424,0,Pass,740,0,Pass
+19181,"Warren County, Iowa",377,0,Pass,686,0,Pass
+19183,"Washington County, Iowa",49,0,Pass,160,0,Pass
+19185,"Wayne County, Iowa",37,0,Pass,138,0,Pass
+19187,"Webster County, Iowa",52,0,Pass,232,0,Pass
+19189,"Winnebago County, Iowa",24,0,Pass,81,0,Pass
+19191,"Winneshiek County, Iowa",44,0,Pass,101,0,Pass
+19193,"Woodbury County, Iowa",423,0,Pass,1472,0,Pass
+19195,"Worth County, Iowa",12,0,Pass,40,0,Pass
+19197,"Wright County, Iowa",128,0,Pass,202,0,Pass
+20001,"Allen County, Kansas",242,0,Pass,403,0,Pass
+20003,"Anderson County, Kansas",56,0,Pass,86,0,Pass
+20005,"Atchison County, Kansas",104,0,Pass,333,0,Pass
+20007,"Barber County, Kansas",11,0,Pass,18,0,Pass
+20009,"Barton County, Kansas",164,0,Pass,192,0,Pass
+20011,"Bourbon County, Kansas",45,0,Pass,163,0,Pass
+20013,"Brown County, Kansas",53,0,Pass,164,0,Pass
+20015,"Butler County, Kansas",559,0,Pass,1106,0,Pass
+20017,"Chase County, Kansas",7,0,Pass,9,0,Pass
+20019,"Chautauqua County, Kansas",27,0,Pass,29,0,Pass
+20021,"Cherokee County, Kansas",161,0,Pass,248,0,Pass
+20023,"Cheyenne County, Kansas",5,0,Pass,20,0,Pass
+20025,"Clark County, Kansas",20,0,Pass,20,0,Pass
+20027,"Clay County, Kansas",14,0,Pass,67,0,Pass
+20029,"Cloud County, Kansas",55,0,Pass,75,0,Pass
+20031,"Coffey County, Kansas",43,0,Pass,77,0,Pass
+20033,"Comanche County, Kansas",0,0,Pass,20,0,Pass
+20035,"Cowley County, Kansas",272,0,Pass,531,0,Pass
+20037,"Crawford County, Kansas",418,0,Pass,806,0,Pass
+20039,"Decatur County, Kansas",0,0,Pass,10,0,Pass
+20041,"Dickinson County, Kansas",47,0,Pass,228,0,Pass
+20043,"Doniphan County, Kansas",78,0,Pass,193,0,Pass
+20045,"Douglas County, Kansas",247,0,Pass,593,0,Pass
+20047,"Edwards County, Kansas",33,0,Pass,61,0,Pass
+20049,"Elk County, Kansas",19,0,Pass,27,0,Pass
+20051,"Ellis County, Kansas",123,0,Pass,327,0,Pass
+20053,"Ellsworth County, Kansas",47,0,Pass,75,0,Pass
+20055,"Finney County, Kansas",389,0,Pass,686,0,Pass
+20057,"Ford County, Kansas",327,0,Pass,793,0,Pass
+20059,"Franklin County, Kansas",191,0,Pass,476,0,Pass
+20061,"Geary County, Kansas",122,0,Pass,347,0,Pass
+20063,"Gove County, Kansas",17,0,Pass,24,0,Pass
+20065,"Graham County, Kansas",0,0,Pass,22,0,Pass
+20067,"Grant County, Kansas",96,0,Pass,215,0,Pass
+20069,"Gray County, Kansas",24,0,Pass,26,0,Pass
+20071,"Greeley County, Kansas",0,0,Pass,0,0,Pass
+20073,"Greenwood County, Kansas",21,0,Pass,33,0,Pass
+20075,"Hamilton County, Kansas",32,0,Pass,48,0,Pass
+20077,"Harper County, Kansas",26,0,Pass,53,0,Pass
+20079,"Harvey County, Kansas",208,0,Pass,521,0,Pass
+20081,"Haskell County, Kansas",0,0,Pass,26,0,Pass
+20083,"Hodgeman County, Kansas",5,0,Pass,24,0,Pass
+20085,"Jackson County, Kansas",191,0,Pass,314,0,Pass
+20087,"Jefferson County, Kansas",50,0,Pass,188,0,Pass
+20089,"Jewell County, Kansas",12,0,Pass,19,0,Pass
+20091,"Johnson County, Kansas",1811,0,Pass,5879,0,Pass
+20093,"Kearny County, Kansas",100,0,Pass,170,0,Pass
+20095,"Kingman County, Kansas",5,0,Pass,22,0,Pass
+20097,"Kiowa County, Kansas",13,0,Pass,27,0,Pass
+20099,"Labette County, Kansas",187,0,Pass,358,0,Pass
+20101,"Lane County, Kansas",29,0,Pass,44,0,Pass
+20103,"Leavenworth County, Kansas",537,0,Pass,1905,0,Pass
+20105,"Lincoln County, Kansas",12,0,Pass,28,0,Pass
+20107,"Linn County, Kansas",45,0,Pass,106,0,Pass
+20109,"Logan County, Kansas",0,0,Pass,31,0,Pass
+20111,"Lyon County, Kansas",193,0,Pass,604,0,Pass
+20113,"McPherson County, Kansas",38,0,Pass,232,0,Pass
+20115,"Marion County, Kansas",52,0,Pass,74,0,Pass
+20117,"Marshall County, Kansas",15,0,Pass,70,0,Pass
+20119,"Meade County, Kansas",23,0,Pass,101,0,Pass
+20121,"Miami County, Kansas",166,0,Pass,687,0,Pass
+20123,"Mitchell County, Kansas",1,0,Pass,3,0,Pass
+20125,"Montgomery County, Kansas",317,0,Pass,658,0,Pass
+20127,"Morris County, Kansas",22,0,Pass,44,0,Pass
+20129,"Morton County, Kansas",61,0,Pass,61,0,Pass
+20131,"Nemaha County, Kansas",38,0,Pass,56,0,Pass
+20133,"Neosho County, Kansas",262,0,Pass,403,0,Pass
+20135,"Ness County, Kansas",13,0,Pass,14,0,Pass
+20137,"Norton County, Kansas",5,0,Pass,11,0,Pass
+20139,"Osage County, Kansas",80,0,Pass,190,0,Pass
+20141,"Osborne County, Kansas",5,0,Pass,13,0,Pass
+20143,"Ottawa County, Kansas",75,0,Pass,102,0,Pass
+20145,"Pawnee County, Kansas",1,0,Pass,81,0,Pass
+20147,"Phillips County, Kansas",54,0,Pass,69,0,Pass
+20149,"Pottawatomie County, Kansas",141,0,Pass,375,0,Pass
+20151,"Pratt County, Kansas",64,0,Pass,124,0,Pass
+20153,"Rawlins County, Kansas",63,0,Pass,97,0,Pass
+20155,"Reno County, Kansas",436,0,Pass,766,0,Pass
+20157,"Republic County, Kansas",8,0,Pass,8,0,Pass
+20159,"Rice County, Kansas",116,0,Pass,158,0,Pass
+20161,"Riley County, Kansas",214,0,Pass,352,0,Pass
+20163,"Rooks County, Kansas",148,0,Pass,157,0,Pass
+20165,"Rush County, Kansas",23,0,Pass,26,0,Pass
+20167,"Russell County, Kansas",36,0,Pass,44,0,Pass
+20169,"Saline County, Kansas",162,0,Pass,681,0,Pass
+20171,"Scott County, Kansas",21,0,Pass,31,0,Pass
+20173,"Sedgwick County, Kansas",3643,0,Pass,9526,0,Pass
+20175,"Seward County, Kansas",174,0,Pass,582,0,Pass
+20177,"Shawnee County, Kansas",1414,0,Pass,3003,0,Pass
+20179,"Sheridan County, Kansas",0,0,Pass,21,0,Pass
+20181,"Sherman County, Kansas",0,0,Pass,32,0,Pass
+20183,"Smith County, Kansas",2,0,Pass,40,0,Pass
+20185,"Stafford County, Kansas",25,0,Pass,59,0,Pass
+20187,"Stanton County, Kansas",0,0,Pass,27,0,Pass
+20189,"Stevens County, Kansas",220,0,Pass,294,0,Pass
+20191,"Sumner County, Kansas",296,0,Pass,485,0,Pass
+20193,"Thomas County, Kansas",0,0,Pass,5,0,Pass
+20195,"Trego County, Kansas",12,0,Pass,12,0,Pass
+20197,"Wabaunsee County, Kansas",16,0,Pass,80,0,Pass
+20199,"Wallace County, Kansas",0,0,Pass,8,0,Pass
+20201,"Washington County, Kansas",16,0,Pass,30,0,Pass
+20203,"Wichita County, Kansas",2,0,Pass,92,0,Pass
+20205,"Wilson County, Kansas",60,0,Pass,132,0,Pass
+20207,"Woodson County, Kansas",4,0,Pass,38,0,Pass
+20209,"Wyandotte County, Kansas",1402,0,Pass,4213,0,Pass
+21001,"Adair County, Kentucky",120,0,Pass,366,0,Pass
+21003,"Allen County, Kentucky",189,0,Pass,464,0,Pass
+21005,"Anderson County, Kentucky",299,0,Pass,431,0,Pass
+21007,"Ballard County, Kentucky",62,0,Pass,151,0,Pass
+21009,"Barren County, Kentucky",536,0,Pass,1131,0,Pass
+21011,"Bath County, Kentucky",273,0,Pass,567,0,Pass
+21013,"Bell County, Kentucky",214,0,Pass,494,0,Pass
+21015,"Boone County, Kentucky",1270,0,Pass,2714,0,Pass
+21017,"Bourbon County, Kentucky",220,0,Pass,361,0,Pass
+21019,"Boyd County, Kentucky",868,0,Pass,1498,0,Pass
+21021,"Boyle County, Kentucky",540,0,Pass,750,0,Pass
+21023,"Bracken County, Kentucky",58,0,Pass,289,0,Pass
+21025,"Breathitt County, Kentucky",318,0,Pass,472,0,Pass
+21027,"Breckinridge County, Kentucky",201,0,Pass,467,0,Pass
+21029,"Bullitt County, Kentucky",1156,0,Pass,2190,0,Pass
+21031,"Butler County, Kentucky",289,0,Pass,418,0,Pass
+21033,"Caldwell County, Kentucky",150,0,Pass,214,0,Pass
+21035,"Calloway County, Kentucky",242,0,Pass,559,0,Pass
+21037,"Campbell County, Kentucky",517,0,Pass,1680,0,Pass
+21039,"Carlisle County, Kentucky",29,0,Pass,88,0,Pass
+21041,"Carroll County, Kentucky",271,0,Pass,483,0,Pass
+21043,"Carter County, Kentucky",458,0,Pass,790,0,Pass
+21045,"Casey County, Kentucky",592,0,Pass,745,0,Pass
+21047,"Christian County, Kentucky",370,0,Pass,1083,0,Pass
+21049,"Clark County, Kentucky",512,0,Pass,1041,0,Pass
+21051,"Clay County, Kentucky",479,0,Pass,895,0,Pass
+21053,"Clinton County, Kentucky",235,0,Pass,270,0,Pass
+21055,"Crittenden County, Kentucky",120,0,Pass,198,0,Pass
+21057,"Cumberland County, Kentucky",126,0,Pass,199,0,Pass
+21059,"Daviess County, Kentucky",823,0,Pass,1731,0,Pass
+21061,"Edmonson County, Kentucky",281,0,Pass,350,0,Pass
+21063,"Elliott County, Kentucky",177,0,Pass,414,0,Pass
+21065,"Estill County, Kentucky",367,0,Pass,499,0,Pass
+21067,"Fayette County, Kentucky",1839,0,Pass,3828,0,Pass
+21069,"Fleming County, Kentucky",52,0,Pass,262,0,Pass
+21071,"Floyd County, Kentucky",492,0,Pass,900,0,Pass
+21073,"Franklin County, Kentucky",600,0,Pass,1038,0,Pass
+21075,"Fulton County, Kentucky",17,0,Pass,39,0,Pass
+21077,"Gallatin County, Kentucky",266,0,Pass,325,0,Pass
+21079,"Garrard County, Kentucky",222,0,Pass,444,0,Pass
+21081,"Grant County, Kentucky",193,0,Pass,388,0,Pass
+21083,"Graves County, Kentucky",509,0,Pass,766,0,Pass
+21085,"Grayson County, Kentucky",519,0,Pass,787,0,Pass
+21087,"Green County, Kentucky",167,0,Pass,257,0,Pass
+21089,"Greenup County, Kentucky",614,0,Pass,966,0,Pass
+21091,"Hancock County, Kentucky",103,0,Pass,146,0,Pass
+21093,"Hardin County, Kentucky",1103,0,Pass,2750,0,Pass
+21095,"Harlan County, Kentucky",643,0,Pass,964,0,Pass
+21097,"Harrison County, Kentucky",386,0,Pass,689,0,Pass
+21099,"Hart County, Kentucky",232,0,Pass,395,0,Pass
+21101,"Henderson County, Kentucky",505,0,Pass,910,0,Pass
+21103,"Henry County, Kentucky",266,0,Pass,610,0,Pass
+21105,"Hickman County, Kentucky",46,0,Pass,130,0,Pass
+21107,"Hopkins County, Kentucky",734,0,Pass,1381,0,Pass
+21109,"Jackson County, Kentucky",109,0,Pass,193,0,Pass
+21111,"Jefferson County, Kentucky",5731,0,Pass,13212,0,Pass
+21113,"Jessamine County, Kentucky",1330,0,Pass,1695,0,Pass
+21115,"Johnson County, Kentucky",348,0,Pass,572,0,Pass
+21117,"Kenton County, Kentucky",1547,0,Pass,3397,0,Pass
+21119,"Knott County, Kentucky",272,0,Pass,419,0,Pass
+21121,"Knox County, Kentucky",372,0,Pass,795,0,Pass
+21123,"Larue County, Kentucky",151,0,Pass,340,0,Pass
+21125,"Laurel County, Kentucky",1080,0,Pass,1761,0,Pass
+21127,"Lawrence County, Kentucky",272,0,Pass,549,0,Pass
+21129,"Lee County, Kentucky",24,0,Pass,143,0,Pass
+21131,"Leslie County, Kentucky",245,0,Pass,354,0,Pass
+21133,"Letcher County, Kentucky",498,0,Pass,671,0,Pass
+21135,"Lewis County, Kentucky",179,0,Pass,291,0,Pass
+21137,"Lincoln County, Kentucky",400,0,Pass,652,0,Pass
+21139,"Livingston County, Kentucky",59,0,Pass,209,0,Pass
+21141,"Logan County, Kentucky",535,0,Pass,796,0,Pass
+21143,"Lyon County, Kentucky",46,0,Pass,58,0,Pass
+21145,"McCracken County, Kentucky",461,0,Pass,998,0,Pass
+21147,"McCreary County, Kentucky",206,0,Pass,305,0,Pass
+21149,"McLean County, Kentucky",184,0,Pass,233,0,Pass
+21151,"Madison County, Kentucky",732,0,Pass,1437,0,Pass
+21153,"Magoffin County, Kentucky",213,0,Pass,397,0,Pass
+21155,"Marion County, Kentucky",171,0,Pass,372,0,Pass
+21157,"Marshall County, Kentucky",274,0,Pass,463,0,Pass
+21159,"Martin County, Kentucky",57,0,Pass,292,0,Pass
+21161,"Mason County, Kentucky",389,0,Pass,484,0,Pass
+21163,"Meade County, Kentucky",475,0,Pass,982,0,Pass
+21165,"Menifee County, Kentucky",140,0,Pass,145,0,Pass
+21167,"Mercer County, Kentucky",340,0,Pass,605,0,Pass
+21169,"Metcalfe County, Kentucky",115,0,Pass,180,0,Pass
+21171,"Monroe County, Kentucky",91,0,Pass,224,0,Pass
+21173,"Montgomery County, Kentucky",318,0,Pass,730,0,Pass
+21175,"Morgan County, Kentucky",112,0,Pass,233,0,Pass
+21177,"Muhlenberg County, Kentucky",403,0,Pass,720,0,Pass
+21179,"Nelson County, Kentucky",166,0,Pass,785,0,Pass
+21181,"Nicholas County, Kentucky",219,0,Pass,433,0,Pass
+21183,"Ohio County, Kentucky",327,0,Pass,536,0,Pass
+21185,"Oldham County, Kentucky",314,0,Pass,894,0,Pass
+21187,"Owen County, Kentucky",203,0,Pass,295,0,Pass
+21189,"Owsley County, Kentucky",54,0,Pass,130,0,Pass
+21191,"Pendleton County, Kentucky",282,0,Pass,514,0,Pass
+21193,"Perry County, Kentucky",262,0,Pass,512,0,Pass
+21195,"Pike County, Kentucky",859,0,Pass,1533,0,Pass
+21197,"Powell County, Kentucky",237,0,Pass,487,0,Pass
+21199,"Pulaski County, Kentucky",740,0,Pass,1682,0,Pass
+21201,"Robertson County, Kentucky",42,0,Pass,52,0,Pass
+21203,"Rockcastle County, Kentucky",544,0,Pass,712,0,Pass
+21205,"Rowan County, Kentucky",204,0,Pass,419,0,Pass
+21207,"Russell County, Kentucky",234,0,Pass,342,0,Pass
+21209,"Scott County, Kentucky",397,0,Pass,1091,0,Pass
+21211,"Shelby County, Kentucky",308,0,Pass,963,0,Pass
+21213,"Simpson County, Kentucky",270,0,Pass,583,0,Pass
+21215,"Spencer County, Kentucky",322,0,Pass,818,0,Pass
+21217,"Taylor County, Kentucky",270,0,Pass,430,0,Pass
+21219,"Todd County, Kentucky",77,0,Pass,247,0,Pass
+21221,"Trigg County, Kentucky",164,0,Pass,398,0,Pass
+21223,"Trimble County, Kentucky",68,0,Pass,295,0,Pass
+21225,"Union County, Kentucky",117,0,Pass,212,0,Pass
+21227,"Warren County, Kentucky",1178,0,Pass,2604,0,Pass
+21229,"Washington County, Kentucky",179,0,Pass,252,0,Pass
+21231,"Wayne County, Kentucky",161,0,Pass,376,0,Pass
+21233,"Webster County, Kentucky",115,0,Pass,257,0,Pass
+21235,"Whitley County, Kentucky",501,0,Pass,1004,0,Pass
+21237,"Wolfe County, Kentucky",181,0,Pass,188,0,Pass
+21239,"Woodford County, Kentucky",244,0,Pass,450,0,Pass
+22001,"Acadia Parish, Louisiana",588,0,Pass,1068,0,Pass
+22003,"Allen Parish, Louisiana",152,0,Pass,249,0,Pass
+22005,"Ascension Parish, Louisiana",1337,0,Pass,2429,0,Pass
+22007,"Assumption Parish, Louisiana",216,0,Pass,863,0,Pass
+22009,"Avoyelles Parish, Louisiana",585,0,Pass,966,0,Pass
+22011,"Beauregard Parish, Louisiana",841,0,Pass,1534,0,Pass
+22013,"Bienville Parish, Louisiana",325,0,Pass,422,0,Pass
+22015,"Bossier Parish, Louisiana",948,0,Pass,2159,0,Pass
+22017,"Caddo Parish, Louisiana",2933,0,Pass,6164,0,Pass
+22019,"Calcasieu Parish, Louisiana",2591,0,Pass,4814,0,Pass
+22021,"Caldwell Parish, Louisiana",132,0,Pass,247,0,Pass
+22023,"Cameron Parish, Louisiana",122,0,Pass,162,0,Pass
+22025,"Catahoula Parish, Louisiana",475,0,Pass,521,0,Pass
+22027,"Claiborne Parish, Louisiana",89,0,Pass,206,0,Pass
+22029,"Concordia Parish, Louisiana",453,0,Pass,787,0,Pass
+22031,"De Soto Parish, Louisiana",170,0,Pass,456,0,Pass
+22033,"East Baton Rouge Parish, Louisiana",3455,0,Pass,7883,0,Pass
+22035,"East Carroll Parish, Louisiana",159,0,Pass,281,0,Pass
+22037,"East Feliciana Parish, Louisiana",119,0,Pass,444,0,Pass
+22039,"Evangeline Parish, Louisiana",393,0,Pass,519,0,Pass
+22041,"Franklin Parish, Louisiana",242,0,Pass,407,0,Pass
+22043,"Grant Parish, Louisiana",242,0,Pass,422,0,Pass
+22045,"Iberia Parish, Louisiana",875,0,Pass,1638,0,Pass
+22047,"Iberville Parish, Louisiana",660,0,Pass,863,0,Pass
+22049,"Jackson Parish, Louisiana",317,0,Pass,682,0,Pass
+22051,"Jefferson Parish, Louisiana",4094,0,Pass,10297,0,Pass
+22053,"Jefferson Davis Parish, Louisiana",355,0,Pass,862,0,Pass
+22055,"Lafayette Parish, Louisiana",1476,0,Pass,3152,0,Pass
+22057,"Lafourche Parish, Louisiana",868,0,Pass,2324,0,Pass
+22059,"LaSalle Parish, Louisiana",214,0,Pass,297,0,Pass
+22061,"Lincoln Parish, Louisiana",438,0,Pass,606,0,Pass
+22063,"Livingston Parish, Louisiana",2824,0,Pass,4926,0,Pass
+22065,"Madison Parish, Louisiana",202,0,Pass,347,0,Pass
+22067,"Morehouse Parish, Louisiana",347,0,Pass,649,0,Pass
+22069,"Natchitoches Parish, Louisiana",414,0,Pass,694,0,Pass
+22071,"Orleans Parish, Louisiana",2966,0,Pass,6639,0,Pass
+22073,"Ouachita Parish, Louisiana",2058,0,Pass,3473,0,Pass
+22075,"Plaquemines Parish, Louisiana",186,0,Pass,376,0,Pass
+22077,"Pointe Coupee Parish, Louisiana",140,0,Pass,310,0,Pass
+22079,"Rapides Parish, Louisiana",1262,0,Pass,2332,0,Pass
+22081,"Red River Parish, Louisiana",214,0,Pass,306,0,Pass
+22083,"Richland Parish, Louisiana",419,0,Pass,578,0,Pass
+22085,"Sabine Parish, Louisiana",467,0,Pass,676,0,Pass
+22087,"St. Bernard Parish, Louisiana",466,0,Pass,1204,0,Pass
+22089,"St. Charles Parish, Louisiana",487,0,Pass,1074,0,Pass
+22091,"St. Helena Parish, Louisiana",173,0,Pass,337,0,Pass
+22093,"St. James Parish, Louisiana",198,0,Pass,601,0,Pass
+22095,"St. John the Baptist Parish, Louisiana",590,0,Pass,1233,0,Pass
+22097,"St. Landry Parish, Louisiana",1155,0,Pass,2056,0,Pass
+22099,"St. Martin Parish, Louisiana",480,0,Pass,1186,0,Pass
+22101,"St. Mary Parish, Louisiana",1009,0,Pass,1448,0,Pass
+22103,"St. Tammany Parish, Louisiana",2404,0,Pass,6118,0,Pass
+22105,"Tangipahoa Parish, Louisiana",1323,0,Pass,2698,0,Pass
+22107,"Tensas Parish, Louisiana",99,0,Pass,150,0,Pass
+22109,"Terrebonne Parish, Louisiana",1303,0,Pass,3238,0,Pass
+22111,"Union Parish, Louisiana",295,0,Pass,406,0,Pass
+22113,"Vermilion Parish, Louisiana",706,0,Pass,1579,0,Pass
+22115,"Vernon Parish, Louisiana",600,0,Pass,1122,0,Pass
+22117,"Washington Parish, Louisiana",265,0,Pass,913,0,Pass
+22119,"Webster Parish, Louisiana",1090,0,Pass,1680,0,Pass
+22121,"West Baton Rouge Parish, Louisiana",101,0,Pass,589,0,Pass
+22123,"West Carroll Parish, Louisiana",116,0,Pass,178,0,Pass
+22125,"West Feliciana Parish, Louisiana",57,0,Pass,205,0,Pass
+22127,"Winn Parish, Louisiana",67,0,Pass,118,0,Pass
+23001,"Androscoggin County, Maine",480,0,Pass,1493,0,Pass
+23003,"Aroostook County, Maine",433,0,Pass,940,0,Pass
+23005,"Cumberland County, Maine",1077,0,Pass,3235,0,Pass
+23007,"Franklin County, Maine",196,0,Pass,439,0,Pass
+23009,"Hancock County, Maine",109,0,Pass,470,0,Pass
+23011,"Kennebec County, Maine",394,0,Pass,1617,0,Pass
+23013,"Knox County, Maine",107,0,Pass,525,0,Pass
+23015,"Lincoln County, Maine",119,0,Pass,401,0,Pass
+23017,"Oxford County, Maine",353,0,Pass,985,0,Pass
+23019,"Penobscot County, Maine",682,0,Pass,1883,0,Pass
+23021,"Piscataquis County, Maine",100,0,Pass,194,0,Pass
+23023,"Sagadahoc County, Maine",119,0,Pass,322,0,Pass
+23025,"Somerset County, Maine",285,0,Pass,657,0,Pass
+23027,"Waldo County, Maine",168,0,Pass,469,0,Pass
+23029,"Washington County, Maine",213,0,Pass,462,0,Pass
+23031,"York County, Maine",907,0,Pass,2947,0,Pass
+24001,"Allegany County, Maryland",555,0,Pass,1262,0,Pass
+24003,"Anne Arundel County, Maryland",2864,0,Pass,12017,0,Pass
+24005,"Baltimore County, Maryland",4329,0,Pass,18164,0,Pass
+24009,"Calvert County, Maryland",398,0,Pass,1924,0,Pass
+24011,"Caroline County, Maryland",295,0,Pass,842,0,Pass
+24013,"Carroll County, Maryland",756,0,Pass,3372,0,Pass
+24015,"Cecil County, Maryland",1196,0,Pass,2898,0,Pass
+24017,"Charles County, Maryland",1613,0,Pass,4663,0,Pass
+24019,"Dorchester County, Maryland",94,0,Pass,335,0,Pass
+24021,"Frederick County, Maryland",985,0,Pass,4998,0,Pass
+24023,"Garrett County, Maryland",183,0,Pass,325,0,Pass
+24025,"Harford County, Maryland",1975,0,Pass,5557,0,Pass
+24027,"Howard County, Maryland",1369,0,Pass,6550,0,Pass
+24029,"Kent County, Maryland",80,0,Pass,249,0,Pass
+24031,"Montgomery County, Maryland",4217,0,Pass,23061,0,Pass
+24033,"Prince George's County, Maryland",8875,0,Pass,30673,0,Pass
+24035,"Queen Anne's County, Maryland",220,0,Pass,714,0,Pass
+24037,"St. Mary's County, Maryland",658,0,Pass,2902,0,Pass
+24039,"Somerset County, Maryland",215,0,Pass,515,0,Pass
+24041,"Talbot County, Maryland",112,0,Pass,407,0,Pass
+24043,"Washington County, Maryland",1261,0,Pass,3437,0,Pass
+24045,"Wicomico County, Maryland",523,0,Pass,2002,0,Pass
+24047,"Worcester County, Maryland",247,0,Pass,556,0,Pass
+24510,"Baltimore city, Maryland",4180,0,Pass,10270,0,Pass
+25001,"Barnstable County, Massachusetts",959,0,Pass,2868,0,Pass
+25003,"Berkshire County, Massachusetts",520,0,Pass,1043,0,Pass
+25005,"Bristol County, Massachusetts",3654,0,Pass,13265,0,Pass
+25007,"Dukes County, Massachusetts",52,0,Pass,565,0,Pass
+25009,"Essex County, Massachusetts",3938,0,Pass,15696,0,Pass
+25011,"Franklin County, Massachusetts",267,0,Pass,906,0,Pass
+25013,"Hampden County, Massachusetts",2868,0,Pass,9132,0,Pass
+25015,"Hampshire County, Massachusetts",464,0,Pass,1263,0,Pass
+25017,"Middlesex County, Massachusetts",3778,0,Pass,25038,0,Pass
+25019,"Nantucket County, Massachusetts",136,0,Pass,299,0,Pass
+25021,"Norfolk County, Massachusetts",1585,0,Pass,10016,0,Pass
+25023,"Plymouth County, Massachusetts",2673,0,Pass,10997,0,Pass
+25025,"Suffolk County, Massachusetts",2898,0,Pass,13353,0,Pass
+25027,"Worcester County, Massachusetts",3621,0,Pass,15553,0,Pass
+26001,"Alcona County, Michigan",63,0,Pass,132,0,Pass
+26003,"Alger County, Michigan",54,0,Pass,83,0,Pass
+26005,"Allegan County, Michigan",924,0,Pass,2189,0,Pass
+26007,"Alpena County, Michigan",203,0,Pass,477,0,Pass
+26009,"Antrim County, Michigan",49,0,Pass,285,0,Pass
+26011,"Arenac County, Michigan",121,0,Pass,248,0,Pass
+26013,"Baraga County, Michigan",65,0,Pass,102,0,Pass
+26015,"Barry County, Michigan",343,0,Pass,953,0,Pass
+26017,"Bay County, Michigan",382,0,Pass,942,0,Pass
+26019,"Benzie County, Michigan",90,0,Pass,228,0,Pass
+26021,"Berrien County, Michigan",976,0,Pass,2262,0,Pass
+26023,"Branch County, Michigan",302,0,Pass,837,0,Pass
+26025,"Calhoun County, Michigan",1082,0,Pass,2534,0,Pass
+26027,"Cass County, Michigan",332,0,Pass,985,0,Pass
+26029,"Charlevoix County, Michigan",110,0,Pass,422,0,Pass
+26031,"Cheboygan County, Michigan",195,0,Pass,483,0,Pass
+26033,"Chippewa County, Michigan",215,0,Pass,411,0,Pass
+26035,"Clare County, Michigan",307,0,Pass,706,0,Pass
+26037,"Clinton County, Michigan",345,0,Pass,1086,0,Pass
+26039,"Crawford County, Michigan",79,0,Pass,159,0,Pass
+26041,"Delta County, Michigan",109,0,Pass,582,0,Pass
+26043,"Dickinson County, Michigan",164,0,Pass,250,0,Pass
+26045,"Eaton County, Michigan",301,0,Pass,1344,0,Pass
+26047,"Emmet County, Michigan",310,0,Pass,642,0,Pass
+26049,"Genesee County, Michigan",2460,0,Pass,6791,0,Pass
+26051,"Gladwin County, Michigan",265,0,Pass,572,0,Pass
+26053,"Gogebic County, Michigan",35,0,Pass,65,0,Pass
+26055,"Grand Traverse County, Michigan",307,0,Pass,976,0,Pass
+26057,"Gratiot County, Michigan",155,0,Pass,423,0,Pass
+26059,"Hillsdale County, Michigan",403,0,Pass,925,0,Pass
+26061,"Houghton County, Michigan",67,0,Pass,263,0,Pass
+26063,"Huron County, Michigan",132,0,Pass,343,0,Pass
+26065,"Ingham County, Michigan",1572,0,Pass,3702,0,Pass
+26067,"Ionia County, Michigan",276,0,Pass,991,0,Pass
+26069,"Iosco County, Michigan",182,0,Pass,437,0,Pass
+26071,"Iron County, Michigan",53,0,Pass,99,0,Pass
+26073,"Isabella County, Michigan",236,0,Pass,772,0,Pass
+26075,"Jackson County, Michigan",695,0,Pass,2575,0,Pass
+26077,"Kalamazoo County, Michigan",844,0,Pass,2680,0,Pass
+26079,"Kalkaska County, Michigan",105,0,Pass,267,0,Pass
+26081,"Kent County, Michigan",2789,0,Pass,8801,0,Pass
+26083,"Keweenaw County, Michigan",3,0,Pass,3,0,Pass
+26085,"Lake County, Michigan",110,0,Pass,203,0,Pass
+26087,"Lapeer County, Michigan",247,0,Pass,1623,0,Pass
+26089,"Leelanau County, Michigan",31,0,Pass,195,0,Pass
+26091,"Lenawee County, Michigan",612,0,Pass,1414,0,Pass
+26093,"Livingston County, Michigan",412,0,Pass,2342,0,Pass
+26095,"Luce County, Michigan",10,0,Pass,32,0,Pass
+26097,"Mackinac County, Michigan",132,0,Pass,165,0,Pass
+26099,"Macomb County, Michigan",3759,0,Pass,15194,0,Pass
+26101,"Manistee County, Michigan",123,0,Pass,377,0,Pass
+26103,"Marquette County, Michigan",265,0,Pass,534,0,Pass
+26105,"Mason County, Michigan",109,0,Pass,316,0,Pass
+26107,"Mecosta County, Michigan",169,0,Pass,703,0,Pass
+26109,"Menominee County, Michigan",121,0,Pass,433,0,Pass
+26111,"Midland County, Michigan",230,0,Pass,935,0,Pass
+26113,"Missaukee County, Michigan",38,0,Pass,346,0,Pass
+26115,"Monroe County, Michigan",759,0,Pass,2272,0,Pass
+26117,"Montcalm County, Michigan",494,0,Pass,1147,0,Pass
+26119,"Montmorency County, Michigan",32,0,Pass,110,0,Pass
+26121,"Muskegon County, Michigan",1463,0,Pass,3434,0,Pass
+26123,"Newaygo County, Michigan",493,0,Pass,1223,0,Pass
+26125,"Oakland County, Michigan",3608,0,Pass,15734,0,Pass
+26127,"Oceana County, Michigan",208,0,Pass,586,0,Pass
+26129,"Ogemaw County, Michigan",144,0,Pass,328,0,Pass
+26131,"Ontonagon County, Michigan",5,0,Pass,11,0,Pass
+26133,"Osceola County, Michigan",171,0,Pass,455,0,Pass
+26135,"Oscoda County, Michigan",136,0,Pass,199,0,Pass
+26137,"Otsego County, Michigan",97,0,Pass,279,0,Pass
+26139,"Ottawa County, Michigan",939,0,Pass,4171,0,Pass
+26141,"Presque Isle County, Michigan",56,0,Pass,138,0,Pass
+26143,"Roscommon County, Michigan",81,0,Pass,246,0,Pass
+26145,"Saginaw County, Michigan",963,0,Pass,3098,0,Pass
+26147,"St. Clair County, Michigan",708,0,Pass,2123,0,Pass
+26149,"St. Joseph County, Michigan",452,0,Pass,1392,0,Pass
+26151,"Sanilac County, Michigan",241,0,Pass,617,0,Pass
+26153,"Schoolcraft County, Michigan",115,0,Pass,168,0,Pass
+26155,"Shiawassee County, Michigan",474,0,Pass,1252,0,Pass
+26157,"Tuscola County, Michigan",195,0,Pass,799,0,Pass
+26159,"Van Buren County, Michigan",587,0,Pass,1599,0,Pass
+26161,"Washtenaw County, Michigan",1077,0,Pass,3593,0,Pass
+26163,"Wayne County, Michigan",12653,0,Pass,37851,0,Pass
+26165,"Wexford County, Michigan",123,0,Pass,547,0,Pass
+27001,"Aitkin County, Minnesota",65,0,Pass,178,0,Pass
+27003,"Anoka County, Minnesota",1539,0,Pass,6357,0,Pass
+27005,"Becker County, Minnesota",180,0,Pass,385,0,Pass
+27007,"Beltrami County, Minnesota",400,0,Pass,791,0,Pass
+27009,"Benton County, Minnesota",37,0,Pass,216,0,Pass
+27011,"Big Stone County, Minnesota",16,0,Pass,33,0,Pass
+27013,"Blue Earth County, Minnesota",111,0,Pass,310,0,Pass
+27015,"Brown County, Minnesota",58,0,Pass,119,0,Pass
+27017,"Carlton County, Minnesota",225,0,Pass,456,0,Pass
+27019,"Carver County, Minnesota",293,0,Pass,980,0,Pass
+27021,"Cass County, Minnesota",275,0,Pass,568,0,Pass
+27023,"Chippewa County, Minnesota",22,0,Pass,138,0,Pass
+27025,"Chisago County, Minnesota",212,0,Pass,884,0,Pass
+27027,"Clay County, Minnesota",231,0,Pass,496,0,Pass
+27029,"Clearwater County, Minnesota",64,0,Pass,133,0,Pass
+27031,"Cook County, Minnesota",20,0,Pass,34,0,Pass
+27033,"Cottonwood County, Minnesota",89,0,Pass,143,0,Pass
+27035,"Crow Wing County, Minnesota",194,0,Pass,727,0,Pass
+27037,"Dakota County, Minnesota",1168,0,Pass,4998,0,Pass
+27039,"Dodge County, Minnesota",52,0,Pass,110,0,Pass
+27041,"Douglas County, Minnesota",87,0,Pass,326,0,Pass
+27043,"Faribault County, Minnesota",16,0,Pass,52,0,Pass
+27045,"Fillmore County, Minnesota",23,0,Pass,149,0,Pass
+27047,"Freeborn County, Minnesota",181,0,Pass,431,0,Pass
+27049,"Goodhue County, Minnesota",140,0,Pass,536,0,Pass
+27051,"Grant County, Minnesota",24,0,Pass,49,0,Pass
+27053,"Hennepin County, Minnesota",3335,0,Pass,12471,0,Pass
+27055,"Houston County, Minnesota",18,0,Pass,72,0,Pass
+27057,"Hubbard County, Minnesota",88,0,Pass,229,0,Pass
+27059,"Isanti County, Minnesota",181,0,Pass,657,0,Pass
+27061,"Itasca County, Minnesota",170,0,Pass,438,0,Pass
+27063,"Jackson County, Minnesota",24,0,Pass,102,0,Pass
+27065,"Kanabec County, Minnesota",68,0,Pass,254,0,Pass
+27067,"Kandiyohi County, Minnesota",337,0,Pass,560,0,Pass
+27069,"Kittson County, Minnesota",9,0,Pass,11,0,Pass
+27071,"Koochiching County, Minnesota",41,0,Pass,88,0,Pass
+27073,"Lac qui Parle County, Minnesota",23,0,Pass,39,0,Pass
+27075,"Lake County, Minnesota",82,0,Pass,112,0,Pass
+27077,"Lake of the Woods County, Minnesota",0,0,Pass,19,0,Pass
+27079,"Le Sueur County, Minnesota",66,0,Pass,355,0,Pass
+27081,"Lincoln County, Minnesota",3,0,Pass,14,0,Pass
+27083,"Lyon County, Minnesota",30,0,Pass,120,0,Pass
+27085,"McLeod County, Minnesota",181,0,Pass,504,0,Pass
+27087,"Mahnomen County, Minnesota",90,0,Pass,119,0,Pass
+27089,"Marshall County, Minnesota",40,0,Pass,69,0,Pass
+27091,"Martin County, Minnesota",27,0,Pass,79,0,Pass
+27093,"Meeker County, Minnesota",107,0,Pass,155,0,Pass
+27095,"Mille Lacs County, Minnesota",170,0,Pass,589,0,Pass
+27097,"Morrison County, Minnesota",122,0,Pass,256,0,Pass
+27099,"Mower County, Minnesota",152,0,Pass,557,0,Pass
+27101,"Murray County, Minnesota",19,0,Pass,74,0,Pass
+27103,"Nicollet County, Minnesota",70,0,Pass,176,0,Pass
+27105,"Nobles County, Minnesota",48,0,Pass,362,0,Pass
+27107,"Norman County, Minnesota",65,0,Pass,97,0,Pass
+27109,"Olmsted County, Minnesota",738,0,Pass,1704,0,Pass
+27111,"Otter Tail County, Minnesota",181,0,Pass,693,0,Pass
+27113,"Pennington County, Minnesota",72,0,Pass,115,0,Pass
+27115,"Pine County, Minnesota",168,0,Pass,423,0,Pass
+27117,"Pipestone County, Minnesota",66,0,Pass,72,0,Pass
+27119,"Polk County, Minnesota",70,0,Pass,202,0,Pass
+27121,"Pope County, Minnesota",28,0,Pass,117,0,Pass
+27123,"Ramsey County, Minnesota",1445,0,Pass,7245,0,Pass
+27125,"Red Lake County, Minnesota",18,0,Pass,30,0,Pass
+27127,"Redwood County, Minnesota",28,0,Pass,184,0,Pass
+27129,"Renville County, Minnesota",78,0,Pass,130,0,Pass
+27131,"Rice County, Minnesota",169,0,Pass,697,0,Pass
+27133,"Rock County, Minnesota",11,0,Pass,39,0,Pass
+27135,"Roseau County, Minnesota",91,0,Pass,157,0,Pass
+27137,"St. Louis County, Minnesota",719,0,Pass,1645,0,Pass
+27139,"Scott County, Minnesota",840,0,Pass,2033,0,Pass
+27141,"Sherburne County, Minnesota",232,0,Pass,1163,0,Pass
+27143,"Sibley County, Minnesota",44,0,Pass,106,0,Pass
+27145,"Stearns County, Minnesota",446,0,Pass,1284,0,Pass
+27147,"Steele County, Minnesota",78,0,Pass,307,0,Pass
+27149,"Stevens County, Minnesota",37,0,Pass,50,0,Pass
+27151,"Swift County, Minnesota",22,0,Pass,72,0,Pass
+27153,"Todd County, Minnesota",143,0,Pass,330,0,Pass
+27155,"Traverse County, Minnesota",12,0,Pass,49,0,Pass
+27157,"Wabasha County, Minnesota",98,0,Pass,224,0,Pass
+27159,"Wadena County, Minnesota",109,0,Pass,153,0,Pass
+27161,"Waseca County, Minnesota",92,0,Pass,270,0,Pass
+27163,"Washington County, Minnesota",509,0,Pass,2513,0,Pass
+27165,"Watonwan County, Minnesota",48,0,Pass,117,0,Pass
+27167,"Wilkin County, Minnesota",30,0,Pass,46,0,Pass
+27169,"Winona County, Minnesota",108,0,Pass,291,0,Pass
+27171,"Wright County, Minnesota",337,0,Pass,2407,0,Pass
+27173,"Yellow Medicine County, Minnesota",52,0,Pass,115,0,Pass
+28001,"Adams County, Mississippi",471,0,Pass,731,0,Pass
+28003,"Alcorn County, Mississippi",471,0,Pass,669,0,Pass
+28005,"Amite County, Mississippi",100,0,Pass,156,0,Pass
+28007,"Attala County, Mississippi",290,0,Pass,415,0,Pass
+28009,"Benton County, Mississippi",15,0,Pass,218,0,Pass
+28011,"Bolivar County, Mississippi",545,0,Pass,877,0,Pass
+28013,"Calhoun County, Mississippi",203,0,Pass,367,0,Pass
+28015,"Carroll County, Mississippi",69,0,Pass,214,0,Pass
+28017,"Chickasaw County, Mississippi",176,0,Pass,492,0,Pass
+28019,"Choctaw County, Mississippi",51,0,Pass,169,0,Pass
+28021,"Claiborne County, Mississippi",135,0,Pass,288,0,Pass
+28023,"Clarke County, Mississippi",238,0,Pass,309,0,Pass
+28025,"Clay County, Mississippi",108,0,Pass,369,0,Pass
+28027,"Coahoma County, Mississippi",284,0,Pass,610,0,Pass
+28029,"Copiah County, Mississippi",512,0,Pass,708,0,Pass
+28031,"Covington County, Mississippi",347,0,Pass,481,0,Pass
+28033,"DeSoto County, Mississippi",1806,0,Pass,5385,0,Pass
+28035,"Forrest County, Mississippi",806,0,Pass,1834,0,Pass
+28037,"Franklin County, Mississippi",128,0,Pass,264,0,Pass
+28039,"George County, Mississippi",562,0,Pass,790,0,Pass
+28041,"Greene County, Mississippi",172,0,Pass,246,0,Pass
+28043,"Grenada County, Mississippi",246,0,Pass,592,0,Pass
+28045,"Hancock County, Mississippi",331,0,Pass,1018,0,Pass
+28047,"Harrison County, Mississippi",2511,0,Pass,5032,0,Pass
+28049,"Hinds County, Mississippi",2307,0,Pass,4741,0,Pass
+28051,"Holmes County, Mississippi",436,0,Pass,663,0,Pass
+28053,"Humphreys County, Mississippi",104,0,Pass,191,0,Pass
+28055,"Issaquena County, Mississippi",12,0,Pass,17,0,Pass
+28057,"Itawamba County, Mississippi",145,0,Pass,275,0,Pass
+28059,"Jackson County, Mississippi",1748,0,Pass,4145,0,Pass
+28061,"Jasper County, Mississippi",236,0,Pass,579,0,Pass
+28063,"Jefferson County, Mississippi",245,0,Pass,403,0,Pass
+28065,"Jefferson Davis County, Mississippi",476,0,Pass,661,0,Pass
+28067,"Jones County, Mississippi",771,0,Pass,1566,0,Pass
+28069,"Kemper County, Mississippi",44,0,Pass,70,0,Pass
+28071,"Lafayette County, Mississippi",312,0,Pass,595,0,Pass
+28073,"Lamar County, Mississippi",910,0,Pass,1871,0,Pass
+28075,"Lauderdale County, Mississippi",639,0,Pass,1934,0,Pass
+28077,"Lawrence County, Mississippi",208,0,Pass,325,0,Pass
+28079,"Leake County, Mississippi",204,0,Pass,492,0,Pass
+28081,"Lee County, Mississippi",1149,0,Pass,1849,0,Pass
+28083,"Leflore County, Mississippi",264,0,Pass,572,0,Pass
+28085,"Lincoln County, Mississippi",633,0,Pass,1283,0,Pass
+28087,"Lowndes County, Mississippi",506,0,Pass,908,0,Pass
+28089,"Madison County, Mississippi",971,0,Pass,1821,0,Pass
+28091,"Marion County, Mississippi",280,0,Pass,387,0,Pass
+28093,"Marshall County, Mississippi",539,0,Pass,1340,0,Pass
+28095,"Monroe County, Mississippi",393,0,Pass,875,0,Pass
+28097,"Montgomery County, Mississippi",55,0,Pass,315,0,Pass
+28099,"Neshoba County, Mississippi",373,0,Pass,718,0,Pass
+28101,"Newton County, Mississippi",380,0,Pass,568,0,Pass
+28103,"Noxubee County, Mississippi",118,0,Pass,486,0,Pass
+28105,"Oktibbeha County, Mississippi",125,0,Pass,491,0,Pass
+28107,"Panola County, Mississippi",315,0,Pass,1314,0,Pass
+28109,"Pearl River County, Mississippi",960,0,Pass,1600,0,Pass
+28111,"Perry County, Mississippi",130,0,Pass,326,0,Pass
+28113,"Pike County, Mississippi",499,0,Pass,948,0,Pass
+28115,"Pontotoc County, Mississippi",569,0,Pass,1109,0,Pass
+28117,"Prentiss County, Mississippi",483,0,Pass,733,0,Pass
+28119,"Quitman County, Mississippi",159,0,Pass,216,0,Pass
+28121,"Rankin County, Mississippi",1794,0,Pass,4111,0,Pass
+28123,"Scott County, Mississippi",436,0,Pass,698,0,Pass
+28125,"Sharkey County, Mississippi",141,0,Pass,148,0,Pass
+28127,"Simpson County, Mississippi",471,0,Pass,831,0,Pass
+28129,"Smith County, Mississippi",466,0,Pass,706,0,Pass
+28131,"Stone County, Mississippi",354,0,Pass,535,0,Pass
+28133,"Sunflower County, Mississippi",295,0,Pass,635,0,Pass
+28135,"Tallahatchie County, Mississippi",156,0,Pass,357,0,Pass
+28137,"Tate County, Mississippi",291,0,Pass,804,0,Pass
+28139,"Tippah County, Mississippi",226,0,Pass,391,0,Pass
+28141,"Tishomingo County, Mississippi",83,0,Pass,192,0,Pass
+28143,"Tunica County, Mississippi",139,0,Pass,275,0,Pass
+28145,"Union County, Mississippi",330,0,Pass,773,0,Pass
+28147,"Walthall County, Mississippi",310,0,Pass,537,0,Pass
+28149,"Warren County, Mississippi",654,0,Pass,1151,0,Pass
+28151,"Washington County, Mississippi",966,0,Pass,1487,0,Pass
+28153,"Wayne County, Mississippi",221,0,Pass,551,0,Pass
+28155,"Webster County, Mississippi",42,0,Pass,248,0,Pass
+28157,"Wilkinson County, Mississippi",121,0,Pass,244,0,Pass
+28159,"Winston County, Mississippi",280,0,Pass,417,0,Pass
+28161,"Yalobusha County, Mississippi",143,0,Pass,326,0,Pass
+28163,"Yazoo County, Mississippi",494,0,Pass,752,0,Pass
+29001,"Adair County, Missouri",97,0,Pass,133,0,Pass
+29003,"Andrew County, Missouri",228,0,Pass,459,0,Pass
+29005,"Atchison County, Missouri",41,0,Pass,41,0,Pass
+29007,"Audrain County, Missouri",144,0,Pass,386,0,Pass
+29009,"Barry County, Missouri",186,0,Pass,573,0,Pass
+29011,"Barton County, Missouri",53,0,Pass,179,0,Pass
+29013,"Bates County, Missouri",97,0,Pass,269,0,Pass
+29015,"Benton County, Missouri",254,0,Pass,394,0,Pass
+29017,"Bollinger County, Missouri",65,0,Pass,113,0,Pass
+29019,"Boone County, Missouri",615,0,Pass,1740,0,Pass
+29021,"Buchanan County, Missouri",764,0,Pass,1518,0,Pass
+29023,"Butler County, Missouri",357,0,Pass,992,0,Pass
+29025,"Caldwell County, Missouri",53,0,Pass,90,0,Pass
+29027,"Callaway County, Missouri",305,0,Pass,816,0,Pass
+29029,"Camden County, Missouri",465,0,Pass,822,0,Pass
+29031,"Cape Girardeau County, Missouri",561,0,Pass,1106,0,Pass
+29033,"Carroll County, Missouri",80,0,Pass,167,0,Pass
+29035,"Carter County, Missouri",84,0,Pass,122,0,Pass
+29037,"Cass County, Missouri",978,0,Pass,2185,0,Pass
+29039,"Cedar County, Missouri",165,0,Pass,383,0,Pass
+29041,"Chariton County, Missouri",20,0,Pass,38,0,Pass
+29043,"Christian County, Missouri",1765,0,Pass,2817,0,Pass
+29045,"Clark County, Missouri",34,0,Pass,61,0,Pass
+29047,"Clay County, Missouri",1489,0,Pass,4172,0,Pass
+29049,"Clinton County, Missouri",207,0,Pass,380,0,Pass
+29051,"Cole County, Missouri",336,0,Pass,844,0,Pass
+29053,"Cooper County, Missouri",123,0,Pass,280,0,Pass
+29055,"Crawford County, Missouri",312,0,Pass,637,0,Pass
+29057,"Dade County, Missouri",56,0,Pass,124,0,Pass
+29059,"Dallas County, Missouri",46,0,Pass,185,0,Pass
+29061,"Daviess County, Missouri",64,0,Pass,159,0,Pass
+29063,"DeKalb County, Missouri",46,0,Pass,125,0,Pass
+29065,"Dent County, Missouri",133,0,Pass,340,0,Pass
+29067,"Douglas County, Missouri",136,0,Pass,297,0,Pass
+29069,"Dunklin County, Missouri",532,0,Pass,756,0,Pass
+29071,"Franklin County, Missouri",931,0,Pass,2118,0,Pass
+29073,"Gasconade County, Missouri",79,0,Pass,254,0,Pass
+29075,"Gentry County, Missouri",27,0,Pass,82,0,Pass
+29077,"Greene County, Missouri",1345,0,Pass,3417,0,Pass
+29079,"Grundy County, Missouri",48,0,Pass,98,0,Pass
+29081,"Harrison County, Missouri",2,0,Pass,20,0,Pass
+29083,"Henry County, Missouri",146,0,Pass,464,0,Pass
+29085,"Hickory County, Missouri",85,0,Pass,132,0,Pass
+29087,"Holt County, Missouri",59,0,Pass,170,0,Pass
+29089,"Howard County, Missouri",23,0,Pass,63,0,Pass
+29091,"Howell County, Missouri",513,0,Pass,774,0,Pass
+29093,"Iron County, Missouri",160,0,Pass,288,0,Pass
+29095,"Jackson County, Missouri",4648,0,Pass,11892,0,Pass
+29097,"Jasper County, Missouri",708,0,Pass,2315,0,Pass
+29099,"Jefferson County, Missouri",1517,0,Pass,4555,0,Pass
+29101,"Johnson County, Missouri",245,0,Pass,981,0,Pass
+29103,"Knox County, Missouri",36,0,Pass,44,0,Pass
+29105,"Laclede County, Missouri",374,0,Pass,869,0,Pass
+29107,"Lafayette County, Missouri",267,0,Pass,640,0,Pass
+29109,"Lawrence County, Missouri",309,0,Pass,709,0,Pass
+29111,"Lewis County, Missouri",51,0,Pass,93,0,Pass
+29113,"Lincoln County, Missouri",404,0,Pass,1163,0,Pass
+29115,"Linn County, Missouri",115,0,Pass,165,0,Pass
+29117,"Livingston County, Missouri",87,0,Pass,215,0,Pass
+29119,"McDonald County, Missouri",437,0,Pass,809,0,Pass
+29121,"Macon County, Missouri",97,0,Pass,214,0,Pass
+29123,"Madison County, Missouri",216,0,Pass,332,0,Pass
+29125,"Maries County, Missouri",115,0,Pass,142,0,Pass
+29127,"Marion County, Missouri",224,0,Pass,443,0,Pass
+29129,"Mercer County, Missouri",8,0,Pass,31,0,Pass
+29131,"Miller County, Missouri",181,0,Pass,378,0,Pass
+29133,"Mississippi County, Missouri",168,0,Pass,324,0,Pass
+29135,"Moniteau County, Missouri",121,0,Pass,175,0,Pass
+29137,"Monroe County, Missouri",67,0,Pass,144,0,Pass
+29139,"Montgomery County, Missouri",126,0,Pass,251,0,Pass
+29141,"Morgan County, Missouri",187,0,Pass,301,0,Pass
+29143,"New Madrid County, Missouri",188,0,Pass,266,0,Pass
+29145,"Newton County, Missouri",390,0,Pass,1173,0,Pass
+29147,"Nodaway County, Missouri",45,0,Pass,151,0,Pass
+29149,"Oregon County, Missouri",87,0,Pass,138,0,Pass
+29151,"Osage County, Missouri",74,0,Pass,235,0,Pass
+29153,"Ozark County, Missouri",95,0,Pass,153,0,Pass
+29155,"Pemiscot County, Missouri",235,0,Pass,426,0,Pass
+29157,"Perry County, Missouri",81,0,Pass,208,0,Pass
+29159,"Pettis County, Missouri",320,0,Pass,831,0,Pass
+29161,"Phelps County, Missouri",325,0,Pass,792,0,Pass
+29163,"Pike County, Missouri",126,0,Pass,262,0,Pass
+29165,"Platte County, Missouri",523,0,Pass,1617,0,Pass
+29167,"Polk County, Missouri",257,0,Pass,532,0,Pass
+29169,"Pulaski County, Missouri",322,0,Pass,550,0,Pass
+29171,"Putnam County, Missouri",18,0,Pass,56,0,Pass
+29173,"Ralls County, Missouri",92,0,Pass,154,0,Pass
+29175,"Randolph County, Missouri",194,0,Pass,358,0,Pass
+29177,"Ray County, Missouri",163,0,Pass,443,0,Pass
+29179,"Reynolds County, Missouri",90,0,Pass,268,0,Pass
+29181,"Ripley County, Missouri",132,0,Pass,360,0,Pass
+29183,"St. Charles County, Missouri",2245,0,Pass,6176,0,Pass
+29185,"St. Clair County, Missouri",83,0,Pass,257,0,Pass
+29186,"Ste. Genevieve County, Missouri",338,0,Pass,508,0,Pass
+29187,"St. Francois County, Missouri",663,0,Pass,1850,0,Pass
+29189,"St. Louis County, Missouri",4579,0,Pass,13703,0,Pass
+29195,"Saline County, Missouri",230,0,Pass,551,0,Pass
+29197,"Schuyler County, Missouri",7,0,Pass,12,0,Pass
+29199,"Scotland County, Missouri",21,0,Pass,65,0,Pass
+29201,"Scott County, Missouri",611,0,Pass,1200,0,Pass
+29203,"Shannon County, Missouri",51,0,Pass,128,0,Pass
+29205,"Shelby County, Missouri",33,0,Pass,66,0,Pass
+29207,"Stoddard County, Missouri",453,0,Pass,661,0,Pass
+29209,"Stone County, Missouri",146,0,Pass,439,0,Pass
+29211,"Sullivan County, Missouri",31,0,Pass,143,0,Pass
+29213,"Taney County, Missouri",344,0,Pass,834,0,Pass
+29215,"Texas County, Missouri",212,0,Pass,340,0,Pass
+29217,"Vernon County, Missouri",113,0,Pass,374,0,Pass
+29219,"Warren County, Missouri",180,0,Pass,637,0,Pass
+29221,"Washington County, Missouri",166,0,Pass,485,0,Pass
+29223,"Wayne County, Missouri",126,0,Pass,257,0,Pass
+29225,"Webster County, Missouri",333,0,Pass,598,0,Pass
+29227,"Worth County, Missouri",30,0,Pass,30,0,Pass
+29229,"Wright County, Missouri",122,0,Pass,226,0,Pass
+29510,"St. Louis city, Missouri",2354,0,Pass,4428,0,Pass
+30001,"Beaverhead County, Montana",4,0,Pass,118,0,Pass
+30003,"Big Horn County, Montana",570,0,Pass,830,0,Pass
+30005,"Blaine County, Montana",113,0,Pass,166,0,Pass
+30007,"Broadwater County, Montana",66,0,Pass,135,0,Pass
+30009,"Carbon County, Montana",108,0,Pass,235,0,Pass
+30011,"Carter County, Montana",0,0,Pass,0,0,Pass
+30013,"Cascade County, Montana",624,0,Pass,1346,0,Pass
+30015,"Chouteau County, Montana",106,0,Pass,226,0,Pass
+30017,"Custer County, Montana",100,0,Pass,183,0,Pass
+30019,"Daniels County, Montana",0,0,Pass,0,0,Pass
+30021,"Dawson County, Montana",28,0,Pass,46,0,Pass
+30023,"Deer Lodge County, Montana",53,0,Pass,91,0,Pass
+30025,"Fallon County, Montana",0,0,Pass,14,0,Pass
+30027,"Fergus County, Montana",18,0,Pass,22,0,Pass
+30029,"Flathead County, Montana",517,0,Pass,1637,0,Pass
+30031,"Gallatin County, Montana",269,0,Pass,832,0,Pass
+30033,"Garfield County, Montana",0,0,Pass,1,0,Pass
+30035,"Glacier County, Montana",382,0,Pass,550,0,Pass
+30037,"Golden Valley County, Montana",0,0,Pass,3,0,Pass
+30039,"Granite County, Montana",12,0,Pass,12,0,Pass
+30041,"Hill County, Montana",234,0,Pass,300,0,Pass
+30043,"Jefferson County, Montana",96,0,Pass,299,0,Pass
+30045,"Judith Basin County, Montana",2,0,Pass,3,0,Pass
+30047,"Lake County, Montana",317,0,Pass,554,0,Pass
+30049,"Lewis and Clark County, Montana",324,0,Pass,683,0,Pass
+30051,"Liberty County, Montana",45,0,Pass,69,0,Pass
+30053,"Lincoln County, Montana",55,0,Pass,186,0,Pass
+30055,"McCone County, Montana",4,0,Pass,23,0,Pass
+30057,"Madison County, Montana",17,0,Pass,74,0,Pass
+30059,"Meagher County, Montana",0,0,Pass,0,0,Pass
+30061,"Mineral County, Montana",32,0,Pass,68,0,Pass
+30063,"Missoula County, Montana",476,0,Pass,1227,0,Pass
+30065,"Musselshell County, Montana",144,0,Pass,161,0,Pass
+30067,"Park County, Montana",175,0,Pass,278,0,Pass
+30069,"Petroleum County, Montana",0,0,Pass,3,0,Pass
+30071,"Phillips County, Montana",12,0,Pass,27,0,Pass
+30073,"Pondera County, Montana",62,0,Pass,113,0,Pass
+30075,"Powder River County, Montana",0,0,Pass,12,0,Pass
+30077,"Powell County, Montana",18,0,Pass,18,0,Pass
+30079,"Prairie County, Montana",0,0,Pass,0,0,Pass
+30081,"Ravalli County, Montana",195,0,Pass,837,0,Pass
+30083,"Richland County, Montana",93,0,Pass,242,0,Pass
+30085,"Roosevelt County, Montana",257,0,Pass,290,0,Pass
+30087,"Rosebud County, Montana",202,0,Pass,253,0,Pass
+30089,"Sanders County, Montana",65,0,Pass,251,0,Pass
+30091,"Sheridan County, Montana",27,0,Pass,29,0,Pass
+30093,"Silver Bow County, Montana",103,0,Pass,410,0,Pass
+30095,"Stillwater County, Montana",6,0,Pass,49,0,Pass
+30097,"Sweet Grass County, Montana",33,0,Pass,55,0,Pass
+30099,"Teton County, Montana",119,0,Pass,122,0,Pass
+30101,"Toole County, Montana",0,0,Pass,19,0,Pass
+30103,"Treasure County, Montana",2,0,Pass,2,0,Pass
+30105,"Valley County, Montana",114,0,Pass,116,0,Pass
+30107,"Wheatland County, Montana",44,0,Pass,44,0,Pass
+30109,"Wibaux County, Montana",20,0,Pass,21,0,Pass
+30111,"Yellowstone County, Montana",1096,0,Pass,2269,0,Pass
+31001,"Adams County, Nebraska",297,0,Pass,437,0,Pass
+31003,"Antelope County, Nebraska",42,0,Pass,59,0,Pass
+31005,"Arthur County, Nebraska",0,0,Pass,0,0,Pass
+31007,"Banner County, Nebraska",12,0,Pass,14,0,Pass
+31009,"Blaine County, Nebraska",0,0,Pass,0,0,Pass
+31011,"Boone County, Nebraska",44,0,Pass,50,0,Pass
+31013,"Box Butte County, Nebraska",108,0,Pass,161,0,Pass
+31015,"Boyd County, Nebraska",6,0,Pass,9,0,Pass
+31017,"Brown County, Nebraska",6,0,Pass,15,0,Pass
+31019,"Buffalo County, Nebraska",250,0,Pass,457,0,Pass
+31021,"Burt County, Nebraska",23,0,Pass,72,0,Pass
+31023,"Butler County, Nebraska",23,0,Pass,44,0,Pass
+31025,"Cass County, Nebraska",109,0,Pass,195,0,Pass
+31027,"Cedar County, Nebraska",28,0,Pass,51,0,Pass
+31029,"Chase County, Nebraska",33,0,Pass,64,0,Pass
+31031,"Cherry County, Nebraska",0,0,Pass,18,0,Pass
+31033,"Cheyenne County, Nebraska",2,0,Pass,54,0,Pass
+31035,"Clay County, Nebraska",35,0,Pass,110,0,Pass
+31037,"Colfax County, Nebraska",11,0,Pass,166,0,Pass
+31039,"Cuming County, Nebraska",2,0,Pass,51,0,Pass
+31041,"Custer County, Nebraska",58,0,Pass,77,0,Pass
+31043,"Dakota County, Nebraska",29,0,Pass,566,0,Pass
+31045,"Dawes County, Nebraska",24,0,Pass,91,0,Pass
+31047,"Dawson County, Nebraska",51,0,Pass,258,0,Pass
+31049,"Deuel County, Nebraska",6,0,Pass,18,0,Pass
+31051,"Dixon County, Nebraska",6,0,Pass,57,0,Pass
+31053,"Dodge County, Nebraska",96,0,Pass,294,0,Pass
+31055,"Douglas County, Nebraska",2515,0,Pass,8870,0,Pass
+31057,"Dundy County, Nebraska",7,0,Pass,7,0,Pass
+31059,"Fillmore County, Nebraska",16,0,Pass,34,0,Pass
+31061,"Franklin County, Nebraska",4,0,Pass,22,0,Pass
+31063,"Frontier County, Nebraska",13,0,Pass,21,0,Pass
+31065,"Furnas County, Nebraska",6,0,Pass,34,0,Pass
+31067,"Gage County, Nebraska",12,0,Pass,77,0,Pass
+31069,"Garden County, Nebraska",0,0,Pass,13,0,Pass
+31071,"Garfield County, Nebraska",0,0,Pass,15,0,Pass
+31073,"Gosper County, Nebraska",6,0,Pass,30,0,Pass
+31075,"Grant County, Nebraska",0,0,Pass,7,0,Pass
+31077,"Greeley County, Nebraska",2,0,Pass,4,0,Pass
+31079,"Hall County, Nebraska",241,0,Pass,975,0,Pass
+31081,"Hamilton County, Nebraska",33,0,Pass,96,0,Pass
+31083,"Harlan County, Nebraska",7,0,Pass,12,0,Pass
+31085,"Hayes County, Nebraska",0,0,Pass,0,0,Pass
+31087,"Hitchcock County, Nebraska",9,0,Pass,30,0,Pass
+31089,"Holt County, Nebraska",35,0,Pass,72,0,Pass
+31091,"Hooker County, Nebraska",0,0,Pass,0,0,Pass
+31093,"Howard County, Nebraska",34,0,Pass,48,0,Pass
+31095,"Jefferson County, Nebraska",1,0,Pass,54,0,Pass
+31097,"Johnson County, Nebraska",9,0,Pass,77,0,Pass
+31099,"Kearney County, Nebraska",74,0,Pass,196,0,Pass
+31101,"Keith County, Nebraska",13,0,Pass,51,0,Pass
+31103,"Keya Paha County, Nebraska",0,0,Pass,22,0,Pass
+31105,"Kimball County, Nebraska",46,0,Pass,51,0,Pass
+31107,"Knox County, Nebraska",31,0,Pass,77,0,Pass
+31109,"Lancaster County, Nebraska",1158,0,Pass,3087,0,Pass
+31111,"Lincoln County, Nebraska",243,0,Pass,442,0,Pass
+31113,"Logan County, Nebraska",0,0,Pass,0,0,Pass
+31115,"Loup County, Nebraska",0,0,Pass,0,0,Pass
+31117,"McPherson County, Nebraska",4,0,Pass,7,0,Pass
+31119,"Madison County, Nebraska",67,0,Pass,313,0,Pass
+31121,"Merrick County, Nebraska",33,0,Pass,86,0,Pass
+31123,"Morrill County, Nebraska",48,0,Pass,124,0,Pass
+31125,"Nance County, Nebraska",8,0,Pass,8,0,Pass
+31127,"Nemaha County, Nebraska",16,0,Pass,59,0,Pass
+31129,"Nuckolls County, Nebraska",14,0,Pass,27,0,Pass
+31131,"Otoe County, Nebraska",157,0,Pass,382,0,Pass
+31133,"Pawnee County, Nebraska",36,0,Pass,74,0,Pass
+31135,"Perkins County, Nebraska",0,0,Pass,16,0,Pass
+31137,"Phelps County, Nebraska",37,0,Pass,54,0,Pass
+31139,"Pierce County, Nebraska",15,0,Pass,40,0,Pass
+31141,"Platte County, Nebraska",207,0,Pass,488,0,Pass
+31143,"Polk County, Nebraska",21,0,Pass,68,0,Pass
+31145,"Red Willow County, Nebraska",14,0,Pass,71,0,Pass
+31147,"Richardson County, Nebraska",28,0,Pass,36,0,Pass
+31149,"Rock County, Nebraska",0,0,Pass,1,0,Pass
+31151,"Saline County, Nebraska",89,0,Pass,100,0,Pass
+31153,"Sarpy County, Nebraska",545,0,Pass,2672,0,Pass
+31155,"Saunders County, Nebraska",82,0,Pass,306,0,Pass
+31157,"Scotts Bluff County, Nebraska",137,0,Pass,346,0,Pass
+31159,"Seward County, Nebraska",48,0,Pass,92,0,Pass
+31161,"Sheridan County, Nebraska",45,0,Pass,101,0,Pass
+31163,"Sherman County, Nebraska",13,0,Pass,17,0,Pass
+31165,"Sioux County, Nebraska",0,0,Pass,10,0,Pass
+31167,"Stanton County, Nebraska",14,0,Pass,51,0,Pass
+31169,"Thayer County, Nebraska",26,0,Pass,46,0,Pass
+31171,"Thomas County, Nebraska",0,0,Pass,0,0,Pass
+31173,"Thurston County, Nebraska",200,0,Pass,299,0,Pass
+31175,"Valley County, Nebraska",14,0,Pass,19,0,Pass
+31177,"Washington County, Nebraska",58,0,Pass,190,0,Pass
+31179,"Wayne County, Nebraska",8,0,Pass,41,0,Pass
+31181,"Webster County, Nebraska",26,0,Pass,39,0,Pass
+31183,"Wheeler County, Nebraska",0,0,Pass,0,0,Pass
+31185,"York County, Nebraska",20,0,Pass,58,0,Pass
+32001,"Churchill County, Nevada",223,0,Pass,672,0,Pass
+32003,"Clark County, Nevada",14999,0,Pass,60223,0,Pass
+32005,"Douglas County, Nevada",498,0,Pass,869,0,Pass
+32007,"Elko County, Nevada",492,0,Pass,1389,0,Pass
+32009,"Esmeralda County, Nevada",0,0,Pass,0,0,Pass
+32011,"Eureka County, Nevada",0,0,Pass,0,0,Pass
+32013,"Humboldt County, Nevada",121,0,Pass,289,0,Pass
+32015,"Lander County, Nevada",34,0,Pass,63,0,Pass
+32017,"Lincoln County, Nevada",77,0,Pass,107,0,Pass
+32019,"Lyon County, Nevada",553,0,Pass,1523,0,Pass
+32021,"Mineral County, Nevada",145,0,Pass,159,0,Pass
+32023,"Nye County, Nevada",471,0,Pass,1184,0,Pass
+32027,"Pershing County, Nevada",12,0,Pass,40,0,Pass
+32029,"Storey County, Nevada",21,0,Pass,42,0,Pass
+32031,"Washoe County, Nevada",3093,0,Pass,9978,0,Pass
+32033,"White Pine County, Nevada",6,0,Pass,28,0,Pass
+32510,"Carson City, Nevada",213,0,Pass,956,0,Pass
+33001,"Belknap County, New Hampshire",353,0,Pass,1348,0,Pass
+33003,"Carroll County, New Hampshire",164,0,Pass,660,0,Pass
+33005,"Cheshire County, New Hampshire",218,0,Pass,861,0,Pass
+33007,"Coos County, New Hampshire",237,0,Pass,397,0,Pass
+33009,"Grafton County, New Hampshire",372,0,Pass,1115,0,Pass
+33011,"Hillsborough County, New Hampshire",1878,0,Pass,7162,0,Pass
+33013,"Merrimack County, New Hampshire",483,0,Pass,2545,0,Pass
+33015,"Rockingham County, New Hampshire",1250,0,Pass,4908,0,Pass
+33017,"Strafford County, New Hampshire",487,0,Pass,1704,0,Pass
+33019,"Sullivan County, New Hampshire",205,0,Pass,757,0,Pass
+34001,"Atlantic County, New Jersey",1128,0,Pass,5463,0,Pass
+34003,"Bergen County, New Jersey",3184,0,Pass,17302,0,Pass
+34005,"Burlington County, New Jersey",2687,0,Pass,9314,0,Pass
+34007,"Camden County, New Jersey",4741,0,Pass,12420,0,Pass
+34009,"Cape May County, New Jersey",686,0,Pass,2033,0,Pass
+34011,"Cumberland County, New Jersey",972,0,Pass,3695,0,Pass
+34013,"Essex County, New Jersey",5162,0,Pass,17931,0,Pass
+34015,"Gloucester County, New Jersey",1919,0,Pass,6982,0,Pass
+34017,"Hudson County, New Jersey",2721,0,Pass,15399,0,Pass
+34019,"Hunterdon County, New Jersey",187,0,Pass,1691,0,Pass
+34021,"Mercer County, New Jersey",1301,0,Pass,6077,0,Pass
+34023,"Middlesex County, New Jersey",3165,0,Pass,21795,0,Pass
+34025,"Monmouth County, New Jersey",1863,0,Pass,7815,0,Pass
+34027,"Morris County, New Jersey",1160,0,Pass,6994,0,Pass
+34029,"Ocean County, New Jersey",1837,0,Pass,7983,0,Pass
+34031,"Passaic County, New Jersey",2822,0,Pass,14371,0,Pass
+34033,"Salem County, New Jersey",603,0,Pass,1604,0,Pass
+34035,"Somerset County, New Jersey",854,0,Pass,6611,0,Pass
+34037,"Sussex County, New Jersey",749,0,Pass,2569,0,Pass
+34039,"Union County, New Jersey",2271,0,Pass,14136,0,Pass
+34041,"Warren County, New Jersey",527,0,Pass,1287,0,Pass
+35001,"Bernalillo County, New Mexico",5182,0,Pass,13949,0,Pass
+35003,"Catron County, New Mexico",0,0,Pass,26,0,Pass
+35005,"Chaves County, New Mexico",406,0,Pass,1271,0,Pass
+35006,"Cibola County, New Mexico",202,0,Pass,981,0,Pass
+35007,"Colfax County, New Mexico",128,0,Pass,133,0,Pass
+35009,"Curry County, New Mexico",885,0,Pass,1285,0,Pass
+35011,"De Baca County, New Mexico",0,0,Pass,0,0,Pass
+35013,"Doña Ana County, New Mexico",1712,0,Pass,4082,0,Pass
+35015,"Eddy County, New Mexico",528,0,Pass,1128,0,Pass
+35017,"Grant County, New Mexico",118,0,Pass,342,0,Pass
+35019,"Guadalupe County, New Mexico",49,0,Pass,87,0,Pass
+35021,"Harding County, New Mexico",21,0,Pass,21,0,Pass
+35023,"Hidalgo County, New Mexico",37,0,Pass,99,0,Pass
+35025,"Lea County, New Mexico",659,0,Pass,1525,0,Pass
+35027,"Lincoln County, New Mexico",174,0,Pass,352,0,Pass
+35028,"Los Alamos County, New Mexico",107,0,Pass,338,0,Pass
+35029,"Luna County, New Mexico",144,0,Pass,314,0,Pass
+35031,"McKinley County, New Mexico",1426,0,Pass,3753,0,Pass
+35033,"Mora County, New Mexico",0,0,Pass,2,0,Pass
+35035,"Otero County, New Mexico",775,0,Pass,1624,0,Pass
+35037,"Quay County, New Mexico",129,0,Pass,142,0,Pass
+35039,"Rio Arriba County, New Mexico",481,0,Pass,1411,0,Pass
+35041,"Roosevelt County, New Mexico",122,0,Pass,267,0,Pass
+35043,"Sandoval County, New Mexico",1633,0,Pass,4052,0,Pass
+35045,"San Juan County, New Mexico",1665,0,Pass,3835,0,Pass
+35047,"San Miguel County, New Mexico",465,0,Pass,697,0,Pass
+35049,"Santa Fe County, New Mexico",1480,0,Pass,2921,0,Pass
+35051,"Sierra County, New Mexico",45,0,Pass,101,0,Pass
+35053,"Socorro County, New Mexico",412,0,Pass,462,0,Pass
+35055,"Taos County, New Mexico",559,0,Pass,735,0,Pass
+35057,"Torrance County, New Mexico",155,0,Pass,371,0,Pass
+35059,"Union County, New Mexico",59,0,Pass,85,0,Pass
+35061,"Valencia County, New Mexico",892,0,Pass,2182,0,Pass
+36001,"Albany County, New York",1068,0,Pass,3499,0,Pass
+36003,"Allegany County, New York",266,0,Pass,680,0,Pass
+36005,"Bronx County, New York",11461,0,Pass,38676,0,Pass
+36007,"Broome County, New York",1365,0,Pass,3518,0,Pass
+36009,"Cattaraugus County, New York",1074,0,Pass,1692,0,Pass
+36011,"Cayuga County, New York",494,0,Pass,1202,0,Pass
+36013,"Chautauqua County, New York",1199,0,Pass,2027,0,Pass
+36015,"Chemung County, New York",654,0,Pass,1292,0,Pass
+36017,"Chenango County, New York",459,0,Pass,1029,0,Pass
+36019,"Clinton County, New York",722,0,Pass,1122,0,Pass
+36021,"Columbia County, New York",544,0,Pass,1043,0,Pass
+36023,"Cortland County, New York",340,0,Pass,684,0,Pass
+36025,"Delaware County, New York",466,0,Pass,995,0,Pass
+36027,"Dutchess County, New York",1216,0,Pass,3826,0,Pass
+36029,"Erie County, New York",3841,0,Pass,11125,0,Pass
+36031,"Essex County, New York",200,0,Pass,627,0,Pass
+36033,"Franklin County, New York",642,0,Pass,901,0,Pass
+36035,"Fulton County, New York",394,0,Pass,820,0,Pass
+36037,"Genesee County, New York",284,0,Pass,688,0,Pass
+36039,"Greene County, New York",269,0,Pass,849,0,Pass
+36041,"Hamilton County, New York",16,0,Pass,50,0,Pass
+36043,"Herkimer County, New York",228,0,Pass,610,0,Pass
+36045,"Jefferson County, New York",474,0,Pass,1140,0,Pass
+36047,"Kings County, New York",14256,0,Pass,61569,0,Pass
+36049,"Lewis County, New York",192,0,Pass,426,0,Pass
+36051,"Livingston County, New York",205,0,Pass,584,0,Pass
+36053,"Madison County, New York",311,0,Pass,934,0,Pass
+36055,"Monroe County, New York",3627,0,Pass,9491,0,Pass
+36057,"Montgomery County, New York",307,0,Pass,602,0,Pass
+36059,"Nassau County, New York",5134,0,Pass,35407,0,Pass
+36061,"New York County, New York",4643,0,Pass,19165,0,Pass
+36063,"Niagara County, New York",1418,0,Pass,2901,0,Pass
+36065,"Oneida County, New York",1378,0,Pass,3497,0,Pass
+36067,"Onondaga County, New York",2802,0,Pass,6497,0,Pass
+36069,"Ontario County, New York",267,0,Pass,1215,0,Pass
+36071,"Orange County, New York",2670,0,Pass,8449,0,Pass
+36073,"Orleans County, New York",215,0,Pass,726,0,Pass
+36075,"Oswego County, New York",1048,0,Pass,2336,0,Pass
+36077,"Otsego County, New York",195,0,Pass,530,0,Pass
+36079,"Putnam County, New York",193,0,Pass,1967,0,Pass
+36081,"Queens County, New York",12013,0,Pass,67230,0,Pass
+36083,"Rensselaer County, New York",679,0,Pass,1849,0,Pass
+36085,"Richmond County, New York",2345,0,Pass,14479,0,Pass
+36087,"Rockland County, New York",1031,0,Pass,5988,0,Pass
+36089,"St. Lawrence County, New York",570,0,Pass,1442,0,Pass
+36091,"Saratoga County, New York",894,0,Pass,3429,0,Pass
+36093,"Schenectady County, New York",838,0,Pass,2048,0,Pass
+36095,"Schoharie County, New York",129,0,Pass,303,0,Pass
+36097,"Schuyler County, New York",102,0,Pass,275,0,Pass
+36099,"Seneca County, New York",159,0,Pass,443,0,Pass
+36101,"Steuben County, New York",578,0,Pass,1360,0,Pass
+36103,"Suffolk County, New York",5711,0,Pass,32448,0,Pass
+36105,"Sullivan County, New York",341,0,Pass,1469,0,Pass
+36107,"Tioga County, New York",272,0,Pass,676,0,Pass
+36109,"Tompkins County, New York",107,0,Pass,539,0,Pass
+36111,"Ulster County, New York",732,0,Pass,2584,0,Pass
+36113,"Warren County, New York",346,0,Pass,756,0,Pass
+36115,"Washington County, New York",641,0,Pass,1198,0,Pass
+36117,"Wayne County, New York",359,0,Pass,806,0,Pass
+36119,"Westchester County, New York",3383,0,Pass,16972,0,Pass
+36121,"Wyoming County, New York",72,0,Pass,510,0,Pass
+36123,"Yates County, New York",127,0,Pass,365,0,Pass
+37001,"Alamance County, North Carolina",1172,0,Pass,3262,0,Pass
+37003,"Alexander County, North Carolina",175,0,Pass,463,0,Pass
+37005,"Alleghany County, North Carolina",130,0,Pass,210,0,Pass
+37007,"Anson County, North Carolina",278,0,Pass,726,0,Pass
+37009,"Ashe County, North Carolina",331,0,Pass,510,0,Pass
+37011,"Avery County, North Carolina",77,0,Pass,374,0,Pass
+37013,"Beaufort County, North Carolina",563,0,Pass,1033,0,Pass
+37015,"Bertie County, North Carolina",168,0,Pass,490,0,Pass
+37017,"Bladen County, North Carolina",242,0,Pass,556,0,Pass
+37019,"Brunswick County, North Carolina",1541,0,Pass,2740,0,Pass
+37021,"Buncombe County, North Carolina",1393,0,Pass,3871,0,Pass
+37023,"Burke County, North Carolina",1281,0,Pass,2080,0,Pass
+37025,"Cabarrus County, North Carolina",2022,0,Pass,5575,0,Pass
+37027,"Caldwell County, North Carolina",851,0,Pass,1781,0,Pass
+37029,"Camden County, North Carolina",42,0,Pass,180,0,Pass
+37031,"Carteret County, North Carolina",503,0,Pass,920,0,Pass
+37033,"Caswell County, North Carolina",68,0,Pass,252,0,Pass
+37035,"Catawba County, North Carolina",1342,0,Pass,3218,0,Pass
+37037,"Chatham County, North Carolina",279,0,Pass,875,0,Pass
+37039,"Cherokee County, North Carolina",385,0,Pass,774,0,Pass
+37041,"Chowan County, North Carolina",181,0,Pass,251,0,Pass
+37043,"Clay County, North Carolina",34,0,Pass,68,0,Pass
+37045,"Cleveland County, North Carolina",1434,0,Pass,3008,0,Pass
+37047,"Columbus County, North Carolina",532,0,Pass,937,0,Pass
+37049,"Craven County, North Carolina",957,0,Pass,1785,0,Pass
+37051,"Cumberland County, North Carolina",3289,0,Pass,7843,0,Pass
+37053,"Currituck County, North Carolina",303,0,Pass,686,0,Pass
+37055,"Dare County, North Carolina",96,0,Pass,404,0,Pass
+37057,"Davidson County, North Carolina",1644,0,Pass,4316,0,Pass
+37059,"Davie County, North Carolina",375,0,Pass,1110,0,Pass
+37061,"Duplin County, North Carolina",556,0,Pass,1155,0,Pass
+37063,"Durham County, North Carolina",1871,0,Pass,5474,0,Pass
+37065,"Edgecombe County, North Carolina",440,0,Pass,1426,0,Pass
+37067,"Forsyth County, North Carolina",2968,0,Pass,6659,0,Pass
+37069,"Franklin County, North Carolina",449,0,Pass,1109,0,Pass
+37071,"Gaston County, North Carolina",1978,0,Pass,5163,0,Pass
+37073,"Gates County, North Carolina",179,0,Pass,277,0,Pass
+37075,"Graham County, North Carolina",71,0,Pass,267,0,Pass
+37077,"Granville County, North Carolina",284,0,Pass,1021,0,Pass
+37079,"Greene County, North Carolina",131,0,Pass,289,0,Pass
+37081,"Guilford County, North Carolina",3239,0,Pass,8734,0,Pass
+37083,"Halifax County, North Carolina",447,0,Pass,1207,0,Pass
+37085,"Harnett County, North Carolina",815,0,Pass,2568,0,Pass
+37087,"Haywood County, North Carolina",714,0,Pass,1519,0,Pass
+37089,"Henderson County, North Carolina",553,0,Pass,1759,0,Pass
+37091,"Hertford County, North Carolina",154,0,Pass,383,0,Pass
+37093,"Hoke County, North Carolina",591,0,Pass,1585,0,Pass
+37095,"Hyde County, North Carolina",26,0,Pass,33,0,Pass
+37097,"Iredell County, North Carolina",1547,0,Pass,4128,0,Pass
+37099,"Jackson County, North Carolina",665,0,Pass,819,0,Pass
+37101,"Johnston County, North Carolina",2026,0,Pass,5435,0,Pass
+37103,"Jones County, North Carolina",172,0,Pass,302,0,Pass
+37105,"Lee County, North Carolina",325,0,Pass,1176,0,Pass
+37107,"Lenoir County, North Carolina",590,0,Pass,1113,0,Pass
+37109,"Lincoln County, North Carolina",671,0,Pass,1977,0,Pass
+37111,"McDowell County, North Carolina",662,0,Pass,1449,0,Pass
+37113,"Macon County, North Carolina",360,0,Pass,637,0,Pass
+37115,"Madison County, North Carolina",181,0,Pass,310,0,Pass
+37117,"Martin County, North Carolina",195,0,Pass,397,0,Pass
+37119,"Mecklenburg County, North Carolina",5620,0,Pass,19253,0,Pass
+37121,"Mitchell County, North Carolina",57,0,Pass,152,0,Pass
+37123,"Montgomery County, North Carolina",315,0,Pass,633,0,Pass
+37125,"Moore County, North Carolina",554,0,Pass,1127,0,Pass
+37127,"Nash County, North Carolina",589,0,Pass,2249,0,Pass
+37129,"New Hanover County, North Carolina",1011,0,Pass,2073,0,Pass
+37131,"Northampton County, North Carolina",179,0,Pass,494,0,Pass
+37133,"Onslow County, North Carolina",1389,0,Pass,3047,0,Pass
+37135,"Orange County, North Carolina",718,0,Pass,1782,0,Pass
+37137,"Pamlico County, North Carolina",201,0,Pass,392,0,Pass
+37139,"Pasquotank County, North Carolina",180,0,Pass,559,0,Pass
+37141,"Pender County, North Carolina",371,0,Pass,1117,0,Pass
+37143,"Perquimans County, North Carolina",170,0,Pass,305,0,Pass
+37145,"Person County, North Carolina",289,0,Pass,906,0,Pass
+37147,"Pitt County, North Carolina",1088,0,Pass,2782,0,Pass
+37149,"Polk County, North Carolina",141,0,Pass,317,0,Pass
+37151,"Randolph County, North Carolina",1157,0,Pass,3388,0,Pass
+37153,"Richmond County, North Carolina",770,0,Pass,1097,0,Pass
+37155,"Robeson County, North Carolina",1781,0,Pass,3619,0,Pass
+37157,"Rockingham County, North Carolina",576,0,Pass,1646,0,Pass
+37159,"Rowan County, North Carolina",2237,0,Pass,4545,0,Pass
+37161,"Rutherford County, North Carolina",835,0,Pass,1651,0,Pass
+37163,"Sampson County, North Carolina",816,0,Pass,1686,0,Pass
+37165,"Scotland County, North Carolina",492,0,Pass,943,0,Pass
+37167,"Stanly County, North Carolina",631,0,Pass,1566,0,Pass
+37169,"Stokes County, North Carolina",320,0,Pass,854,0,Pass
+37171,"Surry County, North Carolina",673,0,Pass,1561,0,Pass
+37173,"Swain County, North Carolina",223,0,Pass,345,0,Pass
+37175,"Transylvania County, North Carolina",192,0,Pass,400,0,Pass
+37177,"Tyrrell County, North Carolina",6,0,Pass,6,0,Pass
+37179,"Union County, North Carolina",1279,0,Pass,5427,0,Pass
+37181,"Vance County, North Carolina",673,0,Pass,1396,0,Pass
+37183,"Wake County, North Carolina",4223,0,Pass,16731,0,Pass
+37185,"Warren County, North Carolina",358,0,Pass,606,0,Pass
+37187,"Washington County, North Carolina",66,0,Pass,222,0,Pass
+37189,"Watauga County, North Carolina",116,0,Pass,388,0,Pass
+37191,"Wayne County, North Carolina",1205,0,Pass,2888,0,Pass
+37193,"Wilkes County, North Carolina",550,0,Pass,1512,0,Pass
+37195,"Wilson County, North Carolina",710,0,Pass,1461,0,Pass
+37197,"Yadkin County, North Carolina",156,0,Pass,519,0,Pass
+37199,"Yancey County, North Carolina",123,0,Pass,343,0,Pass
+38001,"Adams County, North Dakota",16,0,Pass,18,0,Pass
+38003,"Barnes County, North Dakota",63,0,Pass,108,0,Pass
+38005,"Benson County, North Dakota",230,0,Pass,282,0,Pass
+38007,"Billings County, North Dakota",0,0,Pass,0,0,Pass
+38009,"Bottineau County, North Dakota",25,0,Pass,50,0,Pass
+38011,"Bowman County, North Dakota",0,0,Pass,7,0,Pass
+38013,"Burke County, North Dakota",11,0,Pass,11,0,Pass
+38015,"Burleigh County, North Dakota",579,0,Pass,923,0,Pass
+38017,"Cass County, North Dakota",384,0,Pass,788,0,Pass
+38019,"Cavalier County, North Dakota",10,0,Pass,11,0,Pass
+38021,"Dickey County, North Dakota",2,0,Pass,16,0,Pass
+38023,"Divide County, North Dakota",23,0,Pass,23,0,Pass
+38025,"Dunn County, North Dakota",41,0,Pass,93,0,Pass
+38027,"Eddy County, North Dakota",8,0,Pass,13,0,Pass
+38029,"Emmons County, North Dakota",3,0,Pass,23,0,Pass
+38031,"Foster County, North Dakota",1,0,Pass,21,0,Pass
+38033,"Golden Valley County, North Dakota",11,0,Pass,17,0,Pass
+38035,"Grand Forks County, North Dakota",150,0,Pass,420,0,Pass
+38037,"Grant County, North Dakota",6,0,Pass,20,0,Pass
+38039,"Griggs County, North Dakota",26,0,Pass,27,0,Pass
+38041,"Hettinger County, North Dakota",5,0,Pass,11,0,Pass
+38043,"Kidder County, North Dakota",8,0,Pass,8,0,Pass
+38045,"LaMoure County, North Dakota",2,0,Pass,20,0,Pass
+38047,"Logan County, North Dakota",0,0,Pass,4,0,Pass
+38049,"McHenry County, North Dakota",0,0,Pass,39,0,Pass
+38051,"McIntosh County, North Dakota",24,0,Pass,33,0,Pass
+38053,"McKenzie County, North Dakota",168,0,Pass,354,0,Pass
+38055,"McLean County, North Dakota",76,0,Pass,94,0,Pass
+38057,"Mercer County, North Dakota",21,0,Pass,43,0,Pass
+38059,"Morton County, North Dakota",135,0,Pass,264,0,Pass
+38061,"Mountrail County, North Dakota",174,0,Pass,257,0,Pass
+38063,"Nelson County, North Dakota",7,0,Pass,15,0,Pass
+38065,"Oliver County, North Dakota",0,0,Pass,0,0,Pass
+38067,"Pembina County, North Dakota",21,0,Pass,67,0,Pass
+38069,"Pierce County, North Dakota",6,0,Pass,6,0,Pass
+38071,"Ramsey County, North Dakota",55,0,Pass,127,0,Pass
+38073,"Ransom County, North Dakota",4,0,Pass,74,0,Pass
+38075,"Renville County, North Dakota",7,0,Pass,8,0,Pass
+38077,"Richland County, North Dakota",51,0,Pass,90,0,Pass
+38079,"Rolette County, North Dakota",376,0,Pass,614,0,Pass
+38081,"Sargent County, North Dakota",19,0,Pass,26,0,Pass
+38083,"Sheridan County, North Dakota",6,0,Pass,12,0,Pass
+38085,"Sioux County, North Dakota",221,0,Pass,301,0,Pass
+38087,"Slope County, North Dakota",0,0,Pass,0,0,Pass
+38089,"Stark County, North Dakota",308,0,Pass,438,0,Pass
+38091,"Steele County, North Dakota",6,0,Pass,13,0,Pass
+38093,"Stutsman County, North Dakota",43,0,Pass,94,0,Pass
+38095,"Towner County, North Dakota",28,0,Pass,28,0,Pass
+38097,"Traill County, North Dakota",8,0,Pass,31,0,Pass
+38099,"Walsh County, North Dakota",32,0,Pass,49,0,Pass
+38101,"Ward County, North Dakota",291,0,Pass,767,0,Pass
+38103,"Wells County, North Dakota",1,0,Pass,2,0,Pass
+38105,"Williams County, North Dakota",77,0,Pass,213,0,Pass
+39001,"Adams County, Ohio",581,0,Pass,963,0,Pass
+39003,"Allen County, Ohio",809,0,Pass,1877,0,Pass
+39005,"Ashland County, Ohio",216,0,Pass,561,0,Pass
+39007,"Ashtabula County, Ohio",789,0,Pass,2171,0,Pass
+39009,"Athens County, Ohio",502,0,Pass,936,0,Pass
+39011,"Auglaize County, Ohio",235,0,Pass,537,0,Pass
+39013,"Belmont County, Ohio",477,0,Pass,958,0,Pass
+39015,"Brown County, Ohio",443,0,Pass,1097,0,Pass
+39017,"Butler County, Ohio",2626,0,Pass,7107,0,Pass
+39019,"Carroll County, Ohio",220,0,Pass,635,0,Pass
+39021,"Champaign County, Ohio",476,0,Pass,926,0,Pass
+39023,"Clark County, Ohio",1405,0,Pass,2849,0,Pass
+39025,"Clermont County, Ohio",1825,0,Pass,3831,0,Pass
+39027,"Clinton County, Ohio",650,0,Pass,950,0,Pass
+39029,"Columbiana County, Ohio",948,0,Pass,1934,0,Pass
+39031,"Coshocton County, Ohio",417,0,Pass,793,0,Pass
+39033,"Crawford County, Ohio",641,0,Pass,941,0,Pass
+39035,"Cuyahoga County, Ohio",7643,0,Pass,19912,0,Pass
+39037,"Darke County, Ohio",459,0,Pass,916,0,Pass
+39039,"Defiance County, Ohio",268,0,Pass,579,0,Pass
+39041,"Delaware County, Ohio",365,0,Pass,2819,0,Pass
+39043,"Erie County, Ohio",291,0,Pass,838,0,Pass
+39045,"Fairfield County, Ohio",971,0,Pass,3067,0,Pass
+39047,"Fayette County, Ohio",296,0,Pass,652,0,Pass
+39049,"Franklin County, Ohio",7594,0,Pass,20532,0,Pass
+39051,"Fulton County, Ohio",171,0,Pass,586,0,Pass
+39053,"Gallia County, Ohio",337,0,Pass,757,0,Pass
+39055,"Geauga County, Ohio",330,0,Pass,1518,0,Pass
+39057,"Greene County, Ohio",993,0,Pass,2360,0,Pass
+39059,"Guernsey County, Ohio",333,0,Pass,711,0,Pass
+39061,"Hamilton County, Ohio",4852,0,Pass,12079,0,Pass
+39063,"Hancock County, Ohio",395,0,Pass,1027,0,Pass
+39065,"Hardin County, Ohio",334,0,Pass,458,0,Pass
+39067,"Harrison County, Ohio",90,0,Pass,294,0,Pass
+39069,"Henry County, Ohio",170,0,Pass,416,0,Pass
+39071,"Highland County, Ohio",450,0,Pass,843,0,Pass
+39073,"Hocking County, Ohio",339,0,Pass,861,0,Pass
+39075,"Holmes County, Ohio",155,0,Pass,577,0,Pass
+39077,"Huron County, Ohio",309,0,Pass,989,0,Pass
+39079,"Jackson County, Ohio",309,0,Pass,510,0,Pass
+39081,"Jefferson County, Ohio",655,0,Pass,1126,0,Pass
+39083,"Knox County, Ohio",355,0,Pass,992,0,Pass
+39085,"Lake County, Ohio",809,0,Pass,2232,0,Pass
+39087,"Lawrence County, Ohio",926,0,Pass,1820,0,Pass
+39089,"Licking County, Ohio",1608,0,Pass,4017,0,Pass
+39091,"Logan County, Ohio",154,0,Pass,570,0,Pass
+39093,"Lorain County, Ohio",1927,0,Pass,4872,0,Pass
+39095,"Lucas County, Ohio",3005,0,Pass,6553,0,Pass
+39097,"Madison County, Ohio",328,0,Pass,806,0,Pass
+39099,"Mahoning County, Ohio",1439,0,Pass,3129,0,Pass
+39101,"Marion County, Ohio",496,0,Pass,1132,0,Pass
+39103,"Medina County, Ohio",997,0,Pass,2335,0,Pass
+39105,"Meigs County, Ohio",312,0,Pass,422,0,Pass
+39107,"Mercer County, Ohio",85,0,Pass,316,0,Pass
+39109,"Miami County, Ohio",653,0,Pass,1320,0,Pass
+39111,"Monroe County, Ohio",62,0,Pass,178,0,Pass
+39113,"Montgomery County, Ohio",3978,0,Pass,8366,0,Pass
+39115,"Morgan County, Ohio",70,0,Pass,296,0,Pass
+39117,"Morrow County, Ohio",207,0,Pass,682,0,Pass
+39119,"Muskingum County, Ohio",658,0,Pass,1592,0,Pass
+39121,"Noble County, Ohio",36,0,Pass,572,0,Pass
+39123,"Ottawa County, Ohio",251,0,Pass,431,0,Pass
+39125,"Paulding County, Ohio",216,0,Pass,326,0,Pass
+39127,"Perry County, Ohio",444,0,Pass,799,0,Pass
+39129,"Pickaway County, Ohio",440,0,Pass,1238,0,Pass
+39131,"Pike County, Ohio",258,0,Pass,787,0,Pass
+39133,"Portage County, Ohio",633,0,Pass,1810,0,Pass
+39135,"Preble County, Ohio",471,0,Pass,881,0,Pass
+39137,"Putnam County, Ohio",140,0,Pass,472,0,Pass
+39139,"Richland County, Ohio",637,0,Pass,1586,0,Pass
+39141,"Ross County, Ohio",540,0,Pass,1619,0,Pass
+39143,"Sandusky County, Ohio",692,0,Pass,1161,0,Pass
+39145,"Scioto County, Ohio",937,0,Pass,1868,0,Pass
+39147,"Seneca County, Ohio",624,0,Pass,1199,0,Pass
+39149,"Shelby County, Ohio",365,0,Pass,727,0,Pass
+39151,"Stark County, Ohio",1999,0,Pass,5429,0,Pass
+39153,"Summit County, Ohio",2896,0,Pass,8769,0,Pass
+39155,"Trumbull County, Ohio",1706,0,Pass,3884,0,Pass
+39157,"Tuscarawas County, Ohio",439,0,Pass,1490,0,Pass
+39159,"Union County, Ohio",282,0,Pass,910,0,Pass
+39161,"Van Wert County, Ohio",216,0,Pass,446,0,Pass
+39163,"Vinton County, Ohio",146,0,Pass,249,0,Pass
+39165,"Warren County, Ohio",1453,0,Pass,3940,0,Pass
+39167,"Washington County, Ohio",490,0,Pass,931,0,Pass
+39169,"Wayne County, Ohio",763,0,Pass,1716,0,Pass
+39171,"Williams County, Ohio",502,0,Pass,720,0,Pass
+39173,"Wood County, Ohio",799,0,Pass,2007,0,Pass
+39175,"Wyandot County, Ohio",190,0,Pass,430,0,Pass
+40001,"Adair County, Oklahoma",255,0,Pass,593,0,Pass
+40003,"Alfalfa County, Oklahoma",43,0,Pass,70,0,Pass
+40005,"Atoka County, Oklahoma",130,0,Pass,319,0,Pass
+40007,"Beaver County, Oklahoma",32,0,Pass,78,0,Pass
+40009,"Beckham County, Oklahoma",229,0,Pass,349,0,Pass
+40011,"Blaine County, Oklahoma",107,0,Pass,157,0,Pass
+40013,"Bryan County, Oklahoma",571,0,Pass,1031,0,Pass
+40015,"Caddo County, Oklahoma",415,0,Pass,757,0,Pass
+40017,"Canadian County, Oklahoma",817,0,Pass,3083,0,Pass
+40019,"Carter County, Oklahoma",433,0,Pass,839,0,Pass
+40021,"Cherokee County, Oklahoma",697,0,Pass,1265,0,Pass
+40023,"Choctaw County, Oklahoma",230,0,Pass,330,0,Pass
+40025,"Cimarron County, Oklahoma",13,0,Pass,13,0,Pass
+40027,"Cleveland County, Oklahoma",1970,0,Pass,5232,0,Pass
+40029,"Coal County, Oklahoma",109,0,Pass,143,0,Pass
+40031,"Comanche County, Oklahoma",1241,0,Pass,2676,0,Pass
+40033,"Cotton County, Oklahoma",60,0,Pass,146,0,Pass
+40035,"Craig County, Oklahoma",136,0,Pass,258,0,Pass
+40037,"Creek County, Oklahoma",692,0,Pass,1793,0,Pass
+40039,"Custer County, Oklahoma",246,0,Pass,448,0,Pass
+40041,"Delaware County, Oklahoma",734,0,Pass,1316,0,Pass
+40043,"Dewey County, Oklahoma",64,0,Pass,132,0,Pass
+40045,"Ellis County, Oklahoma",6,0,Pass,60,0,Pass
+40047,"Garfield County, Oklahoma",575,0,Pass,1167,0,Pass
+40049,"Garvin County, Oklahoma",367,0,Pass,796,0,Pass
+40051,"Grady County, Oklahoma",603,0,Pass,1299,0,Pass
+40053,"Grant County, Oklahoma",38,0,Pass,123,0,Pass
+40055,"Greer County, Oklahoma",101,0,Pass,117,0,Pass
+40057,"Harmon County, Oklahoma",25,0,Pass,86,0,Pass
+40059,"Harper County, Oklahoma",182,0,Pass,182,0,Pass
+40061,"Haskell County, Oklahoma",101,0,Pass,173,0,Pass
+40063,"Hughes County, Oklahoma",134,0,Pass,185,0,Pass
+40065,"Jackson County, Oklahoma",201,0,Pass,534,0,Pass
+40067,"Jefferson County, Oklahoma",63,0,Pass,97,0,Pass
+40069,"Johnston County, Oklahoma",178,0,Pass,297,0,Pass
+40071,"Kay County, Oklahoma",448,0,Pass,714,0,Pass
+40073,"Kingfisher County, Oklahoma",161,0,Pass,394,0,Pass
+40075,"Kiowa County, Oklahoma",92,0,Pass,139,0,Pass
+40077,"Latimer County, Oklahoma",121,0,Pass,216,0,Pass
+40079,"Le Flore County, Oklahoma",607,0,Pass,1309,0,Pass
+40081,"Lincoln County, Oklahoma",401,0,Pass,732,0,Pass
+40083,"Logan County, Oklahoma",625,0,Pass,1201,0,Pass
+40085,"Love County, Oklahoma",109,0,Pass,239,0,Pass
+40087,"McClain County, Oklahoma",399,0,Pass,894,0,Pass
+40089,"McCurtain County, Oklahoma",442,0,Pass,938,0,Pass
+40091,"McIntosh County, Oklahoma",357,0,Pass,631,0,Pass
+40093,"Major County, Oklahoma",108,0,Pass,177,0,Pass
+40095,"Marshall County, Oklahoma",227,0,Pass,394,0,Pass
+40097,"Mayes County, Oklahoma",451,0,Pass,1053,0,Pass
+40099,"Murray County, Oklahoma",174,0,Pass,314,0,Pass
+40101,"Muskogee County, Oklahoma",908,0,Pass,1606,0,Pass
+40103,"Noble County, Oklahoma",131,0,Pass,207,0,Pass
+40105,"Nowata County, Oklahoma",120,0,Pass,183,0,Pass
+40107,"Okfuskee County, Oklahoma",218,0,Pass,308,0,Pass
+40109,"Oklahoma County, Oklahoma",6097,0,Pass,13904,0,Pass
+40111,"Okmulgee County, Oklahoma",520,0,Pass,1096,0,Pass
+40113,"Osage County, Oklahoma",778,0,Pass,1372,0,Pass
+40115,"Ottawa County, Oklahoma",313,0,Pass,665,0,Pass
+40117,"Pawnee County, Oklahoma",214,0,Pass,396,0,Pass
+40119,"Payne County, Oklahoma",328,0,Pass,767,0,Pass
+40121,"Pittsburg County, Oklahoma",703,0,Pass,1161,0,Pass
+40123,"Pontotoc County, Oklahoma",398,0,Pass,788,0,Pass
+40125,"Pottawatomie County, Oklahoma",548,0,Pass,1654,0,Pass
+40127,"Pushmataha County, Oklahoma",159,0,Pass,313,0,Pass
+40129,"Roger Mills County, Oklahoma",44,0,Pass,67,0,Pass
+40131,"Rogers County, Oklahoma",903,0,Pass,2035,0,Pass
+40133,"Seminole County, Oklahoma",532,0,Pass,916,0,Pass
+40135,"Sequoyah County, Oklahoma",705,0,Pass,1239,0,Pass
+40137,"Stephens County, Oklahoma",563,0,Pass,957,0,Pass
+40139,"Texas County, Oklahoma",148,0,Pass,404,0,Pass
+40141,"Tillman County, Oklahoma",76,0,Pass,197,0,Pass
+40143,"Tulsa County, Oklahoma",5065,0,Pass,12123,0,Pass
+40145,"Wagoner County, Oklahoma",728,0,Pass,1673,0,Pass
+40147,"Washington County, Oklahoma",325,0,Pass,702,0,Pass
+40149,"Washita County, Oklahoma",99,0,Pass,208,0,Pass
+40151,"Woods County, Oklahoma",20,0,Pass,88,0,Pass
+40153,"Woodward County, Oklahoma",276,0,Pass,366,0,Pass
+41001,"Baker County, Oregon",108,0,Pass,307,0,Pass
+41003,"Benton County, Oregon",161,0,Pass,720,0,Pass
+41005,"Clackamas County, Oregon",1421,0,Pass,6402,0,Pass
+41007,"Clatsop County, Oregon",77,0,Pass,487,0,Pass
+41009,"Columbia County, Oregon",475,0,Pass,1233,0,Pass
+41011,"Coos County, Oregon",526,0,Pass,1367,0,Pass
+41013,"Crook County, Oregon",161,0,Pass,454,0,Pass
+41015,"Curry County, Oregon",39,0,Pass,171,0,Pass
+41017,"Deschutes County, Oregon",885,0,Pass,2936,0,Pass
+41019,"Douglas County, Oregon",524,0,Pass,1847,0,Pass
+41021,"Gilliam County, Oregon",3,0,Pass,25,0,Pass
+41023,"Grant County, Oregon",13,0,Pass,35,0,Pass
+41025,"Harney County, Oregon",25,0,Pass,34,0,Pass
+41027,"Hood River County, Oregon",79,0,Pass,516,0,Pass
+41029,"Jackson County, Oregon",1219,0,Pass,4473,0,Pass
+41031,"Jefferson County, Oregon",415,0,Pass,821,0,Pass
+41033,"Josephine County, Oregon",501,0,Pass,2081,0,Pass
+41035,"Klamath County, Oregon",508,0,Pass,1159,0,Pass
+41037,"Lake County, Oregon",51,0,Pass,85,0,Pass
+41039,"Lane County, Oregon",1921,0,Pass,5571,0,Pass
+41041,"Lincoln County, Oregon",274,0,Pass,817,0,Pass
+41043,"Linn County, Oregon",674,0,Pass,2453,0,Pass
+41045,"Malheur County, Oregon",247,0,Pass,560,0,Pass
+41047,"Marion County, Oregon",2054,0,Pass,7995,0,Pass
+41049,"Morrow County, Oregon",224,0,Pass,404,0,Pass
+41051,"Multnomah County, Oregon",2168,0,Pass,9891,0,Pass
+41053,"Polk County, Oregon",374,0,Pass,1838,0,Pass
+41055,"Sherman County, Oregon",41,0,Pass,81,0,Pass
+41057,"Tillamook County, Oregon",126,0,Pass,359,0,Pass
+41059,"Umatilla County, Oregon",765,0,Pass,1564,0,Pass
+41061,"Union County, Oregon",68,0,Pass,260,0,Pass
+41063,"Wallowa County, Oregon",23,0,Pass,66,0,Pass
+41065,"Wasco County, Oregon",119,0,Pass,351,0,Pass
+41067,"Washington County, Oregon",1628,0,Pass,8952,0,Pass
+41069,"Wheeler County, Oregon",8,0,Pass,21,0,Pass
+41071,"Yamhill County, Oregon",858,0,Pass,2125,0,Pass
+42001,"Adams County, Pennsylvania",666,0,Pass,2348,0,Pass
+42003,"Allegheny County, Pennsylvania",4982,0,Pass,13589,0,Pass
+42005,"Armstrong County, Pennsylvania",388,0,Pass,943,0,Pass
+42007,"Beaver County, Pennsylvania",763,0,Pass,1795,0,Pass
+42009,"Bedford County, Pennsylvania",374,0,Pass,714,0,Pass
+42011,"Berks County, Pennsylvania",2883,0,Pass,10092,0,Pass
+42013,"Blair County, Pennsylvania",845,0,Pass,1624,0,Pass
+42015,"Bradford County, Pennsylvania",481,0,Pass,1061,0,Pass
+42017,"Bucks County, Pennsylvania",3449,0,Pass,12641,0,Pass
+42019,"Butler County, Pennsylvania",748,0,Pass,2032,0,Pass
+42021,"Cambria County, Pennsylvania",771,0,Pass,1599,0,Pass
+42023,"Cameron County, Pennsylvania",12,0,Pass,37,0,Pass
+42025,"Carbon County, Pennsylvania",380,0,Pass,1172,0,Pass
+42027,"Centre County, Pennsylvania",551,0,Pass,1318,0,Pass
+42029,"Chester County, Pennsylvania",1775,0,Pass,7242,0,Pass
+42031,"Clarion County, Pennsylvania",128,0,Pass,334,0,Pass
+42033,"Clearfield County, Pennsylvania",802,0,Pass,1406,0,Pass
+42035,"Clinton County, Pennsylvania",373,0,Pass,555,0,Pass
+42037,"Columbia County, Pennsylvania",479,0,Pass,918,0,Pass
+42039,"Crawford County, Pennsylvania",595,0,Pass,1448,0,Pass
+42041,"Cumberland County, Pennsylvania",940,0,Pass,3531,0,Pass
+42043,"Dauphin County, Pennsylvania",2132,0,Pass,6266,0,Pass
+42045,"Delaware County, Pennsylvania",2833,0,Pass,11022,0,Pass
+42047,"Elk County, Pennsylvania",182,0,Pass,331,0,Pass
+42049,"Erie County, Pennsylvania",1454,0,Pass,4167,0,Pass
+42051,"Fayette County, Pennsylvania",1588,0,Pass,2755,0,Pass
+42053,"Forest County, Pennsylvania",11,0,Pass,56,0,Pass
+42055,"Franklin County, Pennsylvania",1111,0,Pass,2989,0,Pass
+42057,"Fulton County, Pennsylvania",79,0,Pass,214,0,Pass
+42059,"Greene County, Pennsylvania",277,0,Pass,635,0,Pass
+42061,"Huntingdon County, Pennsylvania",458,0,Pass,871,0,Pass
+42063,"Indiana County, Pennsylvania",504,0,Pass,1024,0,Pass
+42065,"Jefferson County, Pennsylvania",406,0,Pass,743,0,Pass
+42067,"Juniata County, Pennsylvania",157,0,Pass,352,0,Pass
+42069,"Lackawanna County, Pennsylvania",1210,0,Pass,3891,0,Pass
+42071,"Lancaster County, Pennsylvania",2276,0,Pass,7705,0,Pass
+42073,"Lawrence County, Pennsylvania",632,0,Pass,1358,0,Pass
+42075,"Lebanon County, Pennsylvania",542,0,Pass,1955,0,Pass
+42077,"Lehigh County, Pennsylvania",1778,0,Pass,7585,0,Pass
+42079,"Luzerne County, Pennsylvania",2074,0,Pass,6557,0,Pass
+42081,"Lycoming County, Pennsylvania",610,0,Pass,1713,0,Pass
+42083,"McKean County, Pennsylvania",233,0,Pass,622,0,Pass
+42085,"Mercer County, Pennsylvania",688,0,Pass,1395,0,Pass
+42087,"Mifflin County, Pennsylvania",243,0,Pass,551,0,Pass
+42089,"Monroe County, Pennsylvania",1036,0,Pass,4889,0,Pass
+42091,"Montgomery County, Pennsylvania",3217,0,Pass,13062,0,Pass
+42093,"Montour County, Pennsylvania",80,0,Pass,253,0,Pass
+42095,"Northampton County, Pennsylvania",1675,0,Pass,5495,0,Pass
+42097,"Northumberland County, Pennsylvania",428,0,Pass,1012,0,Pass
+42099,"Perry County, Pennsylvania",547,0,Pass,1031,0,Pass
+42101,"Philadelphia County, Pennsylvania",11347,0,Pass,34099,0,Pass
+42103,"Pike County, Pennsylvania",353,0,Pass,1262,0,Pass
+42105,"Potter County, Pennsylvania",110,0,Pass,286,0,Pass
+42107,"Schuylkill County, Pennsylvania",917,0,Pass,2201,0,Pass
+42109,"Snyder County, Pennsylvania",221,0,Pass,614,0,Pass
+42111,"Somerset County, Pennsylvania",279,0,Pass,764,0,Pass
+42113,"Sullivan County, Pennsylvania",17,0,Pass,93,0,Pass
+42115,"Susquehanna County, Pennsylvania",268,0,Pass,736,0,Pass
+42117,"Tioga County, Pennsylvania",324,0,Pass,778,0,Pass
+42119,"Union County, Pennsylvania",150,0,Pass,318,0,Pass
+42121,"Venango County, Pennsylvania",433,0,Pass,1090,0,Pass
+42123,"Warren County, Pennsylvania",304,0,Pass,599,0,Pass
+42125,"Washington County, Pennsylvania",1151,0,Pass,2690,0,Pass
+42127,"Wayne County, Pennsylvania",376,0,Pass,829,0,Pass
+42129,"Westmoreland County, Pennsylvania",1622,0,Pass,4367,0,Pass
+42131,"Wyoming County, Pennsylvania",274,0,Pass,502,0,Pass
+42133,"York County, Pennsylvania",3519,0,Pass,9581,0,Pass
+44001,"Bristol County, Rhode Island",378,0,Pass,762,0,Pass
+44003,"Kent County, Rhode Island",599,0,Pass,3061,0,Pass
+44005,"Newport County, Rhode Island",262,0,Pass,1519,0,Pass
+44007,"Providence County, Rhode Island",3292,0,Pass,12416,0,Pass
+44009,"Washington County, Rhode Island",695,0,Pass,2209,0,Pass
+45001,"Abbeville County, South Carolina",608,0,Pass,921,0,Pass
+45003,"Aiken County, South Carolina",1535,0,Pass,3339,0,Pass
+45005,"Allendale County, South Carolina",53,0,Pass,164,0,Pass
+45007,"Anderson County, South Carolina",2189,0,Pass,5127,0,Pass
+45009,"Bamberg County, South Carolina",222,0,Pass,486,0,Pass
+45011,"Barnwell County, South Carolina",253,0,Pass,450,0,Pass
+45013,"Beaufort County, South Carolina",1057,0,Pass,2806,0,Pass
+45015,"Berkeley County, South Carolina",1962,0,Pass,5124,0,Pass
+45017,"Calhoun County, South Carolina",262,0,Pass,492,0,Pass
+45019,"Charleston County, South Carolina",2380,0,Pass,5935,0,Pass
+45021,"Cherokee County, South Carolina",609,0,Pass,1344,0,Pass
+45023,"Chester County, South Carolina",527,0,Pass,1034,0,Pass
+45025,"Chesterfield County, South Carolina",715,0,Pass,1947,0,Pass
+45027,"Clarendon County, South Carolina",821,0,Pass,1253,0,Pass
+45029,"Colleton County, South Carolina",629,0,Pass,1201,0,Pass
+45031,"Darlington County, South Carolina",792,0,Pass,1697,0,Pass
+45033,"Dillon County, South Carolina",310,0,Pass,949,0,Pass
+45035,"Dorchester County, South Carolina",1129,0,Pass,3635,0,Pass
+45037,"Edgefield County, South Carolina",436,0,Pass,845,0,Pass
+45039,"Fairfield County, South Carolina",298,0,Pass,705,0,Pass
+45041,"Florence County, South Carolina",1474,0,Pass,4054,0,Pass
+45043,"Georgetown County, South Carolina",863,0,Pass,2134,0,Pass
+45045,"Greenville County, South Carolina",4351,0,Pass,9943,0,Pass
+45047,"Greenwood County, South Carolina",490,0,Pass,1000,0,Pass
+45049,"Hampton County, South Carolina",276,0,Pass,535,0,Pass
+45051,"Horry County, South Carolina",2693,0,Pass,6766,0,Pass
+45053,"Jasper County, South Carolina",388,0,Pass,1005,0,Pass
+45055,"Kershaw County, South Carolina",852,0,Pass,1948,0,Pass
+45057,"Lancaster County, South Carolina",625,0,Pass,2217,0,Pass
+45059,"Laurens County, South Carolina",1040,0,Pass,1918,0,Pass
+45061,"Lee County, South Carolina",119,0,Pass,318,0,Pass
+45063,"Lexington County, South Carolina",2996,0,Pass,6365,0,Pass
+45065,"McCormick County, South Carolina",48,0,Pass,147,0,Pass
+45067,"Marion County, South Carolina",282,0,Pass,817,0,Pass
+45069,"Marlboro County, South Carolina",453,0,Pass,834,0,Pass
+45071,"Newberry County, South Carolina",188,0,Pass,648,0,Pass
+45073,"Oconee County, South Carolina",881,0,Pass,1785,0,Pass
+45075,"Orangeburg County, South Carolina",1072,0,Pass,2211,0,Pass
+45077,"Pickens County, South Carolina",1117,0,Pass,2302,0,Pass
+45079,"Richland County, South Carolina",3163,0,Pass,7423,0,Pass
+45081,"Saluda County, South Carolina",130,0,Pass,266,0,Pass
+45083,"Spartanburg County, South Carolina",3014,0,Pass,8474,0,Pass
+45085,"Sumter County, South Carolina",1032,0,Pass,2197,0,Pass
+45087,"Union County, South Carolina",346,0,Pass,716,0,Pass
+45089,"Williamsburg County, South Carolina",333,0,Pass,690,0,Pass
+45091,"York County, South Carolina",2471,0,Pass,6224,0,Pass
+46003,"Aurora County, South Dakota",11,0,Pass,31,0,Pass
+46005,"Beadle County, South Dakota",94,0,Pass,439,0,Pass
+46007,"Bennett County, South Dakota",54,0,Pass,158,0,Pass
+46009,"Bon Homme County, South Dakota",5,0,Pass,54,0,Pass
+46011,"Brookings County, South Dakota",58,0,Pass,183,0,Pass
+46013,"Brown County, South Dakota",313,0,Pass,421,0,Pass
+46015,"Brule County, South Dakota",26,0,Pass,52,0,Pass
+46017,"Buffalo County, South Dakota",33,0,Pass,84,0,Pass
+46019,"Butte County, South Dakota",27,0,Pass,137,0,Pass
+46021,"Campbell County, South Dakota",11,0,Pass,13,0,Pass
+46023,"Charles Mix County, South Dakota",122,0,Pass,215,0,Pass
+46025,"Clark County, South Dakota",17,0,Pass,53,0,Pass
+46027,"Clay County, South Dakota",21,0,Pass,127,0,Pass
+46029,"Codington County, South Dakota",136,0,Pass,280,0,Pass
+46031,"Corson County, South Dakota",233,0,Pass,273,0,Pass
+46033,"Custer County, South Dakota",15,0,Pass,69,0,Pass
+46035,"Davison County, South Dakota",42,0,Pass,178,0,Pass
+46037,"Day County, South Dakota",17,0,Pass,51,0,Pass
+46039,"Deuel County, South Dakota",0,0,Pass,18,0,Pass
+46041,"Dewey County, South Dakota",234,0,Pass,307,0,Pass
+46043,"Douglas County, South Dakota",6,0,Pass,9,0,Pass
+46045,"Edmunds County, South Dakota",5,0,Pass,16,0,Pass
+46047,"Fall River County, South Dakota",38,0,Pass,132,0,Pass
+46049,"Faulk County, South Dakota",0,0,Pass,0,0,Pass
+46051,"Grant County, South Dakota",21,0,Pass,24,0,Pass
+46053,"Gregory County, South Dakota",16,0,Pass,42,0,Pass
+46055,"Haakon County, South Dakota",0,0,Pass,0,0,Pass
+46057,"Hamlin County, South Dakota",5,0,Pass,15,0,Pass
+46059,"Hand County, South Dakota",0,0,Pass,32,0,Pass
+46061,"Hanson County, South Dakota",8,0,Pass,73,0,Pass
+46063,"Harding County, South Dakota",6,0,Pass,30,0,Pass
+46065,"Hughes County, South Dakota",30,0,Pass,84,0,Pass
+46067,"Hutchinson County, South Dakota",24,0,Pass,34,0,Pass
+46069,"Hyde County, South Dakota",4,0,Pass,4,0,Pass
+46071,"Jackson County, South Dakota",49,0,Pass,188,0,Pass
+46073,"Jerauld County, South Dakota",8,0,Pass,9,0,Pass
+46075,"Jones County, South Dakota",2,0,Pass,10,0,Pass
+46077,"Kingsbury County, South Dakota",12,0,Pass,50,0,Pass
+46079,"Lake County, South Dakota",0,0,Pass,100,0,Pass
+46081,"Lawrence County, South Dakota",76,0,Pass,187,0,Pass
+46083,"Lincoln County, South Dakota",72,0,Pass,648,0,Pass
+46085,"Lyman County, South Dakota",54,0,Pass,94,0,Pass
+46087,"McCook County, South Dakota",28,0,Pass,98,0,Pass
+46089,"McPherson County, South Dakota",0,0,Pass,58,0,Pass
+46091,"Marshall County, South Dakota",18,0,Pass,40,0,Pass
+46093,"Meade County, South Dakota",75,0,Pass,264,0,Pass
+46095,"Mellette County, South Dakota",59,0,Pass,82,0,Pass
+46097,"Miner County, South Dakota",17,0,Pass,24,0,Pass
+46099,"Minnehaha County, South Dakota",826,0,Pass,2025,0,Pass
+46101,"Moody County, South Dakota",36,0,Pass,172,0,Pass
+46102,"Oglala Lakota County, South Dakota",934,0,Pass,1421,0,Pass
+46103,"Pennington County, South Dakota",762,0,Pass,1744,0,Pass
+46105,"Perkins County, South Dakota",8,0,Pass,16,0,Pass
+46107,"Potter County, South Dakota",0,0,Pass,8,0,Pass
+46109,"Roberts County, South Dakota",222,0,Pass,325,0,Pass
+46111,"Sanborn County, South Dakota",0,0,Pass,0,0,Pass
+46115,"Spink County, South Dakota",4,0,Pass,43,0,Pass
+46117,"Stanley County, South Dakota",73,0,Pass,91,0,Pass
+46119,"Sully County, South Dakota",1,0,Pass,7,0,Pass
+46121,"Todd County, South Dakota",498,0,Pass,592,0,Pass
+46123,"Tripp County, South Dakota",53,0,Pass,90,0,Pass
+46125,"Turner County, South Dakota",34,0,Pass,87,0,Pass
+46127,"Union County, South Dakota",63,0,Pass,95,0,Pass
+46129,"Walworth County, South Dakota",0,0,Pass,5,0,Pass
+46135,"Yankton County, South Dakota",109,0,Pass,214,0,Pass
+46137,"Ziebach County, South Dakota",140,0,Pass,179,0,Pass
+47001,"Anderson County, Tennessee",848,0,Pass,1596,0,Pass
+47003,"Bedford County, Tennessee",562,0,Pass,1095,0,Pass
+47005,"Benton County, Tennessee",287,0,Pass,375,0,Pass
+47007,"Bledsoe County, Tennessee",175,0,Pass,358,0,Pass
+47009,"Blount County, Tennessee",929,0,Pass,3083,0,Pass
+47011,"Bradley County, Tennessee",1169,0,Pass,2602,0,Pass
+47013,"Campbell County, Tennessee",798,0,Pass,1404,0,Pass
+47015,"Cannon County, Tennessee",176,0,Pass,309,0,Pass
+47017,"Carroll County, Tennessee",516,0,Pass,781,0,Pass
+47019,"Carter County, Tennessee",1126,0,Pass,1856,0,Pass
+47021,"Cheatham County, Tennessee",364,0,Pass,1247,0,Pass
+47023,"Chester County, Tennessee",245,0,Pass,694,0,Pass
+47025,"Claiborne County, Tennessee",553,0,Pass,1134,0,Pass
+47027,"Clay County, Tennessee",87,0,Pass,177,0,Pass
+47029,"Cocke County, Tennessee",731,0,Pass,1117,0,Pass
+47031,"Coffee County, Tennessee",910,0,Pass,1673,0,Pass
+47033,"Crockett County, Tennessee",81,0,Pass,194,0,Pass
+47035,"Cumberland County, Tennessee",825,0,Pass,1630,0,Pass
+47037,"Davidson County, Tennessee",4515,0,Pass,10518,0,Pass
+47039,"Decatur County, Tennessee",317,0,Pass,515,0,Pass
+47041,"DeKalb County, Tennessee",326,0,Pass,472,0,Pass
+47043,"Dickson County, Tennessee",362,0,Pass,1006,0,Pass
+47045,"Dyer County, Tennessee",747,0,Pass,1194,0,Pass
+47047,"Fayette County, Tennessee",457,0,Pass,939,0,Pass
+47049,"Fentress County, Tennessee",616,0,Pass,939,0,Pass
+47051,"Franklin County, Tennessee",464,0,Pass,911,0,Pass
+47053,"Gibson County, Tennessee",504,0,Pass,1116,0,Pass
+47055,"Giles County, Tennessee",305,0,Pass,774,0,Pass
+47057,"Grainger County, Tennessee",281,0,Pass,831,0,Pass
+47059,"Greene County, Tennessee",641,0,Pass,2179,0,Pass
+47061,"Grundy County, Tennessee",187,0,Pass,398,0,Pass
+47063,"Hamblen County, Tennessee",615,0,Pass,1385,0,Pass
+47065,"Hamilton County, Tennessee",2930,0,Pass,6937,0,Pass
+47067,"Hancock County, Tennessee",82,0,Pass,115,0,Pass
+47069,"Hardeman County, Tennessee",188,0,Pass,443,0,Pass
+47071,"Hardin County, Tennessee",378,0,Pass,583,0,Pass
+47073,"Hawkins County, Tennessee",877,0,Pass,1794,0,Pass
+47075,"Haywood County, Tennessee",279,0,Pass,631,0,Pass
+47077,"Henderson County, Tennessee",616,0,Pass,1038,0,Pass
+47079,"Henry County, Tennessee",256,0,Pass,586,0,Pass
+47081,"Hickman County, Tennessee",265,0,Pass,576,0,Pass
+47083,"Houston County, Tennessee",200,0,Pass,314,0,Pass
+47085,"Humphreys County, Tennessee",283,0,Pass,593,0,Pass
+47087,"Jackson County, Tennessee",152,0,Pass,313,0,Pass
+47089,"Jefferson County, Tennessee",934,0,Pass,1803,0,Pass
+47091,"Johnson County, Tennessee",138,0,Pass,359,0,Pass
+47093,"Knox County, Tennessee",3967,0,Pass,8726,0,Pass
+47095,"Lake County, Tennessee",71,0,Pass,111,0,Pass
+47097,"Lauderdale County, Tennessee",312,0,Pass,592,0,Pass
+47099,"Lawrence County, Tennessee",240,0,Pass,822,0,Pass
+47101,"Lewis County, Tennessee",55,0,Pass,427,0,Pass
+47103,"Lincoln County, Tennessee",651,0,Pass,1218,0,Pass
+47105,"Loudon County, Tennessee",331,0,Pass,883,0,Pass
+47107,"McMinn County, Tennessee",991,0,Pass,2083,0,Pass
+47109,"McNairy County, Tennessee",289,0,Pass,527,0,Pass
+47111,"Macon County, Tennessee",173,0,Pass,766,0,Pass
+47113,"Madison County, Tennessee",1381,0,Pass,2813,0,Pass
+47115,"Marion County, Tennessee",640,0,Pass,1034,0,Pass
+47117,"Marshall County, Tennessee",275,0,Pass,926,0,Pass
+47119,"Maury County, Tennessee",808,0,Pass,1544,0,Pass
+47121,"Meigs County, Tennessee",122,0,Pass,241,0,Pass
+47123,"Monroe County, Tennessee",666,0,Pass,1343,0,Pass
+47125,"Montgomery County, Tennessee",1805,0,Pass,3735,0,Pass
+47127,"Moore County, Tennessee",144,0,Pass,249,0,Pass
+47129,"Morgan County, Tennessee",392,0,Pass,872,0,Pass
+47131,"Obion County, Tennessee",434,0,Pass,828,0,Pass
+47133,"Overton County, Tennessee",364,0,Pass,666,0,Pass
+47135,"Perry County, Tennessee",118,0,Pass,197,0,Pass
+47137,"Pickett County, Tennessee",8,0,Pass,98,0,Pass
+47139,"Polk County, Tennessee",104,0,Pass,287,0,Pass
+47141,"Putnam County, Tennessee",388,0,Pass,1449,0,Pass
+47143,"Rhea County, Tennessee",383,0,Pass,905,0,Pass
+47145,"Roane County, Tennessee",712,0,Pass,1332,0,Pass
+47147,"Robertson County, Tennessee",668,0,Pass,1569,0,Pass
+47149,"Rutherford County, Tennessee",2043,0,Pass,6808,0,Pass
+47151,"Scott County, Tennessee",509,0,Pass,669,0,Pass
+47153,"Sequatchie County, Tennessee",205,0,Pass,501,0,Pass
+47155,"Sevier County, Tennessee",1172,0,Pass,2669,0,Pass
+47157,"Shelby County, Tennessee",9141,0,Pass,20424,0,Pass
+47159,"Smith County, Tennessee",209,0,Pass,450,0,Pass
+47161,"Stewart County, Tennessee",86,0,Pass,303,0,Pass
+47163,"Sullivan County, Tennessee",1575,0,Pass,3476,0,Pass
+47165,"Sumner County, Tennessee",1563,0,Pass,4140,0,Pass
+47167,"Tipton County, Tennessee",717,0,Pass,1497,0,Pass
+47169,"Trousdale County, Tennessee",108,0,Pass,210,0,Pass
+47171,"Unicoi County, Tennessee",281,0,Pass,425,0,Pass
+47173,"Union County, Tennessee",493,0,Pass,776,0,Pass
+47175,"Van Buren County, Tennessee",194,0,Pass,362,0,Pass
+47177,"Warren County, Tennessee",959,0,Pass,1473,0,Pass
+47179,"Washington County, Tennessee",1578,0,Pass,2592,0,Pass
+47181,"Wayne County, Tennessee",102,0,Pass,229,0,Pass
+47183,"Weakley County, Tennessee",247,0,Pass,410,0,Pass
+47185,"White County, Tennessee",381,0,Pass,517,0,Pass
+47187,"Williamson County, Tennessee",787,0,Pass,3218,0,Pass
+47189,"Wilson County, Tennessee",1731,0,Pass,3973,0,Pass
+48001,"Anderson County, Texas",419,0,Pass,1138,0,Pass
+48003,"Andrews County, Texas",236,0,Pass,553,0,Pass
+48005,"Angelina County, Texas",967,0,Pass,2310,0,Pass
+48007,"Aransas County, Texas",182,0,Pass,309,0,Pass
+48009,"Archer County, Texas",60,0,Pass,139,0,Pass
+48011,"Armstrong County, Texas",19,0,Pass,30,0,Pass
+48013,"Atascosa County, Texas",687,0,Pass,1688,0,Pass
+48015,"Austin County, Texas",176,0,Pass,601,0,Pass
+48017,"Bailey County, Texas",0,0,Pass,230,0,Pass
+48019,"Bandera County, Texas",286,0,Pass,530,0,Pass
+48021,"Bastrop County, Texas",837,0,Pass,2825,0,Pass
+48023,"Baylor County, Texas",28,0,Pass,67,0,Pass
+48025,"Bee County, Texas",165,0,Pass,485,0,Pass
+48027,"Bell County, Texas",3900,0,Pass,8725,0,Pass
+48029,"Bexar County, Texas",16332,0,Pass,55888,0,Pass
+48031,"Blanco County, Texas",68,0,Pass,217,0,Pass
+48033,"Borden County, Texas",7,0,Pass,9,0,Pass
+48035,"Bosque County, Texas",225,0,Pass,484,0,Pass
+48037,"Bowie County, Texas",1119,0,Pass,2078,0,Pass
+48039,"Brazoria County, Texas",3657,0,Pass,10386,0,Pass
+48041,"Brazos County, Texas",1574,0,Pass,3263,0,Pass
+48043,"Brewster County, Texas",68,0,Pass,89,0,Pass
+48045,"Briscoe County, Texas",17,0,Pass,31,0,Pass
+48047,"Brooks County, Texas",316,0,Pass,384,0,Pass
+48049,"Brown County, Texas",369,0,Pass,811,0,Pass
+48051,"Burleson County, Texas",210,0,Pass,376,0,Pass
+48053,"Burnet County, Texas",574,0,Pass,1121,0,Pass
+48055,"Caldwell County, Texas",514,0,Pass,1383,0,Pass
+48057,"Calhoun County, Texas",198,0,Pass,461,0,Pass
+48059,"Callahan County, Texas",293,0,Pass,431,0,Pass
+48061,"Cameron County, Texas",4033,0,Pass,13895,0,Pass
+48063,"Camp County, Texas",120,0,Pass,188,0,Pass
+48065,"Carson County, Texas",18,0,Pass,65,0,Pass
+48067,"Cass County, Texas",301,0,Pass,537,0,Pass
+48069,"Castro County, Texas",206,0,Pass,401,0,Pass
+48071,"Chambers County, Texas",389,0,Pass,734,0,Pass
+48073,"Cherokee County, Texas",611,0,Pass,1155,0,Pass
+48075,"Childress County, Texas",34,0,Pass,99,0,Pass
+48077,"Clay County, Texas",157,0,Pass,261,0,Pass
+48079,"Cochran County, Texas",96,0,Pass,100,0,Pass
+48081,"Coke County, Texas",0,0,Pass,7,0,Pass
+48083,"Coleman County, Texas",198,0,Pass,234,0,Pass
+48085,"Collin County, Texas",4681,0,Pass,22653,0,Pass
+48087,"Collingsworth County, Texas",19,0,Pass,43,0,Pass
+48089,"Colorado County, Texas",231,0,Pass,407,0,Pass
+48091,"Comal County, Texas",1167,0,Pass,3280,0,Pass
+48093,"Comanche County, Texas",148,0,Pass,286,0,Pass
+48095,"Concho County, Texas",36,0,Pass,49,0,Pass
+48097,"Cooke County, Texas",335,0,Pass,984,0,Pass
+48099,"Coryell County, Texas",750,0,Pass,1497,0,Pass
+48101,"Cottle County, Texas",35,0,Pass,35,0,Pass
+48103,"Crane County, Texas",33,0,Pass,71,0,Pass
+48105,"Crockett County, Texas",0,0,Pass,41,0,Pass
+48107,"Crosby County, Texas",112,0,Pass,187,0,Pass
+48109,"Culberson County, Texas",36,0,Pass,75,0,Pass
+48111,"Dallam County, Texas",37,0,Pass,39,0,Pass
+48113,"Dallas County, Texas",22736,0,Pass,70218,0,Pass
+48115,"Dawson County, Texas",185,0,Pass,227,0,Pass
+48117,"Deaf Smith County, Texas",274,0,Pass,570,0,Pass
+48119,"Delta County, Texas",53,0,Pass,126,0,Pass
+48121,"Denton County, Texas",3910,0,Pass,17344,0,Pass
+48123,"DeWitt County, Texas",95,0,Pass,392,0,Pass
+48125,"Dickens County, Texas",8,0,Pass,33,0,Pass
+48127,"Dimmit County, Texas",98,0,Pass,134,0,Pass
+48129,"Donley County, Texas",37,0,Pass,62,0,Pass
+48131,"Duval County, Texas",47,0,Pass,124,0,Pass
+48133,"Eastland County, Texas",153,0,Pass,409,0,Pass
+48135,"Ector County, Texas",2304,0,Pass,4008,0,Pass
+48137,"Edwards County, Texas",0,0,Pass,0,0,Pass
+48139,"Ellis County, Texas",1652,0,Pass,5241,0,Pass
+48141,"El Paso County, Texas",7771,0,Pass,26835,0,Pass
+48143,"Erath County, Texas",224,0,Pass,686,0,Pass
+48145,"Falls County, Texas",318,0,Pass,493,0,Pass
+48147,"Fannin County, Texas",706,0,Pass,1216,0,Pass
+48149,"Fayette County, Texas",138,0,Pass,429,0,Pass
+48151,"Fisher County, Texas",66,0,Pass,97,0,Pass
+48153,"Floyd County, Texas",183,0,Pass,335,0,Pass
+48155,"Foard County, Texas",0,0,Pass,1,0,Pass
+48157,"Fort Bend County, Texas",5516,0,Pass,24125,0,Pass
+48159,"Franklin County, Texas",76,0,Pass,164,0,Pass
+48161,"Freestone County, Texas",88,0,Pass,371,0,Pass
+48163,"Frio County, Texas",241,0,Pass,450,0,Pass
+48165,"Gaines County, Texas",364,0,Pass,628,0,Pass
+48167,"Galveston County, Texas",2300,0,Pass,6851,0,Pass
+48169,"Garza County, Texas",0,0,Pass,0,0,Pass
+48171,"Gillespie County, Texas",138,0,Pass,425,0,Pass
+48173,"Glasscock County, Texas",0,0,Pass,0,0,Pass
+48175,"Goliad County, Texas",21,0,Pass,124,0,Pass
+48177,"Gonzales County, Texas",246,0,Pass,687,0,Pass
+48179,"Gray County, Texas",149,0,Pass,257,0,Pass
+48181,"Grayson County, Texas",1143,0,Pass,3690,0,Pass
+48183,"Gregg County, Texas",1282,0,Pass,2896,0,Pass
+48185,"Grimes County, Texas",163,0,Pass,601,0,Pass
+48187,"Guadalupe County, Texas",1572,0,Pass,4849,0,Pass
+48189,"Hale County, Texas",461,0,Pass,710,0,Pass
+48191,"Hall County, Texas",35,0,Pass,37,0,Pass
+48193,"Hamilton County, Texas",48,0,Pass,109,0,Pass
+48195,"Hansford County, Texas",42,0,Pass,54,0,Pass
+48197,"Hardeman County, Texas",35,0,Pass,84,0,Pass
+48199,"Hardin County, Texas",354,0,Pass,856,0,Pass
+48201,"Harris County, Texas",34959,0,Pass,119622,0,Pass
+48203,"Harrison County, Texas",487,0,Pass,1308,0,Pass
+48205,"Hartley County, Texas",0,0,Pass,31,0,Pass
+48207,"Haskell County, Texas",93,0,Pass,107,0,Pass
+48209,"Hays County, Texas",1519,0,Pass,4201,0,Pass
+48211,"Hemphill County, Texas",53,0,Pass,92,0,Pass
+48213,"Henderson County, Texas",1022,0,Pass,2573,0,Pass
+48215,"Hidalgo County, Texas",9087,0,Pass,31928,0,Pass
+48217,"Hill County, Texas",309,0,Pass,945,0,Pass
+48219,"Hockley County, Texas",232,0,Pass,557,0,Pass
+48221,"Hood County, Texas",503,0,Pass,1723,0,Pass
+48223,"Hopkins County, Texas",601,0,Pass,1005,0,Pass
+48225,"Houston County, Texas",252,0,Pass,520,0,Pass
+48227,"Howard County, Texas",370,0,Pass,563,0,Pass
+48229,"Hudspeth County, Texas",8,0,Pass,100,0,Pass
+48231,"Hunt County, Texas",1312,0,Pass,3355,0,Pass
+48233,"Hutchinson County, Texas",384,0,Pass,551,0,Pass
+48235,"Irion County, Texas",7,0,Pass,22,0,Pass
+48237,"Jack County, Texas",73,0,Pass,163,0,Pass
+48239,"Jackson County, Texas",149,0,Pass,295,0,Pass
+48241,"Jasper County, Texas",441,0,Pass,1063,0,Pass
+48243,"Jeff Davis County, Texas",0,0,Pass,0,0,Pass
+48245,"Jefferson County, Texas",2447,0,Pass,5660,0,Pass
+48247,"Jim Hogg County, Texas",11,0,Pass,95,0,Pass
+48249,"Jim Wells County, Texas",801,0,Pass,1888,0,Pass
+48251,"Johnson County, Texas",1459,0,Pass,4981,0,Pass
+48253,"Jones County, Texas",204,0,Pass,381,0,Pass
+48255,"Karnes County, Texas",28,0,Pass,105,0,Pass
+48257,"Kaufman County, Texas",1716,0,Pass,5577,0,Pass
+48259,"Kendall County, Texas",261,0,Pass,927,0,Pass
+48261,"Kenedy County, Texas",0,0,Pass,4,0,Pass
+48263,"Kent County, Texas",5,0,Pass,5,0,Pass
+48265,"Kerr County, Texas",228,0,Pass,789,0,Pass
+48267,"Kimble County, Texas",111,0,Pass,113,0,Pass
+48269,"King County, Texas",0,0,Pass,0,0,Pass
+48271,"Kinney County, Texas",0,0,Pass,40,0,Pass
+48273,"Kleberg County, Texas",207,0,Pass,491,0,Pass
+48275,"Knox County, Texas",15,0,Pass,49,0,Pass
+48277,"Lamar County, Texas",568,0,Pass,1250,0,Pass
+48279,"Lamb County, Texas",155,0,Pass,381,0,Pass
+48281,"Lampasas County, Texas",300,0,Pass,685,0,Pass
+48283,"La Salle County, Texas",73,0,Pass,131,0,Pass
+48285,"Lavaca County, Texas",200,0,Pass,355,0,Pass
+48287,"Lee County, Texas",205,0,Pass,501,0,Pass
+48289,"Leon County, Texas",117,0,Pass,318,0,Pass
+48291,"Liberty County, Texas",1785,0,Pass,3925,0,Pass
+48293,"Limestone County, Texas",199,0,Pass,757,0,Pass
+48295,"Lipscomb County, Texas",48,0,Pass,84,0,Pass
+48297,"Live Oak County, Texas",41,0,Pass,210,0,Pass
+48299,"Llano County, Texas",83,0,Pass,310,0,Pass
+48301,"Loving County, Texas",0,0,Pass,0,0,Pass
+48303,"Lubbock County, Texas",2373,0,Pass,5017,0,Pass
+48305,"Lynn County, Texas",50,0,Pass,127,0,Pass
+48307,"McCulloch County, Texas",31,0,Pass,48,0,Pass
+48309,"McLennan County, Texas",2841,0,Pass,6047,0,Pass
+48311,"McMullen County, Texas",0,0,Pass,13,0,Pass
+48313,"Madison County, Texas",162,0,Pass,207,0,Pass
+48315,"Marion County, Texas",47,0,Pass,116,0,Pass
+48317,"Martin County, Texas",50,0,Pass,134,0,Pass
+48319,"Mason County, Texas",0,0,Pass,0,0,Pass
+48321,"Matagorda County, Texas",419,0,Pass,771,0,Pass
+48323,"Maverick County, Texas",556,0,Pass,1439,0,Pass
+48325,"Medina County, Texas",510,0,Pass,1449,0,Pass
+48327,"Menard County, Texas",11,0,Pass,33,0,Pass
+48329,"Midland County, Texas",1669,0,Pass,4567,0,Pass
+48331,"Milam County, Texas",220,0,Pass,458,0,Pass
+48333,"Mills County, Texas",7,0,Pass,52,0,Pass
+48335,"Mitchell County, Texas",61,0,Pass,77,0,Pass
+48337,"Montague County, Texas",220,0,Pass,390,0,Pass
+48339,"Montgomery County, Texas",4447,0,Pass,13719,0,Pass
+48341,"Moore County, Texas",220,0,Pass,550,0,Pass
+48343,"Morris County, Texas",108,0,Pass,374,0,Pass
+48345,"Motley County, Texas",25,0,Pass,42,0,Pass
+48347,"Nacogdoches County, Texas",900,0,Pass,1380,0,Pass
+48349,"Navarro County, Texas",584,0,Pass,1718,0,Pass
+48351,"Newton County, Texas",86,0,Pass,187,0,Pass
+48353,"Nolan County, Texas",155,0,Pass,260,0,Pass
+48355,"Nueces County, Texas",3256,0,Pass,7851,0,Pass
+48357,"Ochiltree County, Texas",13,0,Pass,58,0,Pass
+48359,"Oldham County, Texas",0,0,Pass,16,0,Pass
+48361,"Orange County, Texas",895,0,Pass,1826,0,Pass
+48363,"Palo Pinto County, Texas",386,0,Pass,858,0,Pass
+48365,"Panola County, Texas",237,0,Pass,487,0,Pass
+48367,"Parker County, Texas",1159,0,Pass,3939,0,Pass
+48369,"Parmer County, Texas",138,0,Pass,377,0,Pass
+48371,"Pecos County, Texas",82,0,Pass,376,0,Pass
+48373,"Polk County, Texas",657,0,Pass,1424,0,Pass
+48375,"Potter County, Texas",1452,0,Pass,2940,0,Pass
+48377,"Presidio County, Texas",0,0,Pass,231,0,Pass
+48379,"Rains County, Texas",93,0,Pass,309,0,Pass
+48381,"Randall County, Texas",989,0,Pass,2058,0,Pass
+48383,"Reagan County, Texas",115,0,Pass,141,0,Pass
+48385,"Real County, Texas",29,0,Pass,51,0,Pass
+48387,"Red River County, Texas",135,0,Pass,244,0,Pass
+48389,"Reeves County, Texas",36,0,Pass,220,0,Pass
+48391,"Refugio County, Texas",61,0,Pass,205,0,Pass
+48393,"Roberts County, Texas",0,0,Pass,0,0,Pass
+48395,"Robertson County, Texas",299,0,Pass,580,0,Pass
+48397,"Rockwall County, Texas",1254,0,Pass,3365,0,Pass
+48399,"Runnels County, Texas",152,0,Pass,242,0,Pass
+48401,"Rusk County, Texas",774,0,Pass,1362,0,Pass
+48403,"Sabine County, Texas",197,0,Pass,273,0,Pass
+48405,"San Augustine County, Texas",77,0,Pass,199,0,Pass
+48407,"San Jacinto County, Texas",202,0,Pass,629,0,Pass
+48409,"San Patricio County, Texas",755,0,Pass,2213,0,Pass
+48411,"San Saba County, Texas",59,0,Pass,80,0,Pass
+48413,"Schleicher County, Texas",76,0,Pass,120,0,Pass
+48415,"Scurry County, Texas",281,0,Pass,758,0,Pass
+48417,"Shackelford County, Texas",58,0,Pass,64,0,Pass
+48419,"Shelby County, Texas",460,0,Pass,780,0,Pass
+48421,"Sherman County, Texas",3,0,Pass,6,0,Pass
+48423,"Smith County, Texas",2022,0,Pass,5254,0,Pass
+48425,"Somervell County, Texas",19,0,Pass,142,0,Pass
+48427,"Starr County, Texas",795,0,Pass,2426,0,Pass
+48429,"Stephens County, Texas",69,0,Pass,185,0,Pass
+48431,"Sterling County, Texas",0,0,Pass,6,0,Pass
+48433,"Stonewall County, Texas",0,0,Pass,0,0,Pass
+48435,"Sutton County, Texas",0,0,Pass,72,0,Pass
+48437,"Swisher County, Texas",131,0,Pass,153,0,Pass
+48439,"Tarrant County, Texas",14264,0,Pass,50563,0,Pass
+48441,"Taylor County, Texas",1435,0,Pass,2797,0,Pass
+48443,"Terrell County, Texas",13,0,Pass,13,0,Pass
+48445,"Terry County, Texas",529,0,Pass,674,0,Pass
+48447,"Throckmorton County, Texas",11,0,Pass,11,0,Pass
+48449,"Titus County, Texas",430,0,Pass,1026,0,Pass
+48451,"Tom Green County, Texas",808,0,Pass,1936,0,Pass
+48453,"Travis County, Texas",4667,0,Pass,17714,0,Pass
+48455,"Trinity County, Texas",111,0,Pass,218,0,Pass
+48457,"Tyler County, Texas",335,0,Pass,711,0,Pass
+48459,"Upshur County, Texas",471,0,Pass,902,0,Pass
+48461,"Upton County, Texas",90,0,Pass,113,0,Pass
+48463,"Uvalde County, Texas",399,0,Pass,765,0,Pass
+48465,"Val Verde County, Texas",377,0,Pass,1637,0,Pass
+48467,"Van Zandt County, Texas",602,0,Pass,2049,0,Pass
+48469,"Victoria County, Texas",610,0,Pass,1811,0,Pass
+48471,"Walker County, Texas",344,0,Pass,1051,0,Pass
+48473,"Waller County, Texas",527,0,Pass,1719,0,Pass
+48475,"Ward County, Texas",172,0,Pass,282,0,Pass
+48477,"Washington County, Texas",196,0,Pass,501,0,Pass
+48479,"Webb County, Texas",2713,0,Pass,9797,0,Pass
+48481,"Wharton County, Texas",487,0,Pass,1023,0,Pass
+48483,"Wheeler County, Texas",52,0,Pass,145,0,Pass
+48485,"Wichita County, Texas",1019,0,Pass,2059,0,Pass
+48487,"Wilbarger County, Texas",51,0,Pass,166,0,Pass
+48489,"Willacy County, Texas",162,0,Pass,772,0,Pass
+48491,"Williamson County, Texas",3485,0,Pass,11726,0,Pass
+48493,"Wilson County, Texas",439,0,Pass,1496,0,Pass
+48495,"Winkler County, Texas",189,0,Pass,313,0,Pass
+48497,"Wise County, Texas",534,0,Pass,2821,0,Pass
+48499,"Wood County, Texas",480,0,Pass,1060,0,Pass
+48501,"Yoakum County, Texas",145,0,Pass,177,0,Pass
+48503,"Young County, Texas",109,0,Pass,189,0,Pass
+48505,"Zapata County, Texas",172,0,Pass,369,0,Pass
+48507,"Zavala County, Texas",135,0,Pass,235,0,Pass
+49001,"Beaver County, Utah",0,0,Pass,55,0,Pass
+49003,"Box Elder County, Utah",232,0,Pass,1186,0,Pass
+49005,"Cache County, Utah",469,0,Pass,1778,0,Pass
+49007,"Carbon County, Utah",69,0,Pass,218,0,Pass
+49009,"Daggett County, Utah",3,0,Pass,4,0,Pass
+49011,"Davis County, Utah",1045,0,Pass,7121,0,Pass
+49013,"Duchesne County, Utah",182,0,Pass,449,0,Pass
+49015,"Emery County, Utah",272,0,Pass,420,0,Pass
+49017,"Garfield County, Utah",30,0,Pass,55,0,Pass
+49019,"Grand County, Utah",8,0,Pass,111,0,Pass
+49021,"Iron County, Utah",240,0,Pass,926,0,Pass
+49023,"Juab County, Utah",164,0,Pass,357,0,Pass
+49025,"Kane County, Utah",9,0,Pass,39,0,Pass
+49027,"Millard County, Utah",44,0,Pass,121,0,Pass
+49029,"Morgan County, Utah",33,0,Pass,206,0,Pass
+49031,"Piute County, Utah",0,0,Pass,26,0,Pass
+49033,"Rich County, Utah",0,0,Pass,0,0,Pass
+49035,"Salt Lake County, Utah",5409,0,Pass,24386,0,Pass
+49037,"San Juan County, Utah",170,0,Pass,402,0,Pass
+49039,"Sanpete County, Utah",91,0,Pass,493,0,Pass
+49041,"Sevier County, Utah",60,0,Pass,252,0,Pass
+49043,"Summit County, Utah",86,0,Pass,461,0,Pass
+49045,"Tooele County, Utah",802,0,Pass,2814,0,Pass
+49047,"Uintah County, Utah",202,0,Pass,644,0,Pass
+49049,"Utah County, Utah",2431,0,Pass,11270,0,Pass
+49051,"Wasatch County, Utah",91,0,Pass,390,0,Pass
+49053,"Washington County, Utah",803,0,Pass,3731,0,Pass
+49055,"Wayne County, Utah",5,0,Pass,29,0,Pass
+49057,"Weber County, Utah",1998,0,Pass,5795,0,Pass
+50001,"Addison County, Vermont",167,0,Pass,400,0,Pass
+50003,"Bennington County, Vermont",283,0,Pass,457,0,Pass
+50005,"Caledonia County, Vermont",211,0,Pass,350,0,Pass
+50007,"Chittenden County, Vermont",454,0,Pass,1435,0,Pass
+50009,"Essex County, Vermont",40,0,Pass,93,0,Pass
+50011,"Franklin County, Vermont",291,0,Pass,827,0,Pass
+50013,"Grand Isle County, Vermont",26,0,Pass,62,0,Pass
+50015,"Lamoille County, Vermont",78,0,Pass,235,0,Pass
+50017,"Orange County, Vermont",179,0,Pass,551,0,Pass
+50019,"Orleans County, Vermont",70,0,Pass,395,0,Pass
+50021,"Rutland County, Vermont",330,0,Pass,905,0,Pass
+50023,"Washington County, Vermont",148,0,Pass,443,0,Pass
+50025,"Windham County, Vermont",63,0,Pass,323,0,Pass
+50027,"Windsor County, Vermont",190,0,Pass,633,0,Pass
+51001,"Accomack County, Virginia",253,0,Pass,581,0,Pass
+51003,"Albemarle County, Virginia",446,0,Pass,1300,0,Pass
+51005,"Alleghany County, Virginia",103,0,Pass,191,0,Pass
+51007,"Amelia County, Virginia",220,0,Pass,441,0,Pass
+51009,"Amherst County, Virginia",278,0,Pass,823,0,Pass
+51011,"Appomattox County, Virginia",113,0,Pass,366,0,Pass
+51013,"Arlington County, Virginia",387,0,Pass,1597,0,Pass
+51015,"Augusta County, Virginia",918,0,Pass,1793,0,Pass
+51017,"Bath County, Virginia",135,0,Pass,135,0,Pass
+51019,"Bedford County, Virginia",560,0,Pass,1340,0,Pass
+51021,"Bland County, Virginia",127,0,Pass,145,0,Pass
+51023,"Botetourt County, Virginia",249,0,Pass,605,0,Pass
+51025,"Brunswick County, Virginia",351,0,Pass,609,0,Pass
+51027,"Buchanan County, Virginia",298,0,Pass,538,0,Pass
+51029,"Buckingham County, Virginia",244,0,Pass,473,0,Pass
+51031,"Campbell County, Virginia",295,0,Pass,1236,0,Pass
+51033,"Caroline County, Virginia",537,0,Pass,1036,0,Pass
+51035,"Carroll County, Virginia",375,0,Pass,624,0,Pass
+51036,"Charles City County, Virginia",63,0,Pass,215,0,Pass
+51037,"Charlotte County, Virginia",209,0,Pass,335,0,Pass
+51041,"Chesterfield County, Virginia",3382,0,Pass,8308,0,Pass
+51043,"Clarke County, Virginia",42,0,Pass,137,0,Pass
+51045,"Craig County, Virginia",2,0,Pass,47,0,Pass
+51047,"Culpeper County, Virginia",354,0,Pass,1416,0,Pass
+51049,"Cumberland County, Virginia",234,0,Pass,408,0,Pass
+51051,"Dickenson County, Virginia",154,0,Pass,327,0,Pass
+51053,"Dinwiddie County, Virginia",455,0,Pass,867,0,Pass
+51057,"Essex County, Virginia",72,0,Pass,343,0,Pass
+51059,"Fairfax County, Virginia",3444,0,Pass,18554,0,Pass
+51061,"Fauquier County, Virginia",196,0,Pass,1369,0,Pass
+51063,"Floyd County, Virginia",143,0,Pass,201,0,Pass
+51065,"Fluvanna County, Virginia",154,0,Pass,881,0,Pass
+51067,"Franklin County, Virginia",711,0,Pass,1539,0,Pass
+51069,"Frederick County, Virginia",637,0,Pass,2092,0,Pass
+51071,"Giles County, Virginia",31,0,Pass,190,0,Pass
+51073,"Gloucester County, Virginia",571,0,Pass,1068,0,Pass
+51075,"Goochland County, Virginia",173,0,Pass,464,0,Pass
+51077,"Grayson County, Virginia",96,0,Pass,205,0,Pass
+51079,"Greene County, Virginia",281,0,Pass,783,0,Pass
+51081,"Greensville County, Virginia",95,0,Pass,240,0,Pass
+51083,"Halifax County, Virginia",323,0,Pass,836,0,Pass
+51085,"Hanover County, Virginia",577,0,Pass,2291,0,Pass
+51087,"Henrico County, Virginia",1639,0,Pass,5304,0,Pass
+51089,"Henry County, Virginia",509,0,Pass,775,0,Pass
+51091,"Highland County, Virginia",32,0,Pass,56,0,Pass
+51093,"Isle of Wight County, Virginia",338,0,Pass,673,0,Pass
+51095,"James City County, Virginia",355,0,Pass,1239,0,Pass
+51097,"King and Queen County, Virginia",216,0,Pass,330,0,Pass
+51099,"King George County, Virginia",199,0,Pass,832,0,Pass
+51101,"King William County, Virginia",81,0,Pass,275,0,Pass
+51103,"Lancaster County, Virginia",119,0,Pass,325,0,Pass
+51105,"Lee County, Virginia",379,0,Pass,497,0,Pass
+51107,"Loudoun County, Virginia",1632,0,Pass,8604,0,Pass
+51109,"Louisa County, Virginia",340,0,Pass,963,0,Pass
+51111,"Lunenburg County, Virginia",124,0,Pass,326,0,Pass
+51113,"Madison County, Virginia",102,0,Pass,393,0,Pass
+51115,"Mathews County, Virginia",0,0,Pass,30,0,Pass
+51117,"Mecklenburg County, Virginia",286,0,Pass,477,0,Pass
+51119,"Middlesex County, Virginia",203,0,Pass,315,0,Pass
+51121,"Montgomery County, Virginia",507,0,Pass,1095,0,Pass
+51125,"Nelson County, Virginia",48,0,Pass,359,0,Pass
+51127,"New Kent County, Virginia",149,0,Pass,503,0,Pass
+51131,"Northampton County, Virginia",156,0,Pass,277,0,Pass
+51133,"Northumberland County, Virginia",165,0,Pass,285,0,Pass
+51135,"Nottoway County, Virginia",116,0,Pass,302,0,Pass
+51137,"Orange County, Virginia",501,0,Pass,1157,0,Pass
+51139,"Page County, Virginia",227,0,Pass,560,0,Pass
+51141,"Patrick County, Virginia",137,0,Pass,385,0,Pass
+51143,"Pittsylvania County, Virginia",557,0,Pass,1495,0,Pass
+51145,"Powhatan County, Virginia",165,0,Pass,454,0,Pass
+51147,"Prince Edward County, Virginia",151,0,Pass,300,0,Pass
+51149,"Prince George County, Virginia",378,0,Pass,904,0,Pass
+51153,"Prince William County, Virginia",2992,0,Pass,14058,0,Pass
+51155,"Pulaski County, Virginia",705,0,Pass,996,0,Pass
+51157,"Rappahannock County, Virginia",26,0,Pass,51,0,Pass
+51159,"Richmond County, Virginia",56,0,Pass,115,0,Pass
+51161,"Roanoke County, Virginia",544,0,Pass,1689,0,Pass
+51163,"Rockbridge County, Virginia",184,0,Pass,496,0,Pass
+51165,"Rockingham County, Virginia",500,0,Pass,1283,0,Pass
+51167,"Russell County, Virginia",268,0,Pass,484,0,Pass
+51169,"Scott County, Virginia",274,0,Pass,532,0,Pass
+51171,"Shenandoah County, Virginia",207,0,Pass,947,0,Pass
+51173,"Smyth County, Virginia",305,0,Pass,498,0,Pass
+51175,"Southampton County, Virginia",182,0,Pass,398,0,Pass
+51177,"Spotsylvania County, Virginia",1200,0,Pass,3418,0,Pass
+51179,"Stafford County, Virginia",1043,0,Pass,3879,0,Pass
+51181,"Surry County, Virginia",82,0,Pass,201,0,Pass
+51183,"Sussex County, Virginia",132,0,Pass,265,0,Pass
+51185,"Tazewell County, Virginia",634,0,Pass,980,0,Pass
+51187,"Warren County, Virginia",349,0,Pass,1024,0,Pass
+51191,"Washington County, Virginia",528,0,Pass,1138,0,Pass
+51193,"Westmoreland County, Virginia",268,0,Pass,521,0,Pass
+51195,"Wise County, Virginia",440,0,Pass,860,0,Pass
+51197,"Wythe County, Virginia",622,0,Pass,851,0,Pass
+51199,"York County, Virginia",334,0,Pass,1146,0,Pass
+51510,"Alexandria city, Virginia",393,0,Pass,1397,0,Pass
+51520,"Bristol city, Virginia",214,0,Pass,355,0,Pass
+51530,"Buena Vista city, Virginia",45,0,Pass,53,0,Pass
+51540,"Charlottesville city, Virginia",51,0,Pass,423,0,Pass
+51550,"Chesapeake city, Virginia",2200,0,Pass,6102,0,Pass
+51570,"Colonial Heights city, Virginia",198,0,Pass,447,0,Pass
+51580,"Covington city, Virginia",33,0,Pass,64,0,Pass
+51590,"Danville city, Virginia",448,0,Pass,769,0,Pass
+51595,"Emporia city, Virginia",127,0,Pass,149,0,Pass
+51600,"Fairfax city, Virginia",150,0,Pass,372,0,Pass
+51610,"Falls Church city, Virginia",3,0,Pass,64,0,Pass
+51620,"Franklin city, Virginia",30,0,Pass,119,0,Pass
+51630,"Fredericksburg city, Virginia",22,0,Pass,203,0,Pass
+51640,"Galax city, Virginia",75,0,Pass,137,0,Pass
+51650,"Hampton city, Virginia",1392,0,Pass,3599,0,Pass
+51660,"Harrisonburg city, Virginia",173,0,Pass,804,0,Pass
+51670,"Hopewell city, Virginia",288,0,Pass,946,0,Pass
+51678,"Lexington city, Virginia",0,0,Pass,0,0,Pass
+51680,"Lynchburg city, Virginia",368,0,Pass,909,0,Pass
+51683,"Manassas city, Virginia",342,0,Pass,1188,0,Pass
+51685,"Manassas Park city, Virginia",120,0,Pass,437,0,Pass
+51690,"Martinsville city, Virginia",104,0,Pass,145,0,Pass
+51700,"Newport News city, Virginia",1401,0,Pass,3502,0,Pass
+51710,"Norfolk city, Virginia",1596,0,Pass,4052,0,Pass
+51720,"Norton city, Virginia",65,0,Pass,96,0,Pass
+51730,"Petersburg city, Virginia",588,0,Pass,909,0,Pass
+51735,"Poquoson city, Virginia",51,0,Pass,274,0,Pass
+51740,"Portsmouth city, Virginia",1112,0,Pass,1994,0,Pass
+51750,"Radford city, Virginia",112,0,Pass,219,0,Pass
+51760,"Richmond city, Virginia",814,0,Pass,2355,0,Pass
+51770,"Roanoke city, Virginia",801,0,Pass,1603,0,Pass
+51775,"Salem city, Virginia",189,0,Pass,340,0,Pass
+51790,"Staunton city, Virginia",112,0,Pass,317,0,Pass
+51800,"Suffolk city, Virginia",747,0,Pass,2342,0,Pass
+51810,"Virginia Beach city, Virginia",2172,0,Pass,8118,0,Pass
+51820,"Waynesboro city, Virginia",270,0,Pass,518,0,Pass
+51830,"Williamsburg city, Virginia",72,0,Pass,188,0,Pass
+51840,"Winchester city, Virginia",135,0,Pass,370,0,Pass
+53001,"Adams County, Washington",131,0,Pass,389,0,Pass
+53003,"Asotin County, Washington",301,0,Pass,427,0,Pass
+53005,"Benton County, Washington",1591,0,Pass,3951,0,Pass
+53007,"Chelan County, Washington",376,0,Pass,1499,0,Pass
+53009,"Clallam County, Washington",493,0,Pass,1181,0,Pass
+53011,"Clark County, Washington",2817,0,Pass,10110,0,Pass
+53013,"Columbia County, Washington",0,0,Pass,6,0,Pass
+53015,"Cowlitz County, Washington",1069,0,Pass,2791,0,Pass
+53017,"Douglas County, Washington",559,0,Pass,1374,0,Pass
+53019,"Ferry County, Washington",107,0,Pass,263,0,Pass
+53021,"Franklin County, Washington",1064,0,Pass,2706,0,Pass
+53023,"Garfield County, Washington",9,0,Pass,25,0,Pass
+53025,"Grant County, Washington",432,0,Pass,1880,0,Pass
+53027,"Grays Harbor County, Washington",450,0,Pass,1615,0,Pass
+53029,"Island County, Washington",219,0,Pass,1085,0,Pass
+53031,"Jefferson County, Washington",41,0,Pass,344,0,Pass
+53033,"King County, Washington",7191,0,Pass,33861,0,Pass
+53035,"Kitsap County, Washington",1684,0,Pass,5234,0,Pass
+53037,"Kittitas County, Washington",134,0,Pass,512,0,Pass
+53039,"Klickitat County, Washington",241,0,Pass,406,0,Pass
+53041,"Lewis County, Washington",732,0,Pass,2421,0,Pass
+53043,"Lincoln County, Washington",47,0,Pass,144,0,Pass
+53045,"Mason County, Washington",544,0,Pass,1679,0,Pass
+53047,"Okanogan County, Washington",320,0,Pass,971,0,Pass
+53049,"Pacific County, Washington",194,0,Pass,494,0,Pass
+53051,"Pend Oreille County, Washington",117,0,Pass,261,0,Pass
+53053,"Pierce County, Washington",4510,0,Pass,18368,0,Pass
+53055,"San Juan County, Washington",34,0,Pass,121,0,Pass
+53057,"Skagit County, Washington",1094,0,Pass,3070,0,Pass
+53059,"Skamania County, Washington",96,0,Pass,430,0,Pass
+53061,"Snohomish County, Washington",3575,0,Pass,15449,0,Pass
+53063,"Spokane County, Washington",2574,0,Pass,8953,0,Pass
+53065,"Stevens County, Washington",378,0,Pass,1171,0,Pass
+53067,"Thurston County, Washington",1890,0,Pass,5586,0,Pass
+53069,"Wahkiakum County, Washington",113,0,Pass,143,0,Pass
+53071,"Walla Walla County, Washington",298,0,Pass,894,0,Pass
+53073,"Whatcom County, Washington",1312,0,Pass,3416,0,Pass
+53075,"Whitman County, Washington",68,0,Pass,235,0,Pass
+53077,"Yakima County, Washington",1920,0,Pass,6351,0,Pass
+54001,"Barbour County, West Virginia",159,0,Pass,284,0,Pass
+54003,"Berkeley County, West Virginia",775,0,Pass,3307,0,Pass
+54005,"Boone County, West Virginia",266,0,Pass,445,0,Pass
+54007,"Braxton County, West Virginia",225,0,Pass,440,0,Pass
+54009,"Brooke County, West Virginia",148,0,Pass,340,0,Pass
+54011,"Cabell County, West Virginia",1031,0,Pass,1971,0,Pass
+54013,"Calhoun County, West Virginia",54,0,Pass,185,0,Pass
+54015,"Clay County, West Virginia",44,0,Pass,51,0,Pass
+54017,"Doddridge County, West Virginia",69,0,Pass,264,0,Pass
+54019,"Fayette County, West Virginia",773,0,Pass,1141,0,Pass
+54021,"Gilmer County, West Virginia",22,0,Pass,97,0,Pass
+54023,"Grant County, West Virginia",106,0,Pass,211,0,Pass
+54025,"Greenbrier County, West Virginia",254,0,Pass,493,0,Pass
+54027,"Hampshire County, West Virginia",245,0,Pass,630,0,Pass
+54029,"Hancock County, West Virginia",164,0,Pass,415,0,Pass
+54031,"Hardy County, West Virginia",165,0,Pass,311,0,Pass
+54033,"Harrison County, West Virginia",745,0,Pass,1263,0,Pass
+54035,"Jackson County, West Virginia",360,0,Pass,475,0,Pass
+54037,"Jefferson County, West Virginia",400,0,Pass,1524,0,Pass
+54039,"Kanawha County, West Virginia",1521,0,Pass,3330,0,Pass
+54041,"Lewis County, West Virginia",370,0,Pass,514,0,Pass
+54043,"Lincoln County, West Virginia",398,0,Pass,759,0,Pass
+54045,"Logan County, West Virginia",711,0,Pass,1098,0,Pass
+54047,"McDowell County, West Virginia",185,0,Pass,318,0,Pass
+54049,"Marion County, West Virginia",406,0,Pass,1019,0,Pass
+54051,"Marshall County, West Virginia",131,0,Pass,710,0,Pass
+54053,"Mason County, West Virginia",378,0,Pass,588,0,Pass
+54055,"Mercer County, West Virginia",520,0,Pass,1065,0,Pass
+54057,"Mineral County, West Virginia",304,0,Pass,557,0,Pass
+54059,"Mingo County, West Virginia",310,0,Pass,598,0,Pass
+54061,"Monongalia County, West Virginia",417,0,Pass,1030,0,Pass
+54063,"Monroe County, West Virginia",202,0,Pass,349,0,Pass
+54065,"Morgan County, West Virginia",127,0,Pass,520,0,Pass
+54067,"Nicholas County, West Virginia",240,0,Pass,725,0,Pass
+54069,"Ohio County, West Virginia",140,0,Pass,359,0,Pass
+54071,"Pendleton County, West Virginia",117,0,Pass,141,0,Pass
+54073,"Pleasants County, West Virginia",77,0,Pass,178,0,Pass
+54075,"Pocahontas County, West Virginia",29,0,Pass,91,0,Pass
+54077,"Preston County, West Virginia",318,0,Pass,612,0,Pass
+54079,"Putnam County, West Virginia",734,0,Pass,1097,0,Pass
+54081,"Raleigh County, West Virginia",813,0,Pass,1550,0,Pass
+54083,"Randolph County, West Virginia",470,0,Pass,777,0,Pass
+54085,"Ritchie County, West Virginia",197,0,Pass,232,0,Pass
+54087,"Roane County, West Virginia",158,0,Pass,310,0,Pass
+54089,"Summers County, West Virginia",123,0,Pass,256,0,Pass
+54091,"Taylor County, West Virginia",251,0,Pass,401,0,Pass
+54093,"Tucker County, West Virginia",73,0,Pass,91,0,Pass
+54095,"Tyler County, West Virginia",68,0,Pass,170,0,Pass
+54097,"Upshur County, West Virginia",83,0,Pass,356,0,Pass
+54099,"Wayne County, West Virginia",499,0,Pass,883,0,Pass
+54101,"Webster County, West Virginia",111,0,Pass,175,0,Pass
+54103,"Wetzel County, West Virginia",156,0,Pass,392,0,Pass
+54105,"Wirt County, West Virginia",89,0,Pass,92,0,Pass
+54107,"Wood County, West Virginia",818,0,Pass,1480,0,Pass
+54109,"Wyoming County, West Virginia",800,0,Pass,1224,0,Pass
+55001,"Adams County, Wisconsin",120,0,Pass,324,0,Pass
+55003,"Ashland County, Wisconsin",120,0,Pass,168,0,Pass
+55005,"Barron County, Wisconsin",221,0,Pass,443,0,Pass
+55007,"Bayfield County, Wisconsin",102,0,Pass,194,0,Pass
+55009,"Brown County, Wisconsin",1144,0,Pass,2890,0,Pass
+55011,"Buffalo County, Wisconsin",28,0,Pass,126,0,Pass
+55013,"Burnett County, Wisconsin",87,0,Pass,183,0,Pass
+55015,"Calumet County, Wisconsin",89,0,Pass,358,0,Pass
+55017,"Chippewa County, Wisconsin",202,0,Pass,502,0,Pass
+55019,"Clark County, Wisconsin",201,0,Pass,450,0,Pass
+55021,"Columbia County, Wisconsin",383,0,Pass,1115,0,Pass
+55023,"Crawford County, Wisconsin",19,0,Pass,70,0,Pass
+55025,"Dane County, Wisconsin",1223,0,Pass,3920,0,Pass
+55027,"Dodge County, Wisconsin",358,0,Pass,947,0,Pass
+55029,"Door County, Wisconsin",81,0,Pass,163,0,Pass
+55031,"Douglas County, Wisconsin",137,0,Pass,358,0,Pass
+55033,"Dunn County, Wisconsin",55,0,Pass,337,0,Pass
+55035,"Eau Claire County, Wisconsin",346,0,Pass,935,0,Pass
+55037,"Florence County, Wisconsin",3,0,Pass,20,0,Pass
+55039,"Fond du Lac County, Wisconsin",313,0,Pass,997,0,Pass
+55041,"Forest County, Wisconsin",57,0,Pass,116,0,Pass
+55043,"Grant County, Wisconsin",113,0,Pass,351,0,Pass
+55045,"Green County, Wisconsin",73,0,Pass,375,0,Pass
+55047,"Green Lake County, Wisconsin",36,0,Pass,186,0,Pass
+55049,"Iowa County, Wisconsin",35,0,Pass,188,0,Pass
+55051,"Iron County, Wisconsin",14,0,Pass,29,0,Pass
+55053,"Jackson County, Wisconsin",115,0,Pass,371,0,Pass
+55055,"Jefferson County, Wisconsin",504,0,Pass,1119,0,Pass
+55057,"Juneau County, Wisconsin",164,0,Pass,373,0,Pass
+55059,"Kenosha County, Wisconsin",719,0,Pass,2634,0,Pass
+55061,"Kewaunee County, Wisconsin",51,0,Pass,160,0,Pass
+55063,"La Crosse County, Wisconsin",229,0,Pass,836,0,Pass
+55065,"Lafayette County, Wisconsin",64,0,Pass,171,0,Pass
+55067,"Langlade County, Wisconsin",126,0,Pass,167,0,Pass
+55069,"Lincoln County, Wisconsin",161,0,Pass,490,0,Pass
+55071,"Manitowoc County, Wisconsin",270,0,Pass,817,0,Pass
+55073,"Marathon County, Wisconsin",334,0,Pass,1453,0,Pass
+55075,"Marinette County, Wisconsin",193,0,Pass,612,0,Pass
+55077,"Marquette County, Wisconsin",68,0,Pass,199,0,Pass
+55078,"Menominee County, Wisconsin",176,0,Pass,307,0,Pass
+55079,"Milwaukee County, Wisconsin",4105,0,Pass,12140,0,Pass
+55081,"Monroe County, Wisconsin",120,0,Pass,511,0,Pass
+55083,"Oconto County, Wisconsin",154,0,Pass,430,0,Pass
+55085,"Oneida County, Wisconsin",130,0,Pass,327,0,Pass
+55087,"Outagamie County, Wisconsin",566,0,Pass,1674,0,Pass
+55089,"Ozaukee County, Wisconsin",199,0,Pass,567,0,Pass
+55091,"Pepin County, Wisconsin",6,0,Pass,128,0,Pass
+55093,"Pierce County, Wisconsin",53,0,Pass,289,0,Pass
+55095,"Polk County, Wisconsin",199,0,Pass,536,0,Pass
+55097,"Portage County, Wisconsin",151,0,Pass,490,0,Pass
+55099,"Price County, Wisconsin",43,0,Pass,97,0,Pass
+55101,"Racine County, Wisconsin",1410,0,Pass,2833,0,Pass
+55103,"Richland County, Wisconsin",65,0,Pass,183,0,Pass
+55105,"Rock County, Wisconsin",891,0,Pass,2265,0,Pass
+55107,"Rusk County, Wisconsin",67,0,Pass,188,0,Pass
+55109,"St. Croix County, Wisconsin",188,0,Pass,658,0,Pass
+55111,"Sauk County, Wisconsin",200,0,Pass,549,0,Pass
+55113,"Sawyer County, Wisconsin",141,0,Pass,232,0,Pass
+55115,"Shawano County, Wisconsin",272,0,Pass,639,0,Pass
+55117,"Sheboygan County, Wisconsin",176,0,Pass,925,0,Pass
+55119,"Taylor County, Wisconsin",94,0,Pass,205,0,Pass
+55121,"Trempealeau County, Wisconsin",48,0,Pass,222,0,Pass
+55123,"Vernon County, Wisconsin",54,0,Pass,198,0,Pass
+55125,"Vilas County, Wisconsin",164,0,Pass,286,0,Pass
+55127,"Walworth County, Wisconsin",144,0,Pass,1303,0,Pass
+55129,"Washburn County, Wisconsin",120,0,Pass,214,0,Pass
+55131,"Washington County, Wisconsin",347,0,Pass,817,0,Pass
+55133,"Waukesha County, Wisconsin",1140,0,Pass,4057,0,Pass
+55135,"Waupaca County, Wisconsin",386,0,Pass,655,0,Pass
+55137,"Waushara County, Wisconsin",100,0,Pass,446,0,Pass
+55139,"Winnebago County, Wisconsin",424,0,Pass,1637,0,Pass
+55141,"Wood County, Wisconsin",144,0,Pass,420,0,Pass
+56001,"Albany County, Wyoming",114,0,Pass,299,0,Pass
+56003,"Big Horn County, Wyoming",67,0,Pass,125,0,Pass
+56005,"Campbell County, Wyoming",287,0,Pass,486,0,Pass
+56007,"Carbon County, Wyoming",156,0,Pass,211,0,Pass
+56009,"Converse County, Wyoming",68,0,Pass,215,0,Pass
+56011,"Crook County, Wyoming",55,0,Pass,91,0,Pass
+56013,"Fremont County, Wyoming",664,0,Pass,1082,0,Pass
+56015,"Goshen County, Wyoming",109,0,Pass,160,0,Pass
+56017,"Hot Springs County, Wyoming",10,0,Pass,21,0,Pass
+56019,"Johnson County, Wyoming",9,0,Pass,25,0,Pass
+56021,"Laramie County, Wyoming",789,0,Pass,1584,0,Pass
+56023,"Lincoln County, Wyoming",120,0,Pass,284,0,Pass
+56025,"Natrona County, Wyoming",612,0,Pass,1054,0,Pass
+56027,"Niobrara County, Wyoming",0,0,Pass,4,0,Pass
+56029,"Park County, Wyoming",109,0,Pass,328,0,Pass
+56031,"Platte County, Wyoming",17,0,Pass,50,0,Pass
+56033,"Sheridan County, Wyoming",46,0,Pass,409,0,Pass
+56035,"Sublette County, Wyoming",31,0,Pass,81,0,Pass
+56037,"Sweetwater County, Wyoming",156,0,Pass,572,0,Pass
+56039,"Teton County, Wyoming",22,0,Pass,122,0,Pass
+56041,"Uinta County, Wyoming",169,0,Pass,239,0,Pass
+56043,"Washakie County, Wyoming",8,0,Pass,59,0,Pass
+56045,"Weston County, Wyoming",9,0,Pass,129,0,Pass
+72001,"Adjuntas Municipio, Puerto Rico",20,0,Pass,309,0,Pass
+72003,"Aguada Municipio, Puerto Rico",183,0,Pass,735,0,Pass
+72005,"Aguadilla Municipio, Puerto Rico",275,0,Pass,1011,0,Pass
+72007,"Aguas Buenas Municipio, Puerto Rico",143,0,Pass,478,0,Pass
+72009,"Aibonito Municipio, Puerto Rico",263,0,Pass,650,0,Pass
+72011,"Añasco Municipio, Puerto Rico",137,0,Pass,237,0,Pass
+72013,"Arecibo Municipio, Puerto Rico",269,0,Pass,1136,0,Pass
+72015,"Arroyo Municipio, Puerto Rico",53,0,Pass,289,0,Pass
+72017,"Barceloneta Municipio, Puerto Rico",168,0,Pass,427,0,Pass
+72019,"Barranquitas Municipio, Puerto Rico",219,0,Pass,682,0,Pass
+72021,"Bayamón Municipio, Puerto Rico",1219,0,Pass,3181,0,Pass
+72023,"Cabo Rojo Municipio, Puerto Rico",255,0,Pass,1051,0,Pass
+72025,"Caguas Municipio, Puerto Rico",690,0,Pass,2178,0,Pass
+72027,"Camuy Municipio, Puerto Rico",82,0,Pass,420,0,Pass
+72029,"Canóvanas Municipio, Puerto Rico",327,0,Pass,1003,0,Pass
+72031,"Carolina Municipio, Puerto Rico",995,0,Pass,3303,0,Pass
+72033,"Cataño Municipio, Puerto Rico",149,0,Pass,323,0,Pass
+72035,"Cayey Municipio, Puerto Rico",511,0,Pass,860,0,Pass
+72037,"Ceiba Municipio, Puerto Rico",60,0,Pass,239,0,Pass
+72039,"Ciales Municipio, Puerto Rico",138,0,Pass,210,0,Pass
+72041,"Cidra Municipio, Puerto Rico",311,0,Pass,1102,0,Pass
+72043,"Coamo Municipio, Puerto Rico",339,0,Pass,827,0,Pass
+72045,"Comerío Municipio, Puerto Rico",108,0,Pass,266,0,Pass
+72047,"Corozal Municipio, Puerto Rico",347,0,Pass,1218,0,Pass
+72049,"Culebra Municipio, Puerto Rico",8,0,Pass,35,0,Pass
+72051,"Dorado Municipio, Puerto Rico",281,0,Pass,595,0,Pass
+72053,"Fajardo Municipio, Puerto Rico",147,0,Pass,498,0,Pass
+72054,"Florida Municipio, Puerto Rico",133,0,Pass,219,0,Pass
+72055,"Guánica Municipio, Puerto Rico",105,0,Pass,243,0,Pass
+72057,"Guayama Municipio, Puerto Rico",155,0,Pass,536,0,Pass
+72059,"Guayanilla Municipio, Puerto Rico",169,0,Pass,419,0,Pass
+72061,"Guaynabo Municipio, Puerto Rico",473,0,Pass,1083,0,Pass
+72063,"Gurabo Municipio, Puerto Rico",175,0,Pass,737,0,Pass
+72065,"Hatillo Municipio, Puerto Rico",291,0,Pass,1188,0,Pass
+72067,"Hormigueros Municipio, Puerto Rico",146,0,Pass,345,0,Pass
+72069,"Humacao Municipio, Puerto Rico",545,0,Pass,1155,0,Pass
+72071,"Isabela Municipio, Puerto Rico",301,0,Pass,734,0,Pass
+72073,"Jayuya Municipio, Puerto Rico",189,0,Pass,470,0,Pass
+72075,"Juana Díaz Municipio, Puerto Rico",214,0,Pass,1044,0,Pass
+72077,"Juncos Municipio, Puerto Rico",461,0,Pass,964,0,Pass
+72079,"Lajas Municipio, Puerto Rico",170,0,Pass,562,0,Pass
+72081,"Lares Municipio, Puerto Rico",146,0,Pass,453,0,Pass
+72083,"Las Marías Municipio, Puerto Rico",6,0,Pass,201,0,Pass
+72085,"Las Piedras Municipio, Puerto Rico",295,0,Pass,698,0,Pass
+72087,"Loíza Municipio, Puerto Rico",215,0,Pass,819,0,Pass
+72089,"Luquillo Municipio, Puerto Rico",135,0,Pass,419,0,Pass
+72091,"Manatí Municipio, Puerto Rico",267,0,Pass,522,0,Pass
+72093,"Maricao Municipio, Puerto Rico",26,0,Pass,111,0,Pass
+72095,"Maunabo Municipio, Puerto Rico",173,0,Pass,332,0,Pass
+72097,"Mayagüez Municipio, Puerto Rico",337,0,Pass,919,0,Pass
+72099,"Moca Municipio, Puerto Rico",7,0,Pass,275,0,Pass
+72101,"Morovis Municipio, Puerto Rico",110,0,Pass,274,0,Pass
+72103,"Naguabo Municipio, Puerto Rico",231,0,Pass,535,0,Pass
+72105,"Naranjito Municipio, Puerto Rico",282,0,Pass,764,0,Pass
+72107,"Orocovis Municipio, Puerto Rico",197,0,Pass,444,0,Pass
+72109,"Patillas Municipio, Puerto Rico",206,0,Pass,444,0,Pass
+72111,"Peñuelas Municipio, Puerto Rico",96,0,Pass,413,0,Pass
+72113,"Ponce Municipio, Puerto Rico",671,0,Pass,2712,0,Pass
+72115,"Quebradillas Municipio, Puerto Rico",200,0,Pass,383,0,Pass
+72117,"Rincón Municipio, Puerto Rico",146,0,Pass,212,0,Pass
+72119,"Río Grande Municipio, Puerto Rico",616,0,Pass,1212,0,Pass
+72121,"Sabana Grande Municipio, Puerto Rico",200,0,Pass,610,0,Pass
+72123,"Salinas Municipio, Puerto Rico",189,0,Pass,540,0,Pass
+72125,"San Germán Municipio, Puerto Rico",280,0,Pass,777,0,Pass
+72127,"San Juan Municipio, Puerto Rico",1634,0,Pass,4735,0,Pass
+72129,"San Lorenzo Municipio, Puerto Rico",445,0,Pass,1123,0,Pass
+72131,"San Sebastián Municipio, Puerto Rico",344,0,Pass,803,0,Pass
+72133,"Santa Isabel Municipio, Puerto Rico",73,0,Pass,269,0,Pass
+72135,"Toa Alta Municipio, Puerto Rico",435,0,Pass,1445,0,Pass
+72137,"Toa Baja Municipio, Puerto Rico",1095,0,Pass,1982,0,Pass
+72139,"Trujillo Alto Municipio, Puerto Rico",506,0,Pass,1058,0,Pass
+72141,"Utuado Municipio, Puerto Rico",110,0,Pass,460,0,Pass
+72143,"Vega Alta Municipio, Puerto Rico",255,0,Pass,729,0,Pass
+72145,"Vega Baja Municipio, Puerto Rico",290,0,Pass,943,0,Pass
+72147,"Vieques Municipio, Puerto Rico",57,0,Pass,104,0,Pass
+72149,"Villalba Municipio, Puerto Rico",106,0,Pass,494,0,Pass
+72151,"Yabucoa Municipio, Puerto Rico",316,0,Pass,693,0,Pass
+72153,"Yauco Municipio, Puerto Rico",92,0,Pass,494,0,Pass

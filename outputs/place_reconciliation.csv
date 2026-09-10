@@ -1,0 +1,676 @@
+geoid,name,duration_sum,duration_difference,duration_reconciliation_status,coresident_components_sum,coresident_difference,coresident_reconciliation_status
+1300184,"Abbeville city, Georgia",9,0,Pass,46,0,Pass
+1300408,"Acworth city, Georgia",329,0,Pass,716,0,Pass
+1300436,"Adairsville city, Georgia",14,0,Pass,825,0,Pass
+1300576,"Adel city, Georgia",93,0,Pass,139,0,Pass
+1300660,"Adrian city, Georgia",11,0,Pass,55,0,Pass
+1300828,"Ailey city, Georgia",0,0,Pass,0,0,Pass
+1300996,"Alamo town, Georgia",3,0,Pass,6,0,Pass
+1301024,"Alapaha town, Georgia",28,0,Pass,34,0,Pass
+1301052,"Albany city, Georgia",782,0,Pass,1464,0,Pass
+1301248,"Aldora town, Georgia",0,0,Pass,0,0,Pass
+1301472,"Allenhurst city, Georgia",18,0,Pass,25,0,Pass
+1301500,"Allentown city, Georgia",0,0,Pass,0,0,Pass
+1301612,"Alma city, Georgia",18,0,Pass,64,0,Pass
+1301696,"Alpharetta city, Georgia",237,0,Pass,1051,0,Pass
+1301808,"Alston town, Georgia",9,0,Pass,9,0,Pass
+1301948,"Alto town, Georgia",11,0,Pass,45,0,Pass
+1302060,"Ambrose city, Georgia",0,0,Pass,26,0,Pass
+1302116,"Americus city, Georgia",8,0,Pass,264,0,Pass
+1302256,"Andersonville city, Georgia",1,0,Pass,1,0,Pass
+1302364,"Antioch CDP, Georgia",0,0,Pass,0,0,Pass
+1302536,"Appling CDP, Georgia",0,0,Pass,11,0,Pass
+1302564,"Arabi town, Georgia",2,0,Pass,89,0,Pass
+1302592,"Aragon city, Georgia",48,0,Pass,96,0,Pass
+1302648,"Arcade city, Georgia",34,0,Pass,50,0,Pass
+1302844,"Argyle town, Georgia",28,0,Pass,28,0,Pass
+1302928,"Arlington city, Georgia",5,0,Pass,5,0,Pass
+1303124,"Arnoldsville city, Georgia",0,0,Pass,0,0,Pass
+1303236,"Ashburn city, Georgia",25,0,Pass,55,0,Pass
+1303440,"Athens-Clarke County unified government (balance), Georgia",251,0,Pass,1538,0,Pass
+1304000,"Atlanta city, Georgia",2563,0,Pass,5789,0,Pass
+1304084,"Attapulgus city, Georgia",13,0,Pass,13,0,Pass
+1304140,"Auburn city, Georgia",79,0,Pass,182,0,Pass
+1304204,"Augusta-Richmond County consolidated government (balance), Georgia",1973,0,Pass,5053,0,Pass
+1304252,"Austell city, Georgia",25,0,Pass,399,0,Pass
+1304392,"Avalon town, Georgia",16,0,Pass,16,0,Pass
+1304448,"Avera city, Georgia",4,0,Pass,8,0,Pass
+1304644,"Avondale Estates city, Georgia",17,0,Pass,48,0,Pass
+1304700,"Axson CDP, Georgia",0,0,Pass,0,0,Pass
+1304840,"Baconton city, Georgia",2,0,Pass,17,0,Pass
+1304896,"Bainbridge city, Georgia",134,0,Pass,312,0,Pass
+1304980,"Baldwin city, Georgia",0,0,Pass,124,0,Pass
+1305036,"Ball Ground city, Georgia",15,0,Pass,41,0,Pass
+1305344,"Barnesville city, Georgia",54,0,Pass,73,0,Pass
+1305680,"Bartow town, Georgia",3,0,Pass,3,0,Pass
+1305708,"Barwick city, Georgia",7,0,Pass,7,0,Pass
+1306016,"Baxley city, Georgia",20,0,Pass,35,0,Pass
+1306688,"Bellville city, Georgia",0,0,Pass,0,0,Pass
+1306884,"Belvedere Park CDP, Georgia",59,0,Pass,236,0,Pass
+1306968,"Bemiss CDP, Georgia",44,0,Pass,105,0,Pass
+1307248,"Berkeley Lake city, Georgia",14,0,Pass,20,0,Pass
+1307304,"Berlin city, Georgia",26,0,Pass,34,0,Pass
+1307380,"Berry College CDP, Georgia",0,0,Pass,0,0,Pass
+1307612,"Bethlehem town, Georgia",0,0,Pass,18,0,Pass
+1307640,"Between town, Georgia",0,0,Pass,5,0,Pass
+1308200,"Bishop town, Georgia",11,0,Pass,35,0,Pass
+1308284,"Blackshear city, Georgia",33,0,Pass,62,0,Pass
+1308480,"Blairsville city, Georgia",27,0,Pass,27,0,Pass
+1308536,"Blakely city, Georgia",40,0,Pass,87,0,Pass
+1308844,"Bloomingdale city, Georgia",15,0,Pass,23,0,Pass
+1308928,"Blue Ridge city, Georgia",12,0,Pass,35,0,Pass
+1308956,"Bluffton town, Georgia",9,0,Pass,38,0,Pass
+1309040,"Blythe city, Georgia",25,0,Pass,46,0,Pass
+1309068,"Bogart town, Georgia",0,0,Pass,54,0,Pass
+1309152,"Bolingbroke CDP, Georgia",0,0,Pass,0,0,Pass
+1309272,"Bonanza CDP, Georgia",0,0,Pass,25,0,Pass
+1309460,"Boston city, Georgia",15,0,Pass,30,0,Pass
+1309488,"Bostwick city, Georgia",0,0,Pass,0,0,Pass
+1309544,"Bowdon city, Georgia",15,0,Pass,47,0,Pass
+1309656,"Bowersville town, Georgia",2,0,Pass,10,0,Pass
+1309712,"Bowman city, Georgia",4,0,Pass,20,0,Pass
+1309768,"Box Springs CDP, Georgia",20,0,Pass,23,0,Pass
+1309852,"Boykin CDP, Georgia",0,0,Pass,0,0,Pass
+1310076,"Braselton town, Georgia",44,0,Pass,223,0,Pass
+1310104,"Braswell town, Georgia",11,0,Pass,40,0,Pass
+1310132,"Bremen city, Georgia",32,0,Pass,74,0,Pass
+1310608,"Brinson town, Georgia",6,0,Pass,11,0,Pass
+1310664,"Bristol CDP, Georgia",0,0,Pass,0,0,Pass
+1310860,"Bronwood town, Georgia",16,0,Pass,16,0,Pass
+1310944,"Brookhaven city, Georgia",84,0,Pass,604,0,Pass
+1311000,"Brooklet city, Georgia",9,0,Pass,55,0,Pass
+1311056,"Brooks town, Georgia",3,0,Pass,6,0,Pass
+1311504,"Broxton city, Georgia",18,0,Pass,18,0,Pass
+1311560,"Brunswick city, Georgia",460,0,Pass,624,0,Pass
+1311616,"Buchanan city, Georgia",93,0,Pass,147,0,Pass
+1311626,"Buckhead CDP, Georgia",0,0,Pass,113,0,Pass
+1311672,"Buckhead town, Georgia",4,0,Pass,7,0,Pass
+1311728,"Buena Vista city, Georgia",28,0,Pass,62,0,Pass
+1311784,"Buford city, Georgia",244,0,Pass,518,0,Pass
+1312120,"Butler city, Georgia",17,0,Pass,30,0,Pass
+1312232,"Byromville town, Georgia",5,0,Pass,5,0,Pass
+1312260,"Byron city, Georgia",207,0,Pass,207,0,Pass
+1312344,"Cadwell town, Georgia",11,0,Pass,24,0,Pass
+1312400,"Cairo city, Georgia",235,0,Pass,306,0,Pass
+1312456,"Calhoun city, Georgia",171,0,Pass,426,0,Pass
+1312484,"Calvary CDP, Georgia",0,0,Pass,0,0,Pass
+1312512,"Camak town, Georgia",0,0,Pass,5,0,Pass
+1312624,"Camilla city, Georgia",59,0,Pass,185,0,Pass
+1312834,"Candler-McAfee CDP, Georgia",371,0,Pass,821,0,Pass
+1312932,"Canon city, Georgia",4,0,Pass,6,0,Pass
+1312960,"Canoochee CDP, Georgia",0,0,Pass,0,0,Pass
+1312988,"Canton city, Georgia",111,0,Pass,546,0,Pass
+1313184,"Carl town, Georgia",0,0,Pass,0,0,Pass
+1313212,"Carlton city, Georgia",3,0,Pass,5,0,Pass
+1313352,"Carnesville city, Georgia",0,0,Pass,9,0,Pass
+1313492,"Carrollton city, Georgia",126,0,Pass,357,0,Pass
+1313688,"Cartersville city, Georgia",401,0,Pass,608,0,Pass
+1314024,"Cataula CDP, Georgia",0,0,Pass,14,0,Pass
+1314108,"Cave Spring city, Georgia",4,0,Pass,31,0,Pass
+1314192,"Cecil city, Georgia",0,0,Pass,0,0,Pass
+1314472,"Cedar Springs CDP, Georgia",0,0,Pass,0,0,Pass
+1314500,"Cedartown city, Georgia",218,0,Pass,235,0,Pass
+1314920,"Centerville city, Georgia",0,0,Pass,192,0,Pass
+1315026,"Centralhatchee town, Georgia",25,0,Pass,39,0,Pass
+1315172,"Chamblee city, Georgia",270,0,Pass,670,0,Pass
+1315508,"Chatsworth city, Georgia",51,0,Pass,118,0,Pass
+1315552,"Chattahoochee Hills city, Georgia",18,0,Pass,84,0,Pass
+1315585,"Chattanooga Valley CDP, Georgia",0,0,Pass,160,0,Pass
+1315648,"Chauncey city, Georgia",5,0,Pass,8,0,Pass
+1315844,"Cherry Log CDP, Georgia",0,0,Pass,0,0,Pass
+1315900,"Chester town, Georgia",0,0,Pass,0,0,Pass
+1315984,"Chickamauga city, Georgia",10,0,Pass,153,0,Pass
+1316460,"Clarkesville city, Georgia",0,0,Pass,22,0,Pass
+1316544,"Clarkston city, Georgia",118,0,Pass,293,0,Pass
+1316600,"Claxton city, Georgia",16,0,Pass,56,0,Pass
+1316656,"Clayton city, Georgia",7,0,Pass,42,0,Pass
+1316796,"Clermont town, Georgia",8,0,Pass,35,0,Pass
+1316824,"Cleveland city, Georgia",37,0,Pass,47,0,Pass
+1316908,"Climax city, Georgia",9,0,Pass,13,0,Pass
+1317132,"Clyattville CDP, Georgia",0,0,Pass,0,0,Pass
+1317272,"Cobbtown city, Georgia",12,0,Pass,12,0,Pass
+1317328,"Cochran city, Georgia",59,0,Pass,71,0,Pass
+1317468,"Cogdell CDP, Georgia",0,0,Pass,0,0,Pass
+1317496,"Cohutta city, Georgia",13,0,Pass,20,0,Pass
+1317552,"Colbert city, Georgia",6,0,Pass,41,0,Pass
+1317580,"Coleman CDP, Georgia",0,0,Pass,0,0,Pass
+1317776,"College Park city, Georgia",144,0,Pass,275,0,Pass
+1317832,"Collins city, Georgia",0,0,Pass,5,0,Pass
+1318000,"Colquitt city, Georgia",19,0,Pass,97,0,Pass
+1319000,"Columbus city, Georgia",2052,0,Pass,4411,0,Pass
+1319084,"Comer city, Georgia",0,0,Pass,46,0,Pass
+1319112,"Commerce city, Georgia",250,0,Pass,352,0,Pass
+1319168,"Concord city, Georgia",0,0,Pass,5,0,Pass
+1319280,"Conley CDP, Georgia",78,0,Pass,163,0,Pass
+1319336,"Conyers city, Georgia",192,0,Pass,394,0,Pass
+1319392,"Coolidge city, Georgia",3,0,Pass,3,0,Pass
+1319616,"Cordele city, Georgia",180,0,Pass,222,0,Pass
+1319728,"Cornelia city, Georgia",13,0,Pass,113,0,Pass
+1319830,"Country Club Estates CDP, Georgia",91,0,Pass,378,0,Pass
+1320064,"Covington city, Georgia",56,0,Pass,155,0,Pass
+1320288,"Crawford city, Georgia",3,0,Pass,33,0,Pass
+1320316,"Crawfordville city, Georgia",6,0,Pass,61,0,Pass
+1320372,"Crescent CDP, Georgia",0,0,Pass,0,0,Pass
+1320550,"Crooked Creek CDP, Georgia",0,0,Pass,20,0,Pass
+1320848,"Culloden city, Georgia",0,0,Pass,33,0,Pass
+1320932,"Cumming city, Georgia",37,0,Pass,94,0,Pass
+1321017,"Cusseta-Chattahoochee County unified government, Georgia",87,0,Pass,228,0,Pass
+1321072,"Cuthbert city, Georgia",35,0,Pass,99,0,Pass
+1321184,"Dacula city, Georgia",106,0,Pass,333,0,Pass
+1321240,"Dahlonega city, Georgia",7,0,Pass,34,0,Pass
+1321268,"Daisy city, Georgia",0,0,Pass,0,0,Pass
+1321324,"Dallas city, Georgia",154,0,Pass,783,0,Pass
+1321380,"Dalton city, Georgia",291,0,Pass,734,0,Pass
+1321436,"Damascus city, Georgia",1,0,Pass,1,0,Pass
+1321632,"Danielsville city, Georgia",5,0,Pass,20,0,Pass
+1321688,"Danville town, Georgia",17,0,Pass,18,0,Pass
+1321716,"Darien city, Georgia",20,0,Pass,20,0,Pass
+1321744,"Dasher town, Georgia",0,0,Pass,0,0,Pass
+1321800,"Davisboro city, Georgia",14,0,Pass,24,0,Pass
+1321912,"Dawson city, Georgia",0,0,Pass,102,0,Pass
+1321940,"Dawsonville city, Georgia",26,0,Pass,87,0,Pass
+1322024,"Dearing town, Georgia",16,0,Pass,20,0,Pass
+1322052,"Decatur city, Georgia",0,0,Pass,108,0,Pass
+1322080,"Deenwood CDP, Georgia",14,0,Pass,19,0,Pass
+1322108,"Deepstep town, Georgia",0,0,Pass,0,0,Pass
+1322304,"Demorest city, Georgia",15,0,Pass,31,0,Pass
+1322388,"Denton city, Georgia",56,0,Pass,56,0,Pass
+1322472,"De Soto city, Georgia",0,0,Pass,0,0,Pass
+1322724,"Dewy Rose CDP, Georgia",0,0,Pass,0,0,Pass
+1322752,"Dexter town, Georgia",28,0,Pass,39,0,Pass
+1322976,"Dillard city, Georgia",1,0,Pass,6,0,Pass
+1323060,"Dixie CDP, Georgia",0,0,Pass,0,0,Pass
+1323144,"Dixie Union CDP, Georgia",0,0,Pass,0,0,Pass
+1323200,"Dock Junction CDP, Georgia",112,0,Pass,142,0,Pass
+1323284,"Doerun city, Georgia",16,0,Pass,16,0,Pass
+1323368,"Donalsonville city, Georgia",189,0,Pass,243,0,Pass
+1323480,"Dooling town, Georgia",0,0,Pass,0,0,Pass
+1323536,"Doraville city, Georgia",33,0,Pass,268,0,Pass
+1323872,"Douglas city, Georgia",272,0,Pass,450,0,Pass
+1323900,"Douglasville city, Georgia",113,0,Pass,966,0,Pass
+1324264,"Druid Hills CDP, Georgia",0,0,Pass,0,0,Pass
+1324376,"Dublin city, Georgia",57,0,Pass,337,0,Pass
+1324488,"Dudley city, Georgia",0,0,Pass,1,0,Pass
+1324600,"Duluth city, Georgia",225,0,Pass,696,0,Pass
+1324768,"Dunwoody city, Georgia",48,0,Pass,490,0,Pass
+1324796,"Du Pont town, Georgia",0,0,Pass,0,0,Pass
+1324876,"Dutch Island CDP, Georgia",0,0,Pass,0,0,Pass
+1324964,"Eagle Grove CDP, Georgia",0,0,Pass,0,0,Pass
+1325300,"East Dublin city, Georgia",5,0,Pass,73,0,Pass
+1325356,"East Ellijay city, Georgia",8,0,Pass,8,0,Pass
+1325440,"East Griffin CDP, Georgia",19,0,Pass,39,0,Pass
+1325552,"Eastman city, Georgia",11,0,Pass,399,0,Pass
+1325692,"East Newnan CDP, Georgia",0,0,Pass,2,0,Pass
+1325720,"East Point city, Georgia",377,0,Pass,1048,0,Pass
+1326084,"Eatonton city, Georgia",51,0,Pass,77,0,Pass
+1326156,"Echols County consolidated government, Georgia",162,0,Pass,162,0,Pass
+1326224,"Edge Hill city, Georgia",0,0,Pass,0,0,Pass
+1326448,"Edison city, Georgia",0,0,Pass,3,0,Pass
+1326616,"Elberton city, Georgia",22,0,Pass,73,0,Pass
+1326980,"Ellaville city, Georgia",4,0,Pass,29,0,Pass
+1327008,"Ellenton town, Georgia",0,0,Pass,8,0,Pass
+1327064,"Ellerslie CDP, Georgia",0,0,Pass,0,0,Pass
+1327092,"Ellijay city, Georgia",0,0,Pass,35,0,Pass
+1327344,"Emerson city, Georgia",32,0,Pass,48,0,Pass
+1327512,"Empire CDP, Georgia",0,0,Pass,0,0,Pass
+1327596,"Enigma town, Georgia",5,0,Pass,5,0,Pass
+1327708,"Ephesus city, Georgia",7,0,Pass,17,0,Pass
+1327736,"Epworth CDP, Georgia",0,0,Pass,0,0,Pass
+1327932,"Eton city, Georgia",2,0,Pass,18,0,Pass
+1327988,"Euharlee city, Georgia",0,0,Pass,160,0,Pass
+1328016,"Eulonia CDP, Georgia",72,0,Pass,98,0,Pass
+1328044,"Evans CDP, Georgia",173,0,Pass,690,0,Pass
+1328100,"Everett CDP, Georgia",0,0,Pass,0,0,Pass
+1328296,"Experiment CDP, Georgia",49,0,Pass,109,0,Pass
+1328324,"Faceville CDP, Georgia",0,0,Pass,0,0,Pass
+1328380,"Fairburn city, Georgia",194,0,Pass,511,0,Pass
+1328440,"Fairfield Plantation CDP, Georgia",59,0,Pass,111,0,Pass
+1328492,"Fairmount city, Georgia",14,0,Pass,77,0,Pass
+1328520,"Fair Oaks CDP, Georgia",35,0,Pass,101,0,Pass
+1328548,"Fairplay CDP, Georgia",6,0,Pass,48,0,Pass
+1328632,"Fairview CDP, Georgia",124,0,Pass,204,0,Pass
+1328744,"Fargo city, Georgia",0,0,Pass,1,0,Pass
+1328968,"Fayetteville city, Georgia",138,0,Pass,586,0,Pass
+1329528,"Fitzgerald city, Georgia",26,0,Pass,163,0,Pass
+1330088,"Flemington city, Georgia",10,0,Pass,127,0,Pass
+1330312,"Flovilla city, Georgia",48,0,Pass,70,0,Pass
+1330340,"Flowery Branch city, Georgia",0,0,Pass,216,0,Pass
+1330424,"Folkston city, Georgia",59,0,Pass,189,0,Pass
+1330536,"Forest Park city, Georgia",105,0,Pass,363,0,Pass
+1330732,"Forsyth city, Georgia",8,0,Pass,73,0,Pass
+1330816,"Fort Gaines city, Georgia",22,0,Pass,52,0,Pass
+1330956,"Fort Oglethorpe city, Georgia",15,0,Pass,127,0,Pass
+1331068,"Fort Stewart CDP, Georgia",0,0,Pass,22,0,Pass
+1331096,"Fort Valley city, Georgia",87,0,Pass,164,0,Pass
+1331292,"Franklin city, Georgia",21,0,Pass,31,0,Pass
+1331320,"Franklin Springs city, Georgia",18,0,Pass,29,0,Pass
+1331684,"Funston city, Georgia",3,0,Pass,9,0,Pass
+1331908,"Gainesville city, Georgia",163,0,Pass,968,0,Pass
+1332048,"Garden City city, Georgia",183,0,Pass,188,0,Pass
+1332132,"Gardi CDP, Georgia",5,0,Pass,5,0,Pass
+1332188,"Garfield city, Georgia",0,0,Pass,7,0,Pass
+1332384,"Gay town, Georgia",0,0,Pass,0,0,Pass
+1332412,"Geneva town, Georgia",0,0,Pass,0,0,Pass
+1332482,"Georgetown CDP, Georgia",102,0,Pass,219,0,Pass
+1332528,"Georgetown-Quitman County unified government, Georgia",42,0,Pass,147,0,Pass
+1332748,"Gibson city, Georgia",60,0,Pass,79,0,Pass
+1332860,"Gillsville city, Georgia",1,0,Pass,8,0,Pass
+1332916,"Girard town, Georgia",2,0,Pass,8,0,Pass
+1333280,"Glenn CDP, Georgia",0,0,Pass,0,0,Pass
+1333336,"Glennville city, Georgia",107,0,Pass,126,0,Pass
+1333392,"Glenwood city, Georgia",18,0,Pass,22,0,Pass
+1333672,"Godfrey CDP, Georgia",0,0,Pass,0,0,Pass
+1333896,"Good Hope city, Georgia",12,0,Pass,52,0,Pass
+1333980,"Gordon city, Georgia",50,0,Pass,84,0,Pass
+1334176,"Gough CDP, Georgia",0,0,Pass,9,0,Pass
+1334260,"Graham city, Georgia",18,0,Pass,38,0,Pass
+1334428,"Grantville city, Georgia",31,0,Pass,64,0,Pass
+1334512,"Gray city, Georgia",0,0,Pass,63,0,Pass
+1334596,"Grayson city, Georgia",0,0,Pass,432,0,Pass
+1334876,"Greensboro city, Georgia",58,0,Pass,153,0,Pass
+1335016,"Greenville city, Georgia",0,0,Pass,43,0,Pass
+1335240,"Gresham Park CDP, Georgia",18,0,Pass,107,0,Pass
+1335324,"Griffin city, Georgia",289,0,Pass,712,0,Pass
+1335716,"Grovetown city, Georgia",96,0,Pass,662,0,Pass
+1335800,"Gumbranch city, Georgia",0,0,Pass,2,0,Pass
+1335814,"Gumlog CDP, Georgia",22,0,Pass,46,0,Pass
+1335884,"Guyton city, Georgia",31,0,Pass,76,0,Pass
+1336024,"Hagan city, Georgia",0,0,Pass,38,0,Pass
+1336052,"Hahira city, Georgia",23,0,Pass,47,0,Pass
+1336220,"Hamilton city, Georgia",5,0,Pass,25,0,Pass
+1336276,"Hampton city, Georgia",126,0,Pass,286,0,Pass
+1336416,"Hannahs Mill CDP, Georgia",57,0,Pass,86,0,Pass
+1336472,"Hapeville city, Georgia",0,0,Pass,71,0,Pass
+1336528,"Haralson town, Georgia",0,0,Pass,0,0,Pass
+1336668,"Hardwick CDP, Georgia",38,0,Pass,73,0,Pass
+1336696,"Harlem city, Georgia",165,0,Pass,181,0,Pass
+1336920,"Harrison town, Georgia",2,0,Pass,3,0,Pass
+1337144,"Hartwell city, Georgia",90,0,Pass,151,0,Pass
+1337396,"Hawkinsville city, Georgia",0,0,Pass,156,0,Pass
+1337564,"Hazlehurst city, Georgia",49,0,Pass,100,0,Pass
+1337788,"Helen city, Georgia",0,0,Pass,0,0,Pass
+1337910,"Henderson CDP, Georgia",0,0,Pass,0,0,Pass
+1338040,"Hephzibah city, Georgia",39,0,Pass,114,0,Pass
+1338105,"Heron Bay CDP, Georgia",29,0,Pass,182,0,Pass
+1338124,"Hiawassee city, Georgia",80,0,Pass,95,0,Pass
+1338292,"Hickox CDP, Georgia",0,0,Pass,0,0,Pass
+1338348,"Higgston town, Georgia",2,0,Pass,6,0,Pass
+1338866,"Hilltop CDP, Georgia",0,0,Pass,9,0,Pass
+1338920,"Hiltonia town, Georgia",5,0,Pass,15,0,Pass
+1338964,"Hinesville city, Georgia",407,0,Pass,732,0,Pass
+1339076,"Hiram city, Georgia",13,0,Pass,145,0,Pass
+1339216,"Hoboken city, Georgia",3,0,Pass,6,0,Pass
+1339244,"Hogansville city, Georgia",11,0,Pass,22,0,Pass
+1339524,"Holly Springs city, Georgia",48,0,Pass,349,0,Pass
+1339692,"Homeland city, Georgia",2,0,Pass,21,0,Pass
+1339720,"Homer town, Georgia",7,0,Pass,67,0,Pass
+1339748,"Homerville city, Georgia",14,0,Pass,128,0,Pass
+1340028,"Hortense CDP, Georgia",0,0,Pass,0,0,Pass
+1340056,"Hoschton city, Georgia",34,0,Pass,102,0,Pass
+1340196,"Howard CDP, Georgia",0,0,Pass,0,0,Pass
+1340532,"Hull city, Georgia",0,0,Pass,0,0,Pass
+1340812,"Ideal city, Georgia",54,0,Pass,64,0,Pass
+1340840,"Ila city, Georgia",0,0,Pass,9,0,Pass
+1341036,"Indian Springs CDP, Georgia",0,0,Pass,0,0,Pass
+1341344,"Iron City town, Georgia",6,0,Pass,8,0,Pass
+1341347,"Irondale CDP, Georgia",275,0,Pass,733,0,Pass
+1341400,"Irwinton city, Georgia",5,0,Pass,14,0,Pass
+1341484,"Isle of Hope CDP, Georgia",0,0,Pass,0,0,Pass
+1341540,"Ivey city, Georgia",16,0,Pass,27,0,Pass
+1341596,"Jackson city, Georgia",9,0,Pass,119,0,Pass
+1341708,"Jacksonville city, Georgia",0,0,Pass,5,0,Pass
+1341792,"Jakin city, Georgia",2,0,Pass,2,0,Pass
+1341932,"Jasper city, Georgia",81,0,Pass,159,0,Pass
+1341988,"Jefferson city, Georgia",106,0,Pass,220,0,Pass
+1342100,"Jeffersonville city, Georgia",17,0,Pass,37,0,Pass
+1342128,"Jekyll Island CDP, Georgia",0,0,Pass,0,0,Pass
+1342156,"Jenkinsburg city, Georgia",0,0,Pass,12,0,Pass
+1342184,"Jersey city, Georgia",22,0,Pass,31,0,Pass
+1342268,"Jesup city, Georgia",15,0,Pass,156,0,Pass
+1342425,"Johns Creek city, Georgia",207,0,Pass,1917,0,Pass
+1342604,"Jonesboro city, Georgia",0,0,Pass,0,0,Pass
+1342772,"Juliette CDP, Georgia",0,0,Pass,0,0,Pass
+1342800,"Junction City town, Georgia",2,0,Pass,67,0,Pass
+1343192,"Kennesaw city, Georgia",262,0,Pass,536,0,Pass
+1343210,"Kennesaw State University CDP, Georgia",0,0,Pass,0,0,Pass
+1343360,"Keysville city, Georgia",3,0,Pass,5,0,Pass
+1343580,"Kings Bay Base CDP, Georgia",0,0,Pass,0,0,Pass
+1343640,"Kingsland city, Georgia",89,0,Pass,502,0,Pass
+1343668,"Kingston city, Georgia",15,0,Pass,39,0,Pass
+1343892,"Kite city, Georgia",0,0,Pass,1,0,Pass
+1344060,"Knoxville CDP, Georgia",0,0,Pass,0,0,Pass
+1344312,"LaFayette city, Georgia",160,0,Pass,278,0,Pass
+1344340,"LaGrange city, Georgia",558,0,Pass,928,0,Pass
+1344508,"Lake City city, Georgia",11,0,Pass,203,0,Pass
+1344592,"Lakeland city, Georgia",61,0,Pass,110,0,Pass
+1344704,"Lake Park city, Georgia",0,0,Pass,0,0,Pass
+1344900,"Lakeview CDP, Georgia",62,0,Pass,94,0,Pass
+1344956,"Lakeview Estates CDP, Georgia",45,0,Pass,65,0,Pass
+1345460,"Lavonia city, Georgia",0,0,Pass,8,0,Pass
+1345488,"Lawrenceville city, Georgia",181,0,Pass,704,0,Pass
+1345600,"Leary city, Georgia",3,0,Pass,10,0,Pass
+1345768,"Leesburg city, Georgia",99,0,Pass,99,0,Pass
+1345936,"Lenox town, Georgia",0,0,Pass,14,0,Pass
+1346020,"Leslie city, Georgia",1,0,Pass,3,0,Pass
+1346188,"Lexington city, Georgia",0,0,Pass,0,0,Pass
+1346356,"Lilburn city, Georgia",20,0,Pass,331,0,Pass
+1346384,"Lilly city, Georgia",3,0,Pass,3,0,Pass
+1346524,"Lincoln Park CDP, Georgia",0,0,Pass,0,0,Pass
+1346552,"Lincolnton city, Georgia",3,0,Pass,18,0,Pass
+1346580,"Lindale CDP, Georgia",40,0,Pass,138,0,Pass
+1346832,"Lithia Springs CDP, Georgia",58,0,Pass,187,0,Pass
+1346860,"Lithonia city, Georgia",62,0,Pass,62,0,Pass
+1347140,"Locust Grove city, Georgia",215,0,Pass,369,0,Pass
+1347196,"Loganville city, Georgia",50,0,Pass,520,0,Pass
+1347252,"Lone Oak town, Georgia",33,0,Pass,44,0,Pass
+1347336,"Lookout Mountain city, Georgia",0,0,Pass,18,0,Pass
+1347560,"Louisville city, Georgia",12,0,Pass,20,0,Pass
+1347616,"Lovejoy city, Georgia",116,0,Pass,299,0,Pass
+1347784,"Ludowici city, Georgia",21,0,Pass,73,0,Pass
+1347896,"Lula city, Georgia",43,0,Pass,51,0,Pass
+1347952,"Lumber City city, Georgia",2,0,Pass,49,0,Pass
+1347980,"Lumpkin city, Georgia",0,0,Pass,1,0,Pass
+1348008,"Luthersville city, Georgia",7,0,Pass,23,0,Pass
+1348092,"Lyerly town, Georgia",5,0,Pass,15,0,Pass
+1348232,"Lyons city, Georgia",85,0,Pass,151,0,Pass
+1348288,"Mableton city, Georgia",431,0,Pass,1904,0,Pass
+1348428,"McCaysville city, Georgia",32,0,Pass,61,0,Pass
+1348624,"McDonough city, Georgia",203,0,Pass,606,0,Pass
+1348848,"McIntyre town, Georgia",0,0,Pass,5,0,Pass
+1349008,"Macon-Bibb County, Georgia",1048,0,Pass,2563,0,Pass
+1349100,"McRae-Helena city, Georgia",33,0,Pass,117,0,Pass
+1349196,"Madison city, Georgia",0,0,Pass,86,0,Pass
+1349504,"Manassas city, Georgia",0,0,Pass,9,0,Pass
+1349532,"Manchester city, Georgia",17,0,Pass,147,0,Pass
+1349588,"Manor CDP, Georgia",0,0,Pass,0,0,Pass
+1349616,"Mansfield city, Georgia",0,0,Pass,5,0,Pass
+1349756,"Marietta city, Georgia",186,0,Pass,684,0,Pass
+1349924,"Marshallville city, Georgia",11,0,Pass,49,0,Pass
+1350008,"Martin town, Georgia",0,0,Pass,9,0,Pass
+1350036,"Martinez CDP, Georgia",214,0,Pass,747,0,Pass
+1350176,"Matthews CDP, Georgia",0,0,Pass,0,0,Pass
+1350260,"Maxeys town, Georgia",0,0,Pass,0,0,Pass
+1350484,"Maysville town, Georgia",22,0,Pass,69,0,Pass
+1350596,"Meansville city, Georgia",13,0,Pass,13,0,Pass
+1350680,"Meigs city, Georgia",38,0,Pass,38,0,Pass
+1350820,"Mendes CDP, Georgia",0,0,Pass,0,0,Pass
+1350848,"Menlo city, Georgia",4,0,Pass,9,0,Pass
+1350960,"Mershon CDP, Georgia",0,0,Pass,0,0,Pass
+1351072,"Metter city, Georgia",34,0,Pass,34,0,Pass
+1351240,"Midville city, Georgia",2,0,Pass,5,0,Pass
+1351352,"Midway city, Georgia",5,0,Pass,33,0,Pass
+1351408,"Milan city, Georgia",10,0,Pass,38,0,Pass
+1351492,"Milledgeville city, Georgia",70,0,Pass,118,0,Pass
+1351520,"Millen city, Georgia",29,0,Pass,51,0,Pass
+1351576,"Millwood CDP, Georgia",0,0,Pass,0,0,Pass
+1351604,"Milner city, Georgia",0,0,Pass,5,0,Pass
+1351660,"Milstead CDP, Georgia",0,0,Pass,23,0,Pass
+1351670,"Milton city, Georgia",71,0,Pass,410,0,Pass
+1351744,"Mineral Bluff CDP, Georgia",0,0,Pass,0,0,Pass
+1351968,"Mitchell town, Georgia",0,0,Pass,0,0,Pass
+1352108,"Molena city, Georgia",7,0,Pass,16,0,Pass
+1352192,"Monroe city, Georgia",232,0,Pass,533,0,Pass
+1352304,"Montezuma city, Georgia",113,0,Pass,208,0,Pass
+1352332,"Montgomery CDP, Georgia",0,0,Pass,47,0,Pass
+1352416,"Monticello city, Georgia",36,0,Pass,138,0,Pass
+1352500,"Montrose town, Georgia",0,0,Pass,0,0,Pass
+1352556,"Moody AFB CDP, Georgia",0,0,Pass,13,0,Pass
+1352668,"Moreland town, Georgia",13,0,Pass,36,0,Pass
+1352696,"Morgan city, Georgia",0,0,Pass,0,0,Pass
+1352724,"Morganton city, Georgia",3,0,Pass,19,0,Pass
+1353004,"Morrow city, Georgia",11,0,Pass,115,0,Pass
+1353032,"Morven city, Georgia",2,0,Pass,2,0,Pass
+1353060,"Moultrie city, Georgia",196,0,Pass,346,0,Pass
+1353116,"Mountain City town, Georgia",0,0,Pass,30,0,Pass
+1353172,"Mountain Park city, Georgia",3,0,Pass,3,0,Pass
+1353186,"Mountain Park CDP, Georgia",70,0,Pass,538,0,Pass
+1353284,"Mount Airy town, Georgia",74,0,Pass,80,0,Pass
+1353508,"Mount Vernon city, Georgia",29,0,Pass,29,0,Pass
+1353620,"Mount Zion city, Georgia",41,0,Pass,75,0,Pass
+1354012,"Musella CDP, Georgia",0,0,Pass,0,0,Pass
+1354124,"Nahunta city, Georgia",24,0,Pass,29,0,Pass
+1354264,"Nashville city, Georgia",27,0,Pass,100,0,Pass
+1354404,"Naylor CDP, Georgia",0,0,Pass,0,0,Pass
+1354572,"Nelson city, Georgia",14,0,Pass,24,0,Pass
+1354656,"Newborn town, Georgia",15,0,Pass,20,0,Pass
+1354768,"New England CDP, Georgia",0,0,Pass,0,0,Pass
+1354992,"Newington town, Georgia",4,0,Pass,4,0,Pass
+1355020,"Newnan city, Georgia",623,0,Pass,1190,0,Pass
+1355244,"Newton city, Georgia",10,0,Pass,10,0,Pass
+1355440,"Nicholls city, Georgia",4,0,Pass,8,0,Pass
+1355468,"Nicholson city, Georgia",65,0,Pass,168,0,Pass
+1355776,"Norcross city, Georgia",59,0,Pass,447,0,Pass
+1355860,"Norman Park city, Georgia",3,0,Pass,47,0,Pass
+1355944,"Norristown CDP, Georgia",0,0,Pass,0,0,Pass
+1356112,"North Decatur CDP, Georgia",0,0,Pass,108,0,Pass
+1356168,"North Druid Hills CDP, Georgia",30,0,Pass,52,0,Pass
+1356308,"North High Shoals town, Georgia",2,0,Pass,4,0,Pass
+1356560,"Norwood city, Georgia",0,0,Pass,9,0,Pass
+1356644,"Nunez city, Georgia",0,0,Pass,9,0,Pass
+1357232,"Oak Park town, Georgia",3,0,Pass,5,0,Pass
+1357260,"Oakwood city, Georgia",144,0,Pass,354,0,Pass
+1357372,"Ochlocknee town, Georgia",13,0,Pass,25,0,Pass
+1357428,"Ocilla city, Georgia",52,0,Pass,118,0,Pass
+1357456,"Oconee city, Georgia",21,0,Pass,23,0,Pass
+1357540,"Odum city, Georgia",0,0,Pass,3,0,Pass
+1357568,"Offerman city, Georgia",11,0,Pass,21,0,Pass
+1357736,"Oglethorpe city, Georgia",0,0,Pass,0,0,Pass
+1357876,"Ohoopee CDP, Georgia",0,0,Pass,0,0,Pass
+1358100,"Oliver city, Georgia",1,0,Pass,1,0,Pass
+1358184,"Omega city, Georgia",0,0,Pass,113,0,Pass
+1358296,"Orchard Hill town, Georgia",0,0,Pass,2,0,Pass
+1358744,"Oxford city, Georgia",28,0,Pass,37,0,Pass
+1358884,"Palmetto city, Georgia",154,0,Pass,342,0,Pass
+1359080,"Panthersville CDP, Georgia",46,0,Pass,67,0,Pass
+1359416,"Parrott town, Georgia",0,0,Pass,0,0,Pass
+1359500,"Patterson city, Georgia",6,0,Pass,15,0,Pass
+1359556,"Pavo city, Georgia",6,0,Pass,12,0,Pass
+1359724,"Peachtree City city, Georgia",126,0,Pass,622,0,Pass
+1359735,"Peachtree Corners city, Georgia",91,0,Pass,376,0,Pass
+1359808,"Pearson city, Georgia",15,0,Pass,29,0,Pass
+1359976,"Pelham city, Georgia",39,0,Pass,77,0,Pass
+1360004,"Pembroke city, Georgia",33,0,Pass,57,0,Pass
+1360032,"Pendergrass town, Georgia",0,0,Pass,97,0,Pass
+1360312,"Perkins CDP, Georgia",0,0,Pass,0,0,Pass
+1360340,"Perry city, Georgia",120,0,Pass,306,0,Pass
+1360508,"Phillipsburg CDP, Georgia",0,0,Pass,0,0,Pass
+1360984,"Pinehurst city, Georgia",14,0,Pass,17,0,Pass
+1361040,"Pine Lake city, Georgia",0,0,Pass,14,0,Pass
+1361124,"Pine Mountain town, Georgia",11,0,Pass,37,0,Pass
+1361320,"Pineview town, Georgia",0,0,Pass,0,0,Pass
+1361376,"Piney Grove CDP, Georgia",0,0,Pass,0,0,Pass
+1361544,"Pitts city, Georgia",0,0,Pass,7,0,Pass
+1361628,"Plains city, Georgia",5,0,Pass,6,0,Pass
+1361684,"Plainville city, Georgia",0,0,Pass,10,0,Pass
+1362104,"Pooler city, Georgia",107,0,Pass,258,0,Pass
+1362216,"Portal town, Georgia",5,0,Pass,14,0,Pass
+1362244,"Porterdale city, Georgia",15,0,Pass,33,0,Pass
+1362328,"Port Wentworth city, Georgia",128,0,Pass,357,0,Pass
+1362496,"Poulan city, Georgia",13,0,Pass,28,0,Pass
+1362524,"Powder Springs city, Georgia",135,0,Pass,593,0,Pass
+1363000,"Pulaski town, Georgia",0,0,Pass,0,0,Pass
+1363084,"Putney CDP, Georgia",0,0,Pass,56,0,Pass
+1363224,"Quitman city, Georgia",33,0,Pass,85,0,Pass
+1363560,"Ranger CDP, Georgia",0,0,Pass,0,0,Pass
+1363588,"Raoul CDP, Georgia",1,0,Pass,2,0,Pass
+1363728,"Ray City city, Georgia",32,0,Pass,47,0,Pass
+1363756,"Rayle town, Georgia",0,0,Pass,0,0,Pass
+1363840,"Rebecca town, Georgia",0,0,Pass,2,0,Pass
+1363952,"Redan CDP, Georgia",245,0,Pass,690,0,Pass
+1364288,"Reed Creek CDP, Georgia",17,0,Pass,30,0,Pass
+1364372,"Register town, Georgia",0,0,Pass,0,0,Pass
+1364512,"Reidsville city, Georgia",36,0,Pass,36,0,Pass
+1364596,"Remerton city, Georgia",0,0,Pass,19,0,Pass
+1364680,"Rentz city, Georgia",9,0,Pass,9,0,Pass
+1364736,"Resaca town, Georgia",11,0,Pass,25,0,Pass
+1364792,"Rest Haven town, Georgia",0,0,Pass,0,0,Pass
+1364876,"Reynolds city, Georgia",11,0,Pass,11,0,Pass
+1364932,"Rhine town, Georgia",0,0,Pass,8,0,Pass
+1364960,"Riceboro city, Georgia",14,0,Pass,17,0,Pass
+1365016,"Richland city, Georgia",10,0,Pass,21,0,Pass
+1365044,"Richmond Hill city, Georgia",38,0,Pass,155,0,Pass
+1365156,"Riddleville town, Georgia",4,0,Pass,7,0,Pass
+1365296,"Rincon city, Georgia",10,0,Pass,181,0,Pass
+1365324,"Ringgold city, Georgia",39,0,Pass,90,0,Pass
+1365464,"Riverdale city, Georgia",120,0,Pass,576,0,Pass
+1365856,"Roberta city, Georgia",7,0,Pass,15,0,Pass
+1365968,"Robins AFB CDP, Georgia",0,0,Pass,0,0,Pass
+1366024,"Rochelle city, Georgia",38,0,Pass,55,0,Pass
+1366220,"Rockingham CDP, Georgia",0,0,Pass,0,0,Pass
+1366276,"Rockmart city, Georgia",49,0,Pass,281,0,Pass
+1366304,"Rock Spring CDP, Georgia",0,0,Pass,0,0,Pass
+1366444,"Rocky Ford town, Georgia",5,0,Pass,5,0,Pass
+1366668,"Rome city, Georgia",253,0,Pass,617,0,Pass
+1366696,"Roopville town, Georgia",9,0,Pass,12,0,Pass
+1367256,"Rossville city, Georgia",25,0,Pass,25,0,Pass
+1367284,"Roswell city, Georgia",207,0,Pass,1224,0,Pass
+1367452,"Royston city, Georgia",2,0,Pass,23,0,Pass
+1367676,"Russell CDP, Georgia",0,0,Pass,61,0,Pass
+1367760,"Rutledge city, Georgia",5,0,Pass,49,0,Pass
+1367984,"St. Marys city, Georgia",127,0,Pass,385,0,Pass
+1368040,"St. Simons CDP, Georgia",35,0,Pass,90,0,Pass
+1368096,"Sale City city, Georgia",0,0,Pass,3,0,Pass
+1368129,"Salem CDP, Georgia",0,0,Pass,0,0,Pass
+1368208,"Sandersville city, Georgia",214,0,Pass,295,0,Pass
+1368516,"Sandy Springs city, Georgia",111,0,Pass,535,0,Pass
+1368600,"Santa Claus city, Georgia",0,0,Pass,17,0,Pass
+1368740,"Sardis city, Georgia",16,0,Pass,16,0,Pass
+1368796,"Sasser town, Georgia",2,0,Pass,3,0,Pass
+1368805,"Satilla CDP, Georgia",0,0,Pass,60,0,Pass
+1368880,"Sautee-Nacoochee CDP, Georgia",0,0,Pass,0,0,Pass
+1369000,"Savannah city, Georgia",1238,0,Pass,2848,0,Pass
+1369336,"Scotland city, Georgia",0,0,Pass,0,0,Pass
+1369392,"Scottdale CDP, Georgia",101,0,Pass,439,0,Pass
+1369448,"Screven city, Georgia",23,0,Pass,36,0,Pass
+1369672,"Senoia city, Georgia",0,0,Pass,76,0,Pass
+1369728,"Seville CDP, Georgia",0,0,Pass,0,0,Pass
+1369784,"Shady Dale town, Georgia",5,0,Pass,18,0,Pass
+1369868,"Shannon CDP, Georgia",62,0,Pass,62,0,Pass
+1369896,"Sharon city, Georgia",1,0,Pass,1,0,Pass
+1369980,"Sharpsburg town, Georgia",2,0,Pass,8,0,Pass
+1370120,"Shellman city, Georgia",45,0,Pass,48,0,Pass
+1370428,"Shiloh city, Georgia",9,0,Pass,22,0,Pass
+1370932,"Siloam town, Georgia",4,0,Pass,4,0,Pass
+1371184,"Skidaway Island CDP, Georgia",5,0,Pass,5,0,Pass
+1371282,"Sky Valley city, Georgia",0,0,Pass,0,0,Pass
+1371296,"Smarr CDP, Georgia",0,0,Pass,0,0,Pass
+1371464,"Smithville city, Georgia",11,0,Pass,15,0,Pass
+1371492,"Smyrna city, Georgia",203,0,Pass,636,0,Pass
+1371604,"Snellville city, Georgia",93,0,Pass,644,0,Pass
+1371660,"Social Circle city, Georgia",31,0,Pass,141,0,Pass
+1371772,"Soperton city, Georgia",18,0,Pass,60,0,Pass
+1372122,"South Fulton city, Georgia",968,0,Pass,3395,0,Pass
+1372556,"Sparks town, Georgia",19,0,Pass,25,0,Pass
+1372584,"Sparta city, Georgia",5,0,Pass,80,0,Pass
+1372780,"Springfield city, Georgia",7,0,Pass,21,0,Pass
+1373004,"Stapleton city, Georgia",6,0,Pass,9,0,Pass
+1373256,"Statesboro city, Georgia",245,0,Pass,502,0,Pass
+1373312,"Statham city, Georgia",0,0,Pass,88,0,Pass
+1373452,"Sterling CDP, Georgia",0,0,Pass,23,0,Pass
+1373620,"Stillmore city, Georgia",8,0,Pass,13,0,Pass
+1373704,"Stockbridge city, Georgia",284,0,Pass,672,0,Pass
+1373760,"Stockton CDP, Georgia",0,0,Pass,0,0,Pass
+1373784,"Stonecrest city, Georgia",853,0,Pass,2136,0,Pass
+1373816,"Stone Mountain city, Georgia",20,0,Pass,230,0,Pass
+1374180,"Sugar Hill city, Georgia",63,0,Pass,507,0,Pass
+1374348,"Summertown city, Georgia",8,0,Pass,18,0,Pass
+1374376,"Summerville city, Georgia",103,0,Pass,225,0,Pass
+1374432,"Sumner town, Georgia",0,0,Pass,0,0,Pass
+1374572,"Sunny Side CDP, Georgia",5,0,Pass,5,0,Pass
+1374628,"Sunnyside CDP, Georgia",0,0,Pass,0,0,Pass
+1374768,"Sunset Village CDP, Georgia",0,0,Pass,0,0,Pass
+1374852,"Surrency town, Georgia",0,0,Pass,0,0,Pass
+1374936,"Suwanee city, Georgia",88,0,Pass,358,0,Pass
+1374964,"Swainsboro city, Georgia",31,0,Pass,149,0,Pass
+1375104,"Sycamore city, Georgia",11,0,Pass,90,0,Pass
+1375160,"Sylvania city, Georgia",8,0,Pass,22,0,Pass
+1375188,"Sylvester city, Georgia",77,0,Pass,120,0,Pass
+1375239,"Talahi Island CDP, Georgia",0,0,Pass,32,0,Pass
+1375244,"Talbotton city, Georgia",6,0,Pass,6,0,Pass
+1375272,"Talking Rock town, Georgia",0,0,Pass,5,0,Pass
+1375300,"Tallapoosa city, Georgia",8,0,Pass,62,0,Pass
+1375328,"Tallulah Falls town, Georgia",0,0,Pass,0,0,Pass
+1375412,"Talmo town, Georgia",0,0,Pass,3,0,Pass
+1375496,"Tarrytown town, Georgia",0,0,Pass,0,0,Pass
+1375580,"Tate City CDP, Georgia",0,0,Pass,0,0,Pass
+1375664,"Taylorsville town, Georgia",4,0,Pass,11,0,Pass
+1375692,"Tazewell CDP, Georgia",0,0,Pass,0,0,Pass
+1375832,"Temple city, Georgia",86,0,Pass,354,0,Pass
+1375888,"Tennille city, Georgia",23,0,Pass,23,0,Pass
+1376112,"The Rock CDP, Georgia",0,0,Pass,0,0,Pass
+1376168,"Thomaston city, Georgia",75,0,Pass,270,0,Pass
+1376224,"Thomasville city, Georgia",110,0,Pass,702,0,Pass
+1376280,"Thomson city, Georgia",147,0,Pass,184,0,Pass
+1376364,"Thunderbolt town, Georgia",38,0,Pass,59,0,Pass
+1376476,"Tifton city, Georgia",122,0,Pass,207,0,Pass
+1376504,"Tiger town, Georgia",3,0,Pass,7,0,Pass
+1376532,"Tignall town, Georgia",17,0,Pass,19,0,Pass
+1376756,"Toccoa city, Georgia",95,0,Pass,320,0,Pass
+1376952,"Toomsboro city, Georgia",9,0,Pass,16,0,Pass
+1377372,"Trenton city, Georgia",23,0,Pass,63,0,Pass
+1377540,"Trion town, Georgia",8,0,Pass,50,0,Pass
+1377652,"Tucker city, Georgia",185,0,Pass,704,0,Pass
+1377736,"Tunnel Hill city, Georgia",7,0,Pass,15,0,Pass
+1377764,"Turin town, Georgia",0,0,Pass,2,0,Pass
+1377988,"Twin City city, Georgia",9,0,Pass,37,0,Pass
+1378036,"Tybee Island city, Georgia",16,0,Pass,19,0,Pass
+1378044,"Tyrone town, Georgia",0,0,Pass,212,0,Pass
+1378100,"Ty Ty city, Georgia",29,0,Pass,29,0,Pass
+1378156,"Unadilla city, Georgia",0,0,Pass,0,0,Pass
+1378324,"Union City city, Georgia",249,0,Pass,744,0,Pass
+1378380,"Union Point city, Georgia",14,0,Pass,111,0,Pass
+1378464,"Unionville CDP, Georgia",19,0,Pass,114,0,Pass
+1378744,"Uvalda city, Georgia",23,0,Pass,58,0,Pass
+1378800,"Valdosta city, Georgia",325,0,Pass,1035,0,Pass
+1378996,"Varnell city, Georgia",2,0,Pass,36,0,Pass
+1379164,"Vernonburg town, Georgia",0,0,Pass,3,0,Pass
+1379388,"Vidalia city, Georgia",65,0,Pass,323,0,Pass
+1379416,"Vidette city, Georgia",0,0,Pass,0,0,Pass
+1379444,"Vienna city, Georgia",35,0,Pass,242,0,Pass
+1379528,"Villa Rica city, Georgia",215,0,Pass,932,0,Pass
+1379612,"Vinings CDP, Georgia",57,0,Pass,129,0,Pass
+1379808,"Waco city, Georgia",25,0,Pass,38,0,Pass
+1379864,"Wadley city, Georgia",49,0,Pass,93,0,Pass
+1379948,"Waleska city, Georgia",2,0,Pass,3,0,Pass
+1380228,"Walnut Grove city, Georgia",22,0,Pass,31,0,Pass
+1380256,"Walthourville city, Georgia",120,0,Pass,120,0,Pass
+1380368,"Waresboro CDP, Georgia",0,0,Pass,0,0,Pass
+1380480,"Warm Springs city, Georgia",8,0,Pass,13,0,Pass
+1380508,"Warner Robins city, Georgia",670,0,Pass,1896,0,Pass
+1380592,"Warrenton city, Georgia",98,0,Pass,110,0,Pass
+1380648,"Warthen CDP, Georgia",0,0,Pass,2,0,Pass
+1380676,"Warwick city, Georgia",1,0,Pass,6,0,Pass
+1380704,"Washington city, Georgia",58,0,Pass,129,0,Pass
+1380788,"Watkinsville city, Georgia",28,0,Pass,39,0,Pass
+1380816,"Waverly CDP, Georgia",0,0,Pass,0,0,Pass
+1380844,"Waverly Hall town, Georgia",2,0,Pass,3,0,Pass
+1380956,"Waycross city, Georgia",139,0,Pass,303,0,Pass
+1380984,"Waynesboro city, Georgia",43,0,Pass,43,0,Pass
+1381012,"Waynesville CDP, Georgia",0,0,Pass,109,0,Pass
+1381128,"Webster County unified government, Georgia",6,0,Pass,24,0,Pass
+1381208,"Wenona CDP, Georgia",0,0,Pass,0,0,Pass
+1381488,"West Brow CDP, Georgia",0,0,Pass,0,0,Pass
+1382132,"West Point city, Georgia",162,0,Pass,162,0,Pass
+1382412,"Whigham city, Georgia",0,0,Pass,0,0,Pass
+1382468,"White city, Georgia",0,0,Pass,56,0,Pass
+1382636,"Whitemarsh Island CDP, Georgia",36,0,Pass,63,0,Pass
+1382692,"White Plains city, Georgia",16,0,Pass,18,0,Pass
+1382720,"Whitesburg city, Georgia",5,0,Pass,10,0,Pass
+1382916,"Wildwood CDP, Georgia",31,0,Pass,31,0,Pass
+1382972,"Willacoochee city, Georgia",11,0,Pass,84,0,Pass
+1383084,"Williamson city, Georgia",0,0,Pass,3,0,Pass
+1383168,"Wilmington Island CDP, Georgia",0,0,Pass,21,0,Pass
+1383420,"Winder city, Georgia",45,0,Pass,252,0,Pass
+1383728,"Winterville city, Georgia",18,0,Pass,51,0,Pass
+1383868,"Woodbine city, Georgia",20,0,Pass,63,0,Pass
+1383896,"Woodbury city, Georgia",23,0,Pass,32,0,Pass
+1383952,"Woodland city, Georgia",0,0,Pass,1,0,Pass
+1384176,"Woodstock city, Georgia",0,0,Pass,288,0,Pass
+1384260,"Woodville city, Georgia",0,0,Pass,1,0,Pass
+1384288,"Woolsey town, Georgia",0,0,Pass,0,0,Pass
+1384456,"Wrens city, Georgia",64,0,Pass,88,0,Pass
+1384512,"Wrightsville city, Georgia",21,0,Pass,33,0,Pass
+1384708,"Yatesville town, Georgia",0,0,Pass,13,0,Pass
+1384832,"Yonah CDP, Georgia",0,0,Pass,32,0,Pass
+1384960,"Young Harris city, Georgia",0,0,Pass,9,0,Pass
+1385128,"Zebulon city, Georgia",76,0,Pass,95,0,Pass

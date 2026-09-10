@@ -1,0 +1,6 @@
+pct_responsible_exclusion,records,received
+Caregiver count MOE exceeds 50% of estimate,730,3144
+Missing input or nonpositive denominator,38,3144
+Percentage MOE exceeds 50% of estimate,782,3144
+Retained,1531,3144
+Unavailable MOE or zero percentage,63,3144

@@ -1,0 +1,2629 @@
+geoid,name,variable,estimate,moe
+7200186,"Aceitunas comunidad, Puerto Rico",population,1369,632
+7200358,"Adjuntas zona urbana, Puerto Rico",population,4664,630
+7200616,"Aguada zona urbana, Puerto Rico",population,3737,779
+7200745,"Aguadilla zona urbana, Puerto Rico",population,11033,856
+7200874,"Aguas Buenas zona urbana, Puerto Rico",population,3488,787
+7201003,"Aguas Claras comunidad, Puerto Rico",population,2120,411
+7201089,"Aguilita comunidad, Puerto Rico",population,3637,689
+7201218,"Aibonito zona urbana, Puerto Rico",population,9285,983
+7201863,"Alianza comunidad, Puerto Rico",population,1910,512
+7202680,"Añasco zona urbana, Puerto Rico",population,4616,844
+7203024,"Animas comunidad, Puerto Rico",population,1314,601
+7203174,"Anon Raices comunidad, Puerto Rico",population,364,272
+7203196,"Antón Ruíz comunidad, Puerto Rico",population,1168,720
+7203368,"Arecibo zona urbana, Puerto Rico",population,40831,1938
+7203927,"Arroyo zona urbana, Puerto Rico",population,7516,940
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",population,427,278
+7204658,"Bajadero comunidad, Puerto Rico",population,3814,695
+7204701,"Bajandas comunidad, Puerto Rico",population,1017,371
+7205217,"Barahona comunidad, Puerto Rico",population,2398,650
+7205346,"Barceloneta zona urbana, Puerto Rico",population,3396,654
+7205690,"Barranquitas zona urbana, Puerto Rico",population,2981,881
+7206421,"Bartolo comunidad, Puerto Rico",population,1391,506
+7206593,"Bayamón zona urbana, Puerto Rico",population,166923,1186
+7206679,"Bayamón comunidad, Puerto Rico",population,1607,475
+7207496,"Benítez comunidad, Puerto Rico",population,709,274
+7207668,"Betances comunidad, Puerto Rico",population,575,231
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",population,1853,631
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",population,1676,766
+7208700,"Breñas comunidad, Puerto Rico",population,4174,1032
+7208722,"Brisas del Campanero comunidad, Puerto Rico",population,2259,491
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",population,1084,430
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",population,868,480
+7209603,"Búfalo comunidad, Puerto Rico",population,797,349
+7209689,"Cabán comunidad, Puerto Rico",population,3202,660
+7209861,"Cabo Rojo zona urbana, Puerto Rico",population,9122,1285
+7210048,"Cacao comunidad, Puerto Rico",population,1254,500
+7210334,"Caguas zona urbana, Puerto Rico",population,72922,2452
+7211151,"Calzada comunidad, Puerto Rico",population,46,35
+7211345,"Cambalache comunidad, Puerto Rico",population,575,276
+7211581,"Campanilla comunidad, Puerto Rico",population,3855,713
+7211597,"Campanillas comunidad, Puerto Rico",population,645,331
+7211710,"Campo Rico comunidad, Puerto Rico",population,2024,520
+7211925,"Camuy zona urbana, Puerto Rico",population,3242,657
+7212441,"Candelaria comunidad, Puerto Rico",population,14868,1323
+7212560,"Candelaria Arenas comunidad, Puerto Rico",population,3560,769
+7212568,"Candelero Abajo comunidad, Puerto Rico",population,434,253
+7212613,"Candelero Arriba comunidad, Puerto Rico",population,758,414
+7212806,"Caño Martin Peña comunidad, Puerto Rico",population,11618,1124
+7212828,"Canóvanas zona urbana, Puerto Rico",population,12689,1199
+7213065,"Canovanillas comunidad, Puerto Rico",population,610,407
+7213925,"Capitanejo comunidad, Puerto Rico",population,3215,934
+7214290,"Carolina zona urbana, Puerto Rico",population,138633,1243
+7214634,"Carrizales comunidad, Puerto Rico",population,2887,844
+7215193,"Cataño zona urbana, Puerto Rico",population,22467,NA
+7215494,"Cayey zona urbana, Puerto Rico",population,14655,1054
+7215623,"Cayuco comunidad, Puerto Rico",population,1210,475
+7215924,"Ceiba zona urbana, Puerto Rico",population,4942,477
+7216139,"Ceiba comunidad, Puerto Rico",population,2640,729
+7216440,"Celada comunidad, Puerto Rico",population,4139,896
+7216526,"Central Aguirre comunidad, Puerto Rico",population,696,255
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",population,495,283
+7217773,"Ciales zona urbana, Puerto Rico",population,2510,643
+7218074,"Cidra zona urbana, Puerto Rico",population,5819,942
+7218719,"Coamo zona urbana, Puerto Rico",population,9689,962
+7218891,"Coco comunidad, Puerto Rico",population,5538,869
+7219665,"Comerío zona urbana, Puerto Rico",population,3837,785
+7219837,"Comunas comunidad, Puerto Rico",population,3423,703
+7220310,"Coquí comunidad, Puerto Rico",population,2525,614
+7220353,"Corazón comunidad, Puerto Rico",population,2030,843
+7220482,"Corcovado comunidad, Puerto Rico",population,995,531
+7220783,"Corozal zona urbana, Puerto Rico",population,10237,1254
+7220998,"Corral Viejo comunidad, Puerto Rico",population,8,9
+7221213,"Coto Laurel comunidad, Puerto Rico",population,2698,831
+7221385,"Coto Norte comunidad, Puerto Rico",population,1528,428
+7222589,"Culebra zona urbana, Puerto Rico",population,1262,237
+7223062,"Daguao comunidad, Puerto Rico",population,959,490
+7223341,"Del Carmen comunidad, Puerto Rico",population,1369,360
+7224008,"Dorado zona urbana, Puerto Rico",population,12425,1190
+7224395,"Duque comunidad, Puerto Rico",population,913,442
+7224954,"El Combate comunidad, Puerto Rico",population,311,170
+7225556,"El Mangó comunidad, Puerto Rico",population,1388,655
+7225685,"El Negro comunidad, Puerto Rico",population,1126,336
+7225771,"El Ojo comunidad, Puerto Rico",population,1600,736
+7225835,"El Paraiso comunidad, Puerto Rico",population,1500,518
+7226287,"El Tumbao comunidad, Puerto Rico",population,1496,369
+7226362,"El Veintiséis comunidad, Puerto Rico",population,162,89
+7226502,"Emajagua comunidad, Puerto Rico",population,2784,660
+7227190,"Esperanza comunidad, Puerto Rico",population,703,476
+7227263,"Espino comunidad, Puerto Rico",population,1196,451
+7227964,"Fajardo zona urbana, Puerto Rico",population,24269,968
+7228367,"Ferrer comunidad, Puerto Rico",population,131,184
+7228824,"Florida zona urbana, Puerto Rico",population,3498,750
+7229555,"Fránquez comunidad, Puerto Rico",population,1541,552
+7229682,"Frontón comunidad, Puerto Rico",population,1544,483
+7229727,"Fuig comunidad, Puerto Rico",population,644,263
+7229813,"Galateo comunidad, Puerto Rico",population,1819,542
+7230372,"Garrochales comunidad, Puerto Rico",population,1045,386
+7230544,"G. L. García comunidad, Puerto Rico",population,1136,480
+7231189,"Guánica zona urbana, Puerto Rico",population,5136,540
+7231877,"Guayabal comunidad, Puerto Rico",population,1943,528
+7232221,"Guayama zona urbana, Puerto Rico",population,18216,1407
+7232307,"Guayanilla zona urbana, Puerto Rico",population,2820,548
+7232522,"Guaynabo zona urbana, Puerto Rico",population,70599,1481
+7232823,"Gurabo zona urbana, Puerto Rico",population,6440,928
+7233184,"Hacienda San José comunidad, Puerto Rico",population,3814,783
+7233296,"Hatillo zona urbana, Puerto Rico",population,4074,767
+7233597,"Hato Arriba comunidad, Puerto Rico",population,756,455
+7233683,"Hato Candal comunidad, Puerto Rico",population,1511,484
+7234242,"Hato Viejo comunidad, Puerto Rico",population,1062,381
+7234914,"Honduras comunidad, Puerto Rico",population,718,310
+7235059,"Hormigueros zona urbana, Puerto Rico",population,10975,650
+7235403,"H. Rivera Colón comunidad, Puerto Rico",population,1765,542
+7235532,"Humacao zona urbana, Puerto Rico",population,15787,1342
+7235962,"Imbéry comunidad, Puerto Rico",population,4582,904
+7236177,"Indios comunidad, Puerto Rico",population,1315,477
+7236263,"Ingenio comunidad, Puerto Rico",population,2784,760
+7236478,"Isabela zona urbana, Puerto Rico",population,11048,1475
+7236779,"Isleta comunidad, Puerto Rico",population,326,200
+7237166,"Jagual comunidad, Puerto Rico",population,921,398
+7237336,"Jaguas comunidad, Puerto Rico",population,2257,502
+7238241,"Jauca comunidad, Puerto Rico",population,1564,551
+7238370,"Jayuya zona urbana, Puerto Rico",population,3051,535
+7238671,"Jobos comunidad, Puerto Rico",population,1706,528
+7238972,"Juana Díaz zona urbana, Puerto Rico",population,8071,856
+7239470,"Juncal comunidad, Puerto Rico",population,725,314
+7239574,"Juncos zona urbana, Puerto Rico",population,9604,1438
+7239875,"La Alianza comunidad, Puerto Rico",population,1499,461
+7240348,"La Dolores comunidad, Puerto Rico",population,2854,673
+7240563,"La Fermina comunidad, Puerto Rico",population,2059,483
+7240950,"Lajas zona urbana, Puerto Rico",population,4285,820
+7241274,"La Liga comunidad, Puerto Rico",population,536,535
+7241294,"La Luisa comunidad, Puerto Rico",population,2502,529
+7241466,"Lamboglia comunidad, Puerto Rico",population,897,305
+7241767,"La Parguera comunidad, Puerto Rico",population,889,577
+7241810,"La Pica comunidad, Puerto Rico",population,357,302
+7242068,"La Playa comunidad, Puerto Rico",population,1661,514
+7242197,"La Plena comunidad, Puerto Rico",population,441,218
+7242498,"Lares zona urbana, Puerto Rico",population,5286,748
+7242842,"Las Carolinas comunidad, Puerto Rico",population,1678,761
+7243057,"Las Croabas comunidad, Puerto Rico",population,548,206
+7243294,"Las Gaviotas comunidad, Puerto Rico",population,476,202
+7243702,"Las Marías comunidad, Puerto Rico",population,1688,656
+7243788,"Las Marías zona urbana, Puerto Rico",population,855,285
+7244003,"Las Ochenta comunidad, Puerto Rico",population,1060,294
+7244089,"Las Ollas comunidad, Puerto Rico",population,956,331
+7244390,"Las Piedras zona urbana, Puerto Rico",population,5198,859
+7244507,"Lassalle comunidad, Puerto Rico",population,415,203
+7245170,"La Yuca comunidad, Puerto Rico",population,257,154
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",population,1660,574
+7246282,"Lluveras comunidad, Puerto Rico",population,1553,517
+7246368,"Loíza zona urbana, Puerto Rico",population,2807,476
+7246626,"Lomas comunidad, Puerto Rico",population,640,364
+7246800,"Lomas Verdes comunidad, Puerto Rico",population,1352,711
+7246960,"Los Héroes comunidad, Puerto Rico",population,1540,635
+7247013,"Los Llanos comunidad, Puerto Rico",population,1579,642
+7247336,"Los Panes comunidad, Puerto Rico",population,189,195
+7247422,"Los Prados comunidad, Puerto Rico",population,3779,1000
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",population,3051,913
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",population,2086,563
+7247787,"Luquillo zona urbana, Puerto Rico",population,7387,760
+7247873,"Luyando comunidad, Puerto Rico",population,2241,610
+7248604,"Magas Arriba comunidad, Puerto Rico",population,947,347
+7248862,"Maguayo comunidad, Puerto Rico",population,856,513
+7250152,"Manatí zona urbana, Puerto Rico",population,10231,1120
+7250260,"Mansión del Mar comunidad, Puerto Rico",population,25510,1556
+7250270,"Mansión del Sol comunidad, Puerto Rico",population,408,273
+7250754,"María Antonia comunidad, Puerto Rico",population,1090,260
+7251055,"Mariano Colón comunidad, Puerto Rico",population,1602,487
+7251270,"Maricao zona urbana, Puerto Rico",population,826,231
+7251657,"Martorell comunidad, Puerto Rico",population,2224,515
+7251700,"Marueño comunidad, Puerto Rico",population,948,424
+7252345,"Maunabo zona urbana, Puerto Rico",population,1488,337
+7252431,"Mayagüez zona urbana, Puerto Rico",population,58977,1027
+7253678,"Miranda comunidad, Puerto Rico",population,961,369
+7253807,"Moca zona urbana, Puerto Rico",population,532,307
+7253979,"Monserrate comunidad, Puerto Rico",population,2523,535
+7254366,"Monte Grande comunidad, Puerto Rico",population,3475,789
+7254688,"Monte Verde comunidad, Puerto Rico",population,19,30
+7254882,"Mora comunidad, Puerto Rico",population,1567,570
+7255097,"Morovis zona urbana, Puerto Rico",population,1722,387
+7255355,"Mucarabones comunidad, Puerto Rico",population,1228,567
+7255828,"Naguabo zona urbana, Puerto Rico",population,4141,1068
+7256129,"Naranjito zona urbana, Puerto Rico",population,2638,751
+7257075,"Olimpo comunidad, Puerto Rico",population,1384,392
+7257290,"Orocovis zona urbana, Puerto Rico",population,1299,452
+7257612,"Pabellones comunidad, Puerto Rico",population,707,340
+7257806,"Pájaros comunidad, Puerto Rico",population,10132,1510
+7257862,"Pajonal comunidad, Puerto Rico",population,468,220
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",population,761,429
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",population,1534,629
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",population,1400,608
+7258365,"Palmas comunidad, Puerto Rico",population,1119,490
+7258602,"Palmas del Mar comunidad, Puerto Rico",population,2942,796
+7258613,"Palma Sola comunidad, Puerto Rico",population,1393,538
+7258666,"Palmer comunidad, Puerto Rico",population,1459,547
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",population,1927,737
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",population,1207,330
+7259139,"Palo Seco comunidad, Puerto Rico",population,997,316
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",population,2099,720
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",population,970,387
+7259422,"Parcelas Mandry comunidad, Puerto Rico",population,194,167
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",population,825,345
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",population,854,326
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",population,876,552
+7260257,"Pastos comunidad, Puerto Rico",population,856,292
+7260472,"Patillas zona urbana, Puerto Rico",population,2979,667
+7260945,"Peña Pobre comunidad, Puerto Rico",population,1009,554
+7261074,"Peñuelas zona urbana, Puerto Rico",population,5208,659
+7261545,"Piedra Aguza comunidad, Puerto Rico",population,3003,756
+7261590,"Piedra Gorda comunidad, Puerto Rico",population,2166,740
+7261977,"Piñas comunidad, Puerto Rico",population,656,388
+7263310,"Playa Fortuna comunidad, Puerto Rico",population,1650,503
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",population,577,247
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",population,1230,451
+7263568,"Playita Cortada comunidad, Puerto Rico",population,1316,421
+7263697,"Pole Ojea comunidad, Puerto Rico",population,1565,517
+7263820,"Ponce zona urbana, Puerto Rico",population,107805,1945
+7264127,"Potala Pastillo comunidad, Puerto Rico",population,2606,636
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",population,222,149
+7264500,"Pueblito del Río comunidad, Puerto Rico",population,1243,637
+7265589,"Puerto Real comunidad, Puerto Rico",population,6032,1055
+7266492,"Punta Santiago comunidad, Puerto Rico",population,3716,606
+7266660,"Quebrada comunidad, Puerto Rico",population,571,291
+7267200,"Quebrada del Agua comunidad, Puerto Rico",population,1034,532
+7267675,"Quebrada Prieta comunidad, Puerto Rico",population,992,421
+7268040,"Quebradillas zona urbana, Puerto Rico",population,5731,1070
+7268513,"Rafael Capó comunidad, Puerto Rico",population,1369,605
+7268556,"Rafael González comunidad, Puerto Rico",population,2652,776
+7268599,"Rafael Hernández comunidad, Puerto Rico",population,1324,351
+7268771,"Ramos comunidad, Puerto Rico",population,963,279
+7269488,"Rincón comunidad, Puerto Rico",population,906,458
+7269588,"Rincón zona urbana, Puerto Rico",population,1394,465
+7270448,"Río Blanco comunidad, Puerto Rico",population,2121,710
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",population,781,275
+7271136,"Río Grande zona urbana, Puerto Rico",population,12375,1109
+7271437,"Río Lajas comunidad, Puerto Rico",population,1745,693
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",population,434,348
+7272555,"Rosa Sánchez comunidad, Puerto Rico",population,1058,330
+7273200,"Sabana comunidad, Puerto Rico",population,1034,405
+7273372,"Sabana Eneas comunidad, Puerto Rico",population,1466,459
+7273544,"Sabana Grande zona urbana, Puerto Rico",population,9432,1004
+7273716,"Sabana Hoyos comunidad, Puerto Rico",population,3046,544
+7274189,"Sabana Seca comunidad, Puerto Rico",population,8059,1262
+7274877,"Salinas zona urbana, Puerto Rico",population,4128,508
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",population,1895,567
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",population,6727,1149
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",population,2249,721
+7276167,"San Germán zona urbana, Puerto Rico",population,10747,1278
+7276339,"San Isidro comunidad, Puerto Rico",population,6860,958
+7276683,"San José comunidad, Puerto Rico",population,2123,384
+7276770,"San Juan zona urbana, Puerto Rico",population,317995,1496
+7277027,"San Lorenzo zona urbana, Puerto Rico",population,9453,1077
+7277500,"San Sebastián zona urbana, Puerto Rico",population,9038,1216
+7277672,"Santa Bárbara comunidad, Puerto Rico",population,4416,970
+7277826,"Santa Clara comunidad, Puerto Rico",population,629,449
+7278145,"Santa Isabel zona urbana, Puerto Rico",population,5252,636
+7278317,"Santa María comunidad, Puerto Rico",population,1059,323
+7279564,"Santo Domingo comunidad, Puerto Rico",population,2173,722
+7280596,"Stella comunidad, Puerto Rico",population,834,404
+7280639,"Suárez comunidad, Puerto Rico",population,1558,398
+7281413,"Tallaboa comunidad, Puerto Rico",population,959,358
+7281456,"Tallaboa Alta comunidad, Puerto Rico",population,1858,516
+7282055,"Tibes comunidad, Puerto Rico",population,37,61
+7282125,"Tiburones comunidad, Puerto Rico",population,914,356
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",population,4029,879
+7282488,"Toa Alta zona urbana, Puerto Rico",population,3259,685
+7282617,"Toa Baja zona urbana, Puerto Rico",population,805,248
+7282692,"Toaville comunidad, Puerto Rico",population,249,150
+7282875,"Tomás de Castro comunidad, Puerto Rico",population,728,413
+7283606,"Trujillo Alto zona urbana, Puerto Rico",population,43611,1551
+7284509,"Utuado zona urbana, Puerto Rico",population,7432,814
+7284917,"Valle Hill comunidad, Puerto Rico",population,626,322
+7285025,"Vayas comunidad, Puerto Rico",population,497,234
+7285111,"Vázquez comunidad, Puerto Rico",population,1797,413
+7285197,"Vega Alta zona urbana, Puerto Rico",population,8388,929
+7285326,"Vega Baja zona urbana, Puerto Rico",population,22756,1436
+7285971,"Vieques comunidad, Puerto Rico",population,2533,547
+7286014,"Vieques zona urbana, Puerto Rico",population,2050,594
+7286250,"Villa Calma comunidad, Puerto Rico",population,896,352
+7286509,"Villa de Sabana comunidad, Puerto Rico",population,448,223
+7286584,"Villa Esperanza comunidad, Puerto Rico",population,381,207
+7286788,"Villa Hugo I comunidad, Puerto Rico",population,757,321
+7286796,"Villa Hugo II comunidad, Puerto Rico",population,811,380
+7286831,"Villalba zona urbana, Puerto Rico",population,3279,610
+7287240,"Villa Quintero comunidad, Puerto Rico",population,229,124
+7287272,"Villas del Sol comunidad, Puerto Rico",population,195,229
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",population,23,36
+7287638,"Voladoras comunidad, Puerto Rico",population,777,360
+7287863,"Yabucoa zona urbana, Puerto Rico",population,5557,713
+7288035,"Yauco zona urbana, Puerto Rico",population,14630,971
+7288121,"Yaurel comunidad, Puerto Rico",population,570,222
+7288293,"Yeguada comunidad, Puerto Rico",population,2106,649
+7200186,"Aceitunas comunidad, Puerto Rico",coresident_grandparents_total,43,69
+7200358,"Adjuntas zona urbana, Puerto Rico",coresident_grandparents_total,87,65
+7200616,"Aguada zona urbana, Puerto Rico",coresident_grandparents_total,6,9
+7200745,"Aguadilla zona urbana, Puerto Rico",coresident_grandparents_total,245,130
+7200874,"Aguas Buenas zona urbana, Puerto Rico",coresident_grandparents_total,16,25
+7201003,"Aguas Claras comunidad, Puerto Rico",coresident_grandparents_total,122,113
+7201089,"Aguilita comunidad, Puerto Rico",coresident_grandparents_total,15,23
+7201218,"Aibonito zona urbana, Puerto Rico",coresident_grandparents_total,202,102
+7201863,"Alianza comunidad, Puerto Rico",coresident_grandparents_total,26,40
+7202680,"Añasco zona urbana, Puerto Rico",coresident_grandparents_total,57,46
+7203024,"Animas comunidad, Puerto Rico",coresident_grandparents_total,28,44
+7203174,"Anon Raices comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7203196,"Antón Ruíz comunidad, Puerto Rico",coresident_grandparents_total,184,242
+7203368,"Arecibo zona urbana, Puerto Rico",coresident_grandparents_total,421,184
+7203927,"Arroyo zona urbana, Puerto Rico",coresident_grandparents_total,184,112
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7204658,"Bajadero comunidad, Puerto Rico",coresident_grandparents_total,74,72
+7204701,"Bajandas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7205217,"Barahona comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7205346,"Barceloneta zona urbana, Puerto Rico",coresident_grandparents_total,45,57
+7205690,"Barranquitas zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7206421,"Bartolo comunidad, Puerto Rico",coresident_grandparents_total,30,49
+7206593,"Bayamón zona urbana, Puerto Rico",coresident_grandparents_total,2605,412
+7206679,"Bayamón comunidad, Puerto Rico",coresident_grandparents_total,59,90
+7207496,"Benítez comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7207668,"Betances comunidad, Puerto Rico",coresident_grandparents_total,18,27
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",coresident_grandparents_total,0,15
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",coresident_grandparents_total,35,58
+7208700,"Breñas comunidad, Puerto Rico",coresident_grandparents_total,69,106
+7208722,"Brisas del Campanero comunidad, Puerto Rico",coresident_grandparents_total,92,87
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",coresident_grandparents_total,14,24
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",coresident_grandparents_total,73,125
+7209603,"Búfalo comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7209689,"Cabán comunidad, Puerto Rico",coresident_grandparents_total,60,70
+7209861,"Cabo Rojo zona urbana, Puerto Rico",coresident_grandparents_total,340,258
+7210048,"Cacao comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7210334,"Caguas zona urbana, Puerto Rico",coresident_grandparents_total,1256,397
+7211151,"Calzada comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7211345,"Cambalache comunidad, Puerto Rico",coresident_grandparents_total,10,17
+7211581,"Campanilla comunidad, Puerto Rico",coresident_grandparents_total,118,89
+7211597,"Campanillas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7211710,"Campo Rico comunidad, Puerto Rico",coresident_grandparents_total,40,63
+7211925,"Camuy zona urbana, Puerto Rico",coresident_grandparents_total,31,36
+7212441,"Candelaria comunidad, Puerto Rico",coresident_grandparents_total,443,158
+7212560,"Candelaria Arenas comunidad, Puerto Rico",coresident_grandparents_total,110,91
+7212568,"Candelero Abajo comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7212613,"Candelero Arriba comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7212806,"Caño Martin Peña comunidad, Puerto Rico",coresident_grandparents_total,340,202
+7212828,"Canóvanas zona urbana, Puerto Rico",coresident_grandparents_total,191,140
+7213065,"Canovanillas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7213925,"Capitanejo comunidad, Puerto Rico",coresident_grandparents_total,15,24
+7214290,"Carolina zona urbana, Puerto Rico",coresident_grandparents_total,2880,466
+7214634,"Carrizales comunidad, Puerto Rico",coresident_grandparents_total,30,50
+7215193,"Cataño zona urbana, Puerto Rico",coresident_grandparents_total,323,148
+7215494,"Cayey zona urbana, Puerto Rico",coresident_grandparents_total,291,114
+7215623,"Cayuco comunidad, Puerto Rico",coresident_grandparents_total,36,59
+7215924,"Ceiba zona urbana, Puerto Rico",coresident_grandparents_total,35,53
+7216139,"Ceiba comunidad, Puerto Rico",coresident_grandparents_total,42,73
+7216440,"Celada comunidad, Puerto Rico",coresident_grandparents_total,68,79
+7216526,"Central Aguirre comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7217773,"Ciales zona urbana, Puerto Rico",coresident_grandparents_total,63,98
+7218074,"Cidra zona urbana, Puerto Rico",coresident_grandparents_total,106,79
+7218719,"Coamo zona urbana, Puerto Rico",coresident_grandparents_total,78,73
+7218891,"Coco comunidad, Puerto Rico",coresident_grandparents_total,236,156
+7219665,"Comerío zona urbana, Puerto Rico",coresident_grandparents_total,72,60
+7219837,"Comunas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7220310,"Coquí comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7220353,"Corazón comunidad, Puerto Rico",coresident_grandparents_total,19,32
+7220482,"Corcovado comunidad, Puerto Rico",coresident_grandparents_total,142,145
+7220783,"Corozal zona urbana, Puerto Rico",coresident_grandparents_total,426,227
+7220998,"Corral Viejo comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7221213,"Coto Laurel comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7221385,"Coto Norte comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7222589,"Culebra zona urbana, Puerto Rico",coresident_grandparents_total,28,26
+7223062,"Daguao comunidad, Puerto Rico",coresident_grandparents_total,71,106
+7223341,"Del Carmen comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7224008,"Dorado zona urbana, Puerto Rico",coresident_grandparents_total,145,97
+7224395,"Duque comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7224954,"El Combate comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7225556,"El Mangó comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7225685,"El Negro comunidad, Puerto Rico",coresident_grandparents_total,17,29
+7225771,"El Ojo comunidad, Puerto Rico",coresident_grandparents_total,109,176
+7225835,"El Paraiso comunidad, Puerto Rico",coresident_grandparents_total,121,116
+7226287,"El Tumbao comunidad, Puerto Rico",coresident_grandparents_total,54,71
+7226362,"El Veintiséis comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7226502,"Emajagua comunidad, Puerto Rico",coresident_grandparents_total,132,108
+7227190,"Esperanza comunidad, Puerto Rico",coresident_grandparents_total,22,40
+7227263,"Espino comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7227964,"Fajardo zona urbana, Puerto Rico",coresident_grandparents_total,498,205
+7228367,"Ferrer comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7228824,"Florida zona urbana, Puerto Rico",coresident_grandparents_total,30,50
+7229555,"Fránquez comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7229682,"Frontón comunidad, Puerto Rico",coresident_grandparents_total,44,73
+7229727,"Fuig comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7229813,"Galateo comunidad, Puerto Rico",coresident_grandparents_total,82,65
+7230372,"Garrochales comunidad, Puerto Rico",coresident_grandparents_total,37,60
+7230544,"G. L. García comunidad, Puerto Rico",coresident_grandparents_total,99,115
+7231189,"Guánica zona urbana, Puerto Rico",coresident_grandparents_total,120,83
+7231877,"Guayabal comunidad, Puerto Rico",coresident_grandparents_total,45,52
+7232221,"Guayama zona urbana, Puerto Rico",coresident_grandparents_total,287,145
+7232307,"Guayanilla zona urbana, Puerto Rico",coresident_grandparents_total,8,13
+7232522,"Guaynabo zona urbana, Puerto Rico",coresident_grandparents_total,727,227
+7232823,"Gurabo zona urbana, Puerto Rico",coresident_grandparents_total,101,70
+7233184,"Hacienda San José comunidad, Puerto Rico",coresident_grandparents_total,102,121
+7233296,"Hatillo zona urbana, Puerto Rico",coresident_grandparents_total,272,140
+7233597,"Hato Arriba comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7233683,"Hato Candal comunidad, Puerto Rico",coresident_grandparents_total,21,34
+7234242,"Hato Viejo comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7234914,"Honduras comunidad, Puerto Rico",coresident_grandparents_total,15,25
+7235059,"Hormigueros zona urbana, Puerto Rico",coresident_grandparents_total,227,139
+7235403,"H. Rivera Colón comunidad, Puerto Rico",coresident_grandparents_total,43,50
+7235532,"Humacao zona urbana, Puerto Rico",coresident_grandparents_total,350,211
+7235962,"Imbéry comunidad, Puerto Rico",coresident_grandparents_total,140,141
+7236177,"Indios comunidad, Puerto Rico",coresident_grandparents_total,37,48
+7236263,"Ingenio comunidad, Puerto Rico",coresident_grandparents_total,159,142
+7236478,"Isabela zona urbana, Puerto Rico",coresident_grandparents_total,106,106
+7236779,"Isleta comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7237166,"Jagual comunidad, Puerto Rico",coresident_grandparents_total,15,24
+7237336,"Jaguas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7238241,"Jauca comunidad, Puerto Rico",coresident_grandparents_total,22,27
+7238370,"Jayuya zona urbana, Puerto Rico",coresident_grandparents_total,88,79
+7238671,"Jobos comunidad, Puerto Rico",coresident_grandparents_total,21,34
+7238972,"Juana Díaz zona urbana, Puerto Rico",coresident_grandparents_total,96,97
+7239470,"Juncal comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7239574,"Juncos zona urbana, Puerto Rico",coresident_grandparents_total,134,80
+7239875,"La Alianza comunidad, Puerto Rico",coresident_grandparents_total,51,48
+7240348,"La Dolores comunidad, Puerto Rico",coresident_grandparents_total,52,69
+7240563,"La Fermina comunidad, Puerto Rico",coresident_grandparents_total,64,96
+7240950,"Lajas zona urbana, Puerto Rico",coresident_grandparents_total,28,42
+7241274,"La Liga comunidad, Puerto Rico",coresident_grandparents_total,58,95
+7241294,"La Luisa comunidad, Puerto Rico",coresident_grandparents_total,71,87
+7241466,"Lamboglia comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7241767,"La Parguera comunidad, Puerto Rico",coresident_grandparents_total,105,125
+7241810,"La Pica comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7242068,"La Playa comunidad, Puerto Rico",coresident_grandparents_total,68,86
+7242197,"La Plena comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7242498,"Lares zona urbana, Puerto Rico",coresident_grandparents_total,163,114
+7242842,"Las Carolinas comunidad, Puerto Rico",coresident_grandparents_total,140,173
+7243057,"Las Croabas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7243294,"Las Gaviotas comunidad, Puerto Rico",coresident_grandparents_total,18,30
+7243702,"Las Marías comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7243788,"Las Marías zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7244003,"Las Ochenta comunidad, Puerto Rico",coresident_grandparents_total,64,50
+7244089,"Las Ollas comunidad, Puerto Rico",coresident_grandparents_total,15,24
+7244390,"Las Piedras zona urbana, Puerto Rico",coresident_grandparents_total,0,22
+7244507,"Lassalle comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7245170,"La Yuca comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",coresident_grandparents_total,28,43
+7246282,"Lluveras comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7246368,"Loíza zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7246626,"Lomas comunidad, Puerto Rico",coresident_grandparents_total,23,39
+7246800,"Lomas Verdes comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7246960,"Los Héroes comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7247013,"Los Llanos comunidad, Puerto Rico",coresident_grandparents_total,59,72
+7247336,"Los Panes comunidad, Puerto Rico",coresident_grandparents_total,42,68
+7247422,"Los Prados comunidad, Puerto Rico",coresident_grandparents_total,22,36
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",coresident_grandparents_total,131,119
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7247787,"Luquillo zona urbana, Puerto Rico",coresident_grandparents_total,162,116
+7247873,"Luyando comunidad, Puerto Rico",coresident_grandparents_total,39,46
+7248604,"Magas Arriba comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7248862,"Maguayo comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7250152,"Manatí zona urbana, Puerto Rico",coresident_grandparents_total,131,80
+7250260,"Mansión del Mar comunidad, Puerto Rico",coresident_grandparents_total,551,174
+7250270,"Mansión del Sol comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7250754,"María Antonia comunidad, Puerto Rico",coresident_grandparents_total,12,21
+7251055,"Mariano Colón comunidad, Puerto Rico",coresident_grandparents_total,107,91
+7251270,"Maricao zona urbana, Puerto Rico",coresident_grandparents_total,31,36
+7251657,"Martorell comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7251700,"Marueño comunidad, Puerto Rico",coresident_grandparents_total,52,58
+7252345,"Maunabo zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7252431,"Mayagüez zona urbana, Puerto Rico",coresident_grandparents_total,668,244
+7253678,"Miranda comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7253807,"Moca zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7253979,"Monserrate comunidad, Puerto Rico",coresident_grandparents_total,37,59
+7254366,"Monte Grande comunidad, Puerto Rico",coresident_grandparents_total,108,155
+7254688,"Monte Verde comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7254882,"Mora comunidad, Puerto Rico",coresident_grandparents_total,30,48
+7255097,"Morovis zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7255355,"Mucarabones comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7255828,"Naguabo zona urbana, Puerto Rico",coresident_grandparents_total,48,79
+7256129,"Naranjito zona urbana, Puerto Rico",coresident_grandparents_total,99,77
+7257075,"Olimpo comunidad, Puerto Rico",coresident_grandparents_total,43,48
+7257290,"Orocovis zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7257612,"Pabellones comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7257806,"Pájaros comunidad, Puerto Rico",coresident_grandparents_total,253,202
+7257862,"Pajonal comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",coresident_grandparents_total,0,15
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",coresident_grandparents_total,29,44
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",coresident_grandparents_total,66,103
+7258365,"Palmas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7258602,"Palmas del Mar comunidad, Puerto Rico",coresident_grandparents_total,53,87
+7258613,"Palma Sola comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7258666,"Palmer comunidad, Puerto Rico",coresident_grandparents_total,47,73
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",coresident_grandparents_total,91,112
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",coresident_grandparents_total,0,15
+7259139,"Palo Seco comunidad, Puerto Rico",coresident_grandparents_total,15,24
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",coresident_grandparents_total,64,107
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",coresident_grandparents_total,19,32
+7259422,"Parcelas Mandry comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7260257,"Pastos comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7260472,"Patillas zona urbana, Puerto Rico",coresident_grandparents_total,62,71
+7260945,"Peña Pobre comunidad, Puerto Rico",coresident_grandparents_total,96,93
+7261074,"Peñuelas zona urbana, Puerto Rico",coresident_grandparents_total,60,60
+7261545,"Piedra Aguza comunidad, Puerto Rico",coresident_grandparents_total,109,102
+7261590,"Piedra Gorda comunidad, Puerto Rico",coresident_grandparents_total,17,26
+7261977,"Piñas comunidad, Puerto Rico",coresident_grandparents_total,30,47
+7263310,"Playa Fortuna comunidad, Puerto Rico",coresident_grandparents_total,56,84
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",coresident_grandparents_total,10,16
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",coresident_grandparents_total,91,104
+7263568,"Playita Cortada comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7263697,"Pole Ojea comunidad, Puerto Rico",coresident_grandparents_total,111,101
+7263820,"Ponce zona urbana, Puerto Rico",coresident_grandparents_total,2080,400
+7264127,"Potala Pastillo comunidad, Puerto Rico",coresident_grandparents_total,64,77
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7264500,"Pueblito del Río comunidad, Puerto Rico",coresident_grandparents_total,61,90
+7265589,"Puerto Real comunidad, Puerto Rico",coresident_grandparents_total,72,61
+7266492,"Punta Santiago comunidad, Puerto Rico",coresident_grandparents_total,87,73
+7266660,"Quebrada comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7267200,"Quebrada del Agua comunidad, Puerto Rico",coresident_grandparents_total,23,37
+7267675,"Quebrada Prieta comunidad, Puerto Rico",coresident_grandparents_total,22,36
+7268040,"Quebradillas zona urbana, Puerto Rico",coresident_grandparents_total,0,22
+7268513,"Rafael Capó comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7268556,"Rafael González comunidad, Puerto Rico",coresident_grandparents_total,67,108
+7268599,"Rafael Hernández comunidad, Puerto Rico",coresident_grandparents_total,27,32
+7268771,"Ramos comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7269488,"Rincón comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7269588,"Rincón zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7270448,"Río Blanco comunidad, Puerto Rico",coresident_grandparents_total,112,137
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7271136,"Río Grande zona urbana, Puerto Rico",coresident_grandparents_total,305,199
+7271437,"Río Lajas comunidad, Puerto Rico",coresident_grandparents_total,37,59
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7272555,"Rosa Sánchez comunidad, Puerto Rico",coresident_grandparents_total,16,28
+7273200,"Sabana comunidad, Puerto Rico",coresident_grandparents_total,36,58
+7273372,"Sabana Eneas comunidad, Puerto Rico",coresident_grandparents_total,132,129
+7273544,"Sabana Grande zona urbana, Puerto Rico",coresident_grandparents_total,243,144
+7273716,"Sabana Hoyos comunidad, Puerto Rico",coresident_grandparents_total,15,24
+7274189,"Sabana Seca comunidad, Puerto Rico",coresident_grandparents_total,256,174
+7274877,"Salinas zona urbana, Puerto Rico",coresident_grandparents_total,106,64
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",coresident_grandparents_total,0,15
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",coresident_grandparents_total,60,71
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",coresident_grandparents_total,147,142
+7276167,"San Germán zona urbana, Puerto Rico",coresident_grandparents_total,224,145
+7276339,"San Isidro comunidad, Puerto Rico",coresident_grandparents_total,257,165
+7276683,"San José comunidad, Puerto Rico",coresident_grandparents_total,65,48
+7276770,"San Juan zona urbana, Puerto Rico",coresident_grandparents_total,4201,646
+7277027,"San Lorenzo zona urbana, Puerto Rico",coresident_grandparents_total,136,95
+7277500,"San Sebastián zona urbana, Puerto Rico",coresident_grandparents_total,183,127
+7277672,"Santa Bárbara comunidad, Puerto Rico",coresident_grandparents_total,40,65
+7277826,"Santa Clara comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7278145,"Santa Isabel zona urbana, Puerto Rico",coresident_grandparents_total,21,23
+7278317,"Santa María comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7279564,"Santo Domingo comunidad, Puerto Rico",coresident_grandparents_total,90,138
+7280596,"Stella comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7280639,"Suárez comunidad, Puerto Rico",coresident_grandparents_total,81,91
+7281413,"Tallaboa comunidad, Puerto Rico",coresident_grandparents_total,68,64
+7281456,"Tallaboa Alta comunidad, Puerto Rico",coresident_grandparents_total,70,75
+7282055,"Tibes comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7282125,"Tiburones comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",coresident_grandparents_total,30,49
+7282488,"Toa Alta zona urbana, Puerto Rico",coresident_grandparents_total,98,74
+7282617,"Toa Baja zona urbana, Puerto Rico",coresident_grandparents_total,19,21
+7282692,"Toaville comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7282875,"Tomás de Castro comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7283606,"Trujillo Alto zona urbana, Puerto Rico",coresident_grandparents_total,718,222
+7284509,"Utuado zona urbana, Puerto Rico",coresident_grandparents_total,127,106
+7284917,"Valle Hill comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7285025,"Vayas comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7285111,"Vázquez comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7285197,"Vega Alta zona urbana, Puerto Rico",coresident_grandparents_total,286,168
+7285326,"Vega Baja zona urbana, Puerto Rico",coresident_grandparents_total,466,231
+7285971,"Vieques comunidad, Puerto Rico",coresident_grandparents_total,106,85
+7286014,"Vieques zona urbana, Puerto Rico",coresident_grandparents_total,0,15
+7286250,"Villa Calma comunidad, Puerto Rico",coresident_grandparents_total,71,80
+7286509,"Villa de Sabana comunidad, Puerto Rico",coresident_grandparents_total,19,30
+7286584,"Villa Esperanza comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7286788,"Villa Hugo I comunidad, Puerto Rico",coresident_grandparents_total,56,53
+7286796,"Villa Hugo II comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7286831,"Villalba zona urbana, Puerto Rico",coresident_grandparents_total,107,71
+7287240,"Villa Quintero comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7287272,"Villas del Sol comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7287638,"Voladoras comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7287863,"Yabucoa zona urbana, Puerto Rico",coresident_grandparents_total,212,89
+7288035,"Yauco zona urbana, Puerto Rico",coresident_grandparents_total,249,133
+7288121,"Yaurel comunidad, Puerto Rico",coresident_grandparents_total,21,33
+7288293,"Yeguada comunidad, Puerto Rico",coresident_grandparents_total,0,15
+7200186,"Aceitunas comunidad, Puerto Rico",responsible_total,0,15
+7200358,"Adjuntas zona urbana, Puerto Rico",responsible_total,0,15
+7200616,"Aguada zona urbana, Puerto Rico",responsible_total,0,15
+7200745,"Aguadilla zona urbana, Puerto Rico",responsible_total,57,57
+7200874,"Aguas Buenas zona urbana, Puerto Rico",responsible_total,16,25
+7201003,"Aguas Claras comunidad, Puerto Rico",responsible_total,25,38
+7201089,"Aguilita comunidad, Puerto Rico",responsible_total,15,23
+7201218,"Aibonito zona urbana, Puerto Rico",responsible_total,75,62
+7201863,"Alianza comunidad, Puerto Rico",responsible_total,26,40
+7202680,"Añasco zona urbana, Puerto Rico",responsible_total,22,24
+7203024,"Animas comunidad, Puerto Rico",responsible_total,0,15
+7203174,"Anon Raices comunidad, Puerto Rico",responsible_total,0,15
+7203196,"Antón Ruíz comunidad, Puerto Rico",responsible_total,160,239
+7203368,"Arecibo zona urbana, Puerto Rico",responsible_total,123,98
+7203927,"Arroyo zona urbana, Puerto Rico",responsible_total,21,35
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",responsible_total,0,15
+7204658,"Bajadero comunidad, Puerto Rico",responsible_total,27,43
+7204701,"Bajandas comunidad, Puerto Rico",responsible_total,0,15
+7205217,"Barahona comunidad, Puerto Rico",responsible_total,0,15
+7205346,"Barceloneta zona urbana, Puerto Rico",responsible_total,27,32
+7205690,"Barranquitas zona urbana, Puerto Rico",responsible_total,0,15
+7206421,"Bartolo comunidad, Puerto Rico",responsible_total,0,15
+7206593,"Bayamón zona urbana, Puerto Rico",responsible_total,1052,263
+7206679,"Bayamón comunidad, Puerto Rico",responsible_total,0,15
+7207496,"Benítez comunidad, Puerto Rico",responsible_total,0,15
+7207668,"Betances comunidad, Puerto Rico",responsible_total,0,15
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",responsible_total,0,15
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",responsible_total,35,58
+7208700,"Breñas comunidad, Puerto Rico",responsible_total,0,15
+7208722,"Brisas del Campanero comunidad, Puerto Rico",responsible_total,70,81
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",responsible_total,0,15
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",responsible_total,0,15
+7209603,"Búfalo comunidad, Puerto Rico",responsible_total,0,15
+7209689,"Cabán comunidad, Puerto Rico",responsible_total,41,47
+7209861,"Cabo Rojo zona urbana, Puerto Rico",responsible_total,0,22
+7210048,"Cacao comunidad, Puerto Rico",responsible_total,0,15
+7210334,"Caguas zona urbana, Puerto Rico",responsible_total,457,229
+7211151,"Calzada comunidad, Puerto Rico",responsible_total,0,15
+7211345,"Cambalache comunidad, Puerto Rico",responsible_total,0,15
+7211581,"Campanilla comunidad, Puerto Rico",responsible_total,55,57
+7211597,"Campanillas comunidad, Puerto Rico",responsible_total,0,15
+7211710,"Campo Rico comunidad, Puerto Rico",responsible_total,40,63
+7211925,"Camuy zona urbana, Puerto Rico",responsible_total,0,15
+7212441,"Candelaria comunidad, Puerto Rico",responsible_total,244,129
+7212560,"Candelaria Arenas comunidad, Puerto Rico",responsible_total,110,91
+7212568,"Candelero Abajo comunidad, Puerto Rico",responsible_total,0,15
+7212613,"Candelero Arriba comunidad, Puerto Rico",responsible_total,0,15
+7212806,"Caño Martin Peña comunidad, Puerto Rico",responsible_total,109,67
+7212828,"Canóvanas zona urbana, Puerto Rico",responsible_total,48,63
+7213065,"Canovanillas comunidad, Puerto Rico",responsible_total,0,15
+7213925,"Capitanejo comunidad, Puerto Rico",responsible_total,0,15
+7214290,"Carolina zona urbana, Puerto Rico",responsible_total,767,275
+7214634,"Carrizales comunidad, Puerto Rico",responsible_total,0,15
+7215193,"Cataño zona urbana, Puerto Rico",responsible_total,149,101
+7215494,"Cayey zona urbana, Puerto Rico",responsible_total,140,87
+7215623,"Cayuco comunidad, Puerto Rico",responsible_total,36,59
+7215924,"Ceiba zona urbana, Puerto Rico",responsible_total,35,53
+7216139,"Ceiba comunidad, Puerto Rico",responsible_total,42,73
+7216440,"Celada comunidad, Puerto Rico",responsible_total,68,79
+7216526,"Central Aguirre comunidad, Puerto Rico",responsible_total,0,15
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",responsible_total,0,15
+7217773,"Ciales zona urbana, Puerto Rico",responsible_total,63,98
+7218074,"Cidra zona urbana, Puerto Rico",responsible_total,42,41
+7218719,"Coamo zona urbana, Puerto Rico",responsible_total,18,28
+7218891,"Coco comunidad, Puerto Rico",responsible_total,27,45
+7219665,"Comerío zona urbana, Puerto Rico",responsible_total,44,48
+7219837,"Comunas comunidad, Puerto Rico",responsible_total,0,15
+7220310,"Coquí comunidad, Puerto Rico",responsible_total,0,15
+7220353,"Corazón comunidad, Puerto Rico",responsible_total,0,15
+7220482,"Corcovado comunidad, Puerto Rico",responsible_total,142,145
+7220783,"Corozal zona urbana, Puerto Rico",responsible_total,196,152
+7220998,"Corral Viejo comunidad, Puerto Rico",responsible_total,0,15
+7221213,"Coto Laurel comunidad, Puerto Rico",responsible_total,0,15
+7221385,"Coto Norte comunidad, Puerto Rico",responsible_total,0,15
+7222589,"Culebra zona urbana, Puerto Rico",responsible_total,8,12
+7223062,"Daguao comunidad, Puerto Rico",responsible_total,71,106
+7223341,"Del Carmen comunidad, Puerto Rico",responsible_total,0,15
+7224008,"Dorado zona urbana, Puerto Rico",responsible_total,127,95
+7224395,"Duque comunidad, Puerto Rico",responsible_total,0,15
+7224954,"El Combate comunidad, Puerto Rico",responsible_total,0,15
+7225556,"El Mangó comunidad, Puerto Rico",responsible_total,0,15
+7225685,"El Negro comunidad, Puerto Rico",responsible_total,0,15
+7225771,"El Ojo comunidad, Puerto Rico",responsible_total,27,46
+7225835,"El Paraiso comunidad, Puerto Rico",responsible_total,0,15
+7226287,"El Tumbao comunidad, Puerto Rico",responsible_total,8,13
+7226362,"El Veintiséis comunidad, Puerto Rico",responsible_total,0,15
+7226502,"Emajagua comunidad, Puerto Rico",responsible_total,47,57
+7227190,"Esperanza comunidad, Puerto Rico",responsible_total,0,15
+7227263,"Espino comunidad, Puerto Rico",responsible_total,0,15
+7227964,"Fajardo zona urbana, Puerto Rico",responsible_total,147,85
+7228367,"Ferrer comunidad, Puerto Rico",responsible_total,0,15
+7228824,"Florida zona urbana, Puerto Rico",responsible_total,0,15
+7229555,"Fránquez comunidad, Puerto Rico",responsible_total,0,15
+7229682,"Frontón comunidad, Puerto Rico",responsible_total,44,73
+7229727,"Fuig comunidad, Puerto Rico",responsible_total,0,15
+7229813,"Galateo comunidad, Puerto Rico",responsible_total,20,32
+7230372,"Garrochales comunidad, Puerto Rico",responsible_total,18,30
+7230544,"G. L. García comunidad, Puerto Rico",responsible_total,99,115
+7231189,"Guánica zona urbana, Puerto Rico",responsible_total,73,63
+7231877,"Guayabal comunidad, Puerto Rico",responsible_total,23,38
+7232221,"Guayama zona urbana, Puerto Rico",responsible_total,104,72
+7232307,"Guayanilla zona urbana, Puerto Rico",responsible_total,0,15
+7232522,"Guaynabo zona urbana, Puerto Rico",responsible_total,268,142
+7232823,"Gurabo zona urbana, Puerto Rico",responsible_total,34,44
+7233184,"Hacienda San José comunidad, Puerto Rico",responsible_total,0,15
+7233296,"Hatillo zona urbana, Puerto Rico",responsible_total,99,86
+7233597,"Hato Arriba comunidad, Puerto Rico",responsible_total,0,15
+7233683,"Hato Candal comunidad, Puerto Rico",responsible_total,21,34
+7234242,"Hato Viejo comunidad, Puerto Rico",responsible_total,0,15
+7234914,"Honduras comunidad, Puerto Rico",responsible_total,0,15
+7235059,"Hormigueros zona urbana, Puerto Rico",responsible_total,76,89
+7235403,"H. Rivera Colón comunidad, Puerto Rico",responsible_total,0,15
+7235532,"Humacao zona urbana, Puerto Rico",responsible_total,183,167
+7235962,"Imbéry comunidad, Puerto Rico",responsible_total,32,54
+7236177,"Indios comunidad, Puerto Rico",responsible_total,28,46
+7236263,"Ingenio comunidad, Puerto Rico",responsible_total,40,46
+7236478,"Isabela zona urbana, Puerto Rico",responsible_total,9,14
+7236779,"Isleta comunidad, Puerto Rico",responsible_total,0,15
+7237166,"Jagual comunidad, Puerto Rico",responsible_total,0,15
+7237336,"Jaguas comunidad, Puerto Rico",responsible_total,0,15
+7238241,"Jauca comunidad, Puerto Rico",responsible_total,0,15
+7238370,"Jayuya zona urbana, Puerto Rico",responsible_total,31,34
+7238671,"Jobos comunidad, Puerto Rico",responsible_total,0,15
+7238972,"Juana Díaz zona urbana, Puerto Rico",responsible_total,23,25
+7239470,"Juncal comunidad, Puerto Rico",responsible_total,0,15
+7239574,"Juncos zona urbana, Puerto Rico",responsible_total,87,57
+7239875,"La Alianza comunidad, Puerto Rico",responsible_total,0,15
+7240348,"La Dolores comunidad, Puerto Rico",responsible_total,0,15
+7240563,"La Fermina comunidad, Puerto Rico",responsible_total,35,52
+7240950,"Lajas zona urbana, Puerto Rico",responsible_total,0,15
+7241274,"La Liga comunidad, Puerto Rico",responsible_total,0,15
+7241294,"La Luisa comunidad, Puerto Rico",responsible_total,20,33
+7241466,"Lamboglia comunidad, Puerto Rico",responsible_total,0,15
+7241767,"La Parguera comunidad, Puerto Rico",responsible_total,34,53
+7241810,"La Pica comunidad, Puerto Rico",responsible_total,0,15
+7242068,"La Playa comunidad, Puerto Rico",responsible_total,68,86
+7242197,"La Plena comunidad, Puerto Rico",responsible_total,0,15
+7242498,"Lares zona urbana, Puerto Rico",responsible_total,70,77
+7242842,"Las Carolinas comunidad, Puerto Rico",responsible_total,0,15
+7243057,"Las Croabas comunidad, Puerto Rico",responsible_total,0,15
+7243294,"Las Gaviotas comunidad, Puerto Rico",responsible_total,18,30
+7243702,"Las Marías comunidad, Puerto Rico",responsible_total,0,15
+7243788,"Las Marías zona urbana, Puerto Rico",responsible_total,0,15
+7244003,"Las Ochenta comunidad, Puerto Rico",responsible_total,28,31
+7244089,"Las Ollas comunidad, Puerto Rico",responsible_total,0,15
+7244390,"Las Piedras zona urbana, Puerto Rico",responsible_total,0,22
+7244507,"Lassalle comunidad, Puerto Rico",responsible_total,0,15
+7245170,"La Yuca comunidad, Puerto Rico",responsible_total,0,15
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",responsible_total,0,15
+7246282,"Lluveras comunidad, Puerto Rico",responsible_total,0,15
+7246368,"Loíza zona urbana, Puerto Rico",responsible_total,0,15
+7246626,"Lomas comunidad, Puerto Rico",responsible_total,0,15
+7246800,"Lomas Verdes comunidad, Puerto Rico",responsible_total,0,15
+7246960,"Los Héroes comunidad, Puerto Rico",responsible_total,0,15
+7247013,"Los Llanos comunidad, Puerto Rico",responsible_total,59,72
+7247336,"Los Panes comunidad, Puerto Rico",responsible_total,0,15
+7247422,"Los Prados comunidad, Puerto Rico",responsible_total,0,15
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",responsible_total,0,15
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",responsible_total,0,15
+7247787,"Luquillo zona urbana, Puerto Rico",responsible_total,57,67
+7247873,"Luyando comunidad, Puerto Rico",responsible_total,16,26
+7248604,"Magas Arriba comunidad, Puerto Rico",responsible_total,0,15
+7248862,"Maguayo comunidad, Puerto Rico",responsible_total,0,15
+7250152,"Manatí zona urbana, Puerto Rico",responsible_total,72,62
+7250260,"Mansión del Mar comunidad, Puerto Rico",responsible_total,309,149
+7250270,"Mansión del Sol comunidad, Puerto Rico",responsible_total,0,15
+7250754,"María Antonia comunidad, Puerto Rico",responsible_total,0,15
+7251055,"Mariano Colón comunidad, Puerto Rico",responsible_total,64,77
+7251270,"Maricao zona urbana, Puerto Rico",responsible_total,0,15
+7251657,"Martorell comunidad, Puerto Rico",responsible_total,0,15
+7251700,"Marueño comunidad, Puerto Rico",responsible_total,0,15
+7252345,"Maunabo zona urbana, Puerto Rico",responsible_total,0,15
+7252431,"Mayagüez zona urbana, Puerto Rico",responsible_total,270,167
+7253678,"Miranda comunidad, Puerto Rico",responsible_total,0,15
+7253807,"Moca zona urbana, Puerto Rico",responsible_total,0,15
+7253979,"Monserrate comunidad, Puerto Rico",responsible_total,37,59
+7254366,"Monte Grande comunidad, Puerto Rico",responsible_total,0,15
+7254688,"Monte Verde comunidad, Puerto Rico",responsible_total,0,15
+7254882,"Mora comunidad, Puerto Rico",responsible_total,0,15
+7255097,"Morovis zona urbana, Puerto Rico",responsible_total,0,15
+7255355,"Mucarabones comunidad, Puerto Rico",responsible_total,0,15
+7255828,"Naguabo zona urbana, Puerto Rico",responsible_total,48,79
+7256129,"Naranjito zona urbana, Puerto Rico",responsible_total,0,15
+7257075,"Olimpo comunidad, Puerto Rico",responsible_total,24,41
+7257290,"Orocovis zona urbana, Puerto Rico",responsible_total,0,15
+7257612,"Pabellones comunidad, Puerto Rico",responsible_total,0,15
+7257806,"Pájaros comunidad, Puerto Rico",responsible_total,131,144
+7257862,"Pajonal comunidad, Puerto Rico",responsible_total,0,15
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",responsible_total,0,15
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",responsible_total,29,44
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",responsible_total,66,103
+7258365,"Palmas comunidad, Puerto Rico",responsible_total,0,15
+7258602,"Palmas del Mar comunidad, Puerto Rico",responsible_total,0,15
+7258613,"Palma Sola comunidad, Puerto Rico",responsible_total,0,15
+7258666,"Palmer comunidad, Puerto Rico",responsible_total,0,15
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",responsible_total,64,104
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",responsible_total,0,15
+7259139,"Palo Seco comunidad, Puerto Rico",responsible_total,0,15
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",responsible_total,0,15
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",responsible_total,0,15
+7259422,"Parcelas Mandry comunidad, Puerto Rico",responsible_total,0,15
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",responsible_total,0,15
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",responsible_total,0,15
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",responsible_total,0,15
+7260257,"Pastos comunidad, Puerto Rico",responsible_total,0,15
+7260472,"Patillas zona urbana, Puerto Rico",responsible_total,38,60
+7260945,"Peña Pobre comunidad, Puerto Rico",responsible_total,40,65
+7261074,"Peñuelas zona urbana, Puerto Rico",responsible_total,13,14
+7261545,"Piedra Aguza comunidad, Puerto Rico",responsible_total,0,15
+7261590,"Piedra Gorda comunidad, Puerto Rico",responsible_total,0,15
+7261977,"Piñas comunidad, Puerto Rico",responsible_total,0,15
+7263310,"Playa Fortuna comunidad, Puerto Rico",responsible_total,0,15
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",responsible_total,10,16
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",responsible_total,24,37
+7263568,"Playita Cortada comunidad, Puerto Rico",responsible_total,0,15
+7263697,"Pole Ojea comunidad, Puerto Rico",responsible_total,80,88
+7263820,"Ponce zona urbana, Puerto Rico",responsible_total,551,206
+7264127,"Potala Pastillo comunidad, Puerto Rico",responsible_total,0,15
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",responsible_total,0,15
+7264500,"Pueblito del Río comunidad, Puerto Rico",responsible_total,0,15
+7265589,"Puerto Real comunidad, Puerto Rico",responsible_total,39,63
+7266492,"Punta Santiago comunidad, Puerto Rico",responsible_total,71,67
+7266660,"Quebrada comunidad, Puerto Rico",responsible_total,0,15
+7267200,"Quebrada del Agua comunidad, Puerto Rico",responsible_total,0,15
+7267675,"Quebrada Prieta comunidad, Puerto Rico",responsible_total,0,15
+7268040,"Quebradillas zona urbana, Puerto Rico",responsible_total,0,22
+7268513,"Rafael Capó comunidad, Puerto Rico",responsible_total,0,15
+7268556,"Rafael González comunidad, Puerto Rico",responsible_total,0,15
+7268599,"Rafael Hernández comunidad, Puerto Rico",responsible_total,0,15
+7268771,"Ramos comunidad, Puerto Rico",responsible_total,0,15
+7269488,"Rincón comunidad, Puerto Rico",responsible_total,0,15
+7269588,"Rincón zona urbana, Puerto Rico",responsible_total,0,15
+7270448,"Río Blanco comunidad, Puerto Rico",responsible_total,72,123
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",responsible_total,0,15
+7271136,"Río Grande zona urbana, Puerto Rico",responsible_total,223,179
+7271437,"Río Lajas comunidad, Puerto Rico",responsible_total,0,15
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",responsible_total,0,15
+7272555,"Rosa Sánchez comunidad, Puerto Rico",responsible_total,16,28
+7273200,"Sabana comunidad, Puerto Rico",responsible_total,0,15
+7273372,"Sabana Eneas comunidad, Puerto Rico",responsible_total,115,127
+7273544,"Sabana Grande zona urbana, Puerto Rico",responsible_total,89,78
+7273716,"Sabana Hoyos comunidad, Puerto Rico",responsible_total,0,15
+7274189,"Sabana Seca comunidad, Puerto Rico",responsible_total,139,135
+7274877,"Salinas zona urbana, Puerto Rico",responsible_total,66,43
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",responsible_total,0,15
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",responsible_total,60,71
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",responsible_total,66,101
+7276167,"San Germán zona urbana, Puerto Rico",responsible_total,101,101
+7276339,"San Isidro comunidad, Puerto Rico",responsible_total,54,53
+7276683,"San José comunidad, Puerto Rico",responsible_total,29,33
+7276770,"San Juan zona urbana, Puerto Rico",responsible_total,1525,366
+7277027,"San Lorenzo zona urbana, Puerto Rico",responsible_total,9,15
+7277500,"San Sebastián zona urbana, Puerto Rico",responsible_total,159,121
+7277672,"Santa Bárbara comunidad, Puerto Rico",responsible_total,40,65
+7277826,"Santa Clara comunidad, Puerto Rico",responsible_total,0,15
+7278145,"Santa Isabel zona urbana, Puerto Rico",responsible_total,0,22
+7278317,"Santa María comunidad, Puerto Rico",responsible_total,0,15
+7279564,"Santo Domingo comunidad, Puerto Rico",responsible_total,0,15
+7280596,"Stella comunidad, Puerto Rico",responsible_total,0,15
+7280639,"Suárez comunidad, Puerto Rico",responsible_total,0,15
+7281413,"Tallaboa comunidad, Puerto Rico",responsible_total,6,10
+7281456,"Tallaboa Alta comunidad, Puerto Rico",responsible_total,18,28
+7282055,"Tibes comunidad, Puerto Rico",responsible_total,0,15
+7282125,"Tiburones comunidad, Puerto Rico",responsible_total,0,15
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",responsible_total,30,49
+7282488,"Toa Alta zona urbana, Puerto Rico",responsible_total,0,15
+7282617,"Toa Baja zona urbana, Puerto Rico",responsible_total,10,15
+7282692,"Toaville comunidad, Puerto Rico",responsible_total,0,15
+7282875,"Tomás de Castro comunidad, Puerto Rico",responsible_total,0,15
+7283606,"Trujillo Alto zona urbana, Puerto Rico",responsible_total,380,160
+7284509,"Utuado zona urbana, Puerto Rico",responsible_total,57,50
+7284917,"Valle Hill comunidad, Puerto Rico",responsible_total,0,15
+7285025,"Vayas comunidad, Puerto Rico",responsible_total,0,15
+7285111,"Vázquez comunidad, Puerto Rico",responsible_total,0,15
+7285197,"Vega Alta zona urbana, Puerto Rico",responsible_total,140,110
+7285326,"Vega Baja zona urbana, Puerto Rico",responsible_total,136,106
+7285971,"Vieques comunidad, Puerto Rico",responsible_total,75,70
+7286014,"Vieques zona urbana, Puerto Rico",responsible_total,0,15
+7286250,"Villa Calma comunidad, Puerto Rico",responsible_total,71,80
+7286509,"Villa de Sabana comunidad, Puerto Rico",responsible_total,0,15
+7286584,"Villa Esperanza comunidad, Puerto Rico",responsible_total,0,15
+7286788,"Villa Hugo I comunidad, Puerto Rico",responsible_total,47,47
+7286796,"Villa Hugo II comunidad, Puerto Rico",responsible_total,0,15
+7286831,"Villalba zona urbana, Puerto Rico",responsible_total,38,31
+7287240,"Villa Quintero comunidad, Puerto Rico",responsible_total,0,15
+7287272,"Villas del Sol comunidad, Puerto Rico",responsible_total,0,15
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",responsible_total,0,15
+7287638,"Voladoras comunidad, Puerto Rico",responsible_total,0,15
+7287863,"Yabucoa zona urbana, Puerto Rico",responsible_total,121,71
+7288035,"Yauco zona urbana, Puerto Rico",responsible_total,45,36
+7288121,"Yaurel comunidad, Puerto Rico",responsible_total,0,15
+7288293,"Yeguada comunidad, Puerto Rico",responsible_total,0,15
+7200186,"Aceitunas comunidad, Puerto Rico",less_than_six_months,0,15
+7200358,"Adjuntas zona urbana, Puerto Rico",less_than_six_months,0,15
+7200616,"Aguada zona urbana, Puerto Rico",less_than_six_months,0,15
+7200745,"Aguadilla zona urbana, Puerto Rico",less_than_six_months,0,24
+7200874,"Aguas Buenas zona urbana, Puerto Rico",less_than_six_months,0,15
+7201003,"Aguas Claras comunidad, Puerto Rico",less_than_six_months,0,15
+7201089,"Aguilita comunidad, Puerto Rico",less_than_six_months,0,15
+7201218,"Aibonito zona urbana, Puerto Rico",less_than_six_months,0,22
+7201863,"Alianza comunidad, Puerto Rico",less_than_six_months,0,15
+7202680,"Añasco zona urbana, Puerto Rico",less_than_six_months,0,15
+7203024,"Animas comunidad, Puerto Rico",less_than_six_months,0,15
+7203174,"Anon Raices comunidad, Puerto Rico",less_than_six_months,0,15
+7203196,"Antón Ruíz comunidad, Puerto Rico",less_than_six_months,0,15
+7203368,"Arecibo zona urbana, Puerto Rico",less_than_six_months,30,49
+7203927,"Arroyo zona urbana, Puerto Rico",less_than_six_months,0,22
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",less_than_six_months,0,15
+7204658,"Bajadero comunidad, Puerto Rico",less_than_six_months,0,15
+7204701,"Bajandas comunidad, Puerto Rico",less_than_six_months,0,15
+7205217,"Barahona comunidad, Puerto Rico",less_than_six_months,0,15
+7205346,"Barceloneta zona urbana, Puerto Rico",less_than_six_months,0,15
+7205690,"Barranquitas zona urbana, Puerto Rico",less_than_six_months,0,15
+7206421,"Bartolo comunidad, Puerto Rico",less_than_six_months,0,15
+7206593,"Bayamón zona urbana, Puerto Rico",less_than_six_months,77,63
+7206679,"Bayamón comunidad, Puerto Rico",less_than_six_months,0,15
+7207496,"Benítez comunidad, Puerto Rico",less_than_six_months,0,15
+7207668,"Betances comunidad, Puerto Rico",less_than_six_months,0,15
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",less_than_six_months,0,15
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",less_than_six_months,0,15
+7208700,"Breñas comunidad, Puerto Rico",less_than_six_months,0,15
+7208722,"Brisas del Campanero comunidad, Puerto Rico",less_than_six_months,0,15
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",less_than_six_months,0,15
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",less_than_six_months,0,15
+7209603,"Búfalo comunidad, Puerto Rico",less_than_six_months,0,15
+7209689,"Cabán comunidad, Puerto Rico",less_than_six_months,0,15
+7209861,"Cabo Rojo zona urbana, Puerto Rico",less_than_six_months,0,22
+7210048,"Cacao comunidad, Puerto Rico",less_than_six_months,0,15
+7210334,"Caguas zona urbana, Puerto Rico",less_than_six_months,0,36
+7211151,"Calzada comunidad, Puerto Rico",less_than_six_months,0,15
+7211345,"Cambalache comunidad, Puerto Rico",less_than_six_months,0,15
+7211581,"Campanilla comunidad, Puerto Rico",less_than_six_months,0,15
+7211597,"Campanillas comunidad, Puerto Rico",less_than_six_months,0,15
+7211710,"Campo Rico comunidad, Puerto Rico",less_than_six_months,0,15
+7211925,"Camuy zona urbana, Puerto Rico",less_than_six_months,0,15
+7212441,"Candelaria comunidad, Puerto Rico",less_than_six_months,26,41
+7212560,"Candelaria Arenas comunidad, Puerto Rico",less_than_six_months,25,41
+7212568,"Candelero Abajo comunidad, Puerto Rico",less_than_six_months,0,15
+7212613,"Candelero Arriba comunidad, Puerto Rico",less_than_six_months,0,15
+7212806,"Caño Martin Peña comunidad, Puerto Rico",less_than_six_months,7,10
+7212828,"Canóvanas zona urbana, Puerto Rico",less_than_six_months,0,24
+7213065,"Canovanillas comunidad, Puerto Rico",less_than_six_months,0,15
+7213925,"Capitanejo comunidad, Puerto Rico",less_than_six_months,0,15
+7214290,"Carolina zona urbana, Puerto Rico",less_than_six_months,70,82
+7214634,"Carrizales comunidad, Puerto Rico",less_than_six_months,0,15
+7215193,"Cataño zona urbana, Puerto Rico",less_than_six_months,81,90
+7215494,"Cayey zona urbana, Puerto Rico",less_than_six_months,18,22
+7215623,"Cayuco comunidad, Puerto Rico",less_than_six_months,0,15
+7215924,"Ceiba zona urbana, Puerto Rico",less_than_six_months,0,15
+7216139,"Ceiba comunidad, Puerto Rico",less_than_six_months,0,15
+7216440,"Celada comunidad, Puerto Rico",less_than_six_months,0,15
+7216526,"Central Aguirre comunidad, Puerto Rico",less_than_six_months,0,15
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",less_than_six_months,0,15
+7217773,"Ciales zona urbana, Puerto Rico",less_than_six_months,0,15
+7218074,"Cidra zona urbana, Puerto Rico",less_than_six_months,0,22
+7218719,"Coamo zona urbana, Puerto Rico",less_than_six_months,0,22
+7218891,"Coco comunidad, Puerto Rico",less_than_six_months,0,22
+7219665,"Comerío zona urbana, Puerto Rico",less_than_six_months,21,35
+7219837,"Comunas comunidad, Puerto Rico",less_than_six_months,0,15
+7220310,"Coquí comunidad, Puerto Rico",less_than_six_months,0,15
+7220353,"Corazón comunidad, Puerto Rico",less_than_six_months,0,15
+7220482,"Corcovado comunidad, Puerto Rico",less_than_six_months,0,15
+7220783,"Corozal zona urbana, Puerto Rico",less_than_six_months,0,24
+7220998,"Corral Viejo comunidad, Puerto Rico",less_than_six_months,0,15
+7221213,"Coto Laurel comunidad, Puerto Rico",less_than_six_months,0,15
+7221385,"Coto Norte comunidad, Puerto Rico",less_than_six_months,0,15
+7222589,"Culebra zona urbana, Puerto Rico",less_than_six_months,0,15
+7223062,"Daguao comunidad, Puerto Rico",less_than_six_months,0,15
+7223341,"Del Carmen comunidad, Puerto Rico",less_than_six_months,0,15
+7224008,"Dorado zona urbana, Puerto Rico",less_than_six_months,36,46
+7224395,"Duque comunidad, Puerto Rico",less_than_six_months,0,15
+7224954,"El Combate comunidad, Puerto Rico",less_than_six_months,0,15
+7225556,"El Mangó comunidad, Puerto Rico",less_than_six_months,0,15
+7225685,"El Negro comunidad, Puerto Rico",less_than_six_months,0,15
+7225771,"El Ojo comunidad, Puerto Rico",less_than_six_months,0,15
+7225835,"El Paraiso comunidad, Puerto Rico",less_than_six_months,0,15
+7226287,"El Tumbao comunidad, Puerto Rico",less_than_six_months,0,15
+7226362,"El Veintiséis comunidad, Puerto Rico",less_than_six_months,0,15
+7226502,"Emajagua comunidad, Puerto Rico",less_than_six_months,0,15
+7227190,"Esperanza comunidad, Puerto Rico",less_than_six_months,0,15
+7227263,"Espino comunidad, Puerto Rico",less_than_six_months,0,15
+7227964,"Fajardo zona urbana, Puerto Rico",less_than_six_months,18,29
+7228367,"Ferrer comunidad, Puerto Rico",less_than_six_months,0,15
+7228824,"Florida zona urbana, Puerto Rico",less_than_six_months,0,15
+7229555,"Fránquez comunidad, Puerto Rico",less_than_six_months,0,15
+7229682,"Frontón comunidad, Puerto Rico",less_than_six_months,0,15
+7229727,"Fuig comunidad, Puerto Rico",less_than_six_months,0,15
+7229813,"Galateo comunidad, Puerto Rico",less_than_six_months,0,15
+7230372,"Garrochales comunidad, Puerto Rico",less_than_six_months,0,15
+7230544,"G. L. García comunidad, Puerto Rico",less_than_six_months,0,15
+7231189,"Guánica zona urbana, Puerto Rico",less_than_six_months,0,22
+7231877,"Guayabal comunidad, Puerto Rico",less_than_six_months,0,15
+7232221,"Guayama zona urbana, Puerto Rico",less_than_six_months,31,50
+7232307,"Guayanilla zona urbana, Puerto Rico",less_than_six_months,0,15
+7232522,"Guaynabo zona urbana, Puerto Rico",less_than_six_months,0,36
+7232823,"Gurabo zona urbana, Puerto Rico",less_than_six_months,0,22
+7233184,"Hacienda San José comunidad, Puerto Rico",less_than_six_months,0,15
+7233296,"Hatillo zona urbana, Puerto Rico",less_than_six_months,0,15
+7233597,"Hato Arriba comunidad, Puerto Rico",less_than_six_months,0,15
+7233683,"Hato Candal comunidad, Puerto Rico",less_than_six_months,0,15
+7234242,"Hato Viejo comunidad, Puerto Rico",less_than_six_months,0,15
+7234914,"Honduras comunidad, Puerto Rico",less_than_six_months,0,15
+7235059,"Hormigueros zona urbana, Puerto Rico",less_than_six_months,0,24
+7235403,"H. Rivera Colón comunidad, Puerto Rico",less_than_six_months,0,15
+7235532,"Humacao zona urbana, Puerto Rico",less_than_six_months,0,24
+7235962,"Imbéry comunidad, Puerto Rico",less_than_six_months,0,15
+7236177,"Indios comunidad, Puerto Rico",less_than_six_months,0,15
+7236263,"Ingenio comunidad, Puerto Rico",less_than_six_months,0,15
+7236478,"Isabela zona urbana, Puerto Rico",less_than_six_months,0,24
+7236779,"Isleta comunidad, Puerto Rico",less_than_six_months,0,15
+7237166,"Jagual comunidad, Puerto Rico",less_than_six_months,0,15
+7237336,"Jaguas comunidad, Puerto Rico",less_than_six_months,0,15
+7238241,"Jauca comunidad, Puerto Rico",less_than_six_months,0,15
+7238370,"Jayuya zona urbana, Puerto Rico",less_than_six_months,15,22
+7238671,"Jobos comunidad, Puerto Rico",less_than_six_months,0,15
+7238972,"Juana Díaz zona urbana, Puerto Rico",less_than_six_months,0,22
+7239470,"Juncal comunidad, Puerto Rico",less_than_six_months,0,15
+7239574,"Juncos zona urbana, Puerto Rico",less_than_six_months,0,22
+7239875,"La Alianza comunidad, Puerto Rico",less_than_six_months,0,15
+7240348,"La Dolores comunidad, Puerto Rico",less_than_six_months,0,15
+7240563,"La Fermina comunidad, Puerto Rico",less_than_six_months,0,15
+7240950,"Lajas zona urbana, Puerto Rico",less_than_six_months,0,15
+7241274,"La Liga comunidad, Puerto Rico",less_than_six_months,0,15
+7241294,"La Luisa comunidad, Puerto Rico",less_than_six_months,0,15
+7241466,"Lamboglia comunidad, Puerto Rico",less_than_six_months,0,15
+7241767,"La Parguera comunidad, Puerto Rico",less_than_six_months,0,15
+7241810,"La Pica comunidad, Puerto Rico",less_than_six_months,0,15
+7242068,"La Playa comunidad, Puerto Rico",less_than_six_months,48,79
+7242197,"La Plena comunidad, Puerto Rico",less_than_six_months,0,15
+7242498,"Lares zona urbana, Puerto Rico",less_than_six_months,0,22
+7242842,"Las Carolinas comunidad, Puerto Rico",less_than_six_months,0,15
+7243057,"Las Croabas comunidad, Puerto Rico",less_than_six_months,0,15
+7243294,"Las Gaviotas comunidad, Puerto Rico",less_than_six_months,0,15
+7243702,"Las Marías comunidad, Puerto Rico",less_than_six_months,0,15
+7243788,"Las Marías zona urbana, Puerto Rico",less_than_six_months,0,15
+7244003,"Las Ochenta comunidad, Puerto Rico",less_than_six_months,0,15
+7244089,"Las Ollas comunidad, Puerto Rico",less_than_six_months,0,15
+7244390,"Las Piedras zona urbana, Puerto Rico",less_than_six_months,0,22
+7244507,"Lassalle comunidad, Puerto Rico",less_than_six_months,0,15
+7245170,"La Yuca comunidad, Puerto Rico",less_than_six_months,0,15
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",less_than_six_months,0,15
+7246282,"Lluveras comunidad, Puerto Rico",less_than_six_months,0,15
+7246368,"Loíza zona urbana, Puerto Rico",less_than_six_months,0,15
+7246626,"Lomas comunidad, Puerto Rico",less_than_six_months,0,15
+7246800,"Lomas Verdes comunidad, Puerto Rico",less_than_six_months,0,15
+7246960,"Los Héroes comunidad, Puerto Rico",less_than_six_months,0,15
+7247013,"Los Llanos comunidad, Puerto Rico",less_than_six_months,0,15
+7247336,"Los Panes comunidad, Puerto Rico",less_than_six_months,0,15
+7247422,"Los Prados comunidad, Puerto Rico",less_than_six_months,0,15
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",less_than_six_months,0,15
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",less_than_six_months,0,15
+7247787,"Luquillo zona urbana, Puerto Rico",less_than_six_months,0,22
+7247873,"Luyando comunidad, Puerto Rico",less_than_six_months,0,15
+7248604,"Magas Arriba comunidad, Puerto Rico",less_than_six_months,0,15
+7248862,"Maguayo comunidad, Puerto Rico",less_than_six_months,0,15
+7250152,"Manatí zona urbana, Puerto Rico",less_than_six_months,27,42
+7250260,"Mansión del Mar comunidad, Puerto Rico",less_than_six_months,44,50
+7250270,"Mansión del Sol comunidad, Puerto Rico",less_than_six_months,0,15
+7250754,"María Antonia comunidad, Puerto Rico",less_than_six_months,0,15
+7251055,"Mariano Colón comunidad, Puerto Rico",less_than_six_months,0,15
+7251270,"Maricao zona urbana, Puerto Rico",less_than_six_months,0,15
+7251657,"Martorell comunidad, Puerto Rico",less_than_six_months,0,15
+7251700,"Marueño comunidad, Puerto Rico",less_than_six_months,0,15
+7252345,"Maunabo zona urbana, Puerto Rico",less_than_six_months,0,15
+7252431,"Mayagüez zona urbana, Puerto Rico",less_than_six_months,0,36
+7253678,"Miranda comunidad, Puerto Rico",less_than_six_months,0,15
+7253807,"Moca zona urbana, Puerto Rico",less_than_six_months,0,15
+7253979,"Monserrate comunidad, Puerto Rico",less_than_six_months,0,15
+7254366,"Monte Grande comunidad, Puerto Rico",less_than_six_months,0,15
+7254688,"Monte Verde comunidad, Puerto Rico",less_than_six_months,0,15
+7254882,"Mora comunidad, Puerto Rico",less_than_six_months,0,15
+7255097,"Morovis zona urbana, Puerto Rico",less_than_six_months,0,15
+7255355,"Mucarabones comunidad, Puerto Rico",less_than_six_months,0,15
+7255828,"Naguabo zona urbana, Puerto Rico",less_than_six_months,48,79
+7256129,"Naranjito zona urbana, Puerto Rico",less_than_six_months,0,15
+7257075,"Olimpo comunidad, Puerto Rico",less_than_six_months,0,15
+7257290,"Orocovis zona urbana, Puerto Rico",less_than_six_months,0,15
+7257612,"Pabellones comunidad, Puerto Rico",less_than_six_months,0,15
+7257806,"Pájaros comunidad, Puerto Rico",less_than_six_months,25,40
+7257862,"Pajonal comunidad, Puerto Rico",less_than_six_months,0,15
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",less_than_six_months,0,15
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",less_than_six_months,0,15
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",less_than_six_months,66,103
+7258365,"Palmas comunidad, Puerto Rico",less_than_six_months,0,15
+7258602,"Palmas del Mar comunidad, Puerto Rico",less_than_six_months,0,15
+7258613,"Palma Sola comunidad, Puerto Rico",less_than_six_months,0,15
+7258666,"Palmer comunidad, Puerto Rico",less_than_six_months,0,15
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",less_than_six_months,0,15
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",less_than_six_months,0,15
+7259139,"Palo Seco comunidad, Puerto Rico",less_than_six_months,0,15
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",less_than_six_months,0,15
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",less_than_six_months,0,15
+7259422,"Parcelas Mandry comunidad, Puerto Rico",less_than_six_months,0,15
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",less_than_six_months,0,15
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",less_than_six_months,0,15
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",less_than_six_months,0,15
+7260257,"Pastos comunidad, Puerto Rico",less_than_six_months,0,15
+7260472,"Patillas zona urbana, Puerto Rico",less_than_six_months,20,31
+7260945,"Peña Pobre comunidad, Puerto Rico",less_than_six_months,0,15
+7261074,"Peñuelas zona urbana, Puerto Rico",less_than_six_months,0,22
+7261545,"Piedra Aguza comunidad, Puerto Rico",less_than_six_months,0,15
+7261590,"Piedra Gorda comunidad, Puerto Rico",less_than_six_months,0,15
+7261977,"Piñas comunidad, Puerto Rico",less_than_six_months,0,15
+7263310,"Playa Fortuna comunidad, Puerto Rico",less_than_six_months,0,15
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",less_than_six_months,0,15
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",less_than_six_months,0,15
+7263568,"Playita Cortada comunidad, Puerto Rico",less_than_six_months,0,15
+7263697,"Pole Ojea comunidad, Puerto Rico",less_than_six_months,0,15
+7263820,"Ponce zona urbana, Puerto Rico",less_than_six_months,121,118
+7264127,"Potala Pastillo comunidad, Puerto Rico",less_than_six_months,0,15
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",less_than_six_months,0,15
+7264500,"Pueblito del Río comunidad, Puerto Rico",less_than_six_months,0,15
+7265589,"Puerto Real comunidad, Puerto Rico",less_than_six_months,0,22
+7266492,"Punta Santiago comunidad, Puerto Rico",less_than_six_months,0,15
+7266660,"Quebrada comunidad, Puerto Rico",less_than_six_months,0,15
+7267200,"Quebrada del Agua comunidad, Puerto Rico",less_than_six_months,0,15
+7267675,"Quebrada Prieta comunidad, Puerto Rico",less_than_six_months,0,15
+7268040,"Quebradillas zona urbana, Puerto Rico",less_than_six_months,0,22
+7268513,"Rafael Capó comunidad, Puerto Rico",less_than_six_months,0,15
+7268556,"Rafael González comunidad, Puerto Rico",less_than_six_months,0,15
+7268599,"Rafael Hernández comunidad, Puerto Rico",less_than_six_months,0,15
+7268771,"Ramos comunidad, Puerto Rico",less_than_six_months,0,15
+7269488,"Rincón comunidad, Puerto Rico",less_than_six_months,0,15
+7269588,"Rincón zona urbana, Puerto Rico",less_than_six_months,0,15
+7270448,"Río Blanco comunidad, Puerto Rico",less_than_six_months,0,15
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",less_than_six_months,0,15
+7271136,"Río Grande zona urbana, Puerto Rico",less_than_six_months,0,24
+7271437,"Río Lajas comunidad, Puerto Rico",less_than_six_months,0,15
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",less_than_six_months,0,15
+7272555,"Rosa Sánchez comunidad, Puerto Rico",less_than_six_months,0,15
+7273200,"Sabana comunidad, Puerto Rico",less_than_six_months,0,15
+7273372,"Sabana Eneas comunidad, Puerto Rico",less_than_six_months,50,83
+7273544,"Sabana Grande zona urbana, Puerto Rico",less_than_six_months,0,22
+7273716,"Sabana Hoyos comunidad, Puerto Rico",less_than_six_months,0,15
+7274189,"Sabana Seca comunidad, Puerto Rico",less_than_six_months,0,22
+7274877,"Salinas zona urbana, Puerto Rico",less_than_six_months,0,15
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",less_than_six_months,0,15
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",less_than_six_months,20,32
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",less_than_six_months,0,15
+7276167,"San Germán zona urbana, Puerto Rico",less_than_six_months,52,84
+7276339,"San Isidro comunidad, Puerto Rico",less_than_six_months,0,22
+7276683,"San José comunidad, Puerto Rico",less_than_six_months,0,15
+7276770,"San Juan zona urbana, Puerto Rico",less_than_six_months,75,67
+7277027,"San Lorenzo zona urbana, Puerto Rico",less_than_six_months,0,22
+7277500,"San Sebastián zona urbana, Puerto Rico",less_than_six_months,0,22
+7277672,"Santa Bárbara comunidad, Puerto Rico",less_than_six_months,0,15
+7277826,"Santa Clara comunidad, Puerto Rico",less_than_six_months,0,15
+7278145,"Santa Isabel zona urbana, Puerto Rico",less_than_six_months,0,22
+7278317,"Santa María comunidad, Puerto Rico",less_than_six_months,0,15
+7279564,"Santo Domingo comunidad, Puerto Rico",less_than_six_months,0,15
+7280596,"Stella comunidad, Puerto Rico",less_than_six_months,0,15
+7280639,"Suárez comunidad, Puerto Rico",less_than_six_months,0,15
+7281413,"Tallaboa comunidad, Puerto Rico",less_than_six_months,6,10
+7281456,"Tallaboa Alta comunidad, Puerto Rico",less_than_six_months,0,15
+7282055,"Tibes comunidad, Puerto Rico",less_than_six_months,0,15
+7282125,"Tiburones comunidad, Puerto Rico",less_than_six_months,0,15
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",less_than_six_months,0,15
+7282488,"Toa Alta zona urbana, Puerto Rico",less_than_six_months,0,15
+7282617,"Toa Baja zona urbana, Puerto Rico",less_than_six_months,0,15
+7282692,"Toaville comunidad, Puerto Rico",less_than_six_months,0,15
+7282875,"Tomás de Castro comunidad, Puerto Rico",less_than_six_months,0,15
+7283606,"Trujillo Alto zona urbana, Puerto Rico",less_than_six_months,74,86
+7284509,"Utuado zona urbana, Puerto Rico",less_than_six_months,9,14
+7284917,"Valle Hill comunidad, Puerto Rico",less_than_six_months,0,15
+7285025,"Vayas comunidad, Puerto Rico",less_than_six_months,0,15
+7285111,"Vázquez comunidad, Puerto Rico",less_than_six_months,0,15
+7285197,"Vega Alta zona urbana, Puerto Rico",less_than_six_months,0,22
+7285326,"Vega Baja zona urbana, Puerto Rico",less_than_six_months,0,29
+7285971,"Vieques comunidad, Puerto Rico",less_than_six_months,0,15
+7286014,"Vieques zona urbana, Puerto Rico",less_than_six_months,0,15
+7286250,"Villa Calma comunidad, Puerto Rico",less_than_six_months,0,15
+7286509,"Villa de Sabana comunidad, Puerto Rico",less_than_six_months,0,15
+7286584,"Villa Esperanza comunidad, Puerto Rico",less_than_six_months,0,15
+7286788,"Villa Hugo I comunidad, Puerto Rico",less_than_six_months,9,15
+7286796,"Villa Hugo II comunidad, Puerto Rico",less_than_six_months,0,15
+7286831,"Villalba zona urbana, Puerto Rico",less_than_six_months,0,15
+7287240,"Villa Quintero comunidad, Puerto Rico",less_than_six_months,0,15
+7287272,"Villas del Sol comunidad, Puerto Rico",less_than_six_months,0,15
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",less_than_six_months,0,15
+7287638,"Voladoras comunidad, Puerto Rico",less_than_six_months,0,15
+7287863,"Yabucoa zona urbana, Puerto Rico",less_than_six_months,39,38
+7288035,"Yauco zona urbana, Puerto Rico",less_than_six_months,0,24
+7288121,"Yaurel comunidad, Puerto Rico",less_than_six_months,0,15
+7288293,"Yeguada comunidad, Puerto Rico",less_than_six_months,0,15
+7200186,"Aceitunas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7200358,"Adjuntas zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7200616,"Aguada zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7200745,"Aguadilla zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7200874,"Aguas Buenas zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7201003,"Aguas Claras comunidad, Puerto Rico",six_to_eleven_months,0,15
+7201089,"Aguilita comunidad, Puerto Rico",six_to_eleven_months,0,15
+7201218,"Aibonito zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7201863,"Alianza comunidad, Puerto Rico",six_to_eleven_months,0,15
+7202680,"Añasco zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7203024,"Animas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7203174,"Anon Raices comunidad, Puerto Rico",six_to_eleven_months,0,15
+7203196,"Antón Ruíz comunidad, Puerto Rico",six_to_eleven_months,0,15
+7203368,"Arecibo zona urbana, Puerto Rico",six_to_eleven_months,0,33
+7203927,"Arroyo zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",six_to_eleven_months,0,15
+7204658,"Bajadero comunidad, Puerto Rico",six_to_eleven_months,0,15
+7204701,"Bajandas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7205217,"Barahona comunidad, Puerto Rico",six_to_eleven_months,0,15
+7205346,"Barceloneta zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7205690,"Barranquitas zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7206421,"Bartolo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7206593,"Bayamón zona urbana, Puerto Rico",six_to_eleven_months,73,76
+7206679,"Bayamón comunidad, Puerto Rico",six_to_eleven_months,0,15
+7207496,"Benítez comunidad, Puerto Rico",six_to_eleven_months,0,15
+7207668,"Betances comunidad, Puerto Rico",six_to_eleven_months,0,15
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",six_to_eleven_months,0,15
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",six_to_eleven_months,0,15
+7208700,"Breñas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7208722,"Brisas del Campanero comunidad, Puerto Rico",six_to_eleven_months,26,44
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",six_to_eleven_months,0,15
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",six_to_eleven_months,0,15
+7209603,"Búfalo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7209689,"Cabán comunidad, Puerto Rico",six_to_eleven_months,0,15
+7209861,"Cabo Rojo zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7210048,"Cacao comunidad, Puerto Rico",six_to_eleven_months,0,15
+7210334,"Caguas zona urbana, Puerto Rico",six_to_eleven_months,9,14
+7211151,"Calzada comunidad, Puerto Rico",six_to_eleven_months,0,15
+7211345,"Cambalache comunidad, Puerto Rico",six_to_eleven_months,0,15
+7211581,"Campanilla comunidad, Puerto Rico",six_to_eleven_months,30,50
+7211597,"Campanillas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7211710,"Campo Rico comunidad, Puerto Rico",six_to_eleven_months,0,15
+7211925,"Camuy zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7212441,"Candelaria comunidad, Puerto Rico",six_to_eleven_months,40,47
+7212560,"Candelaria Arenas comunidad, Puerto Rico",six_to_eleven_months,37,59
+7212568,"Candelero Abajo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7212613,"Candelero Arriba comunidad, Puerto Rico",six_to_eleven_months,0,15
+7212806,"Caño Martin Peña comunidad, Puerto Rico",six_to_eleven_months,10,16
+7212828,"Canóvanas zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7213065,"Canovanillas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7213925,"Capitanejo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7214290,"Carolina zona urbana, Puerto Rico",six_to_eleven_months,12,18
+7214634,"Carrizales comunidad, Puerto Rico",six_to_eleven_months,0,15
+7215193,"Cataño zona urbana, Puerto Rico",six_to_eleven_months,0,29
+7215494,"Cayey zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7215623,"Cayuco comunidad, Puerto Rico",six_to_eleven_months,0,15
+7215924,"Ceiba zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7216139,"Ceiba comunidad, Puerto Rico",six_to_eleven_months,0,15
+7216440,"Celada comunidad, Puerto Rico",six_to_eleven_months,0,15
+7216526,"Central Aguirre comunidad, Puerto Rico",six_to_eleven_months,0,15
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",six_to_eleven_months,0,15
+7217773,"Ciales zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7218074,"Cidra zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7218719,"Coamo zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7218891,"Coco comunidad, Puerto Rico",six_to_eleven_months,0,22
+7219665,"Comerío zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7219837,"Comunas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7220310,"Coquí comunidad, Puerto Rico",six_to_eleven_months,0,15
+7220353,"Corazón comunidad, Puerto Rico",six_to_eleven_months,0,15
+7220482,"Corcovado comunidad, Puerto Rico",six_to_eleven_months,0,15
+7220783,"Corozal zona urbana, Puerto Rico",six_to_eleven_months,41,69
+7220998,"Corral Viejo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7221213,"Coto Laurel comunidad, Puerto Rico",six_to_eleven_months,0,15
+7221385,"Coto Norte comunidad, Puerto Rico",six_to_eleven_months,0,15
+7222589,"Culebra zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7223062,"Daguao comunidad, Puerto Rico",six_to_eleven_months,0,15
+7223341,"Del Carmen comunidad, Puerto Rico",six_to_eleven_months,0,15
+7224008,"Dorado zona urbana, Puerto Rico",six_to_eleven_months,23,37
+7224395,"Duque comunidad, Puerto Rico",six_to_eleven_months,0,15
+7224954,"El Combate comunidad, Puerto Rico",six_to_eleven_months,0,15
+7225556,"El Mangó comunidad, Puerto Rico",six_to_eleven_months,0,15
+7225685,"El Negro comunidad, Puerto Rico",six_to_eleven_months,0,15
+7225771,"El Ojo comunidad, Puerto Rico",six_to_eleven_months,27,46
+7225835,"El Paraiso comunidad, Puerto Rico",six_to_eleven_months,0,15
+7226287,"El Tumbao comunidad, Puerto Rico",six_to_eleven_months,0,15
+7226362,"El Veintiséis comunidad, Puerto Rico",six_to_eleven_months,0,15
+7226502,"Emajagua comunidad, Puerto Rico",six_to_eleven_months,30,49
+7227190,"Esperanza comunidad, Puerto Rico",six_to_eleven_months,0,15
+7227263,"Espino comunidad, Puerto Rico",six_to_eleven_months,0,15
+7227964,"Fajardo zona urbana, Puerto Rico",six_to_eleven_months,8,12
+7228367,"Ferrer comunidad, Puerto Rico",six_to_eleven_months,0,15
+7228824,"Florida zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7229555,"Fránquez comunidad, Puerto Rico",six_to_eleven_months,0,15
+7229682,"Frontón comunidad, Puerto Rico",six_to_eleven_months,0,15
+7229727,"Fuig comunidad, Puerto Rico",six_to_eleven_months,0,15
+7229813,"Galateo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7230372,"Garrochales comunidad, Puerto Rico",six_to_eleven_months,0,15
+7230544,"G. L. García comunidad, Puerto Rico",six_to_eleven_months,0,15
+7231189,"Guánica zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7231877,"Guayabal comunidad, Puerto Rico",six_to_eleven_months,0,15
+7232221,"Guayama zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7232307,"Guayanilla zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7232522,"Guaynabo zona urbana, Puerto Rico",six_to_eleven_months,33,41
+7232823,"Gurabo zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7233184,"Hacienda San José comunidad, Puerto Rico",six_to_eleven_months,0,15
+7233296,"Hatillo zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7233597,"Hato Arriba comunidad, Puerto Rico",six_to_eleven_months,0,15
+7233683,"Hato Candal comunidad, Puerto Rico",six_to_eleven_months,0,15
+7234242,"Hato Viejo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7234914,"Honduras comunidad, Puerto Rico",six_to_eleven_months,0,15
+7235059,"Hormigueros zona urbana, Puerto Rico",six_to_eleven_months,7,13
+7235403,"H. Rivera Colón comunidad, Puerto Rico",six_to_eleven_months,0,15
+7235532,"Humacao zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7235962,"Imbéry comunidad, Puerto Rico",six_to_eleven_months,0,15
+7236177,"Indios comunidad, Puerto Rico",six_to_eleven_months,0,15
+7236263,"Ingenio comunidad, Puerto Rico",six_to_eleven_months,0,15
+7236478,"Isabela zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7236779,"Isleta comunidad, Puerto Rico",six_to_eleven_months,0,15
+7237166,"Jagual comunidad, Puerto Rico",six_to_eleven_months,0,15
+7237336,"Jaguas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7238241,"Jauca comunidad, Puerto Rico",six_to_eleven_months,0,15
+7238370,"Jayuya zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7238671,"Jobos comunidad, Puerto Rico",six_to_eleven_months,0,15
+7238972,"Juana Díaz zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7239470,"Juncal comunidad, Puerto Rico",six_to_eleven_months,0,15
+7239574,"Juncos zona urbana, Puerto Rico",six_to_eleven_months,19,30
+7239875,"La Alianza comunidad, Puerto Rico",six_to_eleven_months,0,15
+7240348,"La Dolores comunidad, Puerto Rico",six_to_eleven_months,0,15
+7240563,"La Fermina comunidad, Puerto Rico",six_to_eleven_months,0,15
+7240950,"Lajas zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7241274,"La Liga comunidad, Puerto Rico",six_to_eleven_months,0,15
+7241294,"La Luisa comunidad, Puerto Rico",six_to_eleven_months,0,15
+7241466,"Lamboglia comunidad, Puerto Rico",six_to_eleven_months,0,15
+7241767,"La Parguera comunidad, Puerto Rico",six_to_eleven_months,0,15
+7241810,"La Pica comunidad, Puerto Rico",six_to_eleven_months,0,15
+7242068,"La Playa comunidad, Puerto Rico",six_to_eleven_months,0,15
+7242197,"La Plena comunidad, Puerto Rico",six_to_eleven_months,0,15
+7242498,"Lares zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7242842,"Las Carolinas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7243057,"Las Croabas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7243294,"Las Gaviotas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7243702,"Las Marías comunidad, Puerto Rico",six_to_eleven_months,0,15
+7243788,"Las Marías zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7244003,"Las Ochenta comunidad, Puerto Rico",six_to_eleven_months,19,28
+7244089,"Las Ollas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7244390,"Las Piedras zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7244507,"Lassalle comunidad, Puerto Rico",six_to_eleven_months,0,15
+7245170,"La Yuca comunidad, Puerto Rico",six_to_eleven_months,0,15
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",six_to_eleven_months,0,15
+7246282,"Lluveras comunidad, Puerto Rico",six_to_eleven_months,0,15
+7246368,"Loíza zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7246626,"Lomas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7246800,"Lomas Verdes comunidad, Puerto Rico",six_to_eleven_months,0,15
+7246960,"Los Héroes comunidad, Puerto Rico",six_to_eleven_months,0,15
+7247013,"Los Llanos comunidad, Puerto Rico",six_to_eleven_months,39,63
+7247336,"Los Panes comunidad, Puerto Rico",six_to_eleven_months,0,15
+7247422,"Los Prados comunidad, Puerto Rico",six_to_eleven_months,0,15
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",six_to_eleven_months,0,15
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",six_to_eleven_months,0,15
+7247787,"Luquillo zona urbana, Puerto Rico",six_to_eleven_months,39,61
+7247873,"Luyando comunidad, Puerto Rico",six_to_eleven_months,0,15
+7248604,"Magas Arriba comunidad, Puerto Rico",six_to_eleven_months,0,15
+7248862,"Maguayo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7250152,"Manatí zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7250260,"Mansión del Mar comunidad, Puerto Rico",six_to_eleven_months,0,29
+7250270,"Mansión del Sol comunidad, Puerto Rico",six_to_eleven_months,0,15
+7250754,"María Antonia comunidad, Puerto Rico",six_to_eleven_months,0,15
+7251055,"Mariano Colón comunidad, Puerto Rico",six_to_eleven_months,0,15
+7251270,"Maricao zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7251657,"Martorell comunidad, Puerto Rico",six_to_eleven_months,0,15
+7251700,"Marueño comunidad, Puerto Rico",six_to_eleven_months,0,15
+7252345,"Maunabo zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7252431,"Mayagüez zona urbana, Puerto Rico",six_to_eleven_months,87,132
+7253678,"Miranda comunidad, Puerto Rico",six_to_eleven_months,0,15
+7253807,"Moca zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7253979,"Monserrate comunidad, Puerto Rico",six_to_eleven_months,0,15
+7254366,"Monte Grande comunidad, Puerto Rico",six_to_eleven_months,0,15
+7254688,"Monte Verde comunidad, Puerto Rico",six_to_eleven_months,0,15
+7254882,"Mora comunidad, Puerto Rico",six_to_eleven_months,0,15
+7255097,"Morovis zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7255355,"Mucarabones comunidad, Puerto Rico",six_to_eleven_months,0,15
+7255828,"Naguabo zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7256129,"Naranjito zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7257075,"Olimpo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7257290,"Orocovis zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7257612,"Pabellones comunidad, Puerto Rico",six_to_eleven_months,0,15
+7257806,"Pájaros comunidad, Puerto Rico",six_to_eleven_months,0,24
+7257862,"Pajonal comunidad, Puerto Rico",six_to_eleven_months,0,15
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",six_to_eleven_months,0,15
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",six_to_eleven_months,0,15
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",six_to_eleven_months,0,15
+7258365,"Palmas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7258602,"Palmas del Mar comunidad, Puerto Rico",six_to_eleven_months,0,15
+7258613,"Palma Sola comunidad, Puerto Rico",six_to_eleven_months,0,15
+7258666,"Palmer comunidad, Puerto Rico",six_to_eleven_months,0,15
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",six_to_eleven_months,0,15
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",six_to_eleven_months,0,15
+7259139,"Palo Seco comunidad, Puerto Rico",six_to_eleven_months,0,15
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",six_to_eleven_months,0,15
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",six_to_eleven_months,0,15
+7259422,"Parcelas Mandry comunidad, Puerto Rico",six_to_eleven_months,0,15
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",six_to_eleven_months,0,15
+7260257,"Pastos comunidad, Puerto Rico",six_to_eleven_months,0,15
+7260472,"Patillas zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7260945,"Peña Pobre comunidad, Puerto Rico",six_to_eleven_months,0,15
+7261074,"Peñuelas zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7261545,"Piedra Aguza comunidad, Puerto Rico",six_to_eleven_months,0,15
+7261590,"Piedra Gorda comunidad, Puerto Rico",six_to_eleven_months,0,15
+7261977,"Piñas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7263310,"Playa Fortuna comunidad, Puerto Rico",six_to_eleven_months,0,15
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",six_to_eleven_months,0,15
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",six_to_eleven_months,0,15
+7263568,"Playita Cortada comunidad, Puerto Rico",six_to_eleven_months,0,15
+7263697,"Pole Ojea comunidad, Puerto Rico",six_to_eleven_months,0,15
+7263820,"Ponce zona urbana, Puerto Rico",six_to_eleven_months,27,34
+7264127,"Potala Pastillo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",six_to_eleven_months,0,15
+7264500,"Pueblito del Río comunidad, Puerto Rico",six_to_eleven_months,0,15
+7265589,"Puerto Real comunidad, Puerto Rico",six_to_eleven_months,0,22
+7266492,"Punta Santiago comunidad, Puerto Rico",six_to_eleven_months,0,15
+7266660,"Quebrada comunidad, Puerto Rico",six_to_eleven_months,0,15
+7267200,"Quebrada del Agua comunidad, Puerto Rico",six_to_eleven_months,0,15
+7267675,"Quebrada Prieta comunidad, Puerto Rico",six_to_eleven_months,0,15
+7268040,"Quebradillas zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7268513,"Rafael Capó comunidad, Puerto Rico",six_to_eleven_months,0,15
+7268556,"Rafael González comunidad, Puerto Rico",six_to_eleven_months,0,15
+7268599,"Rafael Hernández comunidad, Puerto Rico",six_to_eleven_months,0,15
+7268771,"Ramos comunidad, Puerto Rico",six_to_eleven_months,0,15
+7269488,"Rincón comunidad, Puerto Rico",six_to_eleven_months,0,15
+7269588,"Rincón zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7270448,"Río Blanco comunidad, Puerto Rico",six_to_eleven_months,0,15
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7271136,"Río Grande zona urbana, Puerto Rico",six_to_eleven_months,53,84
+7271437,"Río Lajas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",six_to_eleven_months,0,15
+7272555,"Rosa Sánchez comunidad, Puerto Rico",six_to_eleven_months,0,15
+7273200,"Sabana comunidad, Puerto Rico",six_to_eleven_months,0,15
+7273372,"Sabana Eneas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7273544,"Sabana Grande zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7273716,"Sabana Hoyos comunidad, Puerto Rico",six_to_eleven_months,0,15
+7274189,"Sabana Seca comunidad, Puerto Rico",six_to_eleven_months,0,22
+7274877,"Salinas zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",six_to_eleven_months,0,15
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",six_to_eleven_months,0,22
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",six_to_eleven_months,0,15
+7276167,"San Germán zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7276339,"San Isidro comunidad, Puerto Rico",six_to_eleven_months,0,22
+7276683,"San José comunidad, Puerto Rico",six_to_eleven_months,0,15
+7276770,"San Juan zona urbana, Puerto Rico",six_to_eleven_months,65,57
+7277027,"San Lorenzo zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7277500,"San Sebastián zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7277672,"Santa Bárbara comunidad, Puerto Rico",six_to_eleven_months,0,15
+7277826,"Santa Clara comunidad, Puerto Rico",six_to_eleven_months,0,15
+7278145,"Santa Isabel zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7278317,"Santa María comunidad, Puerto Rico",six_to_eleven_months,0,15
+7279564,"Santo Domingo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7280596,"Stella comunidad, Puerto Rico",six_to_eleven_months,0,15
+7280639,"Suárez comunidad, Puerto Rico",six_to_eleven_months,0,15
+7281413,"Tallaboa comunidad, Puerto Rico",six_to_eleven_months,0,15
+7281456,"Tallaboa Alta comunidad, Puerto Rico",six_to_eleven_months,0,15
+7282055,"Tibes comunidad, Puerto Rico",six_to_eleven_months,0,15
+7282125,"Tiburones comunidad, Puerto Rico",six_to_eleven_months,0,15
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",six_to_eleven_months,0,15
+7282488,"Toa Alta zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7282617,"Toa Baja zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7282692,"Toaville comunidad, Puerto Rico",six_to_eleven_months,0,15
+7282875,"Tomás de Castro comunidad, Puerto Rico",six_to_eleven_months,0,15
+7283606,"Trujillo Alto zona urbana, Puerto Rico",six_to_eleven_months,17,27
+7284509,"Utuado zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7284917,"Valle Hill comunidad, Puerto Rico",six_to_eleven_months,0,15
+7285025,"Vayas comunidad, Puerto Rico",six_to_eleven_months,0,15
+7285111,"Vázquez comunidad, Puerto Rico",six_to_eleven_months,0,15
+7285197,"Vega Alta zona urbana, Puerto Rico",six_to_eleven_months,0,22
+7285326,"Vega Baja zona urbana, Puerto Rico",six_to_eleven_months,9,15
+7285971,"Vieques comunidad, Puerto Rico",six_to_eleven_months,0,15
+7286014,"Vieques zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7286250,"Villa Calma comunidad, Puerto Rico",six_to_eleven_months,0,15
+7286509,"Villa de Sabana comunidad, Puerto Rico",six_to_eleven_months,0,15
+7286584,"Villa Esperanza comunidad, Puerto Rico",six_to_eleven_months,0,15
+7286788,"Villa Hugo I comunidad, Puerto Rico",six_to_eleven_months,0,15
+7286796,"Villa Hugo II comunidad, Puerto Rico",six_to_eleven_months,0,15
+7286831,"Villalba zona urbana, Puerto Rico",six_to_eleven_months,0,15
+7287240,"Villa Quintero comunidad, Puerto Rico",six_to_eleven_months,0,15
+7287272,"Villas del Sol comunidad, Puerto Rico",six_to_eleven_months,0,15
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",six_to_eleven_months,0,15
+7287638,"Voladoras comunidad, Puerto Rico",six_to_eleven_months,0,15
+7287863,"Yabucoa zona urbana, Puerto Rico",six_to_eleven_months,17,21
+7288035,"Yauco zona urbana, Puerto Rico",six_to_eleven_months,0,24
+7288121,"Yaurel comunidad, Puerto Rico",six_to_eleven_months,0,15
+7288293,"Yeguada comunidad, Puerto Rico",six_to_eleven_months,0,15
+7200186,"Aceitunas comunidad, Puerto Rico",one_or_two_years,0,15
+7200358,"Adjuntas zona urbana, Puerto Rico",one_or_two_years,0,15
+7200616,"Aguada zona urbana, Puerto Rico",one_or_two_years,0,15
+7200745,"Aguadilla zona urbana, Puerto Rico",one_or_two_years,48,56
+7200874,"Aguas Buenas zona urbana, Puerto Rico",one_or_two_years,0,15
+7201003,"Aguas Claras comunidad, Puerto Rico",one_or_two_years,0,15
+7201089,"Aguilita comunidad, Puerto Rico",one_or_two_years,0,15
+7201218,"Aibonito zona urbana, Puerto Rico",one_or_two_years,29,45
+7201863,"Alianza comunidad, Puerto Rico",one_or_two_years,0,15
+7202680,"Añasco zona urbana, Puerto Rico",one_or_two_years,0,15
+7203024,"Animas comunidad, Puerto Rico",one_or_two_years,0,15
+7203174,"Anon Raices comunidad, Puerto Rico",one_or_two_years,0,15
+7203196,"Antón Ruíz comunidad, Puerto Rico",one_or_two_years,0,15
+7203368,"Arecibo zona urbana, Puerto Rico",one_or_two_years,39,54
+7203927,"Arroyo zona urbana, Puerto Rico",one_or_two_years,0,22
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",one_or_two_years,0,15
+7204658,"Bajadero comunidad, Puerto Rico",one_or_two_years,0,15
+7204701,"Bajandas comunidad, Puerto Rico",one_or_two_years,0,15
+7205217,"Barahona comunidad, Puerto Rico",one_or_two_years,0,15
+7205346,"Barceloneta zona urbana, Puerto Rico",one_or_two_years,0,15
+7205690,"Barranquitas zona urbana, Puerto Rico",one_or_two_years,0,15
+7206421,"Bartolo comunidad, Puerto Rico",one_or_two_years,0,15
+7206593,"Bayamón zona urbana, Puerto Rico",one_or_two_years,224,124
+7206679,"Bayamón comunidad, Puerto Rico",one_or_two_years,0,15
+7207496,"Benítez comunidad, Puerto Rico",one_or_two_years,0,15
+7207668,"Betances comunidad, Puerto Rico",one_or_two_years,0,15
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",one_or_two_years,0,15
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",one_or_two_years,0,15
+7208700,"Breñas comunidad, Puerto Rico",one_or_two_years,0,15
+7208722,"Brisas del Campanero comunidad, Puerto Rico",one_or_two_years,0,15
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",one_or_two_years,0,15
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",one_or_two_years,0,15
+7209603,"Búfalo comunidad, Puerto Rico",one_or_two_years,0,15
+7209689,"Cabán comunidad, Puerto Rico",one_or_two_years,0,15
+7209861,"Cabo Rojo zona urbana, Puerto Rico",one_or_two_years,0,22
+7210048,"Cacao comunidad, Puerto Rico",one_or_two_years,0,15
+7210334,"Caguas zona urbana, Puerto Rico",one_or_two_years,56,54
+7211151,"Calzada comunidad, Puerto Rico",one_or_two_years,0,15
+7211345,"Cambalache comunidad, Puerto Rico",one_or_two_years,0,15
+7211581,"Campanilla comunidad, Puerto Rico",one_or_two_years,0,15
+7211597,"Campanillas comunidad, Puerto Rico",one_or_two_years,0,15
+7211710,"Campo Rico comunidad, Puerto Rico",one_or_two_years,0,15
+7211925,"Camuy zona urbana, Puerto Rico",one_or_two_years,0,15
+7212441,"Candelaria comunidad, Puerto Rico",one_or_two_years,107,88
+7212560,"Candelaria Arenas comunidad, Puerto Rico",one_or_two_years,0,15
+7212568,"Candelero Abajo comunidad, Puerto Rico",one_or_two_years,0,15
+7212613,"Candelero Arriba comunidad, Puerto Rico",one_or_two_years,0,15
+7212806,"Caño Martin Peña comunidad, Puerto Rico",one_or_two_years,0,24
+7212828,"Canóvanas zona urbana, Puerto Rico",one_or_two_years,0,24
+7213065,"Canovanillas comunidad, Puerto Rico",one_or_two_years,0,15
+7213925,"Capitanejo comunidad, Puerto Rico",one_or_two_years,0,15
+7214290,"Carolina zona urbana, Puerto Rico",one_or_two_years,42,54
+7214634,"Carrizales comunidad, Puerto Rico",one_or_two_years,0,15
+7215193,"Cataño zona urbana, Puerto Rico",one_or_two_years,16,26
+7215494,"Cayey zona urbana, Puerto Rico",one_or_two_years,69,64
+7215623,"Cayuco comunidad, Puerto Rico",one_or_two_years,0,15
+7215924,"Ceiba zona urbana, Puerto Rico",one_or_two_years,0,15
+7216139,"Ceiba comunidad, Puerto Rico",one_or_two_years,0,15
+7216440,"Celada comunidad, Puerto Rico",one_or_two_years,0,15
+7216526,"Central Aguirre comunidad, Puerto Rico",one_or_two_years,0,15
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",one_or_two_years,0,15
+7217773,"Ciales zona urbana, Puerto Rico",one_or_two_years,0,15
+7218074,"Cidra zona urbana, Puerto Rico",one_or_two_years,12,20
+7218719,"Coamo zona urbana, Puerto Rico",one_or_two_years,0,22
+7218891,"Coco comunidad, Puerto Rico",one_or_two_years,0,22
+7219665,"Comerío zona urbana, Puerto Rico",one_or_two_years,8,13
+7219837,"Comunas comunidad, Puerto Rico",one_or_two_years,0,15
+7220310,"Coquí comunidad, Puerto Rico",one_or_two_years,0,15
+7220353,"Corazón comunidad, Puerto Rico",one_or_two_years,0,15
+7220482,"Corcovado comunidad, Puerto Rico",one_or_two_years,30,48
+7220783,"Corozal zona urbana, Puerto Rico",one_or_two_years,54,86
+7220998,"Corral Viejo comunidad, Puerto Rico",one_or_two_years,0,15
+7221213,"Coto Laurel comunidad, Puerto Rico",one_or_two_years,0,15
+7221385,"Coto Norte comunidad, Puerto Rico",one_or_two_years,0,15
+7222589,"Culebra zona urbana, Puerto Rico",one_or_two_years,8,12
+7223062,"Daguao comunidad, Puerto Rico",one_or_two_years,0,15
+7223341,"Del Carmen comunidad, Puerto Rico",one_or_two_years,0,15
+7224008,"Dorado zona urbana, Puerto Rico",one_or_two_years,30,48
+7224395,"Duque comunidad, Puerto Rico",one_or_two_years,0,15
+7224954,"El Combate comunidad, Puerto Rico",one_or_two_years,0,15
+7225556,"El Mangó comunidad, Puerto Rico",one_or_two_years,0,15
+7225685,"El Negro comunidad, Puerto Rico",one_or_two_years,0,15
+7225771,"El Ojo comunidad, Puerto Rico",one_or_two_years,0,15
+7225835,"El Paraiso comunidad, Puerto Rico",one_or_two_years,0,15
+7226287,"El Tumbao comunidad, Puerto Rico",one_or_two_years,0,15
+7226362,"El Veintiséis comunidad, Puerto Rico",one_or_two_years,0,15
+7226502,"Emajagua comunidad, Puerto Rico",one_or_two_years,0,15
+7227190,"Esperanza comunidad, Puerto Rico",one_or_two_years,0,15
+7227263,"Espino comunidad, Puerto Rico",one_or_two_years,0,15
+7227964,"Fajardo zona urbana, Puerto Rico",one_or_two_years,13,20
+7228367,"Ferrer comunidad, Puerto Rico",one_or_two_years,0,15
+7228824,"Florida zona urbana, Puerto Rico",one_or_two_years,0,15
+7229555,"Fránquez comunidad, Puerto Rico",one_or_two_years,0,15
+7229682,"Frontón comunidad, Puerto Rico",one_or_two_years,0,15
+7229727,"Fuig comunidad, Puerto Rico",one_or_two_years,0,15
+7229813,"Galateo comunidad, Puerto Rico",one_or_two_years,20,32
+7230372,"Garrochales comunidad, Puerto Rico",one_or_two_years,0,15
+7230544,"G. L. García comunidad, Puerto Rico",one_or_two_years,0,15
+7231189,"Guánica zona urbana, Puerto Rico",one_or_two_years,0,22
+7231877,"Guayabal comunidad, Puerto Rico",one_or_two_years,23,38
+7232221,"Guayama zona urbana, Puerto Rico",one_or_two_years,40,49
+7232307,"Guayanilla zona urbana, Puerto Rico",one_or_two_years,0,15
+7232522,"Guaynabo zona urbana, Puerto Rico",one_or_two_years,92,94
+7232823,"Gurabo zona urbana, Puerto Rico",one_or_two_years,0,22
+7233184,"Hacienda San José comunidad, Puerto Rico",one_or_two_years,0,15
+7233296,"Hatillo zona urbana, Puerto Rico",one_or_two_years,18,28
+7233597,"Hato Arriba comunidad, Puerto Rico",one_or_two_years,0,15
+7233683,"Hato Candal comunidad, Puerto Rico",one_or_two_years,21,34
+7234242,"Hato Viejo comunidad, Puerto Rico",one_or_two_years,0,15
+7234914,"Honduras comunidad, Puerto Rico",one_or_two_years,0,15
+7235059,"Hormigueros zona urbana, Puerto Rico",one_or_two_years,10,16
+7235403,"H. Rivera Colón comunidad, Puerto Rico",one_or_two_years,0,15
+7235532,"Humacao zona urbana, Puerto Rico",one_or_two_years,0,24
+7235962,"Imbéry comunidad, Puerto Rico",one_or_two_years,0,15
+7236177,"Indios comunidad, Puerto Rico",one_or_two_years,0,15
+7236263,"Ingenio comunidad, Puerto Rico",one_or_two_years,0,15
+7236478,"Isabela zona urbana, Puerto Rico",one_or_two_years,0,24
+7236779,"Isleta comunidad, Puerto Rico",one_or_two_years,0,15
+7237166,"Jagual comunidad, Puerto Rico",one_or_two_years,0,15
+7237336,"Jaguas comunidad, Puerto Rico",one_or_two_years,0,15
+7238241,"Jauca comunidad, Puerto Rico",one_or_two_years,0,15
+7238370,"Jayuya zona urbana, Puerto Rico",one_or_two_years,0,15
+7238671,"Jobos comunidad, Puerto Rico",one_or_two_years,0,15
+7238972,"Juana Díaz zona urbana, Puerto Rico",one_or_two_years,0,22
+7239470,"Juncal comunidad, Puerto Rico",one_or_two_years,0,15
+7239574,"Juncos zona urbana, Puerto Rico",one_or_two_years,0,22
+7239875,"La Alianza comunidad, Puerto Rico",one_or_two_years,0,15
+7240348,"La Dolores comunidad, Puerto Rico",one_or_two_years,0,15
+7240563,"La Fermina comunidad, Puerto Rico",one_or_two_years,0,15
+7240950,"Lajas zona urbana, Puerto Rico",one_or_two_years,0,15
+7241274,"La Liga comunidad, Puerto Rico",one_or_two_years,0,15
+7241294,"La Luisa comunidad, Puerto Rico",one_or_two_years,0,15
+7241466,"Lamboglia comunidad, Puerto Rico",one_or_two_years,0,15
+7241767,"La Parguera comunidad, Puerto Rico",one_or_two_years,0,15
+7241810,"La Pica comunidad, Puerto Rico",one_or_two_years,0,15
+7242068,"La Playa comunidad, Puerto Rico",one_or_two_years,0,15
+7242197,"La Plena comunidad, Puerto Rico",one_or_two_years,0,15
+7242498,"Lares zona urbana, Puerto Rico",one_or_two_years,10,16
+7242842,"Las Carolinas comunidad, Puerto Rico",one_or_two_years,0,15
+7243057,"Las Croabas comunidad, Puerto Rico",one_or_two_years,0,15
+7243294,"Las Gaviotas comunidad, Puerto Rico",one_or_two_years,0,15
+7243702,"Las Marías comunidad, Puerto Rico",one_or_two_years,0,15
+7243788,"Las Marías zona urbana, Puerto Rico",one_or_two_years,0,15
+7244003,"Las Ochenta comunidad, Puerto Rico",one_or_two_years,0,15
+7244089,"Las Ollas comunidad, Puerto Rico",one_or_two_years,0,15
+7244390,"Las Piedras zona urbana, Puerto Rico",one_or_two_years,0,22
+7244507,"Lassalle comunidad, Puerto Rico",one_or_two_years,0,15
+7245170,"La Yuca comunidad, Puerto Rico",one_or_two_years,0,15
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",one_or_two_years,0,15
+7246282,"Lluveras comunidad, Puerto Rico",one_or_two_years,0,15
+7246368,"Loíza zona urbana, Puerto Rico",one_or_two_years,0,15
+7246626,"Lomas comunidad, Puerto Rico",one_or_two_years,0,15
+7246800,"Lomas Verdes comunidad, Puerto Rico",one_or_two_years,0,15
+7246960,"Los Héroes comunidad, Puerto Rico",one_or_two_years,0,15
+7247013,"Los Llanos comunidad, Puerto Rico",one_or_two_years,0,15
+7247336,"Los Panes comunidad, Puerto Rico",one_or_two_years,0,15
+7247422,"Los Prados comunidad, Puerto Rico",one_or_two_years,0,15
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",one_or_two_years,0,15
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",one_or_two_years,0,15
+7247787,"Luquillo zona urbana, Puerto Rico",one_or_two_years,0,22
+7247873,"Luyando comunidad, Puerto Rico",one_or_two_years,16,26
+7248604,"Magas Arriba comunidad, Puerto Rico",one_or_two_years,0,15
+7248862,"Maguayo comunidad, Puerto Rico",one_or_two_years,0,15
+7250152,"Manatí zona urbana, Puerto Rico",one_or_two_years,16,26
+7250260,"Mansión del Mar comunidad, Puerto Rico",one_or_two_years,23,26
+7250270,"Mansión del Sol comunidad, Puerto Rico",one_or_two_years,0,15
+7250754,"María Antonia comunidad, Puerto Rico",one_or_two_years,0,15
+7251055,"Mariano Colón comunidad, Puerto Rico",one_or_two_years,64,77
+7251270,"Maricao zona urbana, Puerto Rico",one_or_two_years,0,15
+7251657,"Martorell comunidad, Puerto Rico",one_or_two_years,0,15
+7251700,"Marueño comunidad, Puerto Rico",one_or_two_years,0,15
+7252345,"Maunabo zona urbana, Puerto Rico",one_or_two_years,0,15
+7252431,"Mayagüez zona urbana, Puerto Rico",one_or_two_years,5,8
+7253678,"Miranda comunidad, Puerto Rico",one_or_two_years,0,15
+7253807,"Moca zona urbana, Puerto Rico",one_or_two_years,0,15
+7253979,"Monserrate comunidad, Puerto Rico",one_or_two_years,0,15
+7254366,"Monte Grande comunidad, Puerto Rico",one_or_two_years,0,15
+7254688,"Monte Verde comunidad, Puerto Rico",one_or_two_years,0,15
+7254882,"Mora comunidad, Puerto Rico",one_or_two_years,0,15
+7255097,"Morovis zona urbana, Puerto Rico",one_or_two_years,0,15
+7255355,"Mucarabones comunidad, Puerto Rico",one_or_two_years,0,15
+7255828,"Naguabo zona urbana, Puerto Rico",one_or_two_years,0,15
+7256129,"Naranjito zona urbana, Puerto Rico",one_or_two_years,0,15
+7257075,"Olimpo comunidad, Puerto Rico",one_or_two_years,0,15
+7257290,"Orocovis zona urbana, Puerto Rico",one_or_two_years,0,15
+7257612,"Pabellones comunidad, Puerto Rico",one_or_two_years,0,15
+7257806,"Pájaros comunidad, Puerto Rico",one_or_two_years,18,29
+7257862,"Pajonal comunidad, Puerto Rico",one_or_two_years,0,15
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",one_or_two_years,0,15
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",one_or_two_years,0,15
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",one_or_two_years,0,15
+7258365,"Palmas comunidad, Puerto Rico",one_or_two_years,0,15
+7258602,"Palmas del Mar comunidad, Puerto Rico",one_or_two_years,0,15
+7258613,"Palma Sola comunidad, Puerto Rico",one_or_two_years,0,15
+7258666,"Palmer comunidad, Puerto Rico",one_or_two_years,0,15
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",one_or_two_years,64,104
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",one_or_two_years,0,15
+7259139,"Palo Seco comunidad, Puerto Rico",one_or_two_years,0,15
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",one_or_two_years,0,15
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",one_or_two_years,0,15
+7259422,"Parcelas Mandry comunidad, Puerto Rico",one_or_two_years,0,15
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",one_or_two_years,0,15
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",one_or_two_years,0,15
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",one_or_two_years,0,15
+7260257,"Pastos comunidad, Puerto Rico",one_or_two_years,0,15
+7260472,"Patillas zona urbana, Puerto Rico",one_or_two_years,0,15
+7260945,"Peña Pobre comunidad, Puerto Rico",one_or_two_years,0,15
+7261074,"Peñuelas zona urbana, Puerto Rico",one_or_two_years,0,22
+7261545,"Piedra Aguza comunidad, Puerto Rico",one_or_two_years,0,15
+7261590,"Piedra Gorda comunidad, Puerto Rico",one_or_two_years,0,15
+7261977,"Piñas comunidad, Puerto Rico",one_or_two_years,0,15
+7263310,"Playa Fortuna comunidad, Puerto Rico",one_or_two_years,0,15
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",one_or_two_years,0,15
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",one_or_two_years,24,37
+7263568,"Playita Cortada comunidad, Puerto Rico",one_or_two_years,0,15
+7263697,"Pole Ojea comunidad, Puerto Rico",one_or_two_years,14,21
+7263820,"Ponce zona urbana, Puerto Rico",one_or_two_years,109,94
+7264127,"Potala Pastillo comunidad, Puerto Rico",one_or_two_years,0,15
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",one_or_two_years,0,15
+7264500,"Pueblito del Río comunidad, Puerto Rico",one_or_two_years,0,15
+7265589,"Puerto Real comunidad, Puerto Rico",one_or_two_years,0,22
+7266492,"Punta Santiago comunidad, Puerto Rico",one_or_two_years,22,34
+7266660,"Quebrada comunidad, Puerto Rico",one_or_two_years,0,15
+7267200,"Quebrada del Agua comunidad, Puerto Rico",one_or_two_years,0,15
+7267675,"Quebrada Prieta comunidad, Puerto Rico",one_or_two_years,0,15
+7268040,"Quebradillas zona urbana, Puerto Rico",one_or_two_years,0,22
+7268513,"Rafael Capó comunidad, Puerto Rico",one_or_two_years,0,15
+7268556,"Rafael González comunidad, Puerto Rico",one_or_two_years,0,15
+7268599,"Rafael Hernández comunidad, Puerto Rico",one_or_two_years,0,15
+7268771,"Ramos comunidad, Puerto Rico",one_or_two_years,0,15
+7269488,"Rincón comunidad, Puerto Rico",one_or_two_years,0,15
+7269588,"Rincón zona urbana, Puerto Rico",one_or_two_years,0,15
+7270448,"Río Blanco comunidad, Puerto Rico",one_or_two_years,72,123
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",one_or_two_years,0,15
+7271136,"Río Grande zona urbana, Puerto Rico",one_or_two_years,21,35
+7271437,"Río Lajas comunidad, Puerto Rico",one_or_two_years,0,15
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",one_or_two_years,0,15
+7272555,"Rosa Sánchez comunidad, Puerto Rico",one_or_two_years,16,28
+7273200,"Sabana comunidad, Puerto Rico",one_or_two_years,0,15
+7273372,"Sabana Eneas comunidad, Puerto Rico",one_or_two_years,0,15
+7273544,"Sabana Grande zona urbana, Puerto Rico",one_or_two_years,12,19
+7273716,"Sabana Hoyos comunidad, Puerto Rico",one_or_two_years,0,15
+7274189,"Sabana Seca comunidad, Puerto Rico",one_or_two_years,19,32
+7274877,"Salinas zona urbana, Puerto Rico",one_or_two_years,19,29
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",one_or_two_years,0,15
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",one_or_two_years,40,63
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",one_or_two_years,66,101
+7276167,"San Germán zona urbana, Puerto Rico",one_or_two_years,0,24
+7276339,"San Isidro comunidad, Puerto Rico",one_or_two_years,23,37
+7276683,"San José comunidad, Puerto Rico",one_or_two_years,0,15
+7276770,"San Juan zona urbana, Puerto Rico",one_or_two_years,288,151
+7277027,"San Lorenzo zona urbana, Puerto Rico",one_or_two_years,0,22
+7277500,"San Sebastián zona urbana, Puerto Rico",one_or_two_years,52,82
+7277672,"Santa Bárbara comunidad, Puerto Rico",one_or_two_years,0,15
+7277826,"Santa Clara comunidad, Puerto Rico",one_or_two_years,0,15
+7278145,"Santa Isabel zona urbana, Puerto Rico",one_or_two_years,0,22
+7278317,"Santa María comunidad, Puerto Rico",one_or_two_years,0,15
+7279564,"Santo Domingo comunidad, Puerto Rico",one_or_two_years,0,15
+7280596,"Stella comunidad, Puerto Rico",one_or_two_years,0,15
+7280639,"Suárez comunidad, Puerto Rico",one_or_two_years,0,15
+7281413,"Tallaboa comunidad, Puerto Rico",one_or_two_years,0,15
+7281456,"Tallaboa Alta comunidad, Puerto Rico",one_or_two_years,0,15
+7282055,"Tibes comunidad, Puerto Rico",one_or_two_years,0,15
+7282125,"Tiburones comunidad, Puerto Rico",one_or_two_years,0,15
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",one_or_two_years,0,15
+7282488,"Toa Alta zona urbana, Puerto Rico",one_or_two_years,0,15
+7282617,"Toa Baja zona urbana, Puerto Rico",one_or_two_years,0,15
+7282692,"Toaville comunidad, Puerto Rico",one_or_two_years,0,15
+7282875,"Tomás de Castro comunidad, Puerto Rico",one_or_two_years,0,15
+7283606,"Trujillo Alto zona urbana, Puerto Rico",one_or_two_years,74,83
+7284509,"Utuado zona urbana, Puerto Rico",one_or_two_years,13,20
+7284917,"Valle Hill comunidad, Puerto Rico",one_or_two_years,0,15
+7285025,"Vayas comunidad, Puerto Rico",one_or_two_years,0,15
+7285111,"Vázquez comunidad, Puerto Rico",one_or_two_years,0,15
+7285197,"Vega Alta zona urbana, Puerto Rico",one_or_two_years,0,22
+7285326,"Vega Baja zona urbana, Puerto Rico",one_or_two_years,85,92
+7285971,"Vieques comunidad, Puerto Rico",one_or_two_years,0,15
+7286014,"Vieques zona urbana, Puerto Rico",one_or_two_years,0,15
+7286250,"Villa Calma comunidad, Puerto Rico",one_or_two_years,32,51
+7286509,"Villa de Sabana comunidad, Puerto Rico",one_or_two_years,0,15
+7286584,"Villa Esperanza comunidad, Puerto Rico",one_or_two_years,0,15
+7286788,"Villa Hugo I comunidad, Puerto Rico",one_or_two_years,0,15
+7286796,"Villa Hugo II comunidad, Puerto Rico",one_or_two_years,0,15
+7286831,"Villalba zona urbana, Puerto Rico",one_or_two_years,0,15
+7287240,"Villa Quintero comunidad, Puerto Rico",one_or_two_years,0,15
+7287272,"Villas del Sol comunidad, Puerto Rico",one_or_two_years,0,15
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",one_or_two_years,0,15
+7287638,"Voladoras comunidad, Puerto Rico",one_or_two_years,0,15
+7287863,"Yabucoa zona urbana, Puerto Rico",one_or_two_years,31,49
+7288035,"Yauco zona urbana, Puerto Rico",one_or_two_years,0,24
+7288121,"Yaurel comunidad, Puerto Rico",one_or_two_years,0,15
+7288293,"Yeguada comunidad, Puerto Rico",one_or_two_years,0,15
+7200186,"Aceitunas comunidad, Puerto Rico",three_or_four_years,0,15
+7200358,"Adjuntas zona urbana, Puerto Rico",three_or_four_years,0,15
+7200616,"Aguada zona urbana, Puerto Rico",three_or_four_years,0,15
+7200745,"Aguadilla zona urbana, Puerto Rico",three_or_four_years,0,24
+7200874,"Aguas Buenas zona urbana, Puerto Rico",three_or_four_years,0,15
+7201003,"Aguas Claras comunidad, Puerto Rico",three_or_four_years,0,15
+7201089,"Aguilita comunidad, Puerto Rico",three_or_four_years,15,23
+7201218,"Aibonito zona urbana, Puerto Rico",three_or_four_years,14,24
+7201863,"Alianza comunidad, Puerto Rico",three_or_four_years,0,15
+7202680,"Añasco zona urbana, Puerto Rico",three_or_four_years,12,19
+7203024,"Animas comunidad, Puerto Rico",three_or_four_years,0,15
+7203174,"Anon Raices comunidad, Puerto Rico",three_or_four_years,0,15
+7203196,"Antón Ruíz comunidad, Puerto Rico",three_or_four_years,160,239
+7203368,"Arecibo zona urbana, Puerto Rico",three_or_four_years,15,23
+7203927,"Arroyo zona urbana, Puerto Rico",three_or_four_years,0,22
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",three_or_four_years,0,15
+7204658,"Bajadero comunidad, Puerto Rico",three_or_four_years,27,43
+7204701,"Bajandas comunidad, Puerto Rico",three_or_four_years,0,15
+7205217,"Barahona comunidad, Puerto Rico",three_or_four_years,0,15
+7205346,"Barceloneta zona urbana, Puerto Rico",three_or_four_years,17,27
+7205690,"Barranquitas zona urbana, Puerto Rico",three_or_four_years,0,15
+7206421,"Bartolo comunidad, Puerto Rico",three_or_four_years,0,15
+7206593,"Bayamón zona urbana, Puerto Rico",three_or_four_years,152,104
+7206679,"Bayamón comunidad, Puerto Rico",three_or_four_years,0,15
+7207496,"Benítez comunidad, Puerto Rico",three_or_four_years,0,15
+7207668,"Betances comunidad, Puerto Rico",three_or_four_years,0,15
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",three_or_four_years,0,15
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",three_or_four_years,0,15
+7208700,"Breñas comunidad, Puerto Rico",three_or_four_years,0,15
+7208722,"Brisas del Campanero comunidad, Puerto Rico",three_or_four_years,0,15
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",three_or_four_years,0,15
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",three_or_four_years,0,15
+7209603,"Búfalo comunidad, Puerto Rico",three_or_four_years,0,15
+7209689,"Cabán comunidad, Puerto Rico",three_or_four_years,19,31
+7209861,"Cabo Rojo zona urbana, Puerto Rico",three_or_four_years,0,22
+7210048,"Cacao comunidad, Puerto Rico",three_or_four_years,0,15
+7210334,"Caguas zona urbana, Puerto Rico",three_or_four_years,65,64
+7211151,"Calzada comunidad, Puerto Rico",three_or_four_years,0,15
+7211345,"Cambalache comunidad, Puerto Rico",three_or_four_years,0,15
+7211581,"Campanilla comunidad, Puerto Rico",three_or_four_years,0,15
+7211597,"Campanillas comunidad, Puerto Rico",three_or_four_years,0,15
+7211710,"Campo Rico comunidad, Puerto Rico",three_or_four_years,0,15
+7211925,"Camuy zona urbana, Puerto Rico",three_or_four_years,0,15
+7212441,"Candelaria comunidad, Puerto Rico",three_or_four_years,14,22
+7212560,"Candelaria Arenas comunidad, Puerto Rico",three_or_four_years,0,15
+7212568,"Candelero Abajo comunidad, Puerto Rico",three_or_four_years,0,15
+7212613,"Candelero Arriba comunidad, Puerto Rico",three_or_four_years,0,15
+7212806,"Caño Martin Peña comunidad, Puerto Rico",three_or_four_years,32,39
+7212828,"Canóvanas zona urbana, Puerto Rico",three_or_four_years,0,24
+7213065,"Canovanillas comunidad, Puerto Rico",three_or_four_years,0,15
+7213925,"Capitanejo comunidad, Puerto Rico",three_or_four_years,0,15
+7214290,"Carolina zona urbana, Puerto Rico",three_or_four_years,40,51
+7214634,"Carrizales comunidad, Puerto Rico",three_or_four_years,0,15
+7215193,"Cataño zona urbana, Puerto Rico",three_or_four_years,26,30
+7215494,"Cayey zona urbana, Puerto Rico",three_or_four_years,24,39
+7215623,"Cayuco comunidad, Puerto Rico",three_or_four_years,0,15
+7215924,"Ceiba zona urbana, Puerto Rico",three_or_four_years,0,15
+7216139,"Ceiba comunidad, Puerto Rico",three_or_four_years,0,15
+7216440,"Celada comunidad, Puerto Rico",three_or_four_years,0,15
+7216526,"Central Aguirre comunidad, Puerto Rico",three_or_four_years,0,15
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",three_or_four_years,0,15
+7217773,"Ciales zona urbana, Puerto Rico",three_or_four_years,63,98
+7218074,"Cidra zona urbana, Puerto Rico",three_or_four_years,18,29
+7218719,"Coamo zona urbana, Puerto Rico",three_or_four_years,18,28
+7218891,"Coco comunidad, Puerto Rico",three_or_four_years,0,22
+7219665,"Comerío zona urbana, Puerto Rico",three_or_four_years,0,15
+7219837,"Comunas comunidad, Puerto Rico",three_or_four_years,0,15
+7220310,"Coquí comunidad, Puerto Rico",three_or_four_years,0,15
+7220353,"Corazón comunidad, Puerto Rico",three_or_four_years,0,15
+7220482,"Corcovado comunidad, Puerto Rico",three_or_four_years,0,15
+7220783,"Corozal zona urbana, Puerto Rico",three_or_four_years,15,25
+7220998,"Corral Viejo comunidad, Puerto Rico",three_or_four_years,0,15
+7221213,"Coto Laurel comunidad, Puerto Rico",three_or_four_years,0,15
+7221385,"Coto Norte comunidad, Puerto Rico",three_or_four_years,0,15
+7222589,"Culebra zona urbana, Puerto Rico",three_or_four_years,0,15
+7223062,"Daguao comunidad, Puerto Rico",three_or_four_years,0,15
+7223341,"Del Carmen comunidad, Puerto Rico",three_or_four_years,0,15
+7224008,"Dorado zona urbana, Puerto Rico",three_or_four_years,0,24
+7224395,"Duque comunidad, Puerto Rico",three_or_four_years,0,15
+7224954,"El Combate comunidad, Puerto Rico",three_or_four_years,0,15
+7225556,"El Mangó comunidad, Puerto Rico",three_or_four_years,0,15
+7225685,"El Negro comunidad, Puerto Rico",three_or_four_years,0,15
+7225771,"El Ojo comunidad, Puerto Rico",three_or_four_years,0,15
+7225835,"El Paraiso comunidad, Puerto Rico",three_or_four_years,0,15
+7226287,"El Tumbao comunidad, Puerto Rico",three_or_four_years,8,13
+7226362,"El Veintiséis comunidad, Puerto Rico",three_or_four_years,0,15
+7226502,"Emajagua comunidad, Puerto Rico",three_or_four_years,0,15
+7227190,"Esperanza comunidad, Puerto Rico",three_or_four_years,0,15
+7227263,"Espino comunidad, Puerto Rico",three_or_four_years,0,15
+7227964,"Fajardo zona urbana, Puerto Rico",three_or_four_years,29,33
+7228367,"Ferrer comunidad, Puerto Rico",three_or_four_years,0,15
+7228824,"Florida zona urbana, Puerto Rico",three_or_four_years,0,15
+7229555,"Fránquez comunidad, Puerto Rico",three_or_four_years,0,15
+7229682,"Frontón comunidad, Puerto Rico",three_or_four_years,0,15
+7229727,"Fuig comunidad, Puerto Rico",three_or_four_years,0,15
+7229813,"Galateo comunidad, Puerto Rico",three_or_four_years,0,15
+7230372,"Garrochales comunidad, Puerto Rico",three_or_four_years,0,15
+7230544,"G. L. García comunidad, Puerto Rico",three_or_four_years,99,115
+7231189,"Guánica zona urbana, Puerto Rico",three_or_four_years,0,22
+7231877,"Guayabal comunidad, Puerto Rico",three_or_four_years,0,15
+7232221,"Guayama zona urbana, Puerto Rico",three_or_four_years,0,24
+7232307,"Guayanilla zona urbana, Puerto Rico",three_or_four_years,0,15
+7232522,"Guaynabo zona urbana, Puerto Rico",three_or_four_years,24,38
+7232823,"Gurabo zona urbana, Puerto Rico",three_or_four_years,0,22
+7233184,"Hacienda San José comunidad, Puerto Rico",three_or_four_years,0,15
+7233296,"Hatillo zona urbana, Puerto Rico",three_or_four_years,35,58
+7233597,"Hato Arriba comunidad, Puerto Rico",three_or_four_years,0,15
+7233683,"Hato Candal comunidad, Puerto Rico",three_or_four_years,0,15
+7234242,"Hato Viejo comunidad, Puerto Rico",three_or_four_years,0,15
+7234914,"Honduras comunidad, Puerto Rico",three_or_four_years,0,15
+7235059,"Hormigueros zona urbana, Puerto Rico",three_or_four_years,5,7
+7235403,"H. Rivera Colón comunidad, Puerto Rico",three_or_four_years,0,15
+7235532,"Humacao zona urbana, Puerto Rico",three_or_four_years,8,14
+7235962,"Imbéry comunidad, Puerto Rico",three_or_four_years,0,15
+7236177,"Indios comunidad, Puerto Rico",three_or_four_years,0,15
+7236263,"Ingenio comunidad, Puerto Rico",three_or_four_years,0,15
+7236478,"Isabela zona urbana, Puerto Rico",three_or_four_years,0,24
+7236779,"Isleta comunidad, Puerto Rico",three_or_four_years,0,15
+7237166,"Jagual comunidad, Puerto Rico",three_or_four_years,0,15
+7237336,"Jaguas comunidad, Puerto Rico",three_or_four_years,0,15
+7238241,"Jauca comunidad, Puerto Rico",three_or_four_years,0,15
+7238370,"Jayuya zona urbana, Puerto Rico",three_or_four_years,0,15
+7238671,"Jobos comunidad, Puerto Rico",three_or_four_years,0,15
+7238972,"Juana Díaz zona urbana, Puerto Rico",three_or_four_years,12,19
+7239470,"Juncal comunidad, Puerto Rico",three_or_four_years,0,15
+7239574,"Juncos zona urbana, Puerto Rico",three_or_four_years,21,34
+7239875,"La Alianza comunidad, Puerto Rico",three_or_four_years,0,15
+7240348,"La Dolores comunidad, Puerto Rico",three_or_four_years,0,15
+7240563,"La Fermina comunidad, Puerto Rico",three_or_four_years,0,15
+7240950,"Lajas zona urbana, Puerto Rico",three_or_four_years,0,15
+7241274,"La Liga comunidad, Puerto Rico",three_or_four_years,0,15
+7241294,"La Luisa comunidad, Puerto Rico",three_or_four_years,20,33
+7241466,"Lamboglia comunidad, Puerto Rico",three_or_four_years,0,15
+7241767,"La Parguera comunidad, Puerto Rico",three_or_four_years,0,15
+7241810,"La Pica comunidad, Puerto Rico",three_or_four_years,0,15
+7242068,"La Playa comunidad, Puerto Rico",three_or_four_years,0,15
+7242197,"La Plena comunidad, Puerto Rico",three_or_four_years,0,15
+7242498,"Lares zona urbana, Puerto Rico",three_or_four_years,48,73
+7242842,"Las Carolinas comunidad, Puerto Rico",three_or_four_years,0,15
+7243057,"Las Croabas comunidad, Puerto Rico",three_or_four_years,0,15
+7243294,"Las Gaviotas comunidad, Puerto Rico",three_or_four_years,0,15
+7243702,"Las Marías comunidad, Puerto Rico",three_or_four_years,0,15
+7243788,"Las Marías zona urbana, Puerto Rico",three_or_four_years,0,15
+7244003,"Las Ochenta comunidad, Puerto Rico",three_or_four_years,0,15
+7244089,"Las Ollas comunidad, Puerto Rico",three_or_four_years,0,15
+7244390,"Las Piedras zona urbana, Puerto Rico",three_or_four_years,0,22
+7244507,"Lassalle comunidad, Puerto Rico",three_or_four_years,0,15
+7245170,"La Yuca comunidad, Puerto Rico",three_or_four_years,0,15
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",three_or_four_years,0,15
+7246282,"Lluveras comunidad, Puerto Rico",three_or_four_years,0,15
+7246368,"Loíza zona urbana, Puerto Rico",three_or_four_years,0,15
+7246626,"Lomas comunidad, Puerto Rico",three_or_four_years,0,15
+7246800,"Lomas Verdes comunidad, Puerto Rico",three_or_four_years,0,15
+7246960,"Los Héroes comunidad, Puerto Rico",three_or_four_years,0,15
+7247013,"Los Llanos comunidad, Puerto Rico",three_or_four_years,20,31
+7247336,"Los Panes comunidad, Puerto Rico",three_or_four_years,0,15
+7247422,"Los Prados comunidad, Puerto Rico",three_or_four_years,0,15
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",three_or_four_years,0,15
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",three_or_four_years,0,15
+7247787,"Luquillo zona urbana, Puerto Rico",three_or_four_years,0,22
+7247873,"Luyando comunidad, Puerto Rico",three_or_four_years,0,15
+7248604,"Magas Arriba comunidad, Puerto Rico",three_or_four_years,0,15
+7248862,"Maguayo comunidad, Puerto Rico",three_or_four_years,0,15
+7250152,"Manatí zona urbana, Puerto Rico",three_or_four_years,18,31
+7250260,"Mansión del Mar comunidad, Puerto Rico",three_or_four_years,76,74
+7250270,"Mansión del Sol comunidad, Puerto Rico",three_or_four_years,0,15
+7250754,"María Antonia comunidad, Puerto Rico",three_or_four_years,0,15
+7251055,"Mariano Colón comunidad, Puerto Rico",three_or_four_years,0,15
+7251270,"Maricao zona urbana, Puerto Rico",three_or_four_years,0,15
+7251657,"Martorell comunidad, Puerto Rico",three_or_four_years,0,15
+7251700,"Marueño comunidad, Puerto Rico",three_or_four_years,0,15
+7252345,"Maunabo zona urbana, Puerto Rico",three_or_four_years,0,15
+7252431,"Mayagüez zona urbana, Puerto Rico",three_or_four_years,13,14
+7253678,"Miranda comunidad, Puerto Rico",three_or_four_years,0,15
+7253807,"Moca zona urbana, Puerto Rico",three_or_four_years,0,15
+7253979,"Monserrate comunidad, Puerto Rico",three_or_four_years,0,15
+7254366,"Monte Grande comunidad, Puerto Rico",three_or_four_years,0,15
+7254688,"Monte Verde comunidad, Puerto Rico",three_or_four_years,0,15
+7254882,"Mora comunidad, Puerto Rico",three_or_four_years,0,15
+7255097,"Morovis zona urbana, Puerto Rico",three_or_four_years,0,15
+7255355,"Mucarabones comunidad, Puerto Rico",three_or_four_years,0,15
+7255828,"Naguabo zona urbana, Puerto Rico",three_or_four_years,0,15
+7256129,"Naranjito zona urbana, Puerto Rico",three_or_four_years,0,15
+7257075,"Olimpo comunidad, Puerto Rico",three_or_four_years,24,41
+7257290,"Orocovis zona urbana, Puerto Rico",three_or_four_years,0,15
+7257612,"Pabellones comunidad, Puerto Rico",three_or_four_years,0,15
+7257806,"Pájaros comunidad, Puerto Rico",three_or_four_years,20,33
+7257862,"Pajonal comunidad, Puerto Rico",three_or_four_years,0,15
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",three_or_four_years,0,15
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",three_or_four_years,0,15
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",three_or_four_years,0,15
+7258365,"Palmas comunidad, Puerto Rico",three_or_four_years,0,15
+7258602,"Palmas del Mar comunidad, Puerto Rico",three_or_four_years,0,15
+7258613,"Palma Sola comunidad, Puerto Rico",three_or_four_years,0,15
+7258666,"Palmer comunidad, Puerto Rico",three_or_four_years,0,15
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",three_or_four_years,0,15
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",three_or_four_years,0,15
+7259139,"Palo Seco comunidad, Puerto Rico",three_or_four_years,0,15
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",three_or_four_years,0,15
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",three_or_four_years,0,15
+7259422,"Parcelas Mandry comunidad, Puerto Rico",three_or_four_years,0,15
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",three_or_four_years,0,15
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",three_or_four_years,0,15
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",three_or_four_years,0,15
+7260257,"Pastos comunidad, Puerto Rico",three_or_four_years,0,15
+7260472,"Patillas zona urbana, Puerto Rico",three_or_four_years,0,15
+7260945,"Peña Pobre comunidad, Puerto Rico",three_or_four_years,0,15
+7261074,"Peñuelas zona urbana, Puerto Rico",three_or_four_years,0,22
+7261545,"Piedra Aguza comunidad, Puerto Rico",three_or_four_years,0,15
+7261590,"Piedra Gorda comunidad, Puerto Rico",three_or_four_years,0,15
+7261977,"Piñas comunidad, Puerto Rico",three_or_four_years,0,15
+7263310,"Playa Fortuna comunidad, Puerto Rico",three_or_four_years,0,15
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",three_or_four_years,0,15
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",three_or_four_years,0,15
+7263568,"Playita Cortada comunidad, Puerto Rico",three_or_four_years,0,15
+7263697,"Pole Ojea comunidad, Puerto Rico",three_or_four_years,0,15
+7263820,"Ponce zona urbana, Puerto Rico",three_or_four_years,81,79
+7264127,"Potala Pastillo comunidad, Puerto Rico",three_or_four_years,0,15
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",three_or_four_years,0,15
+7264500,"Pueblito del Río comunidad, Puerto Rico",three_or_four_years,0,15
+7265589,"Puerto Real comunidad, Puerto Rico",three_or_four_years,0,22
+7266492,"Punta Santiago comunidad, Puerto Rico",three_or_four_years,19,31
+7266660,"Quebrada comunidad, Puerto Rico",three_or_four_years,0,15
+7267200,"Quebrada del Agua comunidad, Puerto Rico",three_or_four_years,0,15
+7267675,"Quebrada Prieta comunidad, Puerto Rico",three_or_four_years,0,15
+7268040,"Quebradillas zona urbana, Puerto Rico",three_or_four_years,0,22
+7268513,"Rafael Capó comunidad, Puerto Rico",three_or_four_years,0,15
+7268556,"Rafael González comunidad, Puerto Rico",three_or_four_years,0,15
+7268599,"Rafael Hernández comunidad, Puerto Rico",three_or_four_years,0,15
+7268771,"Ramos comunidad, Puerto Rico",three_or_four_years,0,15
+7269488,"Rincón comunidad, Puerto Rico",three_or_four_years,0,15
+7269588,"Rincón zona urbana, Puerto Rico",three_or_four_years,0,15
+7270448,"Río Blanco comunidad, Puerto Rico",three_or_four_years,0,15
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",three_or_four_years,0,15
+7271136,"Río Grande zona urbana, Puerto Rico",three_or_four_years,28,43
+7271437,"Río Lajas comunidad, Puerto Rico",three_or_four_years,0,15
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",three_or_four_years,0,15
+7272555,"Rosa Sánchez comunidad, Puerto Rico",three_or_four_years,0,15
+7273200,"Sabana comunidad, Puerto Rico",three_or_four_years,0,15
+7273372,"Sabana Eneas comunidad, Puerto Rico",three_or_four_years,0,15
+7273544,"Sabana Grande zona urbana, Puerto Rico",three_or_four_years,0,22
+7273716,"Sabana Hoyos comunidad, Puerto Rico",three_or_four_years,0,15
+7274189,"Sabana Seca comunidad, Puerto Rico",three_or_four_years,0,22
+7274877,"Salinas zona urbana, Puerto Rico",three_or_four_years,20,33
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",three_or_four_years,0,15
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",three_or_four_years,0,22
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",three_or_four_years,0,15
+7276167,"San Germán zona urbana, Puerto Rico",three_or_four_years,24,39
+7276339,"San Isidro comunidad, Puerto Rico",three_or_four_years,0,22
+7276683,"San José comunidad, Puerto Rico",three_or_four_years,0,15
+7276770,"San Juan zona urbana, Puerto Rico",three_or_four_years,132,97
+7277027,"San Lorenzo zona urbana, Puerto Rico",three_or_four_years,0,22
+7277500,"San Sebastián zona urbana, Puerto Rico",three_or_four_years,63,70
+7277672,"Santa Bárbara comunidad, Puerto Rico",three_or_four_years,0,15
+7277826,"Santa Clara comunidad, Puerto Rico",three_or_four_years,0,15
+7278145,"Santa Isabel zona urbana, Puerto Rico",three_or_four_years,0,22
+7278317,"Santa María comunidad, Puerto Rico",three_or_four_years,0,15
+7279564,"Santo Domingo comunidad, Puerto Rico",three_or_four_years,0,15
+7280596,"Stella comunidad, Puerto Rico",three_or_four_years,0,15
+7280639,"Suárez comunidad, Puerto Rico",three_or_four_years,0,15
+7281413,"Tallaboa comunidad, Puerto Rico",three_or_four_years,0,15
+7281456,"Tallaboa Alta comunidad, Puerto Rico",three_or_four_years,0,15
+7282055,"Tibes comunidad, Puerto Rico",three_or_four_years,0,15
+7282125,"Tiburones comunidad, Puerto Rico",three_or_four_years,0,15
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",three_or_four_years,0,15
+7282488,"Toa Alta zona urbana, Puerto Rico",three_or_four_years,0,15
+7282617,"Toa Baja zona urbana, Puerto Rico",three_or_four_years,0,15
+7282692,"Toaville comunidad, Puerto Rico",three_or_four_years,0,15
+7282875,"Tomás de Castro comunidad, Puerto Rico",three_or_four_years,0,15
+7283606,"Trujillo Alto zona urbana, Puerto Rico",three_or_four_years,69,89
+7284509,"Utuado zona urbana, Puerto Rico",three_or_four_years,0,22
+7284917,"Valle Hill comunidad, Puerto Rico",three_or_four_years,0,15
+7285025,"Vayas comunidad, Puerto Rico",three_or_four_years,0,15
+7285111,"Vázquez comunidad, Puerto Rico",three_or_four_years,0,15
+7285197,"Vega Alta zona urbana, Puerto Rico",three_or_four_years,21,33
+7285326,"Vega Baja zona urbana, Puerto Rico",three_or_four_years,0,29
+7285971,"Vieques comunidad, Puerto Rico",three_or_four_years,0,15
+7286014,"Vieques zona urbana, Puerto Rico",three_or_four_years,0,15
+7286250,"Villa Calma comunidad, Puerto Rico",three_or_four_years,0,15
+7286509,"Villa de Sabana comunidad, Puerto Rico",three_or_four_years,0,15
+7286584,"Villa Esperanza comunidad, Puerto Rico",three_or_four_years,0,15
+7286788,"Villa Hugo I comunidad, Puerto Rico",three_or_four_years,0,15
+7286796,"Villa Hugo II comunidad, Puerto Rico",three_or_four_years,0,15
+7286831,"Villalba zona urbana, Puerto Rico",three_or_four_years,19,24
+7287240,"Villa Quintero comunidad, Puerto Rico",three_or_four_years,0,15
+7287272,"Villas del Sol comunidad, Puerto Rico",three_or_four_years,0,15
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",three_or_four_years,0,15
+7287638,"Voladoras comunidad, Puerto Rico",three_or_four_years,0,15
+7287863,"Yabucoa zona urbana, Puerto Rico",three_or_four_years,0,22
+7288035,"Yauco zona urbana, Puerto Rico",three_or_four_years,23,26
+7288121,"Yaurel comunidad, Puerto Rico",three_or_four_years,0,15
+7288293,"Yeguada comunidad, Puerto Rico",three_or_four_years,0,15
+7200186,"Aceitunas comunidad, Puerto Rico",five_plus_years,0,15
+7200358,"Adjuntas zona urbana, Puerto Rico",five_plus_years,0,15
+7200616,"Aguada zona urbana, Puerto Rico",five_plus_years,0,15
+7200745,"Aguadilla zona urbana, Puerto Rico",five_plus_years,9,14
+7200874,"Aguas Buenas zona urbana, Puerto Rico",five_plus_years,16,25
+7201003,"Aguas Claras comunidad, Puerto Rico",five_plus_years,25,38
+7201089,"Aguilita comunidad, Puerto Rico",five_plus_years,0,15
+7201218,"Aibonito zona urbana, Puerto Rico",five_plus_years,32,39
+7201863,"Alianza comunidad, Puerto Rico",five_plus_years,26,40
+7202680,"Añasco zona urbana, Puerto Rico",five_plus_years,10,15
+7203024,"Animas comunidad, Puerto Rico",five_plus_years,0,15
+7203174,"Anon Raices comunidad, Puerto Rico",five_plus_years,0,15
+7203196,"Antón Ruíz comunidad, Puerto Rico",five_plus_years,0,15
+7203368,"Arecibo zona urbana, Puerto Rico",five_plus_years,39,38
+7203927,"Arroyo zona urbana, Puerto Rico",five_plus_years,21,35
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",five_plus_years,0,15
+7204658,"Bajadero comunidad, Puerto Rico",five_plus_years,0,15
+7204701,"Bajandas comunidad, Puerto Rico",five_plus_years,0,15
+7205217,"Barahona comunidad, Puerto Rico",five_plus_years,0,15
+7205346,"Barceloneta zona urbana, Puerto Rico",five_plus_years,10,17
+7205690,"Barranquitas zona urbana, Puerto Rico",five_plus_years,0,15
+7206421,"Bartolo comunidad, Puerto Rico",five_plus_years,0,15
+7206593,"Bayamón zona urbana, Puerto Rico",five_plus_years,526,207
+7206679,"Bayamón comunidad, Puerto Rico",five_plus_years,0,15
+7207496,"Benítez comunidad, Puerto Rico",five_plus_years,0,15
+7207668,"Betances comunidad, Puerto Rico",five_plus_years,0,15
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",five_plus_years,0,15
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",five_plus_years,35,58
+7208700,"Breñas comunidad, Puerto Rico",five_plus_years,0,15
+7208722,"Brisas del Campanero comunidad, Puerto Rico",five_plus_years,44,69
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",five_plus_years,0,15
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",five_plus_years,0,15
+7209603,"Búfalo comunidad, Puerto Rico",five_plus_years,0,15
+7209689,"Cabán comunidad, Puerto Rico",five_plus_years,22,35
+7209861,"Cabo Rojo zona urbana, Puerto Rico",five_plus_years,0,22
+7210048,"Cacao comunidad, Puerto Rico",five_plus_years,0,15
+7210334,"Caguas zona urbana, Puerto Rico",five_plus_years,327,227
+7211151,"Calzada comunidad, Puerto Rico",five_plus_years,0,15
+7211345,"Cambalache comunidad, Puerto Rico",five_plus_years,0,15
+7211581,"Campanilla comunidad, Puerto Rico",five_plus_years,25,28
+7211597,"Campanillas comunidad, Puerto Rico",five_plus_years,0,15
+7211710,"Campo Rico comunidad, Puerto Rico",five_plus_years,40,63
+7211925,"Camuy zona urbana, Puerto Rico",five_plus_years,0,15
+7212441,"Candelaria comunidad, Puerto Rico",five_plus_years,57,56
+7212560,"Candelaria Arenas comunidad, Puerto Rico",five_plus_years,48,56
+7212568,"Candelero Abajo comunidad, Puerto Rico",five_plus_years,0,15
+7212613,"Candelero Arriba comunidad, Puerto Rico",five_plus_years,0,15
+7212806,"Caño Martin Peña comunidad, Puerto Rico",five_plus_years,60,50
+7212828,"Canóvanas zona urbana, Puerto Rico",five_plus_years,48,63
+7213065,"Canovanillas comunidad, Puerto Rico",five_plus_years,0,15
+7213925,"Capitanejo comunidad, Puerto Rico",five_plus_years,0,15
+7214290,"Carolina zona urbana, Puerto Rico",five_plus_years,603,274
+7214634,"Carrizales comunidad, Puerto Rico",five_plus_years,0,15
+7215193,"Cataño zona urbana, Puerto Rico",five_plus_years,26,28
+7215494,"Cayey zona urbana, Puerto Rico",five_plus_years,29,37
+7215623,"Cayuco comunidad, Puerto Rico",five_plus_years,36,59
+7215924,"Ceiba zona urbana, Puerto Rico",five_plus_years,35,53
+7216139,"Ceiba comunidad, Puerto Rico",five_plus_years,42,73
+7216440,"Celada comunidad, Puerto Rico",five_plus_years,68,79
+7216526,"Central Aguirre comunidad, Puerto Rico",five_plus_years,0,15
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",five_plus_years,0,15
+7217773,"Ciales zona urbana, Puerto Rico",five_plus_years,0,15
+7218074,"Cidra zona urbana, Puerto Rico",five_plus_years,12,19
+7218719,"Coamo zona urbana, Puerto Rico",five_plus_years,0,22
+7218891,"Coco comunidad, Puerto Rico",five_plus_years,27,45
+7219665,"Comerío zona urbana, Puerto Rico",five_plus_years,15,24
+7219837,"Comunas comunidad, Puerto Rico",five_plus_years,0,15
+7220310,"Coquí comunidad, Puerto Rico",five_plus_years,0,15
+7220353,"Corazón comunidad, Puerto Rico",five_plus_years,0,15
+7220482,"Corcovado comunidad, Puerto Rico",five_plus_years,112,137
+7220783,"Corozal zona urbana, Puerto Rico",five_plus_years,86,82
+7220998,"Corral Viejo comunidad, Puerto Rico",five_plus_years,0,15
+7221213,"Coto Laurel comunidad, Puerto Rico",five_plus_years,0,15
+7221385,"Coto Norte comunidad, Puerto Rico",five_plus_years,0,15
+7222589,"Culebra zona urbana, Puerto Rico",five_plus_years,0,15
+7223062,"Daguao comunidad, Puerto Rico",five_plus_years,71,106
+7223341,"Del Carmen comunidad, Puerto Rico",five_plus_years,0,15
+7224008,"Dorado zona urbana, Puerto Rico",five_plus_years,38,44
+7224395,"Duque comunidad, Puerto Rico",five_plus_years,0,15
+7224954,"El Combate comunidad, Puerto Rico",five_plus_years,0,15
+7225556,"El Mangó comunidad, Puerto Rico",five_plus_years,0,15
+7225685,"El Negro comunidad, Puerto Rico",five_plus_years,0,15
+7225771,"El Ojo comunidad, Puerto Rico",five_plus_years,0,15
+7225835,"El Paraiso comunidad, Puerto Rico",five_plus_years,0,15
+7226287,"El Tumbao comunidad, Puerto Rico",five_plus_years,0,15
+7226362,"El Veintiséis comunidad, Puerto Rico",five_plus_years,0,15
+7226502,"Emajagua comunidad, Puerto Rico",five_plus_years,17,30
+7227190,"Esperanza comunidad, Puerto Rico",five_plus_years,0,15
+7227263,"Espino comunidad, Puerto Rico",five_plus_years,0,15
+7227964,"Fajardo zona urbana, Puerto Rico",five_plus_years,79,73
+7228367,"Ferrer comunidad, Puerto Rico",five_plus_years,0,15
+7228824,"Florida zona urbana, Puerto Rico",five_plus_years,0,15
+7229555,"Fránquez comunidad, Puerto Rico",five_plus_years,0,15
+7229682,"Frontón comunidad, Puerto Rico",five_plus_years,44,73
+7229727,"Fuig comunidad, Puerto Rico",five_plus_years,0,15
+7229813,"Galateo comunidad, Puerto Rico",five_plus_years,0,15
+7230372,"Garrochales comunidad, Puerto Rico",five_plus_years,18,30
+7230544,"G. L. García comunidad, Puerto Rico",five_plus_years,0,15
+7231189,"Guánica zona urbana, Puerto Rico",five_plus_years,73,63
+7231877,"Guayabal comunidad, Puerto Rico",five_plus_years,0,15
+7232221,"Guayama zona urbana, Puerto Rico",five_plus_years,33,53
+7232307,"Guayanilla zona urbana, Puerto Rico",five_plus_years,0,15
+7232522,"Guaynabo zona urbana, Puerto Rico",five_plus_years,119,80
+7232823,"Gurabo zona urbana, Puerto Rico",five_plus_years,34,44
+7233184,"Hacienda San José comunidad, Puerto Rico",five_plus_years,0,15
+7233296,"Hatillo zona urbana, Puerto Rico",five_plus_years,46,59
+7233597,"Hato Arriba comunidad, Puerto Rico",five_plus_years,0,15
+7233683,"Hato Candal comunidad, Puerto Rico",five_plus_years,0,15
+7234242,"Hato Viejo comunidad, Puerto Rico",five_plus_years,0,15
+7234914,"Honduras comunidad, Puerto Rico",five_plus_years,0,15
+7235059,"Hormigueros zona urbana, Puerto Rico",five_plus_years,54,85
+7235403,"H. Rivera Colón comunidad, Puerto Rico",five_plus_years,0,15
+7235532,"Humacao zona urbana, Puerto Rico",five_plus_years,175,167
+7235962,"Imbéry comunidad, Puerto Rico",five_plus_years,32,54
+7236177,"Indios comunidad, Puerto Rico",five_plus_years,28,46
+7236263,"Ingenio comunidad, Puerto Rico",five_plus_years,40,46
+7236478,"Isabela zona urbana, Puerto Rico",five_plus_years,9,14
+7236779,"Isleta comunidad, Puerto Rico",five_plus_years,0,15
+7237166,"Jagual comunidad, Puerto Rico",five_plus_years,0,15
+7237336,"Jaguas comunidad, Puerto Rico",five_plus_years,0,15
+7238241,"Jauca comunidad, Puerto Rico",five_plus_years,0,15
+7238370,"Jayuya zona urbana, Puerto Rico",five_plus_years,16,27
+7238671,"Jobos comunidad, Puerto Rico",five_plus_years,0,15
+7238972,"Juana Díaz zona urbana, Puerto Rico",five_plus_years,11,17
+7239470,"Juncal comunidad, Puerto Rico",five_plus_years,0,15
+7239574,"Juncos zona urbana, Puerto Rico",five_plus_years,47,59
+7239875,"La Alianza comunidad, Puerto Rico",five_plus_years,0,15
+7240348,"La Dolores comunidad, Puerto Rico",five_plus_years,0,15
+7240563,"La Fermina comunidad, Puerto Rico",five_plus_years,35,52
+7240950,"Lajas zona urbana, Puerto Rico",five_plus_years,0,15
+7241274,"La Liga comunidad, Puerto Rico",five_plus_years,0,15
+7241294,"La Luisa comunidad, Puerto Rico",five_plus_years,0,15
+7241466,"Lamboglia comunidad, Puerto Rico",five_plus_years,0,15
+7241767,"La Parguera comunidad, Puerto Rico",five_plus_years,34,53
+7241810,"La Pica comunidad, Puerto Rico",five_plus_years,0,15
+7242068,"La Playa comunidad, Puerto Rico",five_plus_years,20,32
+7242197,"La Plena comunidad, Puerto Rico",five_plus_years,0,15
+7242498,"Lares zona urbana, Puerto Rico",five_plus_years,12,19
+7242842,"Las Carolinas comunidad, Puerto Rico",five_plus_years,0,15
+7243057,"Las Croabas comunidad, Puerto Rico",five_plus_years,0,15
+7243294,"Las Gaviotas comunidad, Puerto Rico",five_plus_years,18,30
+7243702,"Las Marías comunidad, Puerto Rico",five_plus_years,0,15
+7243788,"Las Marías zona urbana, Puerto Rico",five_plus_years,0,15
+7244003,"Las Ochenta comunidad, Puerto Rico",five_plus_years,9,14
+7244089,"Las Ollas comunidad, Puerto Rico",five_plus_years,0,15
+7244390,"Las Piedras zona urbana, Puerto Rico",five_plus_years,0,22
+7244507,"Lassalle comunidad, Puerto Rico",five_plus_years,0,15
+7245170,"La Yuca comunidad, Puerto Rico",five_plus_years,0,15
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",five_plus_years,0,15
+7246282,"Lluveras comunidad, Puerto Rico",five_plus_years,0,15
+7246368,"Loíza zona urbana, Puerto Rico",five_plus_years,0,15
+7246626,"Lomas comunidad, Puerto Rico",five_plus_years,0,15
+7246800,"Lomas Verdes comunidad, Puerto Rico",five_plus_years,0,15
+7246960,"Los Héroes comunidad, Puerto Rico",five_plus_years,0,15
+7247013,"Los Llanos comunidad, Puerto Rico",five_plus_years,0,15
+7247336,"Los Panes comunidad, Puerto Rico",five_plus_years,0,15
+7247422,"Los Prados comunidad, Puerto Rico",five_plus_years,0,15
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",five_plus_years,0,15
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",five_plus_years,0,15
+7247787,"Luquillo zona urbana, Puerto Rico",five_plus_years,18,28
+7247873,"Luyando comunidad, Puerto Rico",five_plus_years,0,15
+7248604,"Magas Arriba comunidad, Puerto Rico",five_plus_years,0,15
+7248862,"Maguayo comunidad, Puerto Rico",five_plus_years,0,15
+7250152,"Manatí zona urbana, Puerto Rico",five_plus_years,11,18
+7250260,"Mansión del Mar comunidad, Puerto Rico",five_plus_years,166,104
+7250270,"Mansión del Sol comunidad, Puerto Rico",five_plus_years,0,15
+7250754,"María Antonia comunidad, Puerto Rico",five_plus_years,0,15
+7251055,"Mariano Colón comunidad, Puerto Rico",five_plus_years,0,15
+7251270,"Maricao zona urbana, Puerto Rico",five_plus_years,0,15
+7251657,"Martorell comunidad, Puerto Rico",five_plus_years,0,15
+7251700,"Marueño comunidad, Puerto Rico",five_plus_years,0,15
+7252345,"Maunabo zona urbana, Puerto Rico",five_plus_years,0,15
+7252431,"Mayagüez zona urbana, Puerto Rico",five_plus_years,165,103
+7253678,"Miranda comunidad, Puerto Rico",five_plus_years,0,15
+7253807,"Moca zona urbana, Puerto Rico",five_plus_years,0,15
+7253979,"Monserrate comunidad, Puerto Rico",five_plus_years,37,59
+7254366,"Monte Grande comunidad, Puerto Rico",five_plus_years,0,15
+7254688,"Monte Verde comunidad, Puerto Rico",five_plus_years,0,15
+7254882,"Mora comunidad, Puerto Rico",five_plus_years,0,15
+7255097,"Morovis zona urbana, Puerto Rico",five_plus_years,0,15
+7255355,"Mucarabones comunidad, Puerto Rico",five_plus_years,0,15
+7255828,"Naguabo zona urbana, Puerto Rico",five_plus_years,0,15
+7256129,"Naranjito zona urbana, Puerto Rico",five_plus_years,0,15
+7257075,"Olimpo comunidad, Puerto Rico",five_plus_years,0,15
+7257290,"Orocovis zona urbana, Puerto Rico",five_plus_years,0,15
+7257612,"Pabellones comunidad, Puerto Rico",five_plus_years,0,15
+7257806,"Pájaros comunidad, Puerto Rico",five_plus_years,68,106
+7257862,"Pajonal comunidad, Puerto Rico",five_plus_years,0,15
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",five_plus_years,0,15
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",five_plus_years,29,44
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",five_plus_years,0,15
+7258365,"Palmas comunidad, Puerto Rico",five_plus_years,0,15
+7258602,"Palmas del Mar comunidad, Puerto Rico",five_plus_years,0,15
+7258613,"Palma Sola comunidad, Puerto Rico",five_plus_years,0,15
+7258666,"Palmer comunidad, Puerto Rico",five_plus_years,0,15
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",five_plus_years,0,15
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",five_plus_years,0,15
+7259139,"Palo Seco comunidad, Puerto Rico",five_plus_years,0,15
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",five_plus_years,0,15
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",five_plus_years,0,15
+7259422,"Parcelas Mandry comunidad, Puerto Rico",five_plus_years,0,15
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",five_plus_years,0,15
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",five_plus_years,0,15
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",five_plus_years,0,15
+7260257,"Pastos comunidad, Puerto Rico",five_plus_years,0,15
+7260472,"Patillas zona urbana, Puerto Rico",five_plus_years,18,29
+7260945,"Peña Pobre comunidad, Puerto Rico",five_plus_years,40,65
+7261074,"Peñuelas zona urbana, Puerto Rico",five_plus_years,13,14
+7261545,"Piedra Aguza comunidad, Puerto Rico",five_plus_years,0,15
+7261590,"Piedra Gorda comunidad, Puerto Rico",five_plus_years,0,15
+7261977,"Piñas comunidad, Puerto Rico",five_plus_years,0,15
+7263310,"Playa Fortuna comunidad, Puerto Rico",five_plus_years,0,15
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",five_plus_years,10,16
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",five_plus_years,0,15
+7263568,"Playita Cortada comunidad, Puerto Rico",five_plus_years,0,15
+7263697,"Pole Ojea comunidad, Puerto Rico",five_plus_years,66,96
+7263820,"Ponce zona urbana, Puerto Rico",five_plus_years,213,104
+7264127,"Potala Pastillo comunidad, Puerto Rico",five_plus_years,0,15
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",five_plus_years,0,15
+7264500,"Pueblito del Río comunidad, Puerto Rico",five_plus_years,0,15
+7265589,"Puerto Real comunidad, Puerto Rico",five_plus_years,39,63
+7266492,"Punta Santiago comunidad, Puerto Rico",five_plus_years,30,47
+7266660,"Quebrada comunidad, Puerto Rico",five_plus_years,0,15
+7267200,"Quebrada del Agua comunidad, Puerto Rico",five_plus_years,0,15
+7267675,"Quebrada Prieta comunidad, Puerto Rico",five_plus_years,0,15
+7268040,"Quebradillas zona urbana, Puerto Rico",five_plus_years,0,22
+7268513,"Rafael Capó comunidad, Puerto Rico",five_plus_years,0,15
+7268556,"Rafael González comunidad, Puerto Rico",five_plus_years,0,15
+7268599,"Rafael Hernández comunidad, Puerto Rico",five_plus_years,0,15
+7268771,"Ramos comunidad, Puerto Rico",five_plus_years,0,15
+7269488,"Rincón comunidad, Puerto Rico",five_plus_years,0,15
+7269588,"Rincón zona urbana, Puerto Rico",five_plus_years,0,15
+7270448,"Río Blanco comunidad, Puerto Rico",five_plus_years,0,15
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",five_plus_years,0,15
+7271136,"Río Grande zona urbana, Puerto Rico",five_plus_years,121,144
+7271437,"Río Lajas comunidad, Puerto Rico",five_plus_years,0,15
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",five_plus_years,0,15
+7272555,"Rosa Sánchez comunidad, Puerto Rico",five_plus_years,0,15
+7273200,"Sabana comunidad, Puerto Rico",five_plus_years,0,15
+7273372,"Sabana Eneas comunidad, Puerto Rico",five_plus_years,65,101
+7273544,"Sabana Grande zona urbana, Puerto Rico",five_plus_years,77,64
+7273716,"Sabana Hoyos comunidad, Puerto Rico",five_plus_years,0,15
+7274189,"Sabana Seca comunidad, Puerto Rico",five_plus_years,120,133
+7274877,"Salinas zona urbana, Puerto Rico",five_plus_years,27,30
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",five_plus_years,0,15
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",five_plus_years,0,22
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",five_plus_years,0,15
+7276167,"San Germán zona urbana, Puerto Rico",five_plus_years,25,41
+7276339,"San Isidro comunidad, Puerto Rico",five_plus_years,31,37
+7276683,"San José comunidad, Puerto Rico",five_plus_years,29,33
+7276770,"San Juan zona urbana, Puerto Rico",five_plus_years,965,270
+7277027,"San Lorenzo zona urbana, Puerto Rico",five_plus_years,9,15
+7277500,"San Sebastián zona urbana, Puerto Rico",five_plus_years,44,53
+7277672,"Santa Bárbara comunidad, Puerto Rico",five_plus_years,40,65
+7277826,"Santa Clara comunidad, Puerto Rico",five_plus_years,0,15
+7278145,"Santa Isabel zona urbana, Puerto Rico",five_plus_years,0,22
+7278317,"Santa María comunidad, Puerto Rico",five_plus_years,0,15
+7279564,"Santo Domingo comunidad, Puerto Rico",five_plus_years,0,15
+7280596,"Stella comunidad, Puerto Rico",five_plus_years,0,15
+7280639,"Suárez comunidad, Puerto Rico",five_plus_years,0,15
+7281413,"Tallaboa comunidad, Puerto Rico",five_plus_years,0,15
+7281456,"Tallaboa Alta comunidad, Puerto Rico",five_plus_years,18,28
+7282055,"Tibes comunidad, Puerto Rico",five_plus_years,0,15
+7282125,"Tiburones comunidad, Puerto Rico",five_plus_years,0,15
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",five_plus_years,30,49
+7282488,"Toa Alta zona urbana, Puerto Rico",five_plus_years,0,15
+7282617,"Toa Baja zona urbana, Puerto Rico",five_plus_years,10,15
+7282692,"Toaville comunidad, Puerto Rico",five_plus_years,0,15
+7282875,"Tomás de Castro comunidad, Puerto Rico",five_plus_years,0,15
+7283606,"Trujillo Alto zona urbana, Puerto Rico",five_plus_years,146,73
+7284509,"Utuado zona urbana, Puerto Rico",five_plus_years,35,45
+7284917,"Valle Hill comunidad, Puerto Rico",five_plus_years,0,15
+7285025,"Vayas comunidad, Puerto Rico",five_plus_years,0,15
+7285111,"Vázquez comunidad, Puerto Rico",five_plus_years,0,15
+7285197,"Vega Alta zona urbana, Puerto Rico",five_plus_years,119,106
+7285326,"Vega Baja zona urbana, Puerto Rico",five_plus_years,42,49
+7285971,"Vieques comunidad, Puerto Rico",five_plus_years,75,70
+7286014,"Vieques zona urbana, Puerto Rico",five_plus_years,0,15
+7286250,"Villa Calma comunidad, Puerto Rico",five_plus_years,39,61
+7286509,"Villa de Sabana comunidad, Puerto Rico",five_plus_years,0,15
+7286584,"Villa Esperanza comunidad, Puerto Rico",five_plus_years,0,15
+7286788,"Villa Hugo I comunidad, Puerto Rico",five_plus_years,38,45
+7286796,"Villa Hugo II comunidad, Puerto Rico",five_plus_years,0,15
+7286831,"Villalba zona urbana, Puerto Rico",five_plus_years,19,22
+7287240,"Villa Quintero comunidad, Puerto Rico",five_plus_years,0,15
+7287272,"Villas del Sol comunidad, Puerto Rico",five_plus_years,0,15
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",five_plus_years,0,15
+7287638,"Voladoras comunidad, Puerto Rico",five_plus_years,0,15
+7287863,"Yabucoa zona urbana, Puerto Rico",five_plus_years,34,32
+7288035,"Yauco zona urbana, Puerto Rico",five_plus_years,22,25
+7288121,"Yaurel comunidad, Puerto Rico",five_plus_years,0,15
+7288293,"Yeguada comunidad, Puerto Rico",five_plus_years,0,15
+7200186,"Aceitunas comunidad, Puerto Rico",not_responsible,43,69
+7200358,"Adjuntas zona urbana, Puerto Rico",not_responsible,87,65
+7200616,"Aguada zona urbana, Puerto Rico",not_responsible,6,9
+7200745,"Aguadilla zona urbana, Puerto Rico",not_responsible,188,116
+7200874,"Aguas Buenas zona urbana, Puerto Rico",not_responsible,0,15
+7201003,"Aguas Claras comunidad, Puerto Rico",not_responsible,97,83
+7201089,"Aguilita comunidad, Puerto Rico",not_responsible,0,15
+7201218,"Aibonito zona urbana, Puerto Rico",not_responsible,127,98
+7201863,"Alianza comunidad, Puerto Rico",not_responsible,0,15
+7202680,"Añasco zona urbana, Puerto Rico",not_responsible,35,40
+7203024,"Animas comunidad, Puerto Rico",not_responsible,28,44
+7203174,"Anon Raices comunidad, Puerto Rico",not_responsible,0,15
+7203196,"Antón Ruíz comunidad, Puerto Rico",not_responsible,24,39
+7203368,"Arecibo zona urbana, Puerto Rico",not_responsible,298,160
+7203927,"Arroyo zona urbana, Puerto Rico",not_responsible,163,105
+7204620,"Bairoa La Veinticinco comunidad, Puerto Rico",not_responsible,0,15
+7204658,"Bajadero comunidad, Puerto Rico",not_responsible,47,55
+7204701,"Bajandas comunidad, Puerto Rico",not_responsible,0,15
+7205217,"Barahona comunidad, Puerto Rico",not_responsible,0,15
+7205346,"Barceloneta zona urbana, Puerto Rico",not_responsible,18,28
+7205690,"Barranquitas zona urbana, Puerto Rico",not_responsible,0,15
+7206421,"Bartolo comunidad, Puerto Rico",not_responsible,30,49
+7206593,"Bayamón zona urbana, Puerto Rico",not_responsible,1553,292
+7206679,"Bayamón comunidad, Puerto Rico",not_responsible,59,90
+7207496,"Benítez comunidad, Puerto Rico",not_responsible,0,15
+7207668,"Betances comunidad, Puerto Rico",not_responsible,18,27
+7207969,"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",not_responsible,0,15
+7208099,"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",not_responsible,0,15
+7208700,"Breñas comunidad, Puerto Rico",not_responsible,69,106
+7208722,"Brisas del Campanero comunidad, Puerto Rico",not_responsible,22,35
+7209087,"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",not_responsible,14,24
+7209250,"Buena Vista comunidad (Humacao Municipio), Puerto Rico",not_responsible,73,125
+7209603,"Búfalo comunidad, Puerto Rico",not_responsible,0,15
+7209689,"Cabán comunidad, Puerto Rico",not_responsible,19,30
+7209861,"Cabo Rojo zona urbana, Puerto Rico",not_responsible,340,258
+7210048,"Cacao comunidad, Puerto Rico",not_responsible,0,15
+7210334,"Caguas zona urbana, Puerto Rico",not_responsible,799,305
+7211151,"Calzada comunidad, Puerto Rico",not_responsible,0,15
+7211345,"Cambalache comunidad, Puerto Rico",not_responsible,10,17
+7211581,"Campanilla comunidad, Puerto Rico",not_responsible,63,52
+7211597,"Campanillas comunidad, Puerto Rico",not_responsible,0,15
+7211710,"Campo Rico comunidad, Puerto Rico",not_responsible,0,15
+7211925,"Camuy zona urbana, Puerto Rico",not_responsible,31,36
+7212441,"Candelaria comunidad, Puerto Rico",not_responsible,199,105
+7212560,"Candelaria Arenas comunidad, Puerto Rico",not_responsible,0,15
+7212568,"Candelero Abajo comunidad, Puerto Rico",not_responsible,0,15
+7212613,"Candelero Arriba comunidad, Puerto Rico",not_responsible,0,15
+7212806,"Caño Martin Peña comunidad, Puerto Rico",not_responsible,231,175
+7212828,"Canóvanas zona urbana, Puerto Rico",not_responsible,143,125
+7213065,"Canovanillas comunidad, Puerto Rico",not_responsible,0,15
+7213925,"Capitanejo comunidad, Puerto Rico",not_responsible,15,24
+7214290,"Carolina zona urbana, Puerto Rico",not_responsible,2113,365
+7214634,"Carrizales comunidad, Puerto Rico",not_responsible,30,50
+7215193,"Cataño zona urbana, Puerto Rico",not_responsible,174,102
+7215494,"Cayey zona urbana, Puerto Rico",not_responsible,151,96
+7215623,"Cayuco comunidad, Puerto Rico",not_responsible,0,15
+7215924,"Ceiba zona urbana, Puerto Rico",not_responsible,0,15
+7216139,"Ceiba comunidad, Puerto Rico",not_responsible,0,15
+7216440,"Celada comunidad, Puerto Rico",not_responsible,0,15
+7216526,"Central Aguirre comunidad, Puerto Rico",not_responsible,0,15
+7217050,"Cerrillos Hoyos comunidad, Puerto Rico",not_responsible,0,15
+7217773,"Ciales zona urbana, Puerto Rico",not_responsible,0,15
+7218074,"Cidra zona urbana, Puerto Rico",not_responsible,64,62
+7218719,"Coamo zona urbana, Puerto Rico",not_responsible,60,57
+7218891,"Coco comunidad, Puerto Rico",not_responsible,209,162
+7219665,"Comerío zona urbana, Puerto Rico",not_responsible,28,28
+7219837,"Comunas comunidad, Puerto Rico",not_responsible,0,15
+7220310,"Coquí comunidad, Puerto Rico",not_responsible,0,15
+7220353,"Corazón comunidad, Puerto Rico",not_responsible,19,32
+7220482,"Corcovado comunidad, Puerto Rico",not_responsible,0,15
+7220783,"Corozal zona urbana, Puerto Rico",not_responsible,230,172
+7220998,"Corral Viejo comunidad, Puerto Rico",not_responsible,0,15
+7221213,"Coto Laurel comunidad, Puerto Rico",not_responsible,0,15
+7221385,"Coto Norte comunidad, Puerto Rico",not_responsible,0,15
+7222589,"Culebra zona urbana, Puerto Rico",not_responsible,20,22
+7223062,"Daguao comunidad, Puerto Rico",not_responsible,0,15
+7223341,"Del Carmen comunidad, Puerto Rico",not_responsible,0,15
+7224008,"Dorado zona urbana, Puerto Rico",not_responsible,18,17
+7224395,"Duque comunidad, Puerto Rico",not_responsible,0,15
+7224954,"El Combate comunidad, Puerto Rico",not_responsible,0,15
+7225556,"El Mangó comunidad, Puerto Rico",not_responsible,0,15
+7225685,"El Negro comunidad, Puerto Rico",not_responsible,17,29
+7225771,"El Ojo comunidad, Puerto Rico",not_responsible,82,131
+7225835,"El Paraiso comunidad, Puerto Rico",not_responsible,121,116
+7226287,"El Tumbao comunidad, Puerto Rico",not_responsible,46,70
+7226362,"El Veintiséis comunidad, Puerto Rico",not_responsible,0,15
+7226502,"Emajagua comunidad, Puerto Rico",not_responsible,85,96
+7227190,"Esperanza comunidad, Puerto Rico",not_responsible,22,40
+7227263,"Espino comunidad, Puerto Rico",not_responsible,0,15
+7227964,"Fajardo zona urbana, Puerto Rico",not_responsible,351,162
+7228367,"Ferrer comunidad, Puerto Rico",not_responsible,0,15
+7228824,"Florida zona urbana, Puerto Rico",not_responsible,30,50
+7229555,"Fránquez comunidad, Puerto Rico",not_responsible,0,15
+7229682,"Frontón comunidad, Puerto Rico",not_responsible,0,15
+7229727,"Fuig comunidad, Puerto Rico",not_responsible,0,15
+7229813,"Galateo comunidad, Puerto Rico",not_responsible,62,58
+7230372,"Garrochales comunidad, Puerto Rico",not_responsible,19,31
+7230544,"G. L. García comunidad, Puerto Rico",not_responsible,0,15
+7231189,"Guánica zona urbana, Puerto Rico",not_responsible,47,55
+7231877,"Guayabal comunidad, Puerto Rico",not_responsible,22,34
+7232221,"Guayama zona urbana, Puerto Rico",not_responsible,183,109
+7232307,"Guayanilla zona urbana, Puerto Rico",not_responsible,8,13
+7232522,"Guaynabo zona urbana, Puerto Rico",not_responsible,459,189
+7232823,"Gurabo zona urbana, Puerto Rico",not_responsible,67,51
+7233184,"Hacienda San José comunidad, Puerto Rico",not_responsible,102,121
+7233296,"Hatillo zona urbana, Puerto Rico",not_responsible,173,107
+7233597,"Hato Arriba comunidad, Puerto Rico",not_responsible,0,15
+7233683,"Hato Candal comunidad, Puerto Rico",not_responsible,0,15
+7234242,"Hato Viejo comunidad, Puerto Rico",not_responsible,0,15
+7234914,"Honduras comunidad, Puerto Rico",not_responsible,15,25
+7235059,"Hormigueros zona urbana, Puerto Rico",not_responsible,151,113
+7235403,"H. Rivera Colón comunidad, Puerto Rico",not_responsible,43,50
+7235532,"Humacao zona urbana, Puerto Rico",not_responsible,167,124
+7235962,"Imbéry comunidad, Puerto Rico",not_responsible,108,110
+7236177,"Indios comunidad, Puerto Rico",not_responsible,9,15
+7236263,"Ingenio comunidad, Puerto Rico",not_responsible,119,132
+7236478,"Isabela zona urbana, Puerto Rico",not_responsible,97,104
+7236779,"Isleta comunidad, Puerto Rico",not_responsible,0,15
+7237166,"Jagual comunidad, Puerto Rico",not_responsible,15,24
+7237336,"Jaguas comunidad, Puerto Rico",not_responsible,0,15
+7238241,"Jauca comunidad, Puerto Rico",not_responsible,22,27
+7238370,"Jayuya zona urbana, Puerto Rico",not_responsible,57,71
+7238671,"Jobos comunidad, Puerto Rico",not_responsible,21,34
+7238972,"Juana Díaz zona urbana, Puerto Rico",not_responsible,73,93
+7239470,"Juncal comunidad, Puerto Rico",not_responsible,0,15
+7239574,"Juncos zona urbana, Puerto Rico",not_responsible,47,45
+7239875,"La Alianza comunidad, Puerto Rico",not_responsible,51,48
+7240348,"La Dolores comunidad, Puerto Rico",not_responsible,52,69
+7240563,"La Fermina comunidad, Puerto Rico",not_responsible,29,44
+7240950,"Lajas zona urbana, Puerto Rico",not_responsible,28,42
+7241274,"La Liga comunidad, Puerto Rico",not_responsible,58,95
+7241294,"La Luisa comunidad, Puerto Rico",not_responsible,51,80
+7241466,"Lamboglia comunidad, Puerto Rico",not_responsible,0,15
+7241767,"La Parguera comunidad, Puerto Rico",not_responsible,71,111
+7241810,"La Pica comunidad, Puerto Rico",not_responsible,0,15
+7242068,"La Playa comunidad, Puerto Rico",not_responsible,0,15
+7242197,"La Plena comunidad, Puerto Rico",not_responsible,0,15
+7242498,"Lares zona urbana, Puerto Rico",not_responsible,93,83
+7242842,"Las Carolinas comunidad, Puerto Rico",not_responsible,140,173
+7243057,"Las Croabas comunidad, Puerto Rico",not_responsible,0,15
+7243294,"Las Gaviotas comunidad, Puerto Rico",not_responsible,0,15
+7243702,"Las Marías comunidad, Puerto Rico",not_responsible,0,15
+7243788,"Las Marías zona urbana, Puerto Rico",not_responsible,0,15
+7244003,"Las Ochenta comunidad, Puerto Rico",not_responsible,36,39
+7244089,"Las Ollas comunidad, Puerto Rico",not_responsible,15,24
+7244390,"Las Piedras zona urbana, Puerto Rico",not_responsible,0,22
+7244507,"Lassalle comunidad, Puerto Rico",not_responsible,0,15
+7245170,"La Yuca comunidad, Puerto Rico",not_responsible,0,15
+7245379,"Liborio Negrón Torres comunidad, Puerto Rico",not_responsible,28,43
+7246282,"Lluveras comunidad, Puerto Rico",not_responsible,0,15
+7246368,"Loíza zona urbana, Puerto Rico",not_responsible,0,15
+7246626,"Lomas comunidad, Puerto Rico",not_responsible,23,39
+7246800,"Lomas Verdes comunidad, Puerto Rico",not_responsible,0,15
+7246960,"Los Héroes comunidad, Puerto Rico",not_responsible,0,15
+7247013,"Los Llanos comunidad, Puerto Rico",not_responsible,0,15
+7247336,"Los Panes comunidad, Puerto Rico",not_responsible,42,68
+7247422,"Los Prados comunidad, Puerto Rico",not_responsible,22,36
+7247615,"Luis Lloréns Torres comunidad, Puerto Rico",not_responsible,131,119
+7247701,"Luis M. Cintrón comunidad, Puerto Rico",not_responsible,0,15
+7247787,"Luquillo zona urbana, Puerto Rico",not_responsible,105,70
+7247873,"Luyando comunidad, Puerto Rico",not_responsible,23,36
+7248604,"Magas Arriba comunidad, Puerto Rico",not_responsible,0,15
+7248862,"Maguayo comunidad, Puerto Rico",not_responsible,0,15
+7250152,"Manatí zona urbana, Puerto Rico",not_responsible,59,53
+7250260,"Mansión del Mar comunidad, Puerto Rico",not_responsible,242,104
+7250270,"Mansión del Sol comunidad, Puerto Rico",not_responsible,0,15
+7250754,"María Antonia comunidad, Puerto Rico",not_responsible,12,21
+7251055,"Mariano Colón comunidad, Puerto Rico",not_responsible,43,49
+7251270,"Maricao zona urbana, Puerto Rico",not_responsible,31,36
+7251657,"Martorell comunidad, Puerto Rico",not_responsible,0,15
+7251700,"Marueño comunidad, Puerto Rico",not_responsible,52,58
+7252345,"Maunabo zona urbana, Puerto Rico",not_responsible,0,15
+7252431,"Mayagüez zona urbana, Puerto Rico",not_responsible,398,188
+7253678,"Miranda comunidad, Puerto Rico",not_responsible,0,15
+7253807,"Moca zona urbana, Puerto Rico",not_responsible,0,15
+7253979,"Monserrate comunidad, Puerto Rico",not_responsible,0,15
+7254366,"Monte Grande comunidad, Puerto Rico",not_responsible,108,155
+7254688,"Monte Verde comunidad, Puerto Rico",not_responsible,0,15
+7254882,"Mora comunidad, Puerto Rico",not_responsible,30,48
+7255097,"Morovis zona urbana, Puerto Rico",not_responsible,0,15
+7255355,"Mucarabones comunidad, Puerto Rico",not_responsible,0,15
+7255828,"Naguabo zona urbana, Puerto Rico",not_responsible,0,15
+7256129,"Naranjito zona urbana, Puerto Rico",not_responsible,99,77
+7257075,"Olimpo comunidad, Puerto Rico",not_responsible,19,22
+7257290,"Orocovis zona urbana, Puerto Rico",not_responsible,0,15
+7257612,"Pabellones comunidad, Puerto Rico",not_responsible,0,15
+7257806,"Pájaros comunidad, Puerto Rico",not_responsible,122,142
+7257862,"Pajonal comunidad, Puerto Rico",not_responsible,0,15
+7257978,"Palmarejo comunidad (Coamo Municipio), Puerto Rico",not_responsible,0,15
+7258064,"Palmarejo comunidad (Corozal Municipio), Puerto Rico",not_responsible,0,15
+7258150,"Palmarejo comunidad (Lajas Municipio), Puerto Rico",not_responsible,0,15
+7258365,"Palmas comunidad, Puerto Rico",not_responsible,0,15
+7258602,"Palmas del Mar comunidad, Puerto Rico",not_responsible,53,87
+7258613,"Palma Sola comunidad, Puerto Rico",not_responsible,0,15
+7258666,"Palmer comunidad, Puerto Rico",not_responsible,47,73
+7258967,"Palomas comunidad (Comerío Municipio), Puerto Rico",not_responsible,27,47
+7259053,"Palomas comunidad (Yauco Municipio), Puerto Rico",not_responsible,0,15
+7259139,"Palo Seco comunidad, Puerto Rico",not_responsible,15,24
+7259386,"Parcelas de Navarro comunidad, Puerto Rico",not_responsible,64,107
+7259420,"Parcelas La Milagrosa comunidad, Puerto Rico",not_responsible,19,32
+7259422,"Parcelas Mandry comunidad, Puerto Rico",not_responsible,0,15
+7259425,"Parcelas Nuevas comunidad, Puerto Rico",not_responsible,0,15
+7259440,"Parcelas Peñuelas comunidad, Puerto Rico",not_responsible,0,15
+7259450,"Parcelas Viejas Borinquen comunidad, Puerto Rico",not_responsible,0,15
+7260257,"Pastos comunidad, Puerto Rico",not_responsible,0,15
+7260472,"Patillas zona urbana, Puerto Rico",not_responsible,24,38
+7260945,"Peña Pobre comunidad, Puerto Rico",not_responsible,56,69
+7261074,"Peñuelas zona urbana, Puerto Rico",not_responsible,47,59
+7261545,"Piedra Aguza comunidad, Puerto Rico",not_responsible,109,102
+7261590,"Piedra Gorda comunidad, Puerto Rico",not_responsible,17,26
+7261977,"Piñas comunidad, Puerto Rico",not_responsible,30,47
+7263310,"Playa Fortuna comunidad, Puerto Rico",not_responsible,56,84
+7263503,"Playita comunidad (Salinas Municipio), Puerto Rico",not_responsible,0,15
+7263525,"Playita comunidad (Yabucoa Municipio), Puerto Rico",not_responsible,67,80
+7263568,"Playita Cortada comunidad, Puerto Rico",not_responsible,0,15
+7263697,"Pole Ojea comunidad, Puerto Rico",not_responsible,31,50
+7263820,"Ponce zona urbana, Puerto Rico",not_responsible,1529,316
+7264127,"Potala Pastillo comunidad, Puerto Rico",not_responsible,64,77
+7264400,"Pueblito del Carmen comunidad, Puerto Rico",not_responsible,0,15
+7264500,"Pueblito del Río comunidad, Puerto Rico",not_responsible,61,90
+7265589,"Puerto Real comunidad, Puerto Rico",not_responsible,33,37
+7266492,"Punta Santiago comunidad, Puerto Rico",not_responsible,16,27
+7266660,"Quebrada comunidad, Puerto Rico",not_responsible,0,15
+7267200,"Quebrada del Agua comunidad, Puerto Rico",not_responsible,23,37
+7267675,"Quebrada Prieta comunidad, Puerto Rico",not_responsible,22,36
+7268040,"Quebradillas zona urbana, Puerto Rico",not_responsible,0,22
+7268513,"Rafael Capó comunidad, Puerto Rico",not_responsible,0,15
+7268556,"Rafael González comunidad, Puerto Rico",not_responsible,67,108
+7268599,"Rafael Hernández comunidad, Puerto Rico",not_responsible,27,32
+7268771,"Ramos comunidad, Puerto Rico",not_responsible,0,15
+7269488,"Rincón comunidad, Puerto Rico",not_responsible,0,15
+7269588,"Rincón zona urbana, Puerto Rico",not_responsible,0,15
+7270448,"Río Blanco comunidad, Puerto Rico",not_responsible,40,61
+7270706,"Río Cañas Abajo comunidad, Puerto Rico",not_responsible,0,15
+7271136,"Río Grande zona urbana, Puerto Rico",not_responsible,82,62
+7271437,"Río Lajas comunidad, Puerto Rico",not_responsible,37,59
+7271996,"Rodríguez Hevia comunidad, Puerto Rico",not_responsible,0,15
+7272555,"Rosa Sánchez comunidad, Puerto Rico",not_responsible,0,15
+7273200,"Sabana comunidad, Puerto Rico",not_responsible,36,58
+7273372,"Sabana Eneas comunidad, Puerto Rico",not_responsible,17,27
+7273544,"Sabana Grande zona urbana, Puerto Rico",not_responsible,154,109
+7273716,"Sabana Hoyos comunidad, Puerto Rico",not_responsible,15,24
+7274189,"Sabana Seca comunidad, Puerto Rico",not_responsible,117,89
+7274877,"Salinas zona urbana, Puerto Rico",not_responsible,40,51
+7275608,"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",not_responsible,0,15
+7275694,"San Antonio comunidad (Dorado Municipio), Puerto Rico",not_responsible,0,22
+7275780,"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",not_responsible,81,95
+7276167,"San Germán zona urbana, Puerto Rico",not_responsible,123,115
+7276339,"San Isidro comunidad, Puerto Rico",not_responsible,203,158
+7276683,"San José comunidad, Puerto Rico",not_responsible,36,35
+7276770,"San Juan zona urbana, Puerto Rico",not_responsible,2676,455
+7277027,"San Lorenzo zona urbana, Puerto Rico",not_responsible,127,94
+7277500,"San Sebastián zona urbana, Puerto Rico",not_responsible,24,39
+7277672,"Santa Bárbara comunidad, Puerto Rico",not_responsible,0,15
+7277826,"Santa Clara comunidad, Puerto Rico",not_responsible,0,15
+7278145,"Santa Isabel zona urbana, Puerto Rico",not_responsible,21,23
+7278317,"Santa María comunidad, Puerto Rico",not_responsible,0,15
+7279564,"Santo Domingo comunidad, Puerto Rico",not_responsible,90,138
+7280596,"Stella comunidad, Puerto Rico",not_responsible,0,15
+7280639,"Suárez comunidad, Puerto Rico",not_responsible,81,91
+7281413,"Tallaboa comunidad, Puerto Rico",not_responsible,62,64
+7281456,"Tallaboa Alta comunidad, Puerto Rico",not_responsible,52,69
+7282055,"Tibes comunidad, Puerto Rico",not_responsible,0,15
+7282125,"Tiburones comunidad, Puerto Rico",not_responsible,0,15
+7282187,"Tierras Nuevas Poniente comunidad, Puerto Rico",not_responsible,0,15
+7282488,"Toa Alta zona urbana, Puerto Rico",not_responsible,98,74
+7282617,"Toa Baja zona urbana, Puerto Rico",not_responsible,9,14
+7282692,"Toaville comunidad, Puerto Rico",not_responsible,0,15
+7282875,"Tomás de Castro comunidad, Puerto Rico",not_responsible,0,15
+7283606,"Trujillo Alto zona urbana, Puerto Rico",not_responsible,338,151
+7284509,"Utuado zona urbana, Puerto Rico",not_responsible,70,67
+7284917,"Valle Hill comunidad, Puerto Rico",not_responsible,0,15
+7285025,"Vayas comunidad, Puerto Rico",not_responsible,0,15
+7285111,"Vázquez comunidad, Puerto Rico",not_responsible,0,15
+7285197,"Vega Alta zona urbana, Puerto Rico",not_responsible,146,130
+7285326,"Vega Baja zona urbana, Puerto Rico",not_responsible,330,199
+7285971,"Vieques comunidad, Puerto Rico",not_responsible,31,47
+7286014,"Vieques zona urbana, Puerto Rico",not_responsible,0,15
+7286250,"Villa Calma comunidad, Puerto Rico",not_responsible,0,15
+7286509,"Villa de Sabana comunidad, Puerto Rico",not_responsible,19,30
+7286584,"Villa Esperanza comunidad, Puerto Rico",not_responsible,0,15
+7286788,"Villa Hugo I comunidad, Puerto Rico",not_responsible,9,14
+7286796,"Villa Hugo II comunidad, Puerto Rico",not_responsible,0,15
+7286831,"Villalba zona urbana, Puerto Rico",not_responsible,69,61
+7287240,"Villa Quintero comunidad, Puerto Rico",not_responsible,0,15
+7287272,"Villas del Sol comunidad, Puerto Rico",not_responsible,0,15
+7287282,"Villa Sin Miedo comunidad, Puerto Rico",not_responsible,0,15
+7287638,"Voladoras comunidad, Puerto Rico",not_responsible,0,15
+7287863,"Yabucoa zona urbana, Puerto Rico",not_responsible,91,71
+7288035,"Yauco zona urbana, Puerto Rico",not_responsible,204,119
+7288121,"Yaurel comunidad, Puerto Rico",not_responsible,21,33
+7288293,"Yeguada comunidad, Puerto Rico",not_responsible,0,15

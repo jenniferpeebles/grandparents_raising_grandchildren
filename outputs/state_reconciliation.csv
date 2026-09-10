@@ -1,0 +1,53 @@
+geoid,name,duration_sum,duration_difference,duration_reconciliation_status,coresident_components_sum,coresident_difference,coresident_reconciliation_status
+01,Alabama,52977,0,Pass,110944,0,Pass
+02,Alaska,6195,0,Pass,16346,0,Pass
+04,Arizona,47546,0,Pass,158674,0,Pass
+05,Arkansas,31874,0,Pass,67877,0,Pass
+06,California,209799,0,Pass,1067698,0,Pass
+08,Colorado,31034,0,Pass,94178,0,Pass
+09,Connecticut,15662,0,Pass,58947,0,Pass
+10,Delaware,8033,0,Pass,22879,0,Pass
+11,District of Columbia,2984,0,Pass,9019,0,Pass
+12,Florida,132601,0,Pass,477487,0,Pass
+13,Georgia,89880,0,Pass,255408,0,Pass
+15,Hawaii,10432,0,Pass,52307,0,Pass
+16,Idaho,10858,0,Pass,32585,0,Pass
+17,Illinois,65182,0,Pass,228305,0,Pass
+18,Indiana,48111,0,Pass,116598,0,Pass
+19,Iowa,12823,0,Pass,33437,0,Pass
+20,Kansas,17439,0,Pass,43237,0,Pass
+21,Kentucky,48988,0,Pass,96378,0,Pass
+22,Louisiana,50347,0,Pass,103163,0,Pass
+23,Maine,5742,0,Pass,17039,0,Pass
+24,Maryland,37200,0,Pass,137693,0,Pass
+25,Massachusetts,27413,0,Pass,119994,0,Pass
+26,Michigan,50342,0,Pass,157211,0,Pass
+27,Minnesota,18407,0,Pass,63160,0,Pass
+28,Mississippi,36688,0,Pass,74790,0,Pass
+29,Missouri,42245,0,Pass,101709,0,Pass
+30,Montana,7359,0,Pass,15554,0,Pass
+31,Nebraska,7846,0,Pass,24053,0,Pass
+32,Nevada,20958,0,Pass,77522,0,Pass
+33,New Hampshire,5647,0,Pass,21457,0,Pass
+34,New Jersey,40539,0,Pass,183472,0,Pass
+35,New Mexico,20650,0,Pass,48573,0,Pass
+36,New York,97966,0,Pass,391560,0,Pass
+37,North Carolina,77588,0,Pass,200657,0,Pass
+38,North Dakota,3769,0,Pass,6973,0,Pass
+39,Ohio,78003,0,Pass,191520,0,Pass
+40,Oklahoma,37439,0,Pass,80884,0,Pass
+41,Oregon,18763,0,Pass,68461,0,Pass
+42,Pennsylvania,72511,0,Pass,217707,0,Pass
+44,Rhode Island,5226,0,Pass,19967,0,Pass
+45,South Carolina,47484,0,Pass,112391,0,Pass
+46,South Dakota,5865,0,Pass,12604,0,Pass
+47,Tennessee,68870,0,Pass,151952,0,Pass
+48,Texas,235377,0,Pass,722585,0,Pass
+49,Utah,14948,0,Pass,63739,0,Pass
+50,Vermont,2530,0,Pass,7109,0,Pass
+51,Virginia,56987,0,Pass,168148,0,Pass
+53,Washington,38725,0,Pass,139816,0,Pass
+54,West Virginia,18349,0,Pass,37894,0,Pass
+55,Wisconsin,21035,0,Pass,61575,0,Pass
+56,Wyoming,3627,0,Pass,7630,0,Pass
+72,Puerto Rico,22013,0,Pass,62363,0,Pass

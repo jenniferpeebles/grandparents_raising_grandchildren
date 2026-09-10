@@ -1,0 +1,9 @@
+geoid,name,variable,estimate,moe
+72,Puerto Rico,coresident_grandparents_total,62363,2361
+72,Puerto Rico,responsible_total,22013,1475
+72,Puerto Rico,less_than_six_months,1979,415
+72,Puerto Rico,six_to_eleven_months,1153,389
+72,Puerto Rico,one_or_two_years,3793,640
+72,Puerto Rico,three_or_four_years,2881,469
+72,Puerto Rico,five_plus_years,12207,1159
+72,Puerto Rico,not_responsible,40350,1918
